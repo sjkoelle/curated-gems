@@ -368,4 +368,60 @@
     "summary_zh": "作者探讨了从事个人项目的重要性，将其与普通工作和学校作业进行对比。个人项目可以培养兴奋感、投入感和目标感。作者提倡优先考虑这些项目，认识到它们对未来成功和成就的预测价值，甚至高于学业成就。",
     "best_quote_en": "Working on a project of your own is as different from ordinary work as skating is from walking. It's more fun, but also much more productive.",
     "best_quote_zh": "从事你自己的项目与普通工作截然不同，就像滑冰与走路不同一样。它更有趣，但也更有效率。"
+  },{
+    "id": 21,
+    "title": "Citybound: City building game, microscopic models to vividly simulate organism",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://aeplay.org/citybound\">https://aeplay.org/citybound</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44906662\">https://news.ycombinator.com/item?id=44906662</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://aeplay.org/citybound",
+    "tags": [
+      "city-building",
+      "simulation",
+      "micro-economy",
+      "traffic simulation",
+      "open-source"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "Citybound is a city-building game simulating urban organisms through individual interactions. It features micro-economy and traffic simulations, where each household and vehicle is independently modeled. The game emphasizes detailed planning tools for infrastructure and zoning, supporting collaborative multiplayer. The open-source project aims for realistic city simulation with community funding.",
+    "summary_zh": "Citybound 是一款城市建造游戏，通过模拟个体互动来生动地模拟城市有机体。它具有微观经济和交通模拟功能，其中每个家庭和车辆都是独立建模的。该游戏强调用于基础设施和区域规划的详细规划工具，支持协作多人游戏。这个开源项目旨在通过社区资助实现逼真的城市模拟。",
+    "best_quote_en": "In Citybound, every single trip of every person is simulated microscopically.",
+    "best_quote_zh": "在 Citybound 中，每个人的每一次出行都在微观层面进行模拟。"
+  },
+  {
+    "id": 22,
+    "title": "Create custom Apple-like gradients using shaders",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://melonmars.github.io/GradientGen/\">https://melonmars.github.io/GradientGen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44906634\">https://news.ycombinator.com/item?id=44906634</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://melonmars.github.io/GradientGen/",
+    "tags": [
+      "shaders",
+      "gradients",
+      "animation",
+      "effects",
+      "blending"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "This article is about creating custom Apple-like gradients using shaders. It allows users to adjust animation speed, flow, noise intensity, and blending options like Smooth Mix, Additive, Screen, and Overlay. It also includes options to add blobs and example gradients such as Aurora, Nebula, Sunset, and Ocean.",
+    "summary_zh": "本文介绍了如何使用着色器创建自定义的类似Apple的渐变效果。它允许用户调整动画速度、流动、噪声强度以及混合选项，如平滑混合、叠加、滤色和叠加。此外，还包括添加斑点的选项以及Aurora、Nebula、Sunset和Ocean等示例渐变。",
+    "best_quote_en": "It does not contains directly quotable sentences or clear insights, so leave it empty.",
+    "best_quote_zh": "文章不包含可以直接引用的句子或清晰的洞察力，所以留空。"
+  },
+  {
+    "id": 23,
+    "title": "AI Assisted Editors: A Comparison (Part 1)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://adrianhall.github.io/posts/2025/2025-08-01-ai-editors.html\">https://adrianhall.github.io/posts/2025/2025-08-01-ai-editors.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44906616\">https://news.ycombinator.com/item?id=44906616</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://adrianhall.github.io/posts/2025/2025-08-01-ai-editors.html",
+    "tags": [
+      "ai",
+      "code editors",
+      "github copilot",
+      "cursor",
+      "aws kiro"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "This article compares AI-assisted code editors, focusing on paid versions like GitHub Copilot, Cursor, and AWS Kiro. It discusses features, pros, and cons, particularly around model selection, enterprise capabilities, and prompting complexity. The author highlights the practical usage of these tools in a project and outlines the strengths and weaknesses of GitHub Copilot.",
+    "summary_zh": "本文比较了AI辅助代码编辑器，重点介绍了GitHub Copilot、Cursor和AWS Kiro等付费版本。讨论了它们的功能、优缺点，特别是围绕模型选择、企业功能和提示复杂性。作者强调了在项目中实际使用这些工具的情况，并概述了GitHub Copilot的优缺点。",
+    "best_quote_en": "You can’t go a lap about development these days without bumping into AI assisted editors.",
+    "best_quote_zh": "如今，在开发领域，你几乎无法绕过AI辅助编辑器。"
   }]
