@@ -424,4 +424,60 @@
     "summary_zh": "本文比较了AI辅助代码编辑器，重点介绍了GitHub Copilot、Cursor和AWS Kiro等付费版本。讨论了它们的功能、优缺点，特别是围绕模型选择、企业功能和提示复杂性。作者强调了在项目中实际使用这些工具的情况，并概述了GitHub Copilot的优缺点。",
     "best_quote_en": "You can’t go a lap about development these days without bumping into AI assisted editors.",
     "best_quote_zh": "如今，在开发领域，你几乎无法绕过AI辅助编辑器。"
+  },{
+    "id": 24,
+    "title": "The fixed length bottleneck and the feed forward network",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.gilesthomas.com/2025/08/the-fixed-length-bottleneck-and-the-feed-forward-network\">https://www.gilesthomas.com/2025/08/the-fixed-length-bottleneck-and-the-feed-forward-network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44906613\">https://news.ycombinator.com/item?id=44906613</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.gilesthomas.com/2025/08/the-fixed-length-bottleneck-and-the-feed-forward-network",
+    "tags": [
+      "llm",
+      "feed-forward network",
+      "attention mechanism",
+      "machine translation",
+      "fixed-length bottleneck"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "The author reflects on a potential bottleneck in LLMs related to the fixed-length context vector processed by the feed-forward network. The author compares it to the fixed-length bottleneck in early machine translation systems and seeks understanding of how the attention mechanism and FFNs interplay to address this limitation.",
+    "summary_zh": "作者反思了LLM中可能存在的瓶颈，该瓶颈与前馈网络处理的固定长度上下文向量有关。作者将其与早期机器翻译系统中的固定长度瓶颈进行了比较，并寻求理解注意力机制和FFN如何相互作用以解决此限制。",
+    "best_quote_en": "Here's the issue: in my mental model of the LLM, the attention mechanism is working out what to think about, but the FFN is what's doing the thinking (for hand-wavy values of 'thinking').",
+    "best_quote_zh": "问题在于：在我的LLM心智模型中，注意力机制负责确定思考的内容，而FFN则负责进行思考（对于'思考'这个概念的粗略理解）。"
+  },
+  {
+    "id": 25,
+    "title": "I wanted to take more pictures, so I vibecoded a portfolio",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.etra0.cl/posts/2025-08-14-portfolio/\">https://blog.etra0.cl/posts/2025-08-14-portfolio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44906600\">https://news.ycombinator.com/item?id=44906600</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.etra0.cl/posts/2025-08-14-portfolio/",
+    "tags": [
+      "photography",
+      "portfolio",
+      "hugo",
+      "chatgpt",
+      "github pages"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "The author, interested in photography, built a personal portfolio site using Hugo and ChatGPT. They aimed for a minimal, static website hosted on Github pages with images on Backblaze. The initial workflow with ChatGPT's website was tedious, but Github Codespaces with integrated AI tools greatly improved the process. Despite the AI's help, the collaboration was exhausting due to the author's non-native English and keeping track of changes.",
+    "summary_zh": "作者出于对摄影的兴趣，使用 Hugo 和 ChatGPT 创建了一个个人作品集网站。目标是建立一个极简的静态网站，托管在 Github Pages 上，图片存储在 Backblaze 上。最初使用 ChatGPT 网站的工作流程很繁琐，但集成了 AI 工具的 Github Codespaces 极大地改进了这一过程。尽管有 AI 的帮助，但由于作者的英语非母语以及需要跟踪所有的改动，合作过程仍然令人疲惫。",
+    "best_quote_en": "It felt very messy, sometimes it suggested big changes, it was difficult to keep track of all the changes, and at some point it just become a process of… just accepting the suggestions and see what happens.",
+    "best_quote_zh": "整个过程感觉非常混乱，有时它会提出很大的修改建议，很难跟踪所有的更改，在某个时刻，这个过程变成了……只是接受建议，然后看看会发生什么。"
+  },
+  {
+    "id": 26,
+    "title": "Microsoft game workers call out company over Israeli military ties",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.gamefile.news/p/arkane-lyon-microsoft-xbox-israel-palestine\">https://www.gamefile.news/p/arkane-lyon-microsoft-xbox-israel-palestine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44906573\">https://news.ycombinator.com/item?id=44906573</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.gamefile.news/p/arkane-lyon-microsoft-xbox-israel-palestine",
+    "tags": [
+      "microsoft",
+      "israel",
+      "palestine",
+      "arkane lyon",
+      "ethics"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "Microsoft game workers at Arkane Lyon have called on the company to terminate contracts with Israeli Occupation Forces, citing concerns over the use of Microsoft tech in alleged attacks on Palestinians. This follows similar protests and reports, highlighting the ethical responsibilities of tech companies in conflict zones.",
+    "summary_zh": "微软旗下Arkane Lyon游戏工作室的员工呼吁公司终止与以色列占领军的合同，理由是担心微软技术被用于对巴勒斯坦人的袭击。此前也有类似的抗议和报道，突显了科技公司在冲突地区的道德责任。",
+    "best_quote_en": "\"We think it’s our responsibility, as tech workers, to raise the alarm, and to ensure that our technologies are used to make the voices of the oppressed heard, and not facilitate their demise.\"",
+    "best_quote_zh": "“我们认为，作为技术工作者，有责任发出警报，并确保我们的技术被用来让受压迫者的声音被听到，而不是助长他们的灭亡。”"
   }]
