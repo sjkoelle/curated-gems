@@ -480,4 +480,79 @@
     "summary_zh": "微软旗下Arkane Lyon游戏工作室的员工呼吁公司终止与以色列占领军的合同，理由是担心微软技术被用于对巴勒斯坦人的袭击。此前也有类似的抗议和报道，突显了科技公司在冲突地区的道德责任。",
     "best_quote_en": "\"We think it’s our responsibility, as tech workers, to raise the alarm, and to ensure that our technologies are used to make the voices of the oppressed heard, and not facilitate their demise.\"",
     "best_quote_zh": "“我们认为，作为技术工作者，有责任发出警报，并确保我们的技术被用来让受压迫者的声音被听到，而不是助长他们的灭亡。”"
+  },{
+    "id": 27,
+    "title": "Ask HN: Is Supabase's Supavisor slow for anyone else?",
+    "source": "Hackernews",
+    "desc": "<p>Since June of this year, we've noticed a spike in latency for DB queries routed through Supabase's Supavisor.<p>Direct DB queries will take a tens of milliseconds while queries through Supavisor will take a minimum of 200ms and up to 5s.<p>This is phenomena independent of the underlying query even `SELECT 1` through Supavisor can take up to 5s.<p>Has anyone else experience this before? Is this a known failure mode of Supabase's Supavisor?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44918343\">https://news.ycombinator.com/item?id=44918343</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=44918343",
+    "tags": [
+      "supabase",
+      "supavisor",
+      "latency",
+      "database",
+      "performance"
+    ],
+    "date": "2025-08-15",
+    "summary_en": "The user 'devstein' on Hacker News reports a significant increase in database query latency when using Supabase's Supavisor since June. Direct DB queries are fast, but those routed through Supavisor experience latencies from 200ms to 5s, even for simple queries. The user is asking if others have encountered this issue and if it's a known problem.",
+    "summary_zh": "Hacker News上的用户'devstein'报告称，自六月以来，在使用Supabase的Supavisor时，数据库查询延迟显著增加。直接数据库查询速度很快，但通过Supavisor路由的查询（即使是简单的查询）的延迟也会从200毫秒到5秒不等。该用户正在询问其他人是否遇到过这个问题，以及这是否是Supavisor的一个已知问题。",
+    "best_quote_en": "Direct DB queries will take a tens of milliseconds while queries through Supavisor will take a minimum of 200ms and up to 5s.",
+    "best_quote_zh": "直接数据库查询只需几十毫秒，而通过Supavisor路由的查询则需要至少200毫秒到5秒。"
+  },
+  {
+    "id": 28,
+    "title": "Why Game Devs Don't Merge Files",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.kuril.in/blog/why-game-devs-dont-merge-files/\">https://www.kuril.in/blog/why-game-devs-dont-merge-files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44918334\">https://news.ycombinator.com/item?id=44918334</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.kuril.in/blog/why-game-devs-dont-merge-files/",
+    "tags": [
+      "game development",
+      "binary files",
+      "version control",
+      "asset management",
+      "workflows"
+    ],
+    "date": "2025-08-15",
+    "summary_en": "Game development heavily relies on binary files for multimedia assets, unlike text-based business software. Merging binary files is difficult, impacting workflows and version control. Game studios use asset locking and custom CI/CD pipelines. Programmers support artists, who are the majority in game development teams. Programmer accepts the needs of the majority of the project and take the back seat, rather than having everything revolve around programming workflows.",
+    "summary_zh": "游戏开发与商业软件不同，它严重依赖二进制文件进行多媒体资源的处理。合并二进制文件非常困难，这影响了工作流程和版本控制。游戏工作室使用资源锁定和定制的CI/CD流程。程序员主要为美术师提供支持，而美术师是游戏开发团队中的多数。程序员接受项目多数的需求，并退居幕后，而不是让一切都围绕编程工作流程展开。",
+    "best_quote_en": "Unlike Text World, this is one of those cases where it makes sense for programmers to accept the needs of the majority of the project and take the back seat, rather than having everything revolve around programming workflows.",
+    "best_quote_zh": "与文本世界不同，在游戏开发中，程序员接受项目多数的需求，并退居幕后，而不是让一切都围绕编程工作流程展开，这是一种更合理的做法。"
+  },
+  {
+    "id": 29,
+    "title": "Three AI Futures",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://cacm.acm.org/opinion/three-ai-futures/\">https://cacm.acm.org/opinion/three-ai-futures/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44918319\">https://news.ycombinator.com/item?id=44918319</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://cacm.acm.org/opinion/three-ai-futures/",
+    "tags": [
+      "artificial intelligence",
+      "ai future",
+      "singularity",
+      "automation",
+      "agi"
+    ],
+    "date": "2025-08-15",
+    "summary_en": "The article discusses three potential AI futures: The Merger (human-machine integration), The Utopia (AI-driven abundance), and Agentic AI. It critiques Kurzweil's singularity concept and Sohn's AI-run government, suggesting Agentic automation is a more plausible and disturbing threat. It also raises concerns about the feasibility of achieving AGI and the potential for machine subjugation.",
+    "summary_zh": "文章探讨了三种潜在的人工智能未来：融合（人机融合）、乌托邦（人工智能驱动的富足）和 Agentic AI。它批判了库兹韦尔的奇点概念和 Sohn 的人工智能政府，认为 Agentic 自动化是一个更合理和令人不安的威胁。文章还提出了对实现通用人工智能（AGI）可行性的担忧，及机器统治人类的可能性。",
+    "best_quote_en": "While the Merger and the Utopia are unlikely, an Agentic automation singularity is a disturbing threat.",
+    "best_quote_zh": "虽然人机融合和乌托邦不太可能实现，但 Agentic 自动化奇点是一个令人不安的威胁。"
+  },
+  {
+    "id": 30,
+    "title": "Upcoming DeepSeek AI model failed to train using Huawei's chips",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2025/08/deepseek-delays-next-ai-model-due-to-poor-performance-of-chinese-made-chips/\">https://arstechnica.com/ai/2025/08/deepseek-delays-next-ai-model-due-to-poor-performance-of-chinese-made-chips/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44918317\">https://news.ycombinator.com/item?id=44918317</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arstechnica.com/ai/2025/08/deepseek-delays-next-ai-model-due-to-poor-performance-of-chinese-made-chips/",
+    "tags": [
+      "deepseek",
+      "huawei",
+      "nvidia",
+      "ai chips",
+      "china tech"
+    ],
+    "date": "2025-08-15",
+    "summary_en": "DeepSeek delayed its new model release after failing to train it using Huawei's chips, showcasing the limitations of China's tech self-sufficiency efforts. Technical issues with Huawei's Ascend processors led DeepSeek to revert to Nvidia for training, highlighting the gap between Chinese and US chips.",
+    "summary_zh": "DeepSeek在使用华为芯片训练新模型失败后，推迟了发布。这突显了中国在技术自给自足方面面临的挑战。由于华为昇腾处理器存在技术问题，DeepSeek转而使用英伟达芯片进行训练，这突显了中国芯片与美国芯片之间的差距。",
+    "best_quote_en": "DeepSeek’s difficulties show how Chinese chips still lag behind their US rivals for critical tasks, highlighting the challenges facing China’s drive to be technologically self-sufficient.",
+    "best_quote_zh": "DeepSeek遇到的困难表明，中国芯片在关键任务方面仍然落后于美国竞争对手，突显了中国在实现技术自给自足方面面临的挑战。"
   }]
