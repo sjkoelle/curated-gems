@@ -555,4 +555,22 @@
     "summary_zh": "DeepSeek在使用华为芯片训练新模型失败后，推迟了发布。这突显了中国在技术自给自足方面面临的挑战。由于华为昇腾处理器存在技术问题，DeepSeek转而使用英伟达芯片进行训练，这突显了中国芯片与美国芯片之间的差距。",
     "best_quote_en": "DeepSeek’s difficulties show how Chinese chips still lag behind their US rivals for critical tasks, highlighting the challenges facing China’s drive to be technologically self-sufficient.",
     "best_quote_zh": "DeepSeek遇到的困难表明，中国芯片在关键任务方面仍然落后于美国竞争对手，突显了中国在实现技术自给自足方面面临的挑战。"
+  },{
+    "id": 31,
+    "title": "Our Workflow with Blender and Godot",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://studio.blender.org/blog/our-workflow-with-blender-and-godot/\">https://studio.blender.org/blog/our-workflow-with-blender-and-godot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44918295\">https://news.ycombinator.com/item?id=44918295</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://studio.blender.org/blog/our-workflow-with-blender-and-godot/",
+    "tags": [
+      "blender",
+      "godot",
+      "gltf",
+      "pipeline",
+      "asset creation"
+    ],
+    "date": "2025-08-15",
+    "summary_en": "The Blender Studio team developed a pipeline between Blender and Godot for the DOGWALK project, aiming to leverage Blender for asset creation, scene assembly, and animation. They chose glTF as the exchange format due to its native support and extensibility. Custom code and Blender's export collection feature were used to automate the export process and ensure proper asset separation, enabling efficient collaboration and iteration.",
+    "summary_zh": "Blender Studio团队为DOGWALK项目开发了Blender和Godot之间的工作流程，旨在利用Blender进行资源创建、场景组装和动画制作。他们选择glTF作为交换格式，因为它具有原生支持和可扩展性。自定义代码和Blender的导出集合功能用于自动化导出过程并确保适当的资源分离，从而实现高效的协作和迭代。",
+    "best_quote_en": "This kind of DCC centric workflow is not necessarily common in game development. But for us it was the right approach and enabled us play to our strengths.",
+    "best_quote_zh": "这种以DCC为中心的工作流程在游戏开发中并不常见。但对我们来说，这是正确的方法，使我们能够发挥我们的优势。"
   }]
