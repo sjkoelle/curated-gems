@@ -573,4 +573,60 @@
     "summary_zh": "Blender Studio团队为DOGWALK项目开发了Blender和Godot之间的工作流程，旨在利用Blender进行资源创建、场景组装和动画制作。他们选择glTF作为交换格式，因为它具有原生支持和可扩展性。自定义代码和Blender的导出集合功能用于自动化导出过程并确保适当的资源分离，从而实现高效的协作和迭代。",
     "best_quote_en": "This kind of DCC centric workflow is not necessarily common in game development. But for us it was the right approach and enabled us play to our strengths.",
     "best_quote_zh": "这种以DCC为中心的工作流程在游戏开发中并不常见。但对我们来说，这是正确的方法，使我们能够发挥我们的优势。"
+  },{
+    "id": 32,
+    "title": "Show HN: I used LLMs to build an OS AI voice agent that guarantees accurate data",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/jeffo777/input-right\">https://github.com/jeffo777/input-right</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44938319\">https://news.ycombinator.com/item?id=44938319</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/jeffo777/input-right",
+    "tags": [
+      "voice agent",
+      "open-source",
+      "data accuracy",
+      "llm",
+      "verification"
+    ],
+    "date": "2025-08-18",
+    "summary_en": "InputRight is an open-source platform for deploying voice agents that convert conversations into accurate, verified, and structured data. It features voice-first interaction, guaranteed data accuracy through human-in-the-loop verification, and extensibility. The platform offers an open-source version and a coming-soon cloud version with enterprise-grade security and compliance.",
+    "summary_zh": "InputRight是一个开源平台，用于部署语音代理，将对话转换为准确、经过验证和结构化的数据。它具有语音优先交互、通过人工验证保证数据准确性以及可扩展性。该平台提供一个开源版本和一个即将推出的云版本，后者具有企业级安全性和合规性。",
+    "best_quote_en": "Our core mission is to provide the most reliable way to turn conversations into perfectly accurate, structured data.",
+    "best_quote_zh": "我们的核心使命是提供最可靠的方式，将对话转化为完全准确的结构化数据。"
+  },
+  {
+    "id": 33,
+    "title": "Show HN: Founderly – an AI cofounder to take you from idea to launch",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN,<p>I’ve been building www.founderly.xyz — a tool to help founders turn ideas into actual products.<p>The problem: a lot of people have startup ideas but get stuck because they don’t have a technical cofounder or the resources to hire one.<p>The approach: Founderly acts like an AI cofounder. Instead of being just one “assistant,” it spins up domain-specific agents (tech, design, marketing, legal) to guide you at different stages:\n • From rough idea → actionable plan\n • Plan → MVP\n • MVP → launch and early traction<p>We are opening early access soon. If you’re curious, you can join the waitlist here: www.founderly.xyz<p>I would love feedback from this community — especially around whether you see this as actually useful, and what would make it genuinely valuable to someone starting from scratch.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44938288\">https://news.ycombinator.com/item?id=44938288</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=44938288",
+    "tags": [
+      "ai",
+      "cofounder",
+      "startup",
+      "product launch",
+      "mvp"
+    ],
+    "date": "2025-08-18",
+    "summary_en": "Founderly is presented as an AI cofounder helping individuals turn startup ideas into products. It addresses the problem of lacking technical cofounders or resources by offering domain-specific agents (tech, design, marketing, legal) to guide users from idea to launch. Early access is opening soon, and feedback is requested.",
+    "summary_zh": "Founderly被介绍为一个AI联合创始人，旨在帮助个人将创业想法转化为产品。它通过提供特定领域的代理（技术、设计、市场营销、法律），解决缺乏技术联合创始人或资源的问题，从而指导用户从想法到产品发布。早期访问即将开放，并征求用户的反馈。",
+    "best_quote_en": "Founderly acts like an AI cofounder. Instead of being just one “assistant,” it spins up domain-specific agents (tech, design, marketing, legal) to guide you at different stages.",
+    "best_quote_zh": "Founderly就像一个人工智能联合创始人。它不仅仅是一个“助理”，而是会启动特定领域的代理（技术、设计、市场营销、法律）来指导您在不同阶段的工作。"
+  },
+  {
+    "id": 34,
+    "title": "How Will AI-Driven Learning Platforms Reshape Enterprise Upskilling?",
+    "source": "Hackernews",
+    "desc": "<p>Enterprises are struggling to keep pace with fast-evolving tools, frameworks, and platforms. Tekstac has been experimenting with AI-based adaptive learning for tech teams. Curious how others here see AI’s role in reskilling at enterprise scale: Will it actually improve retention and talent pipelines, or just add noise?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44938277\">https://news.ycombinator.com/item?id=44938277</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://news.ycombinator.com/item?id=44938277",
+    "tags": [
+      "ai",
+      "learning platform",
+      "enterprise upskilling",
+      "hr-tech",
+      "adaptive learning"
+    ],
+    "date": "2025-08-18",
+    "summary_en": "The article discusses how AI-driven learning platforms will reshape enterprise upskilling. Tekstac is experimenting with AI-based adaptive learning for tech teams. The author wonders if AI will improve retention and talent pipelines or just add noise. The author also posts a link to their HR-tech based learning platform.",
+    "summary_zh": "文章讨论了人工智能驱动的学习平台将如何重塑企业技能提升。Tekstac 正在试验基于人工智能的自适应学习，用于技术团队。作者想知道人工智能是否会提高员工保留率和人才储备，还是仅仅增加干扰。作者还发布了其基于 HR 技术的学习平台的链接。",
+    "best_quote_en": "Will it actually improve retention and talent pipelines, or just add noise?",
+    "best_quote_zh": "它真的会提高员工保留率和人才储备，还是仅仅增加干扰？"
   }]
