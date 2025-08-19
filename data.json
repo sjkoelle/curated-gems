@@ -629,4 +629,79 @@
     "summary_zh": "文章讨论了人工智能驱动的学习平台将如何重塑企业技能提升。Tekstac 正在试验基于人工智能的自适应学习，用于技术团队。作者想知道人工智能是否会提高员工保留率和人才储备，还是仅仅增加干扰。作者还发布了其基于 HR 技术的学习平台的链接。",
     "best_quote_en": "Will it actually improve retention and talent pipelines, or just add noise?",
     "best_quote_zh": "它真的会提高员工保留率和人才储备，还是仅仅增加干扰？"
+  },{
+    "id": 35,
+    "title": "BBC witnesses settlers attack on Palestinian farm in West Bank",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cewy88jle0eo\">https://www.bbc.com/news/articles/cewy88jle0eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44949264\">https://news.ycombinator.com/item?id=44949264</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.com/news/articles/cewy88jle0eo",
+    "tags": [
+      "west bank",
+      "israeli settlers",
+      "palestinian farm",
+      "settler violence",
+      "occupation"
+    ],
+    "date": "2025-08-19",
+    "summary_en": "A BBC team witnessed an attack by Israeli settlers on a Palestinian farm in the West Bank. Settlers, often masked, have been increasingly violent since October 2023, destroying property and intimidating residents. Palestinians report frequent attacks and a lack of protection from Israeli forces, while settlers claim provocation from both sides.",
+    "summary_zh": "BBC 团队目击了以色列定居者在西岸袭击巴勒斯坦农场。自 2023 年 10 月以来，定居者的暴力行为日益增多，他们破坏财产并恐吓居民。巴勒斯坦人报告说，袭击事件频繁发生，并且缺乏以色列军队的保护，而定居者则声称双方都有挑衅行为。",
+    "best_quote_en": "\"But there's something stronger than fear that drives me to stay here – the scent of my ancestors and an attachment dating back hundreds of years – even if I pay the price with my blood.\"",
+    "best_quote_zh": "“但有一种比恐惧更强大的东西驱使我留在这里——我祖先的气息和几个世纪以来的依恋——即使我为此付出鲜血的代价。”"
+  },
+  {
+    "id": 36,
+    "title": "Show HN: FreeNoSignup – Directory of tools that don't require signup",
+    "source": "Hackernews",
+    "desc": "<p>I kept running into the same pain: every time I wanted to try a new AI demo or simple online tool, I was asked to create an account first. Frustrating when you just want to test quickly.<p>So I built freenosignup.com - a curated directory of tools that work immediately without signup.<p>The site is built with Next.js and runs on Cloudflare Workers. Currently has ~50 tested tools and I'm adding more regularly.<p>Does this solve the same problem for others? And if you know tools that should be included, I'd love suggestions.<p><a href=\"https://freenosignup.com\" rel=\"nofollow\">https://freenosignup.com</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44949253\">https://news.ycombinator.com/item?id=44949253</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://freenosignup.com",
+    "tags": [
+      "tools",
+      "no signup",
+      "ai",
+      "pdf",
+      "utilities"
+    ],
+    "date": "2025-08-19",
+    "summary_en": "FreeNoSignup is a directory of hand-checked tools, updated as of August 2025, that allow users to perform tasks like AI, PDF editing, image manipulation, audio processing, and development without requiring any signup or login. The tools are categorized for easy browsing.",
+    "summary_zh": "FreeNoSignup 是一个精心挑选的工具目录，更新至2025年8月，用户可以使用人工智能（AI）、PDF编辑、图像处理、音频处理和开发等工具，而无需注册或登录。 这些工具已分类，方便浏览。",
+    "best_quote_en": "Find it, click it, use it—no accounts, no friction.",
+    "best_quote_zh": "找到它，点击它，使用它——无需帐户，没有摩擦。"
+  },
+  {
+    "id": 37,
+    "title": "Language Models as Thespians",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://jstrieb.github.io/posts/llm-thespians/\">https://jstrieb.github.io/posts/llm-thespians/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44949205\">https://news.ycombinator.com/item?id=44949205</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://jstrieb.github.io/posts/llm-thespians/",
+    "tags": [
+      "large language models",
+      "llm",
+      "artificial intelligence",
+      "persona",
+      "prompting"
+    ],
+    "date": "2025-08-19",
+    "summary_en": "This article draws an analogy between Large Language Models (LLMs) and actors, suggesting that LLMs prioritize mimicking language patterns rather than expressing truth, much like actors focus on believable portrayals. The author demonstrates how assigning a persona to LLMs, similar to actors researching roles, can significantly improve output quality. Thinking of LLMs as actors offers predictive power and benefits users by implying the technique of prompting LLMs to adopt a persona. Questioning the audience of LLMs is also important.",
+    "summary_zh": "本文将大型语言模型（LLM）比作演员，认为LLM像演员专注于可信的角色塑造一样，优先模仿语言模式，而非表达真理。作者展示了如何通过赋予LLM角色定位，类似演员研究角色，来显著提高输出质量。将LLM视为演员具有预测能力，并通过暗示使用角色提示技术来使用户受益。质疑LLM的受众也至关重要。",
+    "best_quote_en": "LLMs are computer programs built to mimic human language; like actors, they are more concerned with matching expected patterns of natural language than they are with expressing consistent or true statements.",
+    "best_quote_zh": "大型语言模型是旨在模仿人类语言的计算机程序；与演员一样，它们更关心的是匹配预期的自然语言模式，而不是表达一致或真实的陈述。"
+  },
+  {
+    "id": 38,
+    "title": "Embedding Text Documents with Qwen3",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3\">https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44949203\">https://news.ycombinator.com/item?id=44949203</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3",
+    "tags": [
+      "qwen3",
+      "embedding",
+      "gpu",
+      "text processing",
+      "machine learning"
+    ],
+    "date": "2025-08-19",
+    "summary_en": "This article details a method for embedding millions of text documents using Qwen3-Embedding-0.6B with near-100% GPU utilization. It outlines the process of reading documents from S3, chunking them into sentences using spaCy, computing embeddings, and writing results. It also compares text embedding models.",
+    "summary_zh": "本文详细介绍了一种使用 Qwen3-Embedding-0.6B 嵌入数百万文本文件的方法，实现了近 100% 的 GPU 利用率。文章概述了从 S3 读取文档，使用 spaCy 将其分块为句子，计算嵌入并写入结果的过程。同时，它还比较了不同的文本嵌入模型。",
+    "best_quote_en": "That’s usually the gold standard that machine learning engineers aim for… but here’s the twist: in the time it took to write this blog post, we found a way to make the same workload 3× faster, and it didn’t involve maxing out GPU utilization at all.",
+    "best_quote_zh": "这通常是机器学习工程师追求的黄金标准……但有趣的是：在撰写这篇博文的时间里，我们找到了一种使相同工作负载速度提高 3 倍的方法，而且根本不需要最大限度地提高 GPU 利用率。"
   }]
