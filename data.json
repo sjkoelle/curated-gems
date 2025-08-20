@@ -704,4 +704,98 @@
     "summary_zh": "本文详细介绍了一种使用 Qwen3-Embedding-0.6B 嵌入数百万文本文件的方法，实现了近 100% 的 GPU 利用率。文章概述了从 S3 读取文档，使用 spaCy 将其分块为句子，计算嵌入并写入结果的过程。同时，它还比较了不同的文本嵌入模型。",
     "best_quote_en": "That’s usually the gold standard that machine learning engineers aim for… but here’s the twist: in the time it took to write this blog post, we found a way to make the same workload 3× faster, and it didn’t involve maxing out GPU utilization at all.",
     "best_quote_zh": "这通常是机器学习工程师追求的黄金标准……但有趣的是：在撰写这篇博文的时间里，我们找到了一种使相同工作负载速度提高 3 倍的方法，而且根本不需要最大限度地提高 GPU 利用率。"
+  },{
+    "id": 39,
+    "title": "If Indian goods cannot go to the US, they can head to Russia",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://timesofindia.indiatimes.com/business/india-business/sanctions-are-double-standards-russia-slams-donald-trumps-tariffs-on-india-putin-to-meet-pm-modi-in-india-with-focus-on-trade-ties/articleshow/123401932.cms\">https://timesofindia.indiatimes.com/business/india-business/sanctions-are-double-standards-russia-slams-donald-trumps-tariffs-on-india-putin-to-meet-pm-modi-in-india-with-focus-on-trade-ties/articleshow/123401932.cms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44959721\">https://news.ycombinator.com/item?id=44959721</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sanctions-are-double-standards-russia-slams-donald-trumps-tariffs-on-india-putin-to-meet-pm-modi-in-india-with-focus-on-trade-ties/articleshow/123401932.cms",
+    "tags": [
+      "russia",
+      "india",
+      "trade",
+      "oil",
+      "sanctions"
+    ],
+    "date": "2025-08-20",
+    "summary_en": "Amidst global challenges and US sanctions, Russia aims to bolster trade ties with India by improving payment systems and removing trade barriers. The upcoming Putin-Modi meeting in New Delhi is expected to further strengthen bilateral cooperation, especially in trade and defense, as India continues Russian oil procurement based on economic considerations despite US pressure and tariffs.",
+    "summary_zh": "在全球挑战和美国制裁的背景下，俄罗斯旨在通过改善支付系统和消除贸易壁垒来加强与印度的贸易关系。 即将到来的普京-莫迪在新德里的会晤预计将进一步加强双边合作，特别是在贸易和国防领域。 尽管面临美国的压力和关税，但印度仍将继续基于经济因素采购俄罗斯石油。",
+    "best_quote_en": "\"If Indian goods cannot go to US market, they can head to Russia\".",
+    "best_quote_zh": "“如果印度商品无法进入美国市场，它们可以转向俄罗斯”。"
+  },
+  {
+    "id": 40,
+    "title": "From Sound to Meaning: A Deep Meaning Comprehension by DeepSeek",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://medium.com/@bulanramai2558/from-sound-to-meaning-d16831713f52\">https://medium.com/@bulanramai2558/from-sound-to-meaning-d16831713f52</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44959706\">https://news.ycombinator.com/item?id=44959706</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://medium.com/@bulanramai2558/from-sound-to-meaning-d16831713f52",
+    "tags": [
+      "sound",
+      "meaning",
+      "language",
+      "linguistics",
+      "arbitrariness"
+    ],
+    "date": "2025-08-20",
+    "summary_en": "The article explores the connection between sound and meaning in language, challenging the traditional linguistic view that they are arbitrary. It references research on Austro-Tai languages and the 'Bouba-Kiki effect,' and studies showing non-arbitrary patterns in languages globally, suggesting a fundamental link between sound and meaning.",
+    "summary_zh": "本文探讨了语言中声音和意义之间的联系，挑战了传统的语言学观点，即它们是任意的。它引用了关于南岛语系的研究和“Bouba-Kiki效应”，以及全球语言中显示的非任意模式的研究，表明声音和意义之间存在着根本的联系。",
+    "best_quote_en": "When sound has its own meaning before becoming someone’s speech, When sound has its own life before being articulated as someone’s language, When sound is aware of itself before becoming someone’s thought.",
+    "best_quote_zh": "当声音在成为某人的言语之前就有了自己的意义，当声音在被表达成某人的语言之前就有了自己的生命，当声音在成为某人的思想之前就意识到了自己。"
+  },
+  {
+    "id": 41,
+    "title": "'The Lord Is Counting on Me to Stand on the Side of Israel'",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://zeteo.com/p/the-lord-is-counting-on-me-to-stand\">https://zeteo.com/p/the-lord-is-counting-on-me-to-stand</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44959696\">https://news.ycombinator.com/item?id=44959696</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://zeteo.com/p/the-lord-is-counting-on-me-to-stand",
+    "tags": [
+      "icj",
+      "israel",
+      "judge",
+      "christian zionist",
+      "bias"
+    ],
+    "date": "2025-08-20",
+    "summary_en": "ICJ Judge Julia Sebutinde, a Christian Zionist, cast the sole dissenting vote against the ICJ ruling on Israel's occupation and provisional measures for Gaza. She admitted her decision was based on her belief that 'the Lord' was counting on her to support Israel, as she believes the 'End Times' are near. Her admission raises concerns about religious bias influencing judicial decisions.",
+    "summary_zh": "国际法院法官 Julia Sebutinde 是一位基督教锡安主义者，她投了唯一反对以色列占领和加沙临时措施的反对票。她承认她的决定是基于她相信“上帝”指望她支持以色列，因为她认为“末日”即将来临。她的言论引发了人们对宗教偏见影响司法决定的担忧。",
+    "best_quote_en": "\"the Lord\" was counting on her “to stand on the side of Israel.”",
+    "best_quote_zh": "“上帝”指望她“站在以色列一边”。"
+  },
+  {
+    "id": 42,
+    "title": "Postgres in 2025: No managed service required?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://docs.codefloe.com/infrastructure/\">https://docs.codefloe.com/infrastructure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44959680\">https://news.ycombinator.com/item?id=44959680</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://docs.codefloe.com/infrastructure/",
+    "tags": [
+      "postgres",
+      "infrastructure as code",
+      "devops",
+      "transparency",
+      "automation"
+    ],
+    "date": "2025-08-20",
+    "summary_en": "CodeFloe prioritizes transparency and DevOps, documenting its infrastructure setup for community improvement and understanding limitations. They use Infrastructure as Code (IaC) with OpenTofu and Ansible, emphasizing CI/CD workflows. They run on Hetzner Cloud, opting for self-managed Postgres for cost and control, aiming to prove a production-grade Postgres service is viable without managed services in 2025.",
+    "summary_zh": "CodeFloe 优先考虑透明性和 DevOps，记录其基础设施设置，以促进社区改进和理解局限性。 他们使用 OpenTofu 和 Ansible 的基础设施即代码（IaC），并强调 CI/CD 工作流程。 他们在 Hetzner Cloud 上运行，选择自管理的 Postgres 以降低成本和获得控制权，旨在证明在 2025 年无需托管服务的情况下，可行的生产级 Postgres 服务是可行的。",
+    "best_quote_en": "We believe that it must be possible to run a production-grade Postgres service in 2025+ without a managed service.",
+    "best_quote_zh": "我们认为在 2025 年及以后，无需托管服务即可运行生产级 Postgres 服务是完全可行的。"
+  },
+  {
+    "id": 43,
+    "title": "Show HN: Code – coding CLI with browser control and diffs",
+    "source": "Hackernews",
+    "desc": "<p>Hey HN,<p>Today we're launching Code, a community-driven, open-source coding agent for your terminal. It's a fork of OpenAI's codex with a focus on developer ergonomics and local control.<p>Key features:\n- Browser integration – attach to your Chrome via CDP or use a built-in headless browser. You can browse pages, run the CLI in a browser session, and even take screenshots from the terminal.\n- Multi-agent commands – /plan, /solve and /code orchestrate multiple models (ChatGPT, Claude, Gemini) to propose and implement solutions, with consensus or race options.\n- Diff viewer – see proposed changes in a unified side-by-side diff with syntax highlighting before you apply them.\n- Theme system & reasoning control – customise the TUI with /themes and adjust model reasoning effort on the fly with /reasoning.\n- Safety modes & sandboxing – run read-only or require approvals to keep your projects safe.<p>To try it right away:\n```\nbash\nnpx -y @just-every/code\n# or install globally\nnpm install -g @just-every/code\ncode  # or `coder` if you already have a `code` command\n```<p>You can authenticate with ChatGPT (Plus/Pro/Team) or an API key, and even hook in other CLI agents like @anthropic-ai/claude-code and @google/gemini-cli.<p>We're launching on Product Hunt today if you'd like to support us: <a href=\"https://www.producthunt.com/products/code\" rel=\"nofollow\">https://www.producthunt.com/products/code</a><p>Would love to hear your feedback, suggestions, and bug reports. Happy to answer questions here!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44959671\">https://news.ycombinator.com/item?id=44959671</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/just-every/code",
+    "tags": [
+      "cli",
+      "coding",
+      "browser integration",
+      "multi-agent",
+      "automation"
+    ],
+    "date": "2025-08-20",
+    "summary_en": "Code is a community-driven CLI tool for coding with browser integration, multi-agent commands, theming, and reasoning control, all compatible with the original Codex. It supports various features such as diff viewing, safety modes, and integration with Claude & Gemini. It is designed for developers to automate tasks, generate reports, and perform batch processing. Configuration and security are prioritized, with options for API key authentication and local data storage.",
+    "summary_zh": "Code是一个社区驱动的CLI编码工具，集成了浏览器、多代理命令、主题和推理控制，并与原始Codex兼容。它支持差异查看、安全模式以及与Claude & Gemini的集成等多种功能。它专为开发人员设计，用于自动化任务、生成报告和执行批量处理。配置和安全性是优先考虑的事项，可以选择API密钥身份验证和本地数据存储。",
+    "best_quote_en": "Code can remember context across sessions: Create an AGENTS.md or CLAUDE.md file in your project root.",
+    "best_quote_zh": "Code可以记住会话间的上下文：在项目根目录中创建一个AGENTS.md或CLAUDE.md文件。"
   }]
