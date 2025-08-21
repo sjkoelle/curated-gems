@@ -798,4 +798,41 @@
     "summary_zh": "Code是一个社区驱动的CLI编码工具，集成了浏览器、多代理命令、主题和推理控制，并与原始Codex兼容。它支持差异查看、安全模式以及与Claude & Gemini的集成等多种功能。它专为开发人员设计，用于自动化任务、生成报告和执行批量处理。配置和安全性是优先考虑的事项，可以选择API密钥身份验证和本地数据存储。",
     "best_quote_en": "Code can remember context across sessions: Create an AGENTS.md or CLAUDE.md file in your project root.",
     "best_quote_zh": "Code可以记住会话间的上下文：在项目根目录中创建一个AGENTS.md或CLAUDE.md文件。"
+  },{
+    "id": 44,
+    "title": "Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456\">https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44970269\">https://news.ycombinator.com/item?id=44970269</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456",
+    "tags": [
+      "australia post",
+      "tariffs",
+      "shipping",
+      "e-commerce",
+      "united states"
+    ],
+    "date": "2025-08-21",
+    "summary_en": "Australia Post has suspended transit shipping to the US due to upcoming tariffs on low-value parcels, causing chaos for postal networks and retailers. The new tariffs, effective August 29, end the 'de minimis' exemption, impacting e-commerce and creating uncertainty around duty collection. Other global postal carriers are also halting US shipments.",
+    "summary_zh": "由于即将对低价值包裹征收关税, 澳大利亚邮政已暂停向美国转运货物，这给邮政网络和零售商带来了混乱。新关税将于8月29日生效，结束了“最低限度”的豁免，影响了电子商务，也给关税征收带来了不确定性。其他全球邮政运营商也纷纷停止向美国发货。",
+    "best_quote_en": "\"A lot of uncertainty, a lot of concern about the postal stream being heavily impacted, and just a little over a week to get ready.\"",
+    "best_quote_zh": "“存在很多不确定性，人们非常担心邮政业务会受到严重影响，而且只有一周多的时间来做准备。”"
+  },
+  {
+    "id": 45,
+    "title": "Smartphone makers must do more to protect children",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ft.com/content/6abfd672-607b-4e38-ab07-00057d5aebeb\">https://www.ft.com/content/6abfd672-607b-4e38-ab07-00057d5aebeb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44970268\">https://news.ycombinator.com/item?id=44970268</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ft.com/content/6abfd672-607b-4e38-ab07-00057d5aebeb",
+    "tags": [
+      "smartphones",
+      "children",
+      "protection",
+      "uk",
+      "safeguarding"
+    ],
+    "date": "2025-08-21",
+    "summary_en": "The UK's safeguarding minister urges smartphone makers to enhance child protection measures. The article highlights the need for better safeguards for children using smartphones.",
+    "summary_zh": "英国保障大臣呼吁智能手机制造商加强儿童保护措施。文章强调需要改善儿童使用智能手机的安全保障。",
+    "best_quote_en": "Smartphone makers must do more to protect children.",
+    "best_quote_zh": "智能手机制造商必须采取更多措施来保护儿童。"
   }]
