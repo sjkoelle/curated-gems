@@ -835,4 +835,98 @@
     "summary_zh": "英国保障大臣呼吁智能手机制造商加强儿童保护措施。文章强调需要改善儿童使用智能手机的安全保障。",
     "best_quote_en": "Smartphone makers must do more to protect children.",
     "best_quote_zh": "智能手机制造商必须采取更多措施来保护儿童。"
+  },{
+    "id": 46,
+    "title": "Martyrs to the Unspeakable: The Assassinations of JFK, Martin, Malcolm, and RFK",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://orbisbooks.com/products/martyrs-to-the-unspeakable-vol-2\">https://orbisbooks.com/products/martyrs-to-the-unspeakable-vol-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44981959\">https://news.ycombinator.com/item?id=44981959</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://orbisbooks.com/products/martyrs-to-the-unspeakable-vol-2",
+    "tags": [
+      "assassination",
+      "jfk",
+      "martin luther king jr",
+      "malcolm x",
+      "rfk"
+    ],
+    "date": "2025-08-22",
+    "summary_en": "The book \"Martyrs to the Unspeakable\" explores the assassinations of JFK, Martin Luther King Jr., Malcolm X, and RFK, arguing they were targeted for their prophetic commitments to peace and social transformation. It suggests these leaders were viewed as enemies of the state by elements within the military-industrial-intelligence complex. The book aims to uncover this hidden history to advance their mission of peace.",
+    "summary_zh": "《不可言说的殉道者》探讨了肯尼迪、马丁·路德·金、马尔科姆·X和罗伯特·肯尼迪被刺杀事件，认为他们因对和平与社会变革的预言性承诺而成为目标。书中指出，这些领袖被军工情报综合体内的某些势力视为国家公敌。本书旨在揭示这段隐藏的历史，以推进他们追求和平的使命。",
+    "best_quote_en": "In each case, American figures who made a prophetic commitment to peace and social transformation were regarded as enemies of the state who had to be eliminated.",
+    "best_quote_zh": "在每个案例中，那些对和平与社会变革做出预言性承诺的美国人物都被视为国家的敌人，必须被清除。"
+  },
+  {
+    "id": 47,
+    "title": "OUI-Spy Is a Slick Bluetooth Low Energy Scanner",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.hackster.io/news/colonel-panic-s-oui-spy-is-a-slick-bluetooth-low-energy-scanner-or-a-foxhunting-handset-c16927adad71\">https://www.hackster.io/news/colonel-panic-s-oui-spy-is-a-slick-bluetooth-low-energy-scanner-or-a-foxhunting-handset-c16927adad71</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44981957\">https://news.ycombinator.com/item?id=44981957</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.hackster.io/news/colonel-panic-s-oui-spy-is-a-slick-bluetooth-low-energy-scanner-or-a-foxhunting-handset-c16927adad71",
+    "tags": [
+      "bluetooth low energy",
+      "esp32",
+      "scanner",
+      "foxhunting",
+      "pcb"
+    ],
+    "date": "2025-08-22",
+    "summary_en": "The OUI-SPY is a Bluetooth Low Energy scanner designed by Colonel Panic, powered by a Seeed Studio XIAO ESP32S3. It features two modes: a multi-target BLE device scanner with OUI filtering and a precision proximity tracker for radio direction finding (foxhunting). It includes a buzzer for alerts and a web-based interface for configuration.",
+    "summary_zh": "OUI-SPY是由Colonel Panic设计的低功耗蓝牙扫描器，由Seeed Studio XIAO ESP32S3驱动。 它具有两种模式：具有OUI过滤的多目标BLE设备扫描器和用于无线电测向（无线电测向）的精确接近跟踪器。 它包括一个用于警报的蜂鸣器和一个用于配置的基于Web的界面。",
+    "best_quote_en": "\"snoop unto them as they snoop unto us\"",
+    "best_quote_zh": "以其人之道还治其人之身"
+  },
+  {
+    "id": 48,
+    "title": "How to load test PostgreSQL database and not miss anything",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://habr.com/en/companies/tantor/articles/936622/\">https://habr.com/en/companies/tantor/articles/936622/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44981951\">https://news.ycombinator.com/item?id=44981951</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://habr.com/en/companies/tantor/articles/936622/",
+    "tags": [
+      "postgresql",
+      "load testing",
+      "pgbench",
+      "automation",
+      "performance"
+    ],
+    "date": "2025-08-22",
+    "summary_en": "This article introduces pg_perfbench, a tool developed to automate PostgreSQL load testing with pgbench. It addresses the issue of non-representative results by recording DBMS configuration, server characteristics, and PostgreSQL versions. The tool streamlines result comparison by registering all parameters in a single template, collecting metadata, and generating structured reports, ensuring repeatable scenarios and preventing data loss.",
+    "summary_zh": "本文介绍了pg_perfbench，一个用于自动化PostgreSQL负载测试的工具，它使用pgbench。该工具通过记录DBMS配置、服务器特性和PostgreSQL版本来解决结果不具代表性的问题。通过在单个模板中注册所有参数、收集元数据和生成结构化报告，简化了结果比较，确保可重复的场景并防止数据丢失。",
+    "best_quote_en": "Any insignificant change, whether the use of different data directories (for example, one with included checksums, and another without them) or other differences in hardware and network configuration, can significantly affect the results.",
+    "best_quote_zh": "任何微小的变化，无论是使用不同的数据目录（例如，一个包含校验和，另一个不包含），还是硬件和网络配置的其他差异，都可能显著影响结果。"
+  },
+  {
+    "id": 49,
+    "title": "Sonic Liberation Devices",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://sonicliberationdevices.com/\">https://sonicliberationdevices.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44981931\">https://news.ycombinator.com/item?id=44981931</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://sonicliberationdevices.com/",
+    "tags": [
+      "liberation",
+      "community",
+      "music",
+      "freedom",
+      "shared resources"
+    ],
+    "date": "2025-08-22",
+    "summary_en": "This work emphasizes the power of community, music, process, perseverance, intentional design, shared knowledge, resources, truth-telling, and liberation technology. It advocates for the freedom of Palestine, Haiti, Congo, Sudan, Armenia, Tigray, Cuba, Puerto Rico, the Caribbean, Africa, and all indigenous and oppressed people.",
+    "summary_zh": "这项工作强调了社区、音乐、过程、毅力、有意设计、共享知识、资源、讲真话和解放技术的力量。它倡导巴勒斯坦、海地、刚果、苏丹、亚美尼亚、提格雷、古巴、波多黎各、加勒比、非洲以及所有土著和受压迫人民的自由。",
+    "best_quote_en": "The power of community, the power of music, the power of process, the power of perseverance, the power of intentional design, the power of shared knowledge, the power of shared resources, the power of truth telling, the power of Liberation Technology.",
+    "best_quote_zh": "社区的力量，音乐的力量，过程的力量，毅力的力量，有意设计（intentional design）的力量，共享知识的力量，共享资源的力量，讲真话的力量，解放技术的力量。"
+  },
+  {
+    "id": 50,
+    "title": "Claude Code's erratic behavior from May-August 2025",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/bogdansolga/claude-code-summer-2025-erratic-behavior\">https://github.com/bogdansolga/claude-code-summer-2025-erratic-behavior</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44981904\">https://news.ycombinator.com/item?id=44981904</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/bogdansolga/claude-code-summer-2025-erratic-behavior",
+    "tags": [
+      "claude code",
+      "erratic behavior",
+      "issue tracking",
+      "ai degradation",
+      "bug report"
+    ],
+    "date": "2025-08-22",
+    "summary_en": "From May to August 2025, Claude Code exhibited erratic behavior, including ignoring instructions, inventing details, and code malfunctions. A repository was created to consolidate complaints after issues were closed without resolution. The goal is to raise awareness and prompt the developers to address these persistent problems.",
+    "summary_zh": "2025年5月至8月期间，Claude Code表现出不稳定的行为，包括忽略指令、捏造细节和代码故障。由于问题在未解决的情况下被关闭，因此创建了一个存储库来整合用户的投诉。目标是提高人们的意识，并促使开发人员解决这些持续存在的问题。",
+    "best_quote_en": "This repository exists solely as a constructive effort to highlight persistent issues that need attention for the improvement of Claude Code.",
+    "best_quote_zh": "该存储库的存在仅仅是为了建设性地突出需要关注的持续存在的问题，以改进 Claude Code。"
   }]
