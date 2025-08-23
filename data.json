@@ -929,4 +929,98 @@
     "summary_zh": "2025年5月至8月期间，Claude Code表现出不稳定的行为，包括忽略指令、捏造细节和代码故障。由于问题在未解决的情况下被关闭，因此创建了一个存储库来整合用户的投诉。目标是提高人们的意识，并促使开发人员解决这些持续存在的问题。",
     "best_quote_en": "This repository exists solely as a constructive effort to highlight persistent issues that need attention for the improvement of Claude Code.",
     "best_quote_zh": "该存储库的存在仅仅是为了建设性地突出需要关注的持续存在的问题，以改进 Claude Code。"
+  },{
+    "id": 51,
+    "title": "AI Is Nothing Like a Brain, and That's OK",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.quantamagazine.org/ai-is-nothing-like-a-brain-and-thats-ok-20250430/\">https://www.quantamagazine.org/ai-is-nothing-like-a-brain-and-thats-ok-20250430/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44994168\">https://news.ycombinator.com/item?id=44994168</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.quantamagazine.org/ai-is-nothing-like-a-brain-and-thats-ok-20250430/",
+    "tags": [
+      "ai",
+      "neuroscience",
+      "brain",
+      "artificial intelligence",
+      "neural networks"
+    ],
+    "date": "2025-08-23",
+    "summary_en": "The article discusses the differences between artificial intelligence and the human brain, despite AI initially drawing inspiration from neuroscience. It highlights the simplification in AI compared to the brain's complexity but suggests that comparing the two can still offer valuable insights for improving both AI and our understanding of the brain.",
+    "summary_zh": "本文讨论了人工智能与人脑之间的差异，尽管人工智能最初的灵感来源于神经科学。文章强调了人工智能相对于人脑的复杂性而言的简化，但认为比较两者仍然可以为改进人工智能和我们对大脑的理解提供有价值的见解。",
+    "best_quote_en": "\"[The brain] is the most complex piece of active matter in the known universe.\"",
+    "best_quote_zh": "“（大脑）是已知宇宙中最复杂的活性物质。”"
+  },
+  {
+    "id": 52,
+    "title": "LNS-Madam: Low-Precision Training in Log Using Multiplicative Weight Update",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2106.13914\">https://arxiv.org/abs/2106.13914</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44994135\">https://news.ycombinator.com/item?id=44994135</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://arxiv.org/abs/2106.13914",
+    "tags": [
+      "low-precision training",
+      "logarithmic number system",
+      "deep neural networks",
+      "energy efficiency",
+      "machine learning"
+    ],
+    "date": "2025-08-23",
+    "summary_en": "This paper introduces LNS-Madam, a low-precision training framework for deep neural networks (DNNs) using a logarithmic number system (LNS) and a multiplicative weight update algorithm (Madam). It aims to reduce memory and energy consumption. LNS-Madam achieves comparable accuracy to full-precision training with only 8 bits, reducing energy consumption by over 90% and 55% compared to FP32 and FP8, respectively.",
+    "summary_zh": "本文介绍了一种低精度训练框架LNS-Madam，用于深度神经网络 (DNN)。LNS-Madam 使用对数数字系统 (LNS) 和乘法权重更新算法 (Madam)，旨在减少内存和能源消耗。实验结果表明，LNS-Madam 仅用 8 位即可实现与全精度训练相当的精度，与 FP32 和 FP8 相比，能耗分别降低 90% 以上和 55%。",
+    "best_quote_en": "We prove that LNS-Madam results in low quantization error during weight updates, leading to stable performance even if the precision is limited.",
+    "best_quote_zh": "我们证明了 LNS-Madam 在权重更新期间产生较低的量化误差，即使在精度有限的情况下也能实现稳定的性能。"
+  },
+  {
+    "id": 53,
+    "title": "Const Trait Counterexamples",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://dbeef.dev/const-trait-counterexamples/\">https://dbeef.dev/const-trait-counterexamples/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44994114\">https://news.ycombinator.com/item?id=44994114</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://dbeef.dev/const-trait-counterexamples/",
+    "tags": [
+      "rust",
+      "const traits",
+      "language design",
+      "compiler",
+      "programming"
+    ],
+    "date": "2025-08-23",
+    "summary_en": "This article discusses the design considerations and counterarguments surrounding Rust's const traits feature. It explores the current proposal, which involves using \"const trait\" and \"~const\" modifiers to allow trait methods in const contexts. It also examines and refutes alternative proposals, such as making \"~const\" the default, due to compatibility and complexity issues.",
+    "summary_zh": "本文探讨了Rust中const traits特性的设计考虑和反对意见。它探讨了当前方案，该方案涉及使用\"const trait\"和\"~const\"修饰符以允许在const上下文中使用trait方法。同时，文章也检验并反驳了其他替代方案，例如由于兼容性和复杂性问题而将\"~const\"设为默认值。",
+    "best_quote_en": "\"const fn is \"always-const\" (and not \"maybe-const\") in a sense that it simply imposes additional constraints if called in const contexts.\"",
+    "best_quote_zh": "const fn在某种意义上是“永远const”（而不是“可能const”），它只是在const上下文中调用时施加额外的约束。"
+  },
+  {
+    "id": 54,
+    "title": "World Wide Lightning Location Network",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://wwlln.net/\">https://wwlln.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44994090\">https://news.ycombinator.com/item?id=44994090</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://wwlln.net/",
+    "tags": [
+      "wwlln",
+      "lightning",
+      "sensors",
+      "network",
+      "global"
+    ],
+    "date": "2025-08-23",
+    "summary_en": "The World Wide Lightning Location Network (WWLLN) is a global network of VLF radio lightning sensors operated by the University of Washington. It monitors lightning activity worldwide, providing data and maps. The network welcomes sensor hosting offers for research collaboration and distributes data through subscriptions and commercial resellers.",
+    "summary_zh": "世界范围闪电定位网络 (WWLLN) 是由华盛顿大学运营的全球甚低频无线电闪电传感器网络。它监测全球的闪电活动，提供数据和地图。该网络欢迎提供传感器托管，以进行研究合作，并通过订阅和商业经销商分发数据。",
+    "best_quote_en": "Only the whole network does that.",
+    "best_quote_zh": "只有整个网络才能做到。"
+  },
+  {
+    "id": 55,
+    "title": "Manim: Animation engine for explanatory math videos",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/3b1b/manim\">https://github.com/3b1b/manim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44994071\">https://news.ycombinator.com/item?id=44994071</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/3b1b/manim",
+    "tags": [
+      "manim",
+      "animation",
+      "python",
+      "mathematics",
+      "3blue1brown"
+    ],
+    "date": "2025-08-23",
+    "summary_en": "Manim is a Python library for creating mathematical animations, initially developed by 3Blue1Brown. There are two versions: the original and a community edition. Installation instructions vary depending on the version and operating system. Manim requires Python 3.7+, FFmpeg, OpenGL, and optionally LaTeX. It's used for explanatory videos and animations.",
+    "summary_zh": "Manim是一个用于创建数学动画的Python库，最初由3Blue1Brown开发。它有两个版本：原始版本和社区版本。安装说明因版本和操作系统而异。Manim需要Python 3.7+、FFmpeg、OpenGL，以及可选的LaTeX。它常被用于制作解释性视频和动画。",
+    "best_quote_en": "Manim is an engine for precise programmatic animations, designed for creating explanatory math videos.",
+    "best_quote_zh": "Manim是一个用于精确程序动画的引擎，专为创建数学解释视频而设计。"
   }]
