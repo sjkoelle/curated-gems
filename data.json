@@ -1023,4 +1023,79 @@
     "summary_zh": "Manim是一个用于创建数学动画的Python库，最初由3Blue1Brown开发。它有两个版本：原始版本和社区版本。安装说明因版本和操作系统而异。Manim需要Python 3.7+、FFmpeg、OpenGL，以及可选的LaTeX。它常被用于制作解释性视频和动画。",
     "best_quote_en": "Manim is an engine for precise programmatic animations, designed for creating explanatory math videos.",
     "best_quote_zh": "Manim是一个用于精确程序动画的引擎，专为创建数学解释视频而设计。"
+  },{
+    "id": 56,
+    "title": "Welcome to Fairbourne, the Welsh town that could one day be swallowed by the sea",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2025-08-24/residents-in-uk-town-told-their-homes-could-be-lost-to-sea/105645678\">https://www.abc.net.au/news/2025-08-24/residents-in-uk-town-told-their-homes-could-be-lost-to-sea/105645678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45002259\">https://news.ycombinator.com/item?id=45002259</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.abc.net.au/news/2025-08-24/residents-in-uk-town-told-their-homes-could-be-lost-to-sea/105645678",
+    "tags": [
+      "climate change",
+      "sea level rise",
+      "climate refugees",
+      "fairbourne",
+      "coastal erosion"
+    ],
+    "date": "2025-08-24",
+    "summary_en": "Fairbourne, a Welsh town, faces demolition due to rising sea levels, making its residents, the UK's first \"climate refugees.\" The council decided it couldn't afford to protect the town after 2054, causing property values to plummet and residents to lose their homes and livelihoods. Residents feel isolated and unfairly singled out.",
+    "summary_zh": "威尔士小镇费尔伯恩由于海平面上升面临拆迁，居民成为英国首批“气候难民”。当地政府认为无法在2054年后继续保护该镇，导致房产价值暴跌，居民失去家园和生计。居民们感到孤立和不公平。",
+    "best_quote_en": "\"If we have to move, we've got to abandon this way of life and learn to live in a new way. It's more than just losing your home; it's losing your whole identity.\"",
+    "best_quote_zh": "“如果我们不得不搬迁，我们就必须放弃这种生活方式，并学习以一种新的方式生活。这不仅仅是失去你的家；这是失去你的整个身份。”"
+  },
+  {
+    "id": 57,
+    "title": "Should you use a standing desk? The benefits are real, but seem to vary with age",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2025/08/15/should-you-use-a-standing-desk\">https://www.economist.com/science-and-technology/2025/08/15/should-you-use-a-standing-desk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45002234\">https://news.ycombinator.com/item?id=45002234</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.economist.com/science-and-technology/2025/08/15/should-you-use-a-standing-desk",
+    "tags": [
+      "standing desk",
+      "health",
+      "sitting",
+      "science",
+      "technology"
+    ],
+    "date": "2025-08-24",
+    "summary_en": "Standing desks aim to combat health risks of prolonged sitting. Studies show varying benefits with age. The human body evolved for movement, not sedentary cubicle life. Standing desks are a popular approach to help people become more upright, but effectiveness is still under research.",
+    "summary_zh": "站立式办公桌旨在对抗久坐带来的健康风险。研究表明，其益处因年龄而异。人类的身体进化是为了运动，而不是久坐的办公室生活。站立式办公桌是一种帮助人们站起来的流行方法，但其有效性仍在研究中。",
+    "best_quote_en": "The human body evolved to forage and hunt on the African savannahs, not to sit in a cubicle all day.",
+    "best_quote_zh": "人类的身体进化是为了在非洲稀树草原上觅食和狩猎，而不是整天坐在办公室里。"
+  },
+  {
+    "id": 58,
+    "title": "High priests: why scientists gave magic mushrooms to the clergy",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.economist.com/culture/2025/08/21/high-priests-why-scientists-gave-magic-mushrooms-to-the-clergy\">https://www.economist.com/culture/2025/08/21/high-priests-why-scientists-gave-magic-mushrooms-to-the-clergy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45002226\">https://news.ycombinator.com/item?id=45002226</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.economist.com/culture/2025/08/21/high-priests-why-scientists-gave-magic-mushrooms-to-the-clergy",
+    "tags": [
+      "psychedelic drugs",
+      "religion",
+      "experiment",
+      "consciousness",
+      "magic mushrooms"
+    ],
+    "date": "2025-08-24",
+    "summary_en": "Scientists conducted an experiment to explore how religious individuals respond to psychedelic drugs, specifically magic mushrooms. Participants experienced diverse perceptions of the divine, with some envisioning God as a dog, others as a harp-playing woman, and still others as the abstract concept of love.",
+    "summary_zh": "科学家进行了一项实验，旨在探索宗教人士对迷幻药物（特别是神奇蘑菇）的反应。参与者对神产生了不同的看法，有些人将上帝设想为一只狗，另一些人设想为一位弹竖琴的女人，还有一些人将其设想为爱的抽象概念。",
+    "best_quote_en": "For Jeff Vidt, God actually was a dog: the Lord came to him as a Great Dane.",
+    "best_quote_zh": "对于杰夫·维特来说，上帝实际上是一只狗：上帝以大丹犬的形象来到他身边。"
+  },
+  {
+    "id": 59,
+    "title": "Show HN: A \"Catalog of Catalogs\" for Unified Metadata",
+    "source": "Hackernews",
+    "desc": "<p>Most developers talk about unifying data.\nBut in reality, data lives everywhere — in lakes, warehouses, databases, streaming systems, AI/ML pipelines. Trying to centralize or replace them is costly, slow, and often fails.<p>So instead of asking “How do we unify the data?” we asked:\n“Can we unify the metadata?”<p>That’s the idea behind Apache Gravitino — an open-source “catalog of catalogs” that sits above your existing systems and provides:<p>Unified metadata governance without replacing your stack<p>Federated access to diverse systems (SQL, NoSQL, lakehouses, ML/AI)<p>A lightweight, extensible platform you can contribute to and extend<p>Website: Datastrato<p>Code: Apache Gravitino on GitHub<p>We’d love feedback from HN: Does focusing on metadata instead of data solve a pain you’ve seen? What gaps do you think still exist in the “data & AI catalog” space?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45002209\">https://news.ycombinator.com/item?id=45002209</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/apache/gravitino",
+    "tags": [
+      "metadata management",
+      "data governance",
+      "federated metadata",
+      "apache gravitino",
+      "data lake"
+    ],
+    "date": "2025-08-24",
+    "summary_en": "Apache Gravitino is a high-performance, geo-distributed, and federated metadata lake that manages metadata across diverse sources, types, and regions. It offers unified metadata management, end-to-end data governance, direct metadata integration, geo-distribution support, multi-engine compatibility, and AI asset management.",
+    "summary_zh": "Apache Gravitino是一个高性能、地域分布式和联邦元数据湖，用于管理不同来源、类型和区域的元数据。它提供统一的元数据管理、端到端的数据治理、直接元数据集成、地域分布支持、多引擎兼容性和AI资产管理。",
+    "best_quote_en": "Manage diverse metadata sources through a single model and API (e.g., Hive, MySQL, HDFS, S3).",
+    "best_quote_zh": "通过单一模型和API管理多种元数据源（例如，Hive、MySQL、HDFS、S3）。"
   }]
