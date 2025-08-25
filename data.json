@@ -1098,4 +1098,60 @@
     "summary_zh": "Apache Gravitino是一个高性能、地域分布式和联邦元数据湖，用于管理不同来源、类型和区域的元数据。它提供统一的元数据管理、端到端的数据治理、直接元数据集成、地域分布支持、多引擎兼容性和AI资产管理。",
     "best_quote_en": "Manage diverse metadata sources through a single model and API (e.g., Hive, MySQL, HDFS, S3).",
     "best_quote_zh": "通过单一模型和API管理多种元数据源（例如，Hive、MySQL、HDFS、S3）。"
+  },{
+    "id": 60,
+    "title": "China is quietly upstaging America with its open models",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.economist.com/business/2025/08/21/china-is-quietly-upstaging-america-with-its-open-models\">https://www.economist.com/business/2025/08/21/china-is-quietly-upstaging-america-with-its-open-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45011355\">https://news.ycombinator.com/item?id=45011355</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.economist.com/business/2025/08/21/china-is-quietly-upstaging-america-with-its-open-models",
+    "tags": [
+      "china",
+      "ai",
+      "open source",
+      "llm",
+      "technology"
+    ],
+    "date": "2025-08-25",
+    "summary_en": "China's open-source LLMs are fiercely competing, posing a challenge to Western proprietary AI models. This 'Darwinian life-or-death struggle' should serve as a wake-up call for the West, highlighting China's advancements in AI technology.",
+    "summary_zh": "中国的开源大型语言模型正在激烈竞争，对西方的私有AI模型构成了挑战。这场“达尔文式的生死斗争”应该给西方敲响警钟，突显中国在人工智能技术方面的进步。",
+    "best_quote_en": "It is what Andrew Ng, a Stanford University-based AI boffin, recently called the “Darwinian life-or-death struggle” among builders of China’s more open large language models (LLMs).",
+    "best_quote_zh": "斯坦福大学的AI专家吴恩达最近称之为中国更开放的大型语言模型（LLM）构建者之间的“达尔文式的生死斗争”。"
+  },
+  {
+    "id": 61,
+    "title": "Neovim now natively supports inline competitions from LLMs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/neovim/neovim/pull/33972\">https://github.com/neovim/neovim/pull/33972</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45011335\">https://news.ycombinator.com/item?id=45011335</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/neovim/neovim/pull/33972",
+    "tags": [
+      "neovim",
+      "lsp",
+      "inline completion",
+      "llm",
+      "ai code completion"
+    ],
+    "date": "2025-08-25",
+    "summary_en": "Neovim now natively supports inline completions from LLMs, leveraging the LSP 3.18 specification. This feature displays a single completion candidate as virtual text, commonly used in AI code completion. Users can enable it and map a keybinding to apply completions, requiring an LSP server like copilot-language-server.",
+    "summary_zh": "Neovim现在原生支持来自LLM的内联补全，利用LSP 3.18规范。此功能将单个候选补全显示为虚拟文本，常用于AI代码补全。用户可以启用它并映射一个快捷键来应用补全，需要copilot-language-server等LSP服务器。",
+    "best_quote_en": "Unlike standard code completion, this feature displays only one candidate at a time as virtual text in the buffer, waiting to be applied.",
+    "best_quote_zh": "与标准的代码补全不同，这一特性每次只在缓冲区中以虚拟文本的形式显示一个候选补全，等待被应用。"
+  },
+  {
+    "id": 62,
+    "title": "Once Upon a Pipe in the West: A Working Adapter from HDMI to Gardena – Jhauser",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena\">https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45011219\">https://news.ycombinator.com/item?id=45011219</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena",
+    "tags": [
+      "hdmi",
+      "gardena",
+      "adapter",
+      "luna 3",
+      "sstv"
+    ],
+    "date": "2025-08-25",
+    "summary_en": "This article discusses a humorous and technically feasible, yet practically questionable, project: an adapter from HDMI to a Gardena garden hose connector. It draws parallels to the challenges faced during the Soviet Luna 3 mission in 1959, which successfully transmitted images of the far side of the moon using slow-scan television (SSTV) technology, overcoming limitations by using captured US spy balloon film.",
+    "summary_zh": "本文讨论了一个幽默且技术上可行，但实践上存疑的项目：从HDMI到Gardena花园软管连接器的适配器。文章将其与1959年苏联 Luna 3 任务面临的挑战相提并论，该任务成功地使用慢扫描电视（SSTV）技术传输了月球远侧的图像，并通过使用捕获的美国间谍气球胶片克服了局限性。",
+    "best_quote_en": "Wanting to convert signals from one format to another is in the nature of digital humans.",
+    "best_quote_zh": "想要转换信号从一种格式到另一种格式是数字人类的本性。"
   }]
