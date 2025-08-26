@@ -1154,4 +1154,79 @@
     "summary_zh": "本文讨论了一个幽默且技术上可行，但实践上存疑的项目：从HDMI到Gardena花园软管连接器的适配器。文章将其与1959年苏联 Luna 3 任务面临的挑战相提并论，该任务成功地使用慢扫描电视（SSTV）技术传输了月球远侧的图像，并通过使用捕获的美国间谍气球胶片克服了局限性。",
     "best_quote_en": "Wanting to convert signals from one format to another is in the nature of digital humans.",
     "best_quote_zh": "想要转换信号从一种格式到另一种格式是数字人类的本性。"
+  },{
+    "id": 63,
+    "title": "Silero VAD v6 Released",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/snakers4/silero-vad/releases/tag/v6.0\">https://github.com/snakers4/silero-vad/releases/tag/v6.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45023499\">https://news.ycombinator.com/item?id=45023499</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/snakers4/silero-vad/releases/tag/v6.0",
+    "tags": [
+      "vad",
+      "silero",
+      "voice activity detection",
+      "machine learning",
+      "audio processing"
+    ],
+    "date": "2025-08-26",
+    "summary_en": "Silero VAD v6 is released with improved quality, featuring 16% fewer errors on noisy real-life data and 11% fewer errors on multi-domain validation. The update includes various community contributions and a new training algorithm for higher robustness. Known issues persist with music containing voice-like instruments and very high-pitched voices.",
+    "summary_zh": "Silero VAD v6 发布，质量提升，在嘈杂的真实数据上错误率降低16%，在多领域验证中错误率降低11%。此次更新包含多个社区贡献和一个新的训练算法，提高了模型的鲁棒性。已知问题仍然存在于包含类人声乐器的音乐以及极高音调的声音中。",
+    "best_quote_en": "Improved quality; 16% less errors on noisy real-life data; 11% less errors on multi-domain validation.",
+    "best_quote_zh": "质量改进；在嘈杂的实际生活数据中减少了 16% 的错误；在多域验证中减少了 11% 的错误。"
+  },
+  {
+    "id": 64,
+    "title": "Japanese media groups sue Perplexity over alleged copyright infringement",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ft.com/content/79a88d1a-d914-4188-8792-0a20973b39a1\">https://www.ft.com/content/79a88d1a-d914-4188-8792-0a20973b39a1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45023458\">https://news.ycombinator.com/item?id=45023458</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+    "link": "https://www.ft.com/content/79a88d1a-d914-4188-8792-0a20973b39a1",
+    "tags": [
+      "ai",
+      "copyright",
+      "perplexity",
+      "media",
+      "lawsuit"
+    ],
+    "date": "2025-08-26",
+    "summary_en": "Japanese media groups are suing AI search engine Perplexity for alleged copyright infringement. The lawsuit revolves around the unauthorized use of copyrighted material by the AI platform.",
+    "summary_zh": "日本媒体集团起诉AI搜索引擎Perplexity，指控其侵犯版权。 这起诉讼围绕着该AI平台未经授权使用受版权保护的材料展开。",
+    "best_quote_en": "Japanese media groups sue AI search engine Perplexity over alleged copyright infringement.",
+    "best_quote_zh": "日本媒体集团起诉AI搜索引擎Perplexity，指控其侵犯版权。"
+  },
+  {
+    "id": 65,
+    "title": "Position Regarding the \"Chat Control\" EU Regulation Proposal",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://techblog.bozho.net/position-regarding-the-chat-control-eu-regulation-proposal/\">https://techblog.bozho.net/position-regarding-the-chat-control-eu-regulation-proposal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45023455\">https://news.ycombinator.com/item?id=45023455</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://techblog.bozho.net/position-regarding-the-chat-control-eu-regulation-proposal/",
+    "tags": [
+      "chat control",
+      "eu regulation",
+      "csam",
+      "encryption",
+      "privacy"
+    ],
+    "date": "2025-08-26",
+    "summary_en": "The author opposes the EU's \"chat control\" proposal, which would scan all messages for child sexual abuse material (CSAM), even in encrypted apps. He argues it enables mass surveillance, is technically flawed, and easily bypassed by criminals. He advocates for open-source, rigorously tested technology and highlights the risk of abuse for political censorship.",
+    "summary_zh": "作者反对欧盟的“聊天控制”提案，该提案将扫描所有消息中是否存在儿童性虐待材料（CSAM），即使在加密应用程序中也是如此。他认为这会滋生大规模监控，存在技术缺陷，并且容易被犯罪分子绕过。他提倡使用开源、经过严格测试的技术，并强调了滥用职权进行政治审查的风险。",
+    "best_quote_en": "Invasive measures against private correspondence, which create conditions for mass surveillance, must not be implemented.",
+    "best_quote_zh": "不得实施针对私人通信的侵入性措施，因为这些措施会为大规模监控创造条件。"
+  },
+  {
+    "id": 66,
+    "title": "Show HN: Built a tool to analyze the performance and risk of your IBKR portfolio",
+    "source": "Hackernews",
+    "desc": "<p>A portfolio analysis tool that helps active investors deeply understand what drives their performance and risk exposure. It can be connected with Interactive Brokers to have your data automatically updated.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45023420\">https://news.ycombinator.com/item?id=45023420</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ibviz.com",
+    "tags": [
+      "portfolio analysis",
+      "risk management",
+      "performance attribution",
+      "investment tool",
+      "ibkr"
+    ],
+    "date": "2025-08-26",
+    "summary_en": "IBviz is a tool that analyzes the performance and risk of IBKR portfolios. It offers 80+ visualizations, advanced analytics, and seamless integration. Features include performance attribution, risk analysis, asset composition, P&L breakdown, and historical data displays, helping investors gain insights into their portfolio's performance and risk factors.",
+    "summary_zh": "IBviz是一款分析IBKR投资组合表现和风险的工具。它提供80多种可视化方案、高级分析和无缝集成。功能包括业绩归因、风险分析、资产配置、损益分解和历史数据展示，帮助投资者深入了解其投资组合的表现和风险因素。",
+    "best_quote_en": "The Sharpe ratio compares excess returns to volatility, indicating if returns justify risk.",
+    "best_quote_zh": "夏普比率将超额收益与波动性进行比较，以此来表明收益是否合理地补偿了风险。"
   }]
