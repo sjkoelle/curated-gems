@@ -1229,4 +1229,79 @@
     "summary_zh": "IBviz是一款分析IBKR投资组合表现和风险的工具。它提供80多种可视化方案、高级分析和无缝集成。功能包括业绩归因、风险分析、资产配置、损益分解和历史数据展示，帮助投资者深入了解其投资组合的表现和风险因素。",
     "best_quote_en": "The Sharpe ratio compares excess returns to volatility, indicating if returns justify risk.",
     "best_quote_zh": "夏普比率将超额收益与波动性进行比较，以此来表明收益是否合理地补偿了风险。"
+  },{
+    "id": 67,
+    "title": "Ask HN: What to Learn for Math for Modeling?",
+    "source": "Hackernews",
+    "desc": "<p>parametric cubic curve<p>boundary representation<p>blending function<p>spline<p>b-spline<p>cubic bezier curve<p>de casteljau algorithm<p>I have been diving into these topics since few days and I have not understood anything. I tried peter shirley's textbook on Computer Graphics. Foley et al, Hearn baker etc...<p>It is clear to me that I lack the mathematics preriquisites for understanding this. Thus, I am deeply asking for resources that I can do to brush up. Me being a computer engineering graduate I have done math classes, it is just that I became like a calculator instead of understanding the logic behind doing the formulas and steps so need a short revision.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45036708\">https://news.ycombinator.com/item?id=45036708</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45036708",
+    "tags": [
+      "math",
+      "modeling",
+      "computer graphics",
+      "engineering",
+      "revision"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "The author, a computer engineering graduate, seeks resources to brush up on math skills required for understanding modeling topics like parametric cubic curves and splines. They feel they lack the mathematical prerequisites despite having taken math classes and want to revise the logic behind formulas.",
+    "summary_zh": "作者是一名计算机工程毕业生，正在寻找资源来提高理解参数立方曲线和样条等建模主题所需的数学技能。尽管上过数学课，但他们觉得自己缺乏数学先决条件，并且希望复习公式背后的逻辑。",
+    "best_quote_en": "I became like a calculator instead of understanding the logic behind doing the formulas and steps so need a short revision.",
+    "best_quote_zh": "我变得像一个计算器，而不是理解公式和步骤背后的逻辑，所以需要一个简短的复习。"
+  },
+  {
+    "id": 68,
+    "title": "Thrashing",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://exple.tive.org/blarg/2025/08/26/thrashing/\">https://exple.tive.org/blarg/2025/08/26/thrashing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45036704\">https://news.ycombinator.com/item?id=45036704</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://exple.tive.org/blarg/2025/08/26/thrashing/",
+    "tags": [
+      "leadership",
+      "management",
+      "productivity",
+      "accountability",
+      "culture"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "The author criticizes the common approach of blaming individuals for multitasking and lack of focus at work. They argue that these issues stem from poor management and leadership, which prioritize interruptions over focused work. Productivity tools are often misused as accountability tools, adding to the problem. Real change requires leadership to take responsibility for fostering a healthy operational culture.",
+    "summary_zh": "作者批评了将工作场所的多任务处理和注意力不集中归咎于个人的常见做法。 他们认为，这些问题源于糟糕的管理和领导，他们优先考虑的是中断而不是专注的工作。 生产力工具经常被误用为问责工具，从而加剧了问题。 真正的改变需要领导层承担起培养健康运营文化的责任。",
+    "best_quote_en": "Individual action won’t change systemic problems. Excusing failures of power this way is a kind of participatory gaslighting.",
+    "best_quote_zh": "个人的行动无法改变系统性问题。 以这种方式为权力失效开脱是一种参与式的精神操控。"
+  },
+  {
+    "id": 69,
+    "title": "Unveiling Ruby Debuggers: byebug, debug gem, and the Power of RubyMine",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.jetbrains.com/ruby/2025/08/unveiling-ruby-debuggers-byebug-debug-gem-and-the-power-of-rubymine/\">https://blog.jetbrains.com/ruby/2025/08/unveiling-ruby-debuggers-byebug-debug-gem-and-the-power-of-rubymine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45036701\">https://news.ycombinator.com/item?id=45036701</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.jetbrains.com/ruby/2025/08/unveiling-ruby-debuggers-byebug-debug-gem-and-the-power-of-rubymine/",
+    "tags": [
+      "ruby",
+      "debugger",
+      "rubymine",
+      "byebug",
+      "debug gem"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "This article compares Ruby debuggers like byebug, debug gem, and RubyMine's debugger, exploring their internal mechanisms, strengths, and limitations. It highlights the importance of debuggers in Ruby development based on RubyMine usage data and delves into how these debuggers work, including the use of TracePoint.",
+    "summary_zh": "本文比较了Ruby调试器，例如byebug、debug gem 和 RubyMine 的内置调试器，探讨了它们的内部机制、优势和局限性。基于RubyMine的使用数据，强调了调试器在Ruby开发中的重要性，并深入研究了这些调试器如何使用 TracePoint 等技术工作。",
+    "best_quote_en": "This demonstrates just how essential and fundamental the debugger has become for professional Ruby developers.",
+    "best_quote_zh": "这表明调试器对于专业的 Ruby 开发者而言已经变得多么重要和基础。"
+  },
+  {
+    "id": 70,
+    "title": "Researchers Are Already Leaving Meta's New Superintelligence Lab",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/\">https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45036694\">https://news.ycombinator.com/item?id=45036694</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/",
+    "tags": [
+      "meta",
+      "ai",
+      "openai",
+      "researchers",
+      "superintelligence"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "Several AI researchers have resigned from Meta's new superintelligence lab shortly after its launch, with some returning to OpenAI. This raises questions about the lab's stability and Meta's AI recruitment strategy despite offering high salaries. Meta is also losing other leaders like Chaya Nayak, Meta's director of generative AI product management, who is joining OpenAI.",
+    "summary_zh": "Meta新成立的超智能实验室在启动后不久，就有多名AI研究人员离职，部分人员返回OpenAI。 这引发了人们对该实验室稳定性的质疑，以及尽管Meta提供高薪，但其AI招聘策略是否奏效的问题。Meta也失去了其他领导者，例如Meta生成式AI产品管理总监Chaya Nayak，她将加入OpenAI。",
+    "best_quote_en": "It was a tough decision not to continue with the new Superintelligence TBD lab, especially given the talent and compute density.",
+    "best_quote_zh": "不继续留在新的超智能实验室是一个艰难的决定，尤其是考虑到那里的人才和计算密度。"
   }]
