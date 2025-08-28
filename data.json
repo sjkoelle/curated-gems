@@ -1304,4 +1304,98 @@
     "summary_zh": "Meta新成立的超智能实验室在启动后不久，就有多名AI研究人员离职，部分人员返回OpenAI。 这引发了人们对该实验室稳定性的质疑，以及尽管Meta提供高薪，但其AI招聘策略是否奏效的问题。Meta也失去了其他领导者，例如Meta生成式AI产品管理总监Chaya Nayak，她将加入OpenAI。",
     "best_quote_en": "It was a tough decision not to continue with the new Superintelligence TBD lab, especially given the talent and compute density.",
     "best_quote_zh": "不继续留在新的超智能实验室是一个艰难的决定，尤其是考虑到那里的人才和计算密度。"
+  },{
+    "id": 71,
+    "title": "10 Years of GKE",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://cloud.google.com/blog/products/containers-kubernetes/gke-gets-new-pricing-and-capabilities-on-10th-birthday\">https://cloud.google.com/blog/products/containers-kubernetes/gke-gets-new-pricing-and-capabilities-on-10th-birthday</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45049615\">https://news.ycombinator.com/item?id=45049615</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-gets-new-pricing-and-capabilities-on-10th-birthday",
+    "tags": [
+      "gke",
+      "kubernetes",
+      "containers",
+      "autopilot",
+      "pricing"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "GKE celebrates its 10th anniversary with updated pricing and new features. The platform shifts to a single paid tier, providing more features and flexibility. Autopilot is now available for every cluster, optimizing compute and making Kubernetes accessible. GKE supports various companies, including Moloco, Signify, and Anthropic, adapting to meet the evolving needs of innovative companies in the AI era.",
+    "summary_zh": "GKE迎来十周年，更新了定价并推出了新功能。平台转向单一付费层级，提供更多功能和灵活性。Autopilot现已可用于每个集群，优化计算并使Kubernetes更易于访问。GKE支持Moloco、Signify和Anthropic等公司，不断适应人工智能时代创新型企业不断变化的需求。",
+    "best_quote_en": "\"While containers make packaging apps easier, a powerful cluster manager and orchestration system is necessary to bring your workloads to production.\"",
+    "best_quote_zh": "“虽然容器使打包应用程序更容易，但一个强大的集群管理器和编排系统对于将您的工作负载投入生产是必不可少的。”"
+  },
+  {
+    "id": 72,
+    "title": "Show HN: precision asteroid orbital dynamics library",
+    "source": "Hackernews",
+    "desc": "<p>This is a Python (with Rust backend) library for high accuracy orbit calculation of the entire known catalog of asteroids. It is a full N-Body integrator, including lots of additional physics, such as relativistic effects, non-spherical gravitational fields of planets, masses of large asteroids, and a number of non-gravitational forces such as radiation pressure. The design goal is essentially JPL Horizons on your laptop, but all asteroids at once.<p>I began this project while I worked at Caltech on a NASA mission called NEO Surveyor (which is a space telescope designed to survey Near Earth Objects). It is being used by NEO Surveyor to predict previously known asteroids in images to reduce processing costs (since it is computationally expensive to process unknown asteroids). I wrote this generally enough that it is also being used by the SPHEREx and Roman space telescopes for a similar purpose.<p>I got it open sourced before I left caltech for a PhD, and I am continuing to develop it as a part of my PhD.<p>Here is a plot of my favorite group of asteroids, the Hildas, because of Jupiter their orbits are synchronized such that they make a triangle:<p><a href=\"https://dahlend.github.io/kete/auto_examples/plot_mpc_state.html#sphx-glr-auto-examples-plot-mpc-state-py\" rel=\"nofollow\">https://dahlend.github.io/kete/auto_examples/plot_mpc_state....</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45049612\">https://news.ycombinator.com/item?id=45049612</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/dahlend/kete",
+    "tags": [
+      "asteroid",
+      "orbital dynamics",
+      "simulation",
+      "minor planets",
+      "kete"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "Kete is a tool for simulating all-sky surveys of minor planets, including orbital dynamics and thermal modeling. It can operate on the entire MPC catalog and has been used to simulate NEO Surveyor missions. Key features include predicting visible objects for surveys and calculating close approaches like that of asteroid Apophis. It uses the ICRF reference frame and offers conversion tools and caching.",
+    "summary_zh": "Kete是一个用于模拟小行星全天巡视的工具，包括轨道动力学和热建模。它可以操作整个MPC目录，并已用于模拟NEO Surveyor任务。主要功能包括预测巡视中可见的物体和计算近距离接近，如小行星阿波菲斯。它使用ICRF参考系，并提供转换工具和缓存。",
+    "best_quote_en": "Kete can be used to answer many questions, for example, identifying all known asteroids inside of a given image.",
+    "best_quote_zh": "Kete可以用来回答许多问题，例如，识别给定图像中所有已知的小行星。"
+  },
+  {
+    "id": 73,
+    "title": "Oldest surviving Unix language program",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Dc_(computer_program)\">https://en.wikipedia.org/wiki/Dc_(computer_program)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45049605\">https://news.ycombinator.com/item?id=45049605</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Dc_(computer_program)",
+    "tags": [
+      "dc",
+      "unix",
+      "calculator",
+      "programming language",
+      "reverse polish notation"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "dc is the oldest surviving Unix language program, a cross-platform reverse-Polish calculator supporting arbitrary-precision arithmetic. Written in B at Bell Labs by Lorinda Cherry and Robert Morris, it predates even the C programming language. It uses a stack-based approach and features terse syntax, registers, strings, and macros. It was the first language to run on Bell Labs' PDP-11.",
+    "summary_zh": "dc是最古老的Unix语言程序，一个跨平台逆波兰计算器，支持任意精度算术。它由Lorinda Cherry和Robert Morris在贝尔实验室用B语言编写，甚至早于C语言。它使用基于堆栈的方法，并具有简洁的语法、寄存器、字符串和宏。它是第一个在贝尔实验室PDP-11上运行的语言。",
+    "best_quote_en": "dc is the oldest surviving Unix language program.",
+    "best_quote_zh": "dc是最古老的Unix语言程序。"
+  },
+  {
+    "id": 74,
+    "title": "On Continuous Test Improvement",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://dsyme.net/2025/08/27/on-continuous-test-improvement/\">https://dsyme.net/2025/08/27/on-continuous-test-improvement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45049603\">https://news.ycombinator.com/item?id=45049603</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://dsyme.net/2025/08/27/on-continuous-test-improvement/",
+    "tags": [
+      "continuous ai",
+      "test improvement",
+      "agentic workflows",
+      "software quality",
+      "technical debt"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "This article discusses Continuous Test Improvement using AI, particularly through agentic workflows. It highlights how AI can significantly enhance software quality by improving test coverage across diverse projects. The author shares an experiment improving test coverage for popular open-source libraries, emphasizing the potential for automatically addressing technical debt and improving software quality with modest investment and guidance.",
+    "summary_zh": "本文探讨了使用人工智能进行持续测试改进，特别是通过代理工作流程。它强调了人工智能如何通过提高各种项目的测试覆盖率来显著提高软件质量。作者分享了一项改进流行开源库测试覆盖率的实验，强调了通过适度的投资和指导自动解决技术债务和提高软件质量的潜力。",
+    "best_quote_en": "Untested software is poison to those who have to deal with it, maintain it, use it over the years.",
+    "best_quote_zh": "未经测试的软件对于那些多年来不得不处理、维护和使用它的人来说是毒药。"
+  },
+  {
+    "id": 75,
+    "title": "Top Gen AI Consumer Apps 2025",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://a16z.com/100-gen-ai-apps-5/\">https://a16z.com/100-gen-ai-apps-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45049599\">https://news.ycombinator.com/item?id=45049599</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://a16z.com/100-gen-ai-apps-5/",
+    "tags": [
+      "gen ai",
+      "consumer apps",
+      "ai assistants",
+      "china",
+      "google"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "The article analyzes the top 100 Gen AI consumer apps in 2025, highlighting the stabilization of the ecosystem. It notes the rise of AI-powered app generation and the performance of leading AI assistants like ChatGPT, Gemini, Grok, and Meta AI. Several Chinese AI apps are prominent on the web list due to restricted access to non-Chinese platforms in China.",
+    "summary_zh": "本文分析了2025年排名前100的Gen AI消费者应用程序，强调了生态系统的稳定。文章指出，AI驱动的应用程序生成正在兴起，并分析了ChatGPT、Gemini、Grok和Meta AI等领先AI助手的表现。由于中国对非中国平台的访问受限，一些中国AI应用程序在网络列表中表现突出。",
+    "best_quote_en": "The ecosystem is starting to stabilize, with 11 new names on the web list driven by traffic increases.",
+    "best_quote_zh": "生态系统开始趋于稳定，网络列表中有11个新名字是由流量增长驱动的。"
   }]
