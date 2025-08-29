@@ -1398,4 +1398,79 @@
     "summary_zh": "本文分析了2025年排名前100的Gen AI消费者应用程序，强调了生态系统的稳定。文章指出，AI驱动的应用程序生成正在兴起，并分析了ChatGPT、Gemini、Grok和Meta AI等领先AI助手的表现。由于中国对非中国平台的访问受限，一些中国AI应用程序在网络列表中表现突出。",
     "best_quote_en": "The ecosystem is starting to stabilize, with 11 new names on the web list driven by traffic increases.",
     "best_quote_zh": "生态系统开始趋于稳定，网络列表中有11个新名字是由流量增长驱动的。"
+  },{
+    "id": 76,
+    "title": "Building Semantic Related Posts with Ollama and Astro: A Complete Guide",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://reckoning.dev/posts/semantic-related-posts-ollama-astro\">https://reckoning.dev/posts/semantic-related-posts-ollama-astro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45061345\">https://news.ycombinator.com/item?id=45061345</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://reckoning.dev/posts/semantic-related-posts-ollama-astro",
+    "tags": [
+      "ollama",
+      "astro",
+      "semantic similarity",
+      "embeddings",
+      "bge-large"
+    ],
+    "date": "2025-08-29",
+    "summary_en": "This guide details building an intelligent related posts system using local AI embeddings with Ollama and the bge-large model. It addresses the limitations of traditional tag or date-based systems by understanding the meaning of content and finding semantic connections. The system architecture includes content extraction, preprocessing, embedding generation, similarity calculation, and a caching system for production-ready performance.",
+    "summary_zh": "本指南详细介绍了如何使用Ollama和bge-large模型，通过本地AI嵌入构建智能相关帖子系统。它通过理解内容含义并查找语义连接，解决了传统基于标签或日期的系统的局限性。系统架构包括内容提取、预处理、嵌入生成、相似度计算和一个用于生产就绪性能的缓存系统。",
+    "best_quote_en": "Semantic similarity using embeddings solves these problems by: Understanding conceptual relationships between topics, Finding connections across different writing styles, Discovering subtle thematic links, Working even when posts use different terminology.",
+    "best_quote_zh": "使用嵌入的语义相似性通过以下方式解决这些问题：理解主题之间的概念关系，找到不同写作风格之间的联系，发现微妙的主题链接，即使在使用不同术语的帖子中也能工作。"
+  },
+  {
+    "id": 77,
+    "title": "Some lesser known but useful CSS features",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://koolcodez.com/blog/useful-css-features/\">https://koolcodez.com/blog/useful-css-features/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45061321\">https://news.ycombinator.com/item?id=45061321</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://koolcodez.com/blog/useful-css-features/",
+    "tags": [
+      "css",
+      "web development",
+      "css properties",
+      "frontend",
+      "stylesheet"
+    ],
+    "date": "2025-08-29",
+    "summary_en": "This article introduces several lesser-known but useful CSS features that solve common web development problems elegantly. It covers properties like `accent-color`, `:has()`, `text-wrap: balance`, `scroll-snap-type`, `aspect-ratio`, `overscroll-behavior`, `inset`, and `gap`, providing solutions for styling form controls, parent selection, text balancing, scroll snapping, aspect ratio handling, scroll chaining, element positioning, and item spacing.",
+    "summary_zh": "本文介绍了一些鲜为人知但非常有用的 CSS 功能，可以优雅地解决常见的 Web 开发问题。 它涵盖了诸如 `accent-color`，`:has()`，`text-wrap: balance`，`scroll-snap-type`，`aspect-ratio`，`overscroll-behavior`，`inset` 和 `gap` 等属性，为表单控件样式设置，父选择器，文本平衡，滚动捕捉，宽高比处理，滚动链， 元素定位和项目间距提供了解决方案。",
+    "best_quote_en": "CSS has come a long way from just colors and borders. These days, a few well-chosen properties can replace entire JavaScript libraries, fix annoying layout shifts, and make your stylesheets much cleaner.",
+    "best_quote_zh": "CSS 已经从简单的颜色和边框发展了很多。现在，一些精心选择的属性可以替代整个 JavaScript 库，修复烦人的布局偏移，并使你的样式表更加简洁。"
+  },
+  {
+    "id": 78,
+    "title": "The A1200 NG is a new modern implementation of the A1200",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.a1200.com/index.php/the-a1200-ng/\">https://www.a1200.com/index.php/the-a1200-ng/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45061270\">https://news.ycombinator.com/item?id=45061270</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.a1200.com/index.php/the-a1200-ng/",
+    "tags": [
+      "a1200 ng",
+      "amibench",
+      "retro gaming",
+      "modern implementation",
+      "classic computer"
+    ],
+    "date": "2025-08-29",
+    "summary_en": "The A1200 NG is a new modern implementation of the A1200, featuring classic joystick ports, floppy drive support, HDMI output, and wireless internet. Updated software like OctaMED 8 and AmiBench are included. It offers a blend of classic operation with modern tools for HD video and MP3 music.",
+    "summary_zh": "A1200 NG 是 A1200 的全新現代化實現，具有經典搖桿端口、軟盤驅動器支持、HDMI 輸出和無線網絡。包含 OctaMED 8 和 AmiBench 等更新的軟件。它融合了經典操作與用於高清视频和 MP3 音乐的現代工具。",
+    "best_quote_en": "Despite it’s polished looks, it still retains the classic operation and familiar feel of it’s predecessors.",
+    "best_quote_zh": "儘管外觀精美，但它仍然保留了其前身的經典操作和熟悉的感覺。"
+  },
+  {
+    "id": 79,
+    "title": "AmiBrowser brings 21st century web to 20th century Amigas",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/08/28/amiga_web_browser_amibrowser/\">https://www.theregister.com/2025/08/28/amiga_web_browser_amibrowser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45061267\">https://news.ycombinator.com/item?id=45061267</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/08/28/amiga_web_browser_amibrowser/",
+    "tags": [
+      "amiga",
+      "emulation",
+      "browser",
+      "retrocomputing",
+      "amibrowser"
+    ],
+    "date": "2025-08-29",
+    "summary_en": "AmiBrowser brings modern web capabilities to retro Amiga systems using emulation. It runs on AmigaKit's A1200 NG, which uses an Orange Pi Zero 3 and Linux-based emulation with custom Amiga libraries. This setup allows the system to run a modern browser and other applications, taking advantage of faster graphics and processing, all while avoiding copyright issues from original Commodore OSes.",
+    "summary_zh": "AmiBrowser通过仿真技术将现代网页浏览功能带到经典的Amiga系统。它运行在AmigaKit的A1200 NG上，该系统使用Orange Pi Zero 3和基于Linux的仿真以及定制的Amiga库。这种设置允许系统运行现代浏览器和其他应用程序，利用更快的图形和处理能力，同时避免了原始Commodore操作系统的版权问题。",
+    "best_quote_en": "Thanks to the raw speed of modern emulation, it's possible to create an Amiga that's thousands of times faster than the original 1980s hardware.",
+    "best_quote_zh": "得益于现代仿真技术的原始速度，Amiga的创建速度可以比1980年代的原始硬件快数千倍。"
   }]
