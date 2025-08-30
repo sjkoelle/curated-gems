@@ -1473,4 +1473,98 @@
     "summary_zh": "AmiBrowser通过仿真技术将现代网页浏览功能带到经典的Amiga系统。它运行在AmigaKit的A1200 NG上，该系统使用Orange Pi Zero 3和基于Linux的仿真以及定制的Amiga库。这种设置允许系统运行现代浏览器和其他应用程序，利用更快的图形和处理能力，同时避免了原始Commodore操作系统的版权问题。",
     "best_quote_en": "Thanks to the raw speed of modern emulation, it's possible to create an Amiga that's thousands of times faster than the original 1980s hardware.",
     "best_quote_zh": "得益于现代仿真技术的原始速度，Amiga的创建速度可以比1980年代的原始硬件快数千倍。"
+  },{
+    "id": 80,
+    "title": "Gall's Law",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.prototypr.io/galls-law-93c8ef8b651e\">https://blog.prototypr.io/galls-law-93c8ef8b651e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45072758\">https://news.ycombinator.com/item?id=45072758</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.prototypr.io/galls-law-93c8ef8b651e",
+    "tags": [
+      "complex systems",
+      "system design",
+      "galls law",
+      "simplicity",
+      "evolution"
+    ],
+    "date": "2025-08-30",
+    "summary_en": "Gall's Law states that complex systems that work have evolved from simple systems. Systems designed from scratch rarely work and can't be fixed easily. Start small, test assumptions, and focus on the core before details. Prioritize a conceptual model over the UI to avoid getting bogged down in non-critical issues.",
+    "summary_zh": "Gall法则指出，有效的复杂系统通常是从简单的系统演变而来。从头设计的复杂系统很少有效，且难以修复。从小处着手，测试假设，并在关注细节前专注于核心。优先考虑概念模型而非用户界面，以避免陷入非关键问题。",
+    "best_quote_en": "A complex system that works is invariably found to have evolved from a simple system that worked.",
+    "best_quote_zh": "一个有效的复杂系统总是从一个有效的简单系统演变而来。"
+  },
+  {
+    "id": 81,
+    "title": "Efficient Deep Learning Book",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://efficientdlbook.com/\">https://efficientdlbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45072738\">https://news.ycombinator.com/item?id=45072738</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://efficientdlbook.com/",
+    "tags": [
+      "efficient deep learning",
+      "model optimization",
+      "resource reduction",
+      "deep learning",
+      "model compression"
+    ],
+    "date": "2025-08-30",
+    "summary_en": "This book provides algorithms and techniques for efficient deep learning, focusing on reducing resource usage (model size, latency, training time, data, manual involvement) while improving quality (accuracy, precision, recall). Covering fundamentals and practical know-how, it equips readers to optimize model training and deployment workflows using less resources. The book dives into popular models, infrastructure, and hardware, with projects to test skills.",
+    "summary_zh": "本书提供了高效深度学习的算法和技术，重点在于减少资源使用（模型大小、延迟、训练时间、数据、人工参与），同时提高质量（准确性、精度、召回率等）。内容涵盖基础知识和实践技能，旨在帮助读者优化模型训练和部署的工作流程，使用更少的资源。本书深入探讨了流行的模型、基础设施和硬件，并包含项目来测试技能。",
+    "best_quote_en": "What if you could make your models more efficient: use less resources (model size, latency, training time, data, manual involvement) and deliver better quality (accuracy, precision, recall, etc.).",
+    "best_quote_zh": "如果你能让你的模型更有效率：使用更少的资源（模型大小、延迟、训练时间、数据、人工参与）并提供更好的质量（准确性、精度、召回率等），那会怎么样？"
+  },
+  {
+    "id": 82,
+    "title": "The Dirty Secret of Coding Agents",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://medium.com/@vsh1818/the-dirty-secret-of-coding-agents-5777332e3052\">https://medium.com/@vsh1818/the-dirty-secret-of-coding-agents-5777332e3052</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45072730\">https://news.ycombinator.com/item?id=45072730</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://medium.com/@vsh1818/the-dirty-secret-of-coding-agents-5777332e3052",
+    "tags": [
+      "coding agents",
+      "context engineering",
+      "hallucinations",
+      "ai",
+      "llm"
+    ],
+    "date": "2025-08-30",
+    "summary_en": "Coding agents often fail due to 'dirty' context, including outdated or contradictory information. This leads to hallucinations and errors. Managing context like infrastructure is crucial, involving filtering noise, continuous monitoring, and adapting to team practices. Companies prioritizing context engineering will succeed in scaling agents.",
+    "summary_zh": "编码智能体经常因为“脏”上下文而失败，这些上下文包含过期或矛盾的信息。这会导致幻觉和错误。像管理基础设施一样管理上下文至关重要，包括过滤噪声、持续监控和适应团队实践。优先考虑上下文工程的公司将成功扩展智能体。",
+    "best_quote_en": "Your agent isn’t getting dumber. Its memory is getting dirtier.",
+    "best_quote_zh": "你的智能体不是变笨了，而是它的记忆变得更脏了。"
+  },
+  {
+    "id": 83,
+    "title": "What made the Amiga \"Genlock-able\"?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/22320/what-made-the-amiga-genlock-able\">https://retrocomputing.stackexchange.com/questions/22320/what-made-the-amiga-genlock-able</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45072717\">https://news.ycombinator.com/item?id=45072717</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://retrocomputing.stackexchange.com/questions/22320/what-made-the-amiga-genlock-able",
+    "tags": [
+      "amiga",
+      "genlock",
+      "video",
+      "hardware",
+      "synchronization"
+    ],
+    "date": "2025-08-30",
+    "summary_en": "The Amiga's genlock capability stemmed from two key features: the ability to use an external clock source as the system clock, and the ability to switch the video chip's horizontal and vertical sync pins to inputs from an external source. This allowed the Amiga to synchronize with external video signals, making it suitable for video production.",
+    "summary_zh": "Amiga的Genlock能力源于两个关键特性：使用外部时钟源作为系统时钟的能力，以及将视频芯片的水平和垂直同步引脚切换为来自外部源的输入的能力。这使得Amiga能够与外部视频信号同步，适用于视频制作。",
+    "best_quote_en": "That is why the Amiga video chip has a software controllable bit (ERSY in BPLCON0 register) to switch both the HSYNC and VSYNC pins to inputs, so that a device on the video connector can drive the sync signals into video chip which can then generate video according to external sync signals.",
+    "best_quote_zh": "这就是为什么Amiga视频芯片有一个软件可控位(BPLCON0寄存器中的ERSY)来切换HSYNC和VSYNC引脚到输入，以便视频连接器上的设备可以将同步信号驱动到视频芯片中，然后视频芯片可以根据外部同步信号生成视频。"
+  },
+  {
+    "id": 84,
+    "title": "Situational Awareness: The Decade Ahead (2024)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://situational-awareness.ai/\">https://situational-awareness.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45072686\">https://news.ycombinator.com/item?id=45072686</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://situational-awareness.ai/",
+    "tags": [
+      "agi",
+      "superintelligence",
+      "ai",
+      "national security",
+      "compute"
+    ],
+    "date": "2025-08-30",
+    "summary_en": "The essay discusses the rapid advancements in AI, particularly the race towards AGI and superintelligence, driven by massive investments in compute power. It highlights the potential for AI to surpass human intelligence within the decade and the associated challenges in security, alignment, and geopolitical competition. The author suggests that the US government will eventually launch a project to control superintelligence.",
+    "summary_zh": "本文讨论了人工智能的快速发展，特别是AGI和超智能的竞赛，这背后是由对计算能力的大规模投资驱动的。文章强调了人工智能在本十年内超越人类智能的潜力，以及在安全性、对齐和地缘政治竞争中相关的挑战。作者认为美国政府最终将会启动一个项目来控制超智能。",
+    "best_quote_en": "By the end of the decade, they will be smarter than you or I; we will have superintelligence, in the true sense of the word.",
+    "best_quote_zh": "到本十年末，它们将比你我更聪明；我们将拥有真正意义上的超智能。"
   }]
