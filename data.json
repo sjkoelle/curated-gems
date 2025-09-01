@@ -1623,4 +1623,98 @@
     "summary_zh": "这是一个爱尔兰人不落俗套的职业道路的故事。从体力劳动到创业，再到成为一名专业的作曲家，他最终成为一家价值数十亿美元的公司的执行官，展示了在多样化的经验中展现出的韧性、适应性和持续学习。",
     "best_quote_en": "Realise that not all the smartest people you will meet in life are in a university — regardless of what your professors seemed to think.",
     "best_quote_zh": "意识到你一生中遇到的最聪明的人并不都在大学里——不管你的教授们怎么想。"
+  },{
+    "id": 88,
+    "title": "EM Tools for Python",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.emerge-software.com\">https://www.emerge-software.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45090514\">https://news.ycombinator.com/item?id=45090514</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.emerge-software.com",
+    "tags": [
+      "electromagnetic simulation",
+      "fem solver",
+      "python",
+      "emerge",
+      "optimization"
+    ],
+    "date": "2025-09-01",
+    "summary_en": "EMerge is a Python project offering free electromagnetic simulation tools. Its goal is to be the easiest to use FEM solver by simplifying implementation options, minimizing dependencies, and providing direct access to simulation data. It allows custom optimization and streamlined pre- and post-processing.",
+    "summary_zh": "EMerge是一个Python项目，提供免费的电磁仿真工具。其目标是通过简化实现选项、最小化依赖关系并提供对仿真数据的直接访问，成为最易于使用的有限元求解器，从而允许自定义优化和简化的前后处理。",
+    "best_quote_en": "With EMerge, you have direct access to all the simulation data, making post-processing and visualization as intuitive as any other Python computation.",
+    "best_quote_zh": "使用EMerge，您可以直接访问所有仿真数据，使后处理和可视化与任何其他Python计算一样直观。"
+  },
+  {
+    "id": 89,
+    "title": "Research roundup: \"jelly ice,\" regenerating snail eyes and more",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/\">https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45090499\">https://news.ycombinator.com/item?id=45090499</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/",
+    "tags": [
+      "science",
+      "shroud of turin",
+      "3d reconstruction",
+      "forgery",
+      "medieval history"
+    ],
+    "date": "2025-09-01",
+    "summary_en": "This article summarizes interesting scientific stories, including a 3D digital reconstruction of the Shroud of Turin, plants glowing in different colors via injected phosphors, a shape-changing antenna, and snails that can regenerate their eyeballs. The Shroud of Turin reconstruction suggests it's a medieval forgery, further supported by historical skepticism.",
+    "summary_zh": "本文总结了一些有趣的科学故事，包括都灵裹尸布的3D数字重建、通过注入磷光体使植物发出不同颜色的光、一种形状可变的触角，以及能够再生眼球的蜗牛。对都灵裹尸布的重建表明它是一件中世纪的赝品，历史上的怀疑论进一步支持了这一观点。",
+    "best_quote_en": "It was certainly never draped around an actual body.",
+    "best_quote_zh": "它肯定从未包裹过真正的尸体。"
+  },
+  {
+    "id": 90,
+    "title": "Marketing Is",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://world.hey.com/jason/marketing-is-8d39f651\">https://world.hey.com/jason/marketing-is-8d39f651</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45090444\">https://news.ycombinator.com/item?id=45090444</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://world.hey.com/jason/marketing-is-8d39f651",
+    "tags": [
+      "marketing",
+      "enthusiasm",
+      "brand",
+      "communication",
+      "sincerity"
+    ],
+    "date": "2025-09-01",
+    "summary_en": "Marketing, at its core, is a transfer of enthusiasm. When genuine passion fuels your work, it creates a lasting impact – a brand in action. Conversely, insincerity and empty promises lead to distrust. Everything communicates and therefore markets, for better or worse. Even functionality stems from someone's initial care and dedication.",
+    "summary_zh": "营销的本质是热情的传递。真正的热情能创造持久的影响，形成动态的品牌。相反，虚伪的承诺会导致不信任。一切都在沟通，因此也在营销，不论好坏。即使是功能性也源于最初的投入和奉献。",
+    "best_quote_en": "Just like you can't not communicate, you can't not market. Everything is marketing.",
+    "best_quote_zh": "正如你无法停止沟通一样，你也无法停止营销。一切皆营销。"
+  },
+  {
+    "id": 91,
+    "title": "Convert pixels to inches online for free",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pixelstoinches.com/\">https://pixelstoinches.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45090442\">https://news.ycombinator.com/item?id=45090442</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://pixelstoinches.com/",
+    "tags": [
+      "pixels",
+      "inches",
+      "converter",
+      "dpi",
+      "ppi"
+    ],
+    "date": "2025-09-01",
+    "summary_en": "This free online tool converts pixels to inches easily, supporting image uploads for automatic DPI/PPI detection. It offers separate modes for screens and printers, providing accurate conversions for web design, graphic design, and print preparation. The tool features real-time conversion, copy functionality, and works on all devices without registration.",
+    "summary_zh": "这个免费的在线工具可以轻松地将像素转换为英寸，并支持上传图片以自动检测DPI/PPI。它为屏幕和打印机提供单独的模式，为网页设计，图形设计和打印准备提供准确的转换。该工具具有实时转换、复制功能，无需注册即可在所有设备上使用。",
+    "best_quote_en": "Our free pixel to inch converter is the ultimate tool for designers, developers, and digital professionals.",
+    "best_quote_zh": "我们免费的像素到英寸转换器是设计师、开发人员和数字专业人士的终极工具。"
+  },
+  {
+    "id": 92,
+    "title": "Good Bye NixOS, Hello Debian (Again)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://karl-voit.at/2025/08/30/end-of-my-nixos/\">https://karl-voit.at/2025/08/30/end-of-my-nixos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45090423\">https://news.ycombinator.com/item?id=45090423</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://karl-voit.at/2025/08/30/end-of-my-nixos/",
+    "tags": [
+      "nixos",
+      "debian",
+      "python",
+      "configuration",
+      "linux"
+    ],
+    "date": "2025-09-01",
+    "summary_en": "The author details their experience with NixOS, citing difficulties in maintaining configurations and running Python scripts. Despite its advantages, they found NixOS required too much expertise. They switched back to Debian due to Python compatibility issues and difficulties in defining custom setups, finding NixOS unsuitable for their needs.",
+    "summary_zh": "作者详细介绍了他们使用NixOS的经验，指出了维护配置和运行Python脚本的困难。尽管NixOS有其优点，但作者认为它需要过多的专业知识。由于Python兼容性问题和定义自定义设置的困难，他们切换回了Debian，发现NixOS不适合他们的需求。",
+    "best_quote_en": "In my opinion, you really need to become a Nix wizard in order to maintain a system configuration within NixOS. And this is not a weekend project. This seems more like a multi-month or even a lifetime achievement to me.",
+    "best_quote_zh": "在我看来，你真的需要成为一个Nix专家才能在NixOS中维护系统配置。这不仅仅是一个周末项目，这似乎更像是一个需要几个月甚至终身才能完成的成就。"
   }]
