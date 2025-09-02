@@ -1717,4 +1717,60 @@
     "summary_zh": "作者详细介绍了他们使用NixOS的经验，指出了维护配置和运行Python脚本的困难。尽管NixOS有其优点，但作者认为它需要过多的专业知识。由于Python兼容性问题和定义自定义设置的困难，他们切换回了Debian，发现NixOS不适合他们的需求。",
     "best_quote_en": "In my opinion, you really need to become a Nix wizard in order to maintain a system configuration within NixOS. And this is not a weekend project. This seems more like a multi-month or even a lifetime achievement to me.",
     "best_quote_zh": "在我看来，你真的需要成为一个Nix专家才能在NixOS中维护系统配置。这不仅仅是一个周末项目，这似乎更像是一个需要几个月甚至终身才能完成的成就。"
+  },{
+    "id": 93,
+    "title": "AI Effect",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/AI_effect\">https://en.wikipedia.org/wiki/AI_effect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45100232\">https://news.ycombinator.com/item?id=45100232</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/AI_effect",
+    "tags": [
+      "ai effect",
+      "artificial intelligence",
+      "machine learning",
+      "cognitive science",
+      "technology"
+    ],
+    "date": "2025-09-02",
+    "summary_en": "The AI effect describes the phenomenon where AI achievements are dismissed as not 'real' intelligence. When AI solves a problem, it's often seen as just another computation, and the definition of AI or intelligence is adjusted to exclude these accomplishments. AI technologies are integrated into various fields without being explicitly labeled as AI.",
+    "summary_zh": "“AI效应”指的是人们倾向于将人工智能的成就视为“非真正的”智能。当人工智能解决一个问题时，它通常被看作是另一种计算，并且人工智能或智能的定义被调整为排除这些成就。人工智能技术已集成到各个领域，但未明确标为人工智能。",
+    "best_quote_en": "It's part of the history of the field of artificial intelligence that every time somebody figured out how to make a computer do something—play good checkers, solve simple but relatively informal problems—there was a chorus of critics to say, 'that's not thinking.'",
+    "best_quote_zh": "人工智能领域历史的一部分是，每当有人弄清楚如何让计算机做某事——下好跳棋，解决简单但相对非正式的问题——总会有一群评论家说，‘那不是思考’。"
+  },
+  {
+    "id": 94,
+    "title": "Yes, Cash Transfers Work",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/archive/2025/08/cash-transfer-economic-growth/684028/\">https://www.theatlantic.com/ideas/archive/2025/08/cash-transfer-economic-growth/684028/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45100222\">https://news.ycombinator.com/item?id=45100222</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.theatlantic.com/ideas/archive/2025/08/cash-transfer-economic-growth/684028/",
+    "tags": [
+      "cash transfers",
+      "poverty",
+      "social security",
+      "guaranteed income",
+      "economic policy"
+    ],
+    "date": "2025-09-02",
+    "summary_en": "The article discusses the effectiveness of cash transfer programs in alleviating poverty. While some recent studies show limited improvements in mental health, stress levels, and employment, decades of research suggest cash, especially for infants and children, effectively reduces poverty. The author argues that the limited impact of recent programs might be due to their implementation during the pandemic when families received other forms of aid.",
+    "summary_zh": "文章探讨了现金转移支付项目在缓解贫困方面的有效性。虽然最近的一些研究表明，这些项目在改善心理健康、缓解压力和促进就业方面的效果有限，但数十年的研究表明，现金，尤其是针对婴幼儿的现金，能够有效减少贫困。作者认为，最近的项目效果有限可能是因为它们在疫情期间实施，当时家庭已经收到了其他形式的援助。",
+    "best_quote_en": "You give people money; they have money.",
+    "best_quote_zh": "你给人们钱，他们就有钱了。"
+  },
+  {
+    "id": 95,
+    "title": "TIL: Setting Environment Variables for Pytest",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://daniel.feldroy.com/posts/til-2025-09-setting-environment-variables-for-pytest\">https://daniel.feldroy.com/posts/til-2025-09-setting-environment-variables-for-pytest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45100216\">https://news.ycombinator.com/item?id=45100216</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://daniel.feldroy.com/posts/til-2025-09-setting-environment-variables-for-pytest",
+    "tags": [
+      "python",
+      "testing",
+      "pytest",
+      "environment variables",
+      "pytest-env"
+    ],
+    "date": "2025-09-02",
+    "summary_en": "This article introduces how to set environment variables for pytest using the pytest-env package. It provides a cleaner and more manageable way than directly modifying os.environ. The configuration is done in pyproject.toml, making tests run in a controlled environment, especially useful for API SDK library testing.",
+    "summary_zh": "本文介绍了如何使用 pytest-env 包为 pytest 设置环境变量。与直接修改 os.environ 相比，它提供了一种更简洁、更易于管理的方式。配置在 pyproject.toml 中完成，使测试在受控环境中运行，这对于 API SDK 库测试尤其有用。",
+    "best_quote_en": "Since a lot of API SDK libraries use environment variables for configuration, this is a great way to ensure your tests run in a controlled environment.",
+    "best_quote_zh": "由于许多 API SDK 库使用环境变量进行配置，因此这是确保测试在受控环境中运行的好方法。"
   }]
