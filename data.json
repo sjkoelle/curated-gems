@@ -1773,4 +1773,41 @@
     "summary_zh": "本文介绍了如何使用 pytest-env 包为 pytest 设置环境变量。与直接修改 os.environ 相比，它提供了一种更简洁、更易于管理的方式。配置在 pyproject.toml 中完成，使测试在受控环境中运行，这对于 API SDK 库测试尤其有用。",
     "best_quote_en": "Since a lot of API SDK libraries use environment variables for configuration, this is a great way to ensure your tests run in a controlled environment.",
     "best_quote_zh": "由于许多 API SDK 库使用环境变量进行配置，因此这是确保测试在受控环境中运行的好方法。"
+  },{
+    "id": 96,
+    "title": "Apple's Assault on Standards",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://infrequently.org/2025/09/apples-crimes-against-the-internet-community/\">https://infrequently.org/2025/09/apples-crimes-against-the-internet-community/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45113304\">https://news.ycombinator.com/item?id=45113304</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://infrequently.org/2025/09/apples-crimes-against-the-internet-community/",
+    "tags": [
+      "apple",
+      "standards",
+      "interoperability",
+      "monopoly",
+      "internet"
+    ],
+    "date": "2025-09-03",
+    "summary_en": "The article critiques Apple's alleged undermining of internet standards through monopolistic practices, impacting interoperability and user power. It emphasizes the importance of voluntary adoption and standardization for fostering competition and preventing vendor dominance, arguing Apple exploits security and privacy as a false front for centralization, damaging open ecosystems and innovation.",
+    "summary_zh": "本文批判了苹果公司涉嫌通过垄断行为破坏互联网标准的行为，影响了互操作性和用户权力。文章强调了自愿采用和标准化对于促进竞争和防止供应商主导的重要性，认为苹果利用安全和隐私作为中央集权的不实幌子，损害了开放的生态系统和创新。",
+    "best_quote_en": "\"How can we so organize political institutions that bad or incompetent rulers can be prevented from doing too much damage?\"",
+    "best_quote_zh": "“我们如何才能组织政治制度，使糟糕或无能的统治者无法造成太大的损害？”"
+  },
+  {
+    "id": 97,
+    "title": "Contrib Cal: Physical GitHub Contribution Calendar",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.contrib-cal.com/\">https://www.contrib-cal.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45113264\">https://news.ycombinator.com/item?id=45113264</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.contrib-cal.com/",
+    "tags": [
+      "github",
+      "led",
+      "raspberry pi",
+      "open source",
+      "hardware"
+    ],
+    "date": "2025-09-03",
+    "summary_en": "Contrib Cal is a physical GitHub contribution calendar that displays coding activity with LEDs. It's open-source, hackable, and suitable for developers who want to visualize their commit streak, need reminders, or enjoy hardware hacking. Features include a 3D-printed case, customizable LEDs displaying weather, and integrations like Tailscale and Pi-hole.",
+    "summary_zh": "Contrib Cal是一个实体GitHub贡献日历，通过LED灯显示编码活动。它是开源的、可定制的，适用于想要可视化提交记录、需要提醒或喜欢硬件黑客的开发者。功能包括3D打印外壳、可定制的LED天气显示，以及Tailscale和Pi-hole等集成。",
+    "best_quote_en": "A glowing, hackable GitHub calendar that transforms your coding activity into a physical light display.",
+    "best_quote_zh": "一个发光的、可定制的GitHub日历，将你的编码活动转化为一个实体灯光展示。"
   }]
