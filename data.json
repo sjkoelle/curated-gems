@@ -1810,4 +1810,98 @@
     "summary_zh": "Contrib Cal是一个实体GitHub贡献日历，通过LED灯显示编码活动。它是开源的、可定制的，适用于想要可视化提交记录、需要提醒或喜欢硬件黑客的开发者。功能包括3D打印外壳、可定制的LED天气显示，以及Tailscale和Pi-hole等集成。",
     "best_quote_en": "A glowing, hackable GitHub calendar that transforms your coding activity into a physical light display.",
     "best_quote_zh": "一个发光的、可定制的GitHub日历，将你的编码活动转化为一个实体灯光展示。"
+  },{
+    "id": 98,
+    "title": "Ads Are a Positional Good",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://matklad.github.io/2025/08/30/ads-are-a-positional-good.html\">https://matklad.github.io/2025/08/30/ads-are-a-positional-good.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45124803\">https://news.ycombinator.com/item?id=45124803</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://matklad.github.io/2025/08/30/ads-are-a-positional-good.html",
+    "tags": [
+      "advertising",
+      "positional good",
+      "economics",
+      "competition",
+      "attention"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "The author argues that advertising is primarily a positional good, where its value lies in having more of it than competitors. Companies spend heavily on ads not to increase overall demand, but to influence consumer choices between brands. This leads to competitive spending that redirect value and harms human attention.",
+    "summary_zh": "作者认为广告主要是一种定位商品，其价值在于比竞争对手拥有更多。公司在广告上大量支出并非为了增加整体需求，而是为了影响消费者在品牌之间的选择。这导致了竞争性支出，转移了价值，并损害了人们的注意力。",
+    "best_quote_en": "While advertising creates some value directly, by informing customers of their options, I think that the bulk of ads is pure competitive value destruction, which redirects surplus value created by productive economic activity to companies hosting advertisement battlegrounds, with human attention being merely a collateral damage.",
+    "best_quote_zh": "虽然广告通过告知客户他们的选择而直接创造了一些价值，但我认为大部分广告都是纯粹的竞争性价值破坏，它将生产性经济活动创造的剩余价值转移到主办广告战场的公司，而人类的注意力仅仅是附带损害。"
+  },
+  {
+    "id": 99,
+    "title": "Common artificial sweeteners linked to cognitive decline in large study",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.psypost.org/common-artificial-sweeteners-linked-to-cognitive-decline-in-large-study/\">https://www.psypost.org/common-artificial-sweeteners-linked-to-cognitive-decline-in-large-study/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45124786\">https://news.ycombinator.com/item?id=45124786</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.psypost.org/common-artificial-sweeteners-linked-to-cognitive-decline-in-large-study/",
+    "tags": [
+      "artificial sweeteners",
+      "cognitive decline",
+      "memory",
+      "brain health",
+      "diabetes"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "A study found that regular consumption of artificial sweeteners is linked to cognitive decline. Monitoring over 12,000 adults showed those consuming more sweeteners had steeper declines in verbal fluency, memory, and cognition, especially those under 60 or with diabetes. Aspartame, saccharin, and others were implicated, suggesting a need for caution despite being viewed as healthy sugar alternatives.",
+    "summary_zh": "一项研究表明，经常食用人造甜味剂与认知能力下降有关。对超过12000名成年人的监测显示，食用更多甜味剂的人在语言流畅性、记忆力和认知方面下降更为明显，尤其是在60岁以下或患有糖尿病的人群中。阿斯巴甜、糖精等被牵涉其中，表明尽管它们被视为健康的糖替代品，仍需谨慎对待。",
+    "best_quote_en": "Low- and no-calorie sweeteners are often seen as a healthy alternative to sugar, however our findings suggest certain sweeteners may have negative effects on brain health over time.",
+    "best_quote_zh": "低热量和无热量甜味剂通常被认为是糖的健康替代品，但我们的研究结果表明，某些甜味剂可能随着时间的推移对大脑健康产生负面影响。"
+  },
+  {
+    "id": 100,
+    "title": "Show HN: Super Web Scraper – The Ultimate Data Extraction Tool",
+    "source": "Hackernews",
+    "desc": "<p>Super Web Scraper  is your all-in-one solution for effortless web scraping, lead generation, and data extraction.\nWith just one click, you can extract emails, phone numbers, addresses, images, links, product details, and more from any website. No coding required. Fast, accurate, and powerful.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45124784\">https://news.ycombinator.com/item?id=45124784</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://chromewebstore.google.com/detail/super-web-scraper/clbfjjjpggemlnkejbamagccenbikafd",
+    "tags": [
+      "web scraping",
+      "data extraction",
+      "lead generation",
+      "automation",
+      "chrome extension"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "Super Web Scraper is a one-click solution for web scraping, lead generation, and data extraction. It allows users to extract emails, phone numbers, images, and more from any website without coding. Key features include bulk page scraping, image downloading, and data export to CSV, Excel, or Google Sheets. It supports scraping various data like emails, phone numbers, business details and e-commerce product data, benefitting B2B marketers, sales teams, and researchers.",
+    "summary_zh": "Super Web Scraper 是一款一键式网页抓取、潜在客户开发和数据提取解决方案。它允许用户无需编码即可从任何网站提取电子邮件、电话号码、图像等。主要功能包括批量页面抓取、图像下载以及将数据导出到 CSV、Excel 或 Google Sheets。它支持抓取各种数据，如电子邮件、电话号码、商业详情和电子商务产品数据，使 B2B 营销人员、销售团队和研究人员受益。",
+    "best_quote_en": "Supercharge your web scraping, lead generation, and data collection with Super Web Scraper.",
+    "best_quote_zh": "使用 Super Web Scraper 加速您的网页抓取、潜在客户开发和数据收集。"
+  },
+  {
+    "id": 101,
+    "title": "VLLM: Anatomy of a High-Throughput LLM Inference System",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.aleksagordic.com/blog/vllm\">https://www.aleksagordic.com/blog/vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45124771\">https://news.ycombinator.com/item?id=45124771</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.aleksagordic.com/blog/vllm",
+    "tags": [
+      "vllm",
+      "llm inference",
+      "high-throughput",
+      "paged attention",
+      "continuous batching"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "This article introduces the core system components and advanced features of a high-throughput LLM inference system, focusing on vLLM. It covers vLLM's engine, advanced features like paged attention and continuous batching, scaling strategies, serving layer, and benchmarking. It suits those interested in LLM engines and contributing to vLLM or SGLang.",
+    "summary_zh": "本文介绍了高吞吐量LLM推理系统的核心系统组件和高级功能，重点介绍了vLLM。涵盖了vLLM的引擎，诸如分页注意力和连续批处理之类的高级功能，扩展策略，服务层和基准测试。适用于对LLM引擎感兴趣以及为vLLM或SGLang做出贡献的人。",
+    "best_quote_en": "The LLM engine is the fundamental building block of vLLM. On its own, it already enables high-throughput inference - but only in an offline setting.",
+    "best_quote_zh": "LLM引擎是vLLM的基本构建块。就其本身而言，它已经可以实现高吞吐量推理-但仅在离线环境中。"
+  },
+  {
+    "id": 102,
+    "title": "A variation of the Secretary Problem to guarantee high reliability",
+    "source": "Hackernews",
+    "desc": "<p>Hello,<p>In the Secretary Problem, one tries in a single pass to pick the best candidate of an unknown market. Overall, the approach works well, but can lead to a random result in some cases.<p>Here is an alternative take that proposes to pick a \"pretty good\" candidate with high reliability (e.g. 99%), also in a single pass:<p>https://glat.info/sos99/<p>Feedback welcome. Also, if you think there is a better place to publish this, suggestions are welcome.<p>Guillaume</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45124755\">https://news.ycombinator.com/item?id=45124755</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45124755",
+    "tags": [
+      "secretary problem",
+      "algorithm",
+      "reliability",
+      "optimization",
+      "single pass"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "The author presents an alternative to the Secretary Problem, aiming to select a \"pretty good\" candidate with high reliability (e.g., 99%) in a single pass. The approach addresses the randomness issue of the original problem. Feedback and suggestions for better publication venues are welcome.",
+    "summary_zh": "作者提出了秘书问题的一个变体，旨在通过一次性选择，以高可靠性（例如 99%）选择一个“相当不错的”候选人。该方法解决了原始问题的随机性问题。 欢迎提供反馈和关于更好发布场所的建议。",
+    "best_quote_en": "Here is an alternative take that proposes to pick a \"pretty good\" candidate with high reliability (e.g. 99%), also in a single pass.",
+    "best_quote_zh": "这里有一个替代方案，建议通过一次性选择，以高可靠性（例如 99%）选择一个“相当不错的”候选人。"
   }]
