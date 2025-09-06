@@ -1979,4 +1979,41 @@
     "summary_zh": "`：fiber_concurrency`插件能够让会话连接无缝地在光纤调度器管理的光纤之间使用，尤其适用于长生命周期/持久连接。 默认情况下，使用`：persistent`插件时需要此插件。 对于使用光纤调度器的程序（如使用`async gem`开发的程序）而言，此插件至关重要。",
     "best_quote_en": "The `:fiber_concurrency` plugin enables connections a session to be used seamlessly across fibers managed by a fiber scheduler.",
     "best_quote_zh": "`:fiber_concurrency`插件能够让会话连接无缝地在光纤调度器管理的光纤之间使用。"
+  },{
+    "id": 107,
+    "title": "When your camera's zoom is an AI illustration",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://sixcolors.com/link/2025/08/when-your-cameras-zoom-is-an-ai-illustration/\">https://sixcolors.com/link/2025/08/when-your-cameras-zoom-is-an-ai-illustration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45147430\">https://news.ycombinator.com/item?id=45147430</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://sixcolors.com/link/2025/08/when-your-cameras-zoom-is-an-ai-illustration/",
+    "tags": [
+      "ai",
+      "photography",
+      "google",
+      "pixel",
+      "ml"
+    ],
+    "date": "2025-09-06",
+    "summary_en": "The article discusses Google's new \"Pro-Res Zoom\" feature in Pixel 10 Pro, where AI generates details in zoomed-in photos. This transforms photos into AI illustrations, departing from reality. While smartphones enhance images with processing power, ML models can make the image a computer's interpretation of reality.",
+    "summary_zh": "文章讨论了谷歌Pixel 10 Pro中新的“Pro-Res Zoom”功能，该功能通过AI生成照片放大后的细节。这会将照片转化为AI插图，使其脱离现实。虽然智能手机可以通过处理能力增强图像，但机器学习模型可能会使图像成为计算机对现实的解释。",
+    "best_quote_en": "But it’s important to remember that what you’re seeing, beyond a certain point, is not reality but a computer’s interpretation of what reality probably looked like.",
+    "best_quote_zh": "但重要的是要记住，在超过一定限度后，你所看到的不是现实，而是计算机对现实可能样子的解读。"
+  },
+  {
+    "id": 108,
+    "title": "From Libraries to Schools: Why Organizations Should Install Privacy Badger",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2025/09/libraries-schools-why-organizations-should-install-privacy-badger\">https://www.eff.org/deeplinks/2025/09/libraries-schools-why-organizations-should-install-privacy-badger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45147392\">https://news.ycombinator.com/item?id=45147392</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.eff.org/deeplinks/2025/09/libraries-schools-why-organizations-should-install-privacy-badger",
+    "tags": [
+      "privacy badger",
+      "online surveillance",
+      "ad blocking",
+      "cybersecurity",
+      "data protection"
+    ],
+    "date": "2025-09-06",
+    "summary_en": "Organizations should install Privacy Badger to protect users from online surveillance, reduce cybersecurity threats, and ensure trusted tracker blocking.  It benefits libraries and schools by safeguarding computers and promoting equitable access to private browsing, especially for students vulnerable to data exploitation in Ed Tech.",
+    "summary_zh": "各组织应安装 Privacy Badger，以保护用户免受在线监控，降低网络安全威胁，并确保可信的追踪拦截。这尤其有利于图书馆和学校，通过保护计算机和促进公平访问私人浏览，特别是对于在教育技术中容易受到数据剥削的学生。",
+    "best_quote_en": "All organizations, not just spy agencies, should make ad blocking part of their security strategy.",
+    "best_quote_zh": "所有组织，不仅仅是情报机构，都应该把广告拦截作为他们安全策略的一部分。"
   }]
