@@ -2016,4 +2016,98 @@
     "summary_zh": "各组织应安装 Privacy Badger，以保护用户免受在线监控，降低网络安全威胁，并确保可信的追踪拦截。这尤其有利于图书馆和学校，通过保护计算机和促进公平访问私人浏览，特别是对于在教育技术中容易受到数据剥削的学生。",
     "best_quote_en": "All organizations, not just spy agencies, should make ad blocking part of their security strategy.",
     "best_quote_zh": "所有组织，不仅仅是情报机构，都应该把广告拦截作为他们安全策略的一部分。"
+  },{
+    "id": 109,
+    "title": "OLMoASR: A series of open speech recognition models (with open datasets)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://allenai.org/blog/olmoasr\">https://allenai.org/blog/olmoasr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45156267\">https://news.ycombinator.com/item?id=45156267</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://allenai.org/blog/olmoasr",
+    "tags": [
+      "asr",
+      "speech recognition",
+      "open source",
+      "data curation",
+      "zero-shot learning"
+    ],
+    "date": "2025-09-07",
+    "summary_en": "OLMoASR, a family of open ASR models, is released with competitive zero-shot performance. Trained on a curated dataset, it matches or exceeds Whisper's performance, emphasizing data quality. The training pipeline, including data processing and model weights, is open-source, promoting transparency and reproducibility.",
+    "summary_zh": "OLMoASR是一系列开放的ASR模型，具有竞争力的零样本性能。该模型在一份精心策划的数据集上训练，性能与Whisper相匹配或超过，并强调数据质量的重要性。包括数据处理和模型权重在内的整个训练流程都是开源的，从而提高了透明度和可重复性。",
+    "best_quote_en": "Data quality is as important as scale.",
+    "best_quote_zh": "数据质量与规模同等重要。"
+  },
+  {
+    "id": 110,
+    "title": "Ask HN: Those making $500/month on side projects in 2025 – Show and tell",
+    "source": "Hackernews",
+    "desc": "<p>Previously asked on:<p>2024 → https://news.ycombinator.com/item?id=42373343<p>2023 → https://news.ycombinator.com/item?id=38467691<p>2022 → https://news.ycombinator.com/item?id=34190421<p>2021 → https://news.ycombinator.com/item?id=29667095<p>2020 → https://news.ycombinator.com/item?id=24947167<p>2019 → https://news.ycombinator.com/item?id=20899863<p>2018 → https://news.ycombinator.com/item?id=17790306<p>2017 → https://news.ycombinator.com/item?id=15148804</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45156250\">https://news.ycombinator.com/item?id=45156250</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45156250",
+    "tags": [
+      "side-project",
+      "ask-hn",
+      "passive-income",
+      "hacker-news",
+      "community"
+    ],
+    "date": "2025-09-07",
+    "summary_en": "This is a recurring 'Ask HN' post, inquiring about individuals earning $500/month from side projects in 2025. It provides links to previous years' discussions on the same topic (2017-2024).",
+    "summary_zh": "这是一个重复出现的“Ask HN”帖子，询问在2025年通过副业项目每月赚取500美元的个人。它提供了往年关于同一主题的讨论链接（2017-2024）。",
+    "best_quote_en": "N/A",
+    "best_quote_zh": "N/A"
+  },
+  {
+    "id": 111,
+    "title": "AkborAli",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.cloudflare.com/welcome-to-connectivity-cloud/\">https://blog.cloudflare.com/welcome-to-connectivity-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45156213\">https://news.ycombinator.com/item?id=45156213</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.cloudflare.com/welcome-to-connectivity-cloud/",
+    "tags": [
+      "connectivity cloud",
+      "it security",
+      "digital environment",
+      "cloud platform",
+      "network security"
+    ],
+    "date": "2025-09-07",
+    "summary_en": "IT and security teams are facing increasing challenges in maintaining control over their digital environments due to the accelerating rate of change and complexity. The connectivity cloud offers a solution by providing a unified platform for secure and seamless connectivity between networks, cloud environments, applications, and users, built on the principles of integration, programmability, intelligence, and simplicity.",
+    "summary_zh": "由于变化速度加快和复杂性增加，IT和安全团队在维护对其数字环境的控制方面面临着越来越多的挑战。 连接云通过提供一个统一的平台来解决这个问题，该平台在集成性，可编程性，智能性和简易性原则的基础上，可在网络，云环境，应用程序和用户之间实现安全无缝的连接。",
+    "best_quote_en": "A connectivity cloud is a new approach for delivering the many services companies need to secure and connect their digital environment.",
+    "best_quote_zh": "连接云是一种新的方法，可以提供公司保护和连接其数字环境所需的许多服务。"
+  },
+  {
+    "id": 112,
+    "title": "Interactive Silksong map (location spoilers)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://silksongmap.co\">https://silksongmap.co</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45156205\">https://news.ycombinator.com/item?id=45156205</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://silksongmap.co",
+    "tags": [
+      "silksong",
+      "interactive map",
+      "pharloom",
+      "collectibles",
+      "boss locations"
+    ],
+    "date": "2025-09-07",
+    "summary_en": "This article introduces an interactive Silksong map designed to help players explore the kingdom of Pharloom. The map includes locations of bosses, collectibles like mask shards and mossberries, benches, and secret areas. It features filters, search, and shareable links for easy navigation and strategic gameplay, optimizing for both speedrunning and 100% completion.",
+    "summary_zh": "本文介绍了一个交互式的《丝之歌》地图，旨在帮助玩家探索法洛姆王国。该地图包括Boss、面具碎片和苔藓浆果等收藏品、长凳和秘密区域的位置。它具有过滤器、搜索和可共享链接，便于导航和战略游戏，优化了速通和100%完成度。",
+    "best_quote_en": "Mastering Pharloom requires more than just exploring—it demands strategic use of our Silksong map to optimize your progression.",
+    "best_quote_zh": "要精通法洛姆，需要的不仅仅是探索，还需要战略性地使用我们的《丝之歌》地图来优化你的进度。"
+  },
+  {
+    "id": 113,
+    "title": "Migrating to React Native's New Architecture",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://shopify.engineering/react-native-new-architecture\">https://shopify.engineering/react-native-new-architecture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45156184\">https://news.ycombinator.com/item?id=45156184</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://shopify.engineering/react-native-new-architecture",
+    "tags": [
+      "react-native",
+      "migration",
+      "shopify",
+      "new-architecture",
+      "mobile-development"
+    ],
+    "date": "2025-09-07",
+    "summary_en": "Shopify successfully migrated its mobile apps to React Native's New Architecture. The migration strategy focused on minimizing code changes, maintaining dual architecture compatibility, and ensuring performance parity. Key steps included dual architecture testing and conditional functionality. They recommend updating to the latest React Native version and addressing common migration issues like state batching and TurboModule errors.",
+    "summary_zh": "Shopify 成功将其移动应用程序迁移到 React Native 的新架构。迁移策略侧重于最小化代码更改、保持双架构兼容性和确保性能对等。关键步骤包括双架构测试和条件功能。他们建议更新到最新的 React Native 版本，并解决常见的迁移问题，如状态批量处理和 TurboModule 错误。",
+    "best_quote_en": "Minimize code changes first, refactor later: Make only the minimum necessary code changes to enable the New Architecture. Optimization and refactoring could come after.",
+    "best_quote_zh": "首先尽量减少代码更改，稍后再重构：仅进行必要的代码更改以启用新架构。优化和重构可以在之后进行。"
   }]
