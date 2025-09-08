@@ -2110,4 +2110,60 @@
     "summary_zh": "Shopify 成功将其移动应用程序迁移到 React Native 的新架构。迁移策略侧重于最小化代码更改、保持双架构兼容性和确保性能对等。关键步骤包括双架构测试和条件功能。他们建议更新到最新的 React Native 版本，并解决常见的迁移问题，如状态批量处理和 TurboModule 错误。",
     "best_quote_en": "Minimize code changes first, refactor later: Make only the minimum necessary code changes to enable the New Architecture. Optimization and refactoring could come after.",
     "best_quote_zh": "首先尽量减少代码更改，稍后再重构：仅进行必要的代码更改以启用新架构。优化和重构可以在之后进行。"
+  },{
+    "id": 114,
+    "title": "Infographics for Software Development",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://bytebytego.com/guides/software-development/\">https://bytebytego.com/guides/software-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45165674\">https://news.ycombinator.com/item?id=45165674</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://bytebytego.com/guides/software-development/",
+    "tags": [
+      "software-development",
+      "programming",
+      "coding",
+      "web-development",
+      "api"
+    ],
+    "date": "2025-09-08",
+    "summary_en": "Software development is the process of designing, coding, testing, and maintaining software, using a systematic approach. It is a broad field covering various disciplines, from API and web development to AI and machine learning. The field includes topics like software architecture, DevOps, and security.",
+    "summary_zh": "软件开发是一个系统性的过程，包括设计、编码、测试和维护软件。它是一个广泛的领域，涵盖了从API和Web开发到AI和机器学习等各种学科，还包括软件架构、DevOps和安全等主题。",
+    "best_quote_en": "Software Development is the process of designing, coding, testing, and maintaining software.",
+    "best_quote_zh": "软件开发是一个设计、编码、测试和维护软件的过程。"
+  },
+  {
+    "id": 115,
+    "title": "Why Your Resume Gets Rejected in 60 Seconds: Brutal Truths",
+    "source": "Hackernews",
+    "desc": "<p>Your resume might be stunning—but ATS bots don’t care.<p>A candidate applied to 113 jobs in 3 months. He had the skills, experience, and a polished design. But he didn’t hear back from even one. Turns out, his resume was being auto-rejected by Applicant Tracking Systems (ATS) every single time. No human recruiter ever saw it.<p>Why? He used columns, graphics, and PDF formatting that the bots couldn’t read. Once he switched to an ATS-friendly version, he got 5 interviews in the first week.<p>Sound familiar? You might be wasting months of effort—without even realizing it.<p>This isn’t fear-mongering. It's a brutal truth that job boards and resume tools won’t tell you. If your resume isn't optimized for ATS, you're invisible—even if you're perfect for the job.<p>Learn how to beat the bots, fix your resume in 10 minutes, and finally get real interviews.<p>Read the full breakdown here →<p>Source: https://www.intelligentcv.app/career/ats-resume-rejection-brutal-truth-hack/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45165651\">https://news.ycombinator.com/item?id=45165651</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45165651",
+    "tags": [
+      "resume",
+      "ats",
+      "job search",
+      "recruiting",
+      "formatting"
+    ],
+    "date": "2025-09-08",
+    "summary_en": "Resumes are often rejected quickly due to ATS bots failing to read them because of formatting issues, graphics, or being in PDF format. To avoid this, switch to an ATS-friendly format and focus on clear value, targeted content, and achievement-focused language, also including relevant keywords.",
+    "summary_zh": "简历常常因ATS系统无法正确读取而迅速被拒，问题通常在于格式、图片或PDF格式。为避免此情况，应转换成ATS兼容格式，注重清晰的价值、目标内容和以成就为导向的语言，并包含相关关键词。",
+    "best_quote_en": "If your resume isn't optimized for ATS, you're invisible—even if you're perfect for the job.",
+    "best_quote_zh": "如果你的简历没有针对ATS进行优化，即使你非常适合这份工作，你也会变得隐形。"
+  },
+  {
+    "id": 116,
+    "title": "Dynamic Pirate Site Blocking Injunctions and the Transparency Illusion",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://torrentfreak.com/dynamic-pirate-site-blocking-injunctions-and-the-transparency-illusion-250907/\">https://torrentfreak.com/dynamic-pirate-site-blocking-injunctions-and-the-transparency-illusion-250907/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45165648\">https://news.ycombinator.com/item?id=45165648</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://torrentfreak.com/dynamic-pirate-site-blocking-injunctions-and-the-transparency-illusion-250907/",
+    "tags": [
+      "site blocking",
+      "transparency",
+      "piracy",
+      "injunction",
+      "copyright"
+    ],
+    "date": "2025-09-08",
+    "summary_en": "The article discusses the issue of transparency in dynamic pirate site blocking injunctions. It highlights the limited transparency in proposed U.S. legislation compared to the broader scale of site-blocking worldwide and uses a recent Indian case involving DAZN to illustrate the potential for global impact and the importance of scrutiny. Site blocking is inevitable, the only question is how and when.",
+    "summary_zh": "文章讨论了动态盗版网站封锁禁令的透明度问题。 它强调了美国拟议立法中有限的透明度，并以最近DAZN在印度的案例为例，说明了全球影响的可能性和审查的重要性。网站封锁是不可避免的，唯一的问题是何时以及如何实施。",
+    "best_quote_en": "Transparency is not an option, it’s absolutely necessary.",
+    "best_quote_zh": "透明不是一种选择，而是绝对必要的。"
   }]
