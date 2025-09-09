@@ -2166,4 +2166,79 @@
     "summary_zh": "文章讨论了动态盗版网站封锁禁令的透明度问题。 它强调了美国拟议立法中有限的透明度，并以最近DAZN在印度的案例为例，说明了全球影响的可能性和审查的重要性。网站封锁是不可避免的，唯一的问题是何时以及如何实施。",
     "best_quote_en": "Transparency is not an option, it’s absolutely necessary.",
     "best_quote_zh": "透明不是一种选择，而是绝对必要的。"
+  },{
+    "id": 117,
+    "title": "X: Today we are open-sourcing the latest code used to recommend posts",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://twitter.com/XEng/status/1965226798460887127\">https://twitter.com/XEng/status/1965226798460887127</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45178840\">https://news.ycombinator.com/item?id=45178840</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://twitter.com/XEng/status/1965226798460887127",
+    "tags": [
+      "open-source",
+      "recommendation algorithms",
+      "x",
+      "twitter",
+      "code"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "X (formerly Twitter) announced that they are open-sourcing the code used for recommending posts. The announcement is displayed on a webpage where Javascript is required to function fully, but the core information is that the recommendation algorithms are now publicly available.",
+    "summary_zh": "X（前身为Twitter）宣布其用于推荐帖子的代码已开源。该公告显示在一个需要JavaScript才能完全运行的网页上，但核心信息是推荐算法现在已公开。",
+    "best_quote_en": "Today we are open-sourcing the latest code used to recommend posts",
+    "best_quote_zh": "今天，我们将开源用于推荐帖子的最新代码"
+  },
+  {
+    "id": 118,
+    "title": "Show HN: A music quiz website – guess the singer and song title",
+    "source": "Hackernews",
+    "desc": "<p>I built a simple web game where players listen to short music clips and try to guess both the singer and the song title. It’s inspired by trivia/quiz games but focused entirely on music recognition. Would love feedback on the gameplay, UI, and ideas for making it more engaging.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45178819\">https://news.ycombinator.com/item?id=45178819</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://songless.xyz",
+    "tags": [
+      "music game",
+      "song guessing",
+      "multiplayer",
+      "quiz",
+      "audio"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "Songless is a multiplayer online music guessing game where players guess song titles and artists from short audio clips. It features a 6-level progressive hint system, real-time multiplayer battles, and a leaderboard. The game aims to combine music education, cognitive training, and social interaction, providing an enjoyable and challenging experience for music enthusiasts.",
+    "summary_zh": "Songless是一款多人在线音乐猜谜游戏，玩家通过简短的音频片段猜测歌曲名和演唱者。它具有6级渐进式提示系统，实时多人对战和排行榜。该游戏旨在结合音乐教育、认知训练和社交互动，为音乐爱好者提供愉快和具有挑战性的体验。",
+    "best_quote_en": "Starting with super short 0.5-second clips that slowly get longer keeps the challenge just right and helps me fine-tune my musical ear.",
+    "best_quote_zh": "从超短的0.5秒片段开始，然后逐渐变长，这样既能保持挑战性，又能帮助我微调我的音乐耳朵。"
+  },
+  {
+    "id": 119,
+    "title": "Supreme Court lifts restrictions on LA immigration sweeps",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ironmountaindailynews.com/news/2025/09/supreme-court-lifts-restrictions-on-la-immigration-sweeps/\">https://www.ironmountaindailynews.com/news/2025/09/supreme-court-lifts-restrictions-on-la-immigration-sweeps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45178814\">https://news.ycombinator.com/item?id=45178814</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ironmountaindailynews.com/news/2025/09/supreme-court-lifts-restrictions-on-la-immigration-sweeps/",
+    "tags": [
+      "supreme court",
+      "immigration",
+      "los angeles",
+      "trump administration",
+      "racial profiling"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "The Supreme Court lifted restrictions on immigration sweeps in Los Angeles, allowing federal agents to conduct sweeping immigration operations. This decision favors the Trump administration's policies. Justice Sotomayor dissented, arguing that it erodes constitutional freedoms and subjects people to indignities based on their appearance.",
+    "summary_zh": "最高法院解除了对洛杉矶移民搜查的限制，允许联邦探员进行大规模的移民行动。这一裁决有利于特朗普政府的政策。索托马约尔大法官表示异议，认为这侵蚀了宪法自由，并使人们因外貌而遭受侮辱。",
+    "best_quote_en": "Countless people in the Los Angeles area have been grabbed, thrown to the ground, and handcuffed simply because of their looks, their accents, and the fact they make a living by doing manual labor.",
+    "best_quote_zh": "在洛杉矶地区，无数人仅仅因为他们的外貌、口音以及他们以体力劳动为生，就被抓住、扔到地上并戴上手铐。"
+  },
+  {
+    "id": 120,
+    "title": "China Energy Transition Review 2025",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ember-energy.org/latest-insights/china-energy-transition-review-2025/\">https://ember-energy.org/latest-insights/china-energy-transition-review-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45178813\">https://news.ycombinator.com/item?id=45178813</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ember-energy.org/latest-insights/china-energy-transition-review-2025/",
+    "tags": [
+      "china",
+      "energy transition",
+      "renewables",
+      "electrification",
+      "fossil fuels"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "China's rapid expansion of renewable energy and electrification is reshaping global energy trends. Renewables met 84% of China's electricity demand growth in 2024. Fossil fuel use decreased in some sectors. China's leadership in clean energy technology and manufacturing accelerates the global transition, impacting fossil fuel demand and enabling emerging markets to adopt cleaner energy solutions.",
+    "summary_zh": "中国的可再生能源和电气化快速发展正在重塑全球能源趋势。2024年，可再生能源满足了中国84%的电力需求增长。部分行业化石燃料用量下降。中国在清洁能源技术和制造领域的领先地位加速了全球能源转型，影响了化石燃料需求，并使新兴市场能够采用更清洁的能源解决方案。",
+    "best_quote_en": "Through scale, innovation and long-term planning, China is demonstrating that decarbonisation can go hand in hand with industrial upgrading, job creation and improved quality of life.",
+    "best_quote_zh": "通过规模化、创新和长期规划，中国正在证明，脱碳可以与产业升级、创造就业和提高生活质量齐头并进。"
   }]
