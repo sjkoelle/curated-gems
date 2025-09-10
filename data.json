@@ -2241,4 +2241,60 @@
     "summary_zh": "中国的可再生能源和电气化快速发展正在重塑全球能源趋势。2024年，可再生能源满足了中国84%的电力需求增长。部分行业化石燃料用量下降。中国在清洁能源技术和制造领域的领先地位加速了全球能源转型，影响了化石燃料需求，并使新兴市场能够采用更清洁的能源解决方案。",
     "best_quote_en": "Through scale, innovation and long-term planning, China is demonstrating that decarbonisation can go hand in hand with industrial upgrading, job creation and improved quality of life.",
     "best_quote_zh": "通过规模化、创新和长期规划，中国正在证明，脱碳可以与产业升级、创造就业和提高生活质量齐头并进。"
+  },{
+    "id": 121,
+    "title": "Saylor Model Struggles as Crypto Treasury Hype Turns to Doubt",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2025-09-09/saylor-inspired-crypto-treasury-strategy-loses-momentum\">https://www.bloomberg.com/news/articles/2025-09-09/saylor-inspired-crypto-treasury-strategy-loses-momentum</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45194579\">https://news.ycombinator.com/item?id=45194579</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bloomberg.com/news/articles/2025-09-09/saylor-inspired-crypto-treasury-strategy-loses-momentum",
+    "tags": [
+      "crypto treasury",
+      "digital assets",
+      "stock prices",
+      "market confidence",
+      "DATs"
+    ],
+    "date": "2025-09-10",
+    "summary_en": "Public firms built to buy crypto are struggling as their stock prices fall and market confidence slips. The \"crypto treasury\" model, which promised investors a lucrative way into the digital-asset boom, is now under pressure. Shares of digital-asset treasury companies are declining despite a broader market rally.",
+    "summary_zh": "旨在购买加密货币的上市公司正面临困境，因为其股价下跌且市场信心下滑。“加密货币财政”模式曾承诺投资者进入数字资产繁荣的有利途径，但现在面临压力。 尽管整体市场反弹，数字资产财政公司的股票仍在下降。",
+    "best_quote_en": "Increasingly, it’s how, and how quietly, it could fall apart.",
+    "best_quote_zh": "越来越多的人关注的是，它会以何种方式，以及多么悄无声息地瓦解。"
+  },
+  {
+    "id": 122,
+    "title": "RAG Fails on PDF Tables",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mrm1001.github.io/2025/09/09/ocr-to-rag-for-tables.html\">https://mrm1001.github.io/2025/09/09/ocr-to-rag-for-tables.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45194517\">https://news.ycombinator.com/item?id=45194517</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://mrm1001.github.io/2025/09/09/ocr-to-rag-for-tables.html",
+    "tags": [
+      "rag",
+      "ocr",
+      "pdf",
+      "vlm",
+      "tables"
+    ],
+    "date": "2025-09-10",
+    "summary_en": "This article discusses the challenges of using RAG (Retrieval-Augmented Generation) on PDF tables, particularly in academic papers. It highlights how OCR performed by VLMs (Vision-Language Models) can struggle with complex layouts. Adding context to tables can significantly improve the accuracy of answers from RAG searches. Converting PDFs into machine-friendly formats like markdown is crucial for effective information retrieval.",
+    "summary_zh": "本文讨论了在PDF表格上使用RAG（检索增强生成）所面临的挑战，尤其是在学术论文中。重点强调了VLMs（视觉语言模型）执行的OCR在处理复杂布局时遇到的困难。在表格中添加上下文可以显著提高RAG搜索答案的准确性。将PDF转换为机器友好的格式（如markdown）对于有效的信息检索至关重要。",
+    "best_quote_en": "Everybody wants to have accurate answers in a RAG search. I would argue that getting accurate answers from a RAG search in an academic context (which could include medical applications for example) is perhaps more important than in most other areas.",
+    "best_quote_zh": "每个人都希望在RAG搜索中获得准确的答案。我认为，在学术背景下（例如可能包括医疗应用）从RAG搜索中获得准确的答案可能比在大多数其他领域更重要。"
+  },
+  {
+    "id": 123,
+    "title": "Five technological achievements (That we won't see any time soon.)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://crookedtimber.org/2025/09/09/five-technological-achievements-that-we-wont-see-any-time-soon/\">https://crookedtimber.org/2025/09/09/five-technological-achievements-that-we-wont-see-any-time-soon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45194496\">https://news.ycombinator.com/item?id=45194496</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://crookedtimber.org/2025/09/09/five-technological-achievements-that-we-wont-see-any-time-soon/",
+    "tags": [
+      "space exploration",
+      "fusion power",
+      "superconductors",
+      "mars mission",
+      "asteroid mining"
+    ],
+    "date": "2025-09-10",
+    "summary_en": "The author argues against several technological advancements being realized by 2050, including manned Mars missions, asteroid mining, commercial fusion power, and a superconductor revolution. He believes these are either too difficult, not economically viable, or overhyped, while expressing optimism about space science and renewable energy.",
+    "summary_zh": "作者认为，到2050年，载人火星任务、小行星采矿、商业核聚变发电和超导体革命这几项技术进步将难以实现。他认为这些要么太困难，要么经济上不可行，要么被过度炒作，但同时对太空科学和可再生能源表示乐观。",
+    "best_quote_en": "But precisely because I take space exploration seriously, I sharply dislike space woo.  Manned trips to Mars are woo.",
+    "best_quote_zh": "正因为我认真对待太空探索，所以我非常不喜欢太空玄学。载人火星旅行就是一种玄学。"
   }]
