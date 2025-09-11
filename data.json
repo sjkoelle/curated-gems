@@ -2297,4 +2297,98 @@
     "summary_zh": "作者认为，到2050年，载人火星任务、小行星采矿、商业核聚变发电和超导体革命这几项技术进步将难以实现。他认为这些要么太困难，要么经济上不可行，要么被过度炒作，但同时对太空科学和可再生能源表示乐观。",
     "best_quote_en": "But precisely because I take space exploration seriously, I sharply dislike space woo.  Manned trips to Mars are woo.",
     "best_quote_zh": "正因为我认真对待太空探索，所以我非常不喜欢太空玄学。载人火星旅行就是一种玄学。"
+  },{
+    "id": 124,
+    "title": "ThreeJS Attractor Maths Visualisation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.shashanktomar.com/posts/strange-attractors\">https://blog.shashanktomar.com/posts/strange-attractors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45209014\">https://news.ycombinator.com/item?id=45209014</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.shashanktomar.com/posts/strange-attractors",
+    "tags": [
+      "three.js",
+      "dynamical systems",
+      "chaos theory",
+      "strange attractors",
+      "visualization"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "The article explores strange attractors within dynamical systems and chaos theory, using Three.js for visualization. It explains how complex patterns emerge from simple equations, highlighting the beauty of order arising from randomness. It discusses phase space, dynamics, attractors, and the butterfly effect, offering an accessible introduction to these mathematical concepts.",
+    "summary_zh": "本文探讨了动力系统和混沌理论中的奇异吸引子，并使用 Three.js 进行可视化。它解释了复杂模式如何从简单的方程式中涌现，突出了从随机性中产生秩序之美。文章讨论了相空间、动力学、吸引子和蝴蝶效应，为这些数学概念提供了一个平易近人的介绍。",
+    "best_quote_en": "When complexity emerges from three simple equations, when you see something chaotic emerge into beautiful, it's hard not to waste some time.",
+    "best_quote_zh": "当复杂性从三个简单的方程式中涌现，当你看到一些混乱的东西演变成美丽的东西时，很难不浪费一些时间。"
+  },
+  {
+    "id": 125,
+    "title": "We Rebuilt Our SQL Parser in Rust: 3.3x Faster with Zero-Copy and Better Errors",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.databend.com/blog/category-engineering/2025-09-10-query-parser/\">https://www.databend.com/blog/category-engineering/2025-09-10-query-parser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45208990\">https://news.ycombinator.com/item?id=45208990</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.databend.com/blog/category-engineering/2025-09-10-query-parser/",
+    "tags": [
+      "sql parser",
+      "rust",
+      "performance",
+      "error messages",
+      "zero-copy"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "Databend rebuilt its SQL parser in Rust, achieving a 3.3x performance increase with zero-copy and improved error messages. The original parser, sqlparser-rs, became a bottleneck due to limited dialect support, poor error reporting, and high memory usage. The new parser addresses these issues with dynamic dialect support, context-rich error messages, and zero-copy architecture resolving memory problems.",
+    "summary_zh": "Databend 用 Rust 重建了 SQL 解析器，性能提升了 3.3 倍，实现了零拷贝和改进的错误消息。原解析器 sqlparser-rs 因方言支持有限、错误报告不佳和内存使用率高而成为瓶颈。新的解析器通过动态方言支持、上下文丰富的错误消息和零拷贝架构解决了这些问题。",
+    "best_quote_en": "The question wasn't whether to optimize - it was whether to fix sqlparser-rs or build our own.",
+    "best_quote_zh": "问题不在于是否优化，而在于修复 sqlparser-rs 还是构建我们自己的解析器。"
+  },
+  {
+    "id": 126,
+    "title": "Program management update – August 2025 – Inside Rust Blog",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.rust-lang.org/inside-rust/2025/09/11/program-management-update-2025-08/\">https://blog.rust-lang.org/inside-rust/2025/09/11/program-management-update-2025-08/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45208953\">https://news.ycombinator.com/item?id=45208953</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.rust-lang.org/inside-rust/2025/09/11/program-management-update-2025-08/",
+    "tags": [
+      "rust",
+      "leadership council",
+      "bevy",
+      "reflection",
+      "variadic generics"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "This August 2025 update covers the Rust Leadership Council's representative selections and their role in the Foundation. It also discusses the election of new Project Directors and addresses the needs of the Bevy game engine, focusing on reflection and variadic generics. The proposed reflection and comptime goal for 2025H2 addresses developer challenges.",
+    "summary_zh": "2025年8月的Rust项目管理更新涵盖了Rust领导委员会代表的选举及其在基金会中的作用。同时讨论了新项目主管的选举，并解决了Bevy游戏引擎的需求，重点是反射和可变泛型。提议的2025H2反射和编译时目标旨在解决开发者的挑战。",
+    "best_quote_en": "The Project is always looking for fresh faces and diverse voices.",
+    "best_quote_zh": "项目始终在寻找新鲜的面孔和不同的声音。"
+  },
+  {
+    "id": 127,
+    "title": "Xan – CSV preview, filter, slice, aggregate, sort, join; composable commands",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://medialab.sciencespo.fr/en/tools/xan/\">https://medialab.sciencespo.fr/en/tools/xan/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45208944\">https://news.ycombinator.com/item?id=45208944</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://medialab.sciencespo.fr/en/tools/xan/",
+    "tags": [
+      "csv",
+      "command line tool",
+      "data processing",
+      "file manipulation",
+      "xan"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "Xan is a command-line tool, a fork of xsv, designed for efficiently processing large CSV files. It has been heavily rewritten and improved with features like a dynamic scripting language, external sorting, and efficient reverse reading. Xan aims to simplify CSV file manipulation without ad-hoc scripting, making it useful for users who deal with large CSV files.",
+    "summary_zh": "Xan是一个命令行工具，是xsv的一个分支，旨在有效地处理大型CSV文件。它经过了大量的重写和改进，具有动态脚本语言、外部排序和高效的反向读取等功能。Xan旨在简化CSV文件操作，无需临时脚本，使其对处理大型CSV文件的用户非常有用。",
+    "best_quote_en": "As a lot of our other tools produce and consume CSV files, it was only natural that we might want to find ways to mangle those files faster and without requiring ad-hoc scripting.",
+    "best_quote_zh": "由于我们的许多其他工具都会生成和使用CSV文件，因此我们很自然地希望找到更快地处理这些文件的方法，而无需临时脚本。"
+  },
+  {
+    "id": 128,
+    "title": "On discourse and decentralisation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://connectedplaces.online/on-discourse-and-decentralisation/\">https://connectedplaces.online/on-discourse-and-decentralisation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45208938\">https://news.ycombinator.com/item?id=45208938</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://connectedplaces.online/on-discourse-and-decentralisation/",
+    "tags": [
+      "decentralization",
+      "social media",
+      "ethics",
+      "community",
+      "atproto"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "The author discusses the discourse surrounding decentralization in the context of social media, particularly Bluesky and ATProto. They advocate for an ethical internet where sense-making tools are not controlled by oligarchs. The author emphasizes that communities owning and controlling their online spaces, as exemplified by Blacksky, is more important than decentralization itself.",
+    "summary_zh": "作者讨论了围绕社交媒体去中心化的讨论，特别是Bluesky和ATProto。作者提倡建立一个道德的互联网，让人们用来理解世界的工具不被寡头控制。作者强调，社区拥有和控制他们自己的在线空间，就像Blacksky所展示的那样，比去中心化本身更重要。",
+    "best_quote_en": "The tools we use in our societies to make sense of the world are in the hands of a few fascist oligarchs, and it turns out that this has pretty bad consequences.",
+    "best_quote_zh": "我们用来理解世界的工具掌握在少数法西斯寡头手中，事实证明这会带来非常糟糕的后果。"
   }]
