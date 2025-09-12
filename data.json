@@ -2391,4 +2391,60 @@
     "summary_zh": "作者讨论了围绕社交媒体去中心化的讨论，特别是Bluesky和ATProto。作者提倡建立一个道德的互联网，让人们用来理解世界的工具不被寡头控制。作者强调，社区拥有和控制他们自己的在线空间，就像Blacksky所展示的那样，比去中心化本身更重要。",
     "best_quote_en": "The tools we use in our societies to make sense of the world are in the hands of a few fascist oligarchs, and it turns out that this has pretty bad consequences.",
     "best_quote_zh": "我们用来理解世界的工具掌握在少数法西斯寡头手中，事实证明这会带来非常糟糕的后果。"
+  },{
+    "id": 129,
+    "title": "OpenAI says nonprofit parent to own stake in company over $100B",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnbc.com/2025/09/11/openai-says-nonprofit-parent-to-own-stake-in-company-over-100-billion.html\">https://www.cnbc.com/2025/09/11/openai-says-nonprofit-parent-to-own-stake-in-company-over-100-billion.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45219788\">https://news.ycombinator.com/item?id=45219788</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnbc.com/2025/09/11/openai-says-nonprofit-parent-to-own-stake-in-company-over-100-billion.html",
+    "tags": [
+      "openai",
+      "nonprofit",
+      "microsoft",
+      "ai",
+      "equity"
+    ],
+    "date": "2025-09-12",
+    "summary_en": "OpenAI states its nonprofit parent will oversee the company with over $100 billion equity. Valued at $500 billion, OpenAI partners with Microsoft, who invested over $13 billion. The company faces legal challenges from Elon Musk and is launching a $50 million grant for AI literacy and economic opportunity.",
+    "summary_zh": "OpenAI声明其非营利母公司将监督公司运作，并拥有超过1000亿美元的股权。OpenAI估值达5000亿美元，并与微软合作，后者已投资超过130亿美元。该公司面临来自埃隆·马斯克的法律挑战，并启动了一项5000万美元的赠款计划，用于支持人工智能知识普及和经济机会。",
+    "best_quote_en": "\"OpenAI started as a nonprofit, remains one today, and will continue to be one – with the nonprofit holding the authority that guides our future,\"",
+    "best_quote_zh": "“OpenAI 最初是一家非营利组织，今天仍然是一家，并将继续是一家——非营利组织拥有指导我们未来的权力。”"
+  },
+  {
+    "id": 130,
+    "title": "Recon2012: Reverse engineering of binary programs for custom virtual machines",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://recon.cx/2012/schedule/events/236.en.html\">https://recon.cx/2012/schedule/events/236.en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45219775\">https://news.ycombinator.com/item?id=45219775</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://recon.cx/2012/schedule/events/236.en.html",
+    "tags": [
+      "reverse engineering",
+      "virtual machine",
+      "binary program",
+      "code obfuscation",
+      "decompilation"
+    ],
+    "date": "2025-09-12",
+    "summary_en": "This presentation discusses reverse engineering binary programs for custom virtual machines with secret instruction sets. It proposes heuristics to recover the VM's architecture and instruction set by analyzing the binary code. The method reconstructs the instruction set and identifies elements like subroutines, jumps, and memory access patterns. It also demonstrated the deobfuscation techniques and features of SmartDec decompiler.",
+    "summary_zh": "本次演讲讨论了对具有秘密指令集的自定义虚拟机进行二进制程序逆向工程。它提出了通过分析二进制代码来恢复VM的架构和指令集的启发式方法。该方法重构指令集，并识别子程序、跳转和内存访问模式等元素。同时演示了SmartDec反编译器deobfuscation技术和特性。",
+    "best_quote_en": "Code obfuscation by embedding a virtual machine with a secret instruction set is one of the strongest types of obfuscation.",
+    "best_quote_zh": "通过嵌入具有秘密指令集的虚拟机进行代码混淆是最有效的混淆类型之一。"
+  },
+  {
+    "id": 131,
+    "title": "VSCode August 2025 (v1.104)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://code.visualstudio.com/updates/v1_104\">https://code.visualstudio.com/updates/v1_104</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45219744\">https://news.ycombinator.com/item?id=45219744</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://code.visualstudio.com/updates/v1_104",
+    "tags": [
+      "vscode",
+      "chat",
+      "ai",
+      "security",
+      "productivity"
+    ],
+    "date": "2025-09-12",
+    "summary_en": "The August 2025 release of VS Code (v1.104) introduces features like auto model selection for chat (preview), security enhancements for file edits, support for AGENTS.md files, improved changed files experience, custom chat modes in prompt files, configurable prompt file suggestions, tool set selections, and configurable font used in chat.",
+    "summary_zh": "VS Code 2025年8月版（v1.104）引入了自动模型选择聊天（预览版）、文件编辑安全增强、AGENTS.md文件支持、改进的更改文件体验、提示文件中的自定义聊天模式、可配置的提示文件建议、工具集选择以及可配置的聊天字体等功能。",
+    "best_quote_en": "This helps teams surface the right AI workflows at the right time, making custom prompts more discoverable and relevant to your workspace and file type.",
+    "best_quote_zh": "这有助于团队在适当的时候展示正确的AI工作流程，使自定义提示更易于发现，并且与您的工作区和文件类型更相关。"
   }]
