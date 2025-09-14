@@ -2522,4 +2522,60 @@
     "summary_zh": "文章讨论了AI编码助手的生产力悖论。虽然它们可能感觉更快，但研究表明，有经验的开发者在使用AI时可能会更慢，这归因于调试和质量问题。 提高生产力的感觉通常是一种安慰剂效应。AI适用于简单的任务，但对于复杂的软件开发则不然。",
     "best_quote_en": "LLMs give the same feeling of achievement one would get from doing the work themselves, but without any of the heavy lifting.",
     "best_quote_zh": "LLM 给人一种自己完成工作同样的成就感，但无需任何繁重的工作。"
+  },{
+    "id": 136,
+    "title": "New technology could make oceans transparent and submarines vulnerable",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology\">https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45238258\">https://news.ycombinator.com/item?id=45238258</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology",
+    "tags": [
+      "aukus",
+      "submarines",
+      "technology",
+      "china",
+      "military"
+    ],
+    "date": "2025-09-14",
+    "summary_en": "Emerging technologies like quantum sensing and AI are accelerating the underwater arms race, potentially making oceans more transparent and submarines, including Australia's Aukus fleet, more vulnerable. These advancements, heavily driven by China, threaten the stealth and effectiveness of nuclear submarines, prompting a re-evaluation of defense strategies.",
+    "summary_zh": "量子传感和人工智能等新兴技术正在加速水下军备竞赛，可能使海洋更加透明，包括澳大利亚的Aukus舰队在内的潜艇也更加脆弱。这些进步主要由中国推动，威胁着核潜艇的隐身性和有效性，促使人们重新评估国防战略。",
+    "best_quote_en": "Could emerging technologies render the last opaque place on Earth – the oceans – transparent?",
+    "best_quote_zh": "新兴技术能否让地球上最后一片不透明的地方——海洋——变得透明？"
+  },
+  {
+    "id": 137,
+    "title": "Why Most LLM Chatbots Never Make It to Production",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://humansignal.com/blog/why-most-llm-chatbots-never-make-it-to-production/\">https://humansignal.com/blog/why-most-llm-chatbots-never-make-it-to-production/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45238254\">https://news.ycombinator.com/item?id=45238254</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://humansignal.com/blog/why-most-llm-chatbots-never-make-it-to-production/",
+    "tags": [
+      "llm",
+      "chatbot",
+      "trust",
+      "benchmarking",
+      "red teaming"
+    ],
+    "date": "2025-09-14",
+    "summary_en": "Most LLM chatbot projects stall before production due to lack of trust from compliance teams and stakeholders, not purely technical issues. Building trust requires benchmarking, strategic data sourcing, targeted fine-tuning, and red teaming. A deliberate playbook focusing on governance and evidence is crucial for success.",
+    "summary_zh": "大多数LLM聊天机器人项目在投产前停滞，主要是因为合规团队和利益相关者缺乏信任，而不仅仅是技术问题。建立信任需要基准测试、战略性数据源选择、有针对性的微调和红队测试。侧重于治理和证据的策略是成功的关键。",
+    "best_quote_en": "The problem is not purely technical...the blocker is not just model quality, it is the lack of trust from compliance teams, risk officers, and business stakeholders.",
+    "best_quote_zh": "问题不仅仅是技术性的……障碍不仅仅是模型质量，而是合规团队、风险负责人和业务利益相关者的不信任。"
+  },
+  {
+    "id": 138,
+    "title": "Administration to award a no-bid contract on research into vaccines and autism",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.independent.co.uk/news/donald-trump-new-york-scientists-troy-cdc-b2825709.html\">https://www.independent.co.uk/news/donald-trump-new-york-scientists-troy-cdc-b2825709.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45238181\">https://news.ycombinator.com/item?id=45238181</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.independent.co.uk/news/donald-trump-new-york-scientists-troy-cdc-b2825709.html",
+    "tags": [
+      "vaccines",
+      "autism",
+      "research",
+      "contract",
+      "health"
+    ],
+    "date": "2025-09-14",
+    "summary_en": "The Trump administration intends to award a no-bid contract to Rensselaer Polytechnic Institute to investigate a potential link between vaccines and autism. Scientists have largely dismissed this link, but the contract raises questions about research priorities and the use of resources, especially when other factors contributing to autism require further investigation.",
+    "summary_zh": "特朗普政府计划授予伦斯勒理工学院一份非招标合同，以调查疫苗与自闭症之间可能存在的联系。科学家普遍不认可这种联系，但该合同引发了对研究重点和资源使用的质疑，尤其是在其他导致自闭症的因素需要进一步研究的情况下。",
+    "best_quote_en": "\"The question has been studied for 20 years, multiple times by researchers around the world using millions of people, and there has never been a credible association found between vaccines and autism.\"",
+    "best_quote_zh": "“疫苗和自闭症的问题已经被世界各地的研究人员用数百万人的样本研究了20年，但从未发现疫苗和自闭症之间存在可信的关联。”"
   }]
