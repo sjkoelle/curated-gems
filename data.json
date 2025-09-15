@@ -2578,4 +2578,79 @@
     "summary_zh": "特朗普政府计划授予伦斯勒理工学院一份非招标合同，以调查疫苗与自闭症之间可能存在的联系。科学家普遍不认可这种联系，但该合同引发了对研究重点和资源使用的质疑，尤其是在其他导致自闭症的因素需要进一步研究的情况下。",
     "best_quote_en": "\"The question has been studied for 20 years, multiple times by researchers around the world using millions of people, and there has never been a credible association found between vaccines and autism.\"",
     "best_quote_zh": "“疫苗和自闭症的问题已经被世界各地的研究人员用数百万人的样本研究了20年，但从未发现疫苗和自闭症之间存在可信的关联。”"
+  },{
+    "id": 139,
+    "title": "Show HN: Celestial Fortunes – AI Blends Eastern and Western Astrology",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN — we built Celestial Fortunes, an AI product that synthesizes Eastern traditions (I-Ching, Zi Wei) with Western astrology to produce concise, personalized insights. It’s multilingual (English/中文/繁體) and aims to turn “cosmic wisdom” into practical guidance for life, love, and career.\nWhy\nMost readings feel generic or siloed. We wanted a single view that compares and reconciles East + West perspectives, then distills them into clear takeaways.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45247207\">https://news.ycombinator.com/item?id=45247207</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://celestialfortunes.net",
+    "tags": [
+      "astrology",
+      "ai",
+      "spiritual guidance",
+      "tarot",
+      "dream analysis"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "Celestial Fortunes uses AI to blend Eastern and Western astrology, offering instant readings and detailed PDF reports. It provides personalized spiritual guidance through birth chart readings, tarot, dream analysis, and auspicious date finding. The platform emphasizes privacy and offers premium features like unlimited access, advanced analysis, and calendar integration.",
+    "summary_zh": "Celestial Fortunes 使用人工智能融合东方和西方占星术，提供即时解读和详细的 PDF 报告。它通过出生图解读、塔罗牌、梦境分析和吉日查找提供个性化的精神指导。该平台强调隐私，并提供高级功能，如无限访问、高级分析和日历集成。",
+    "best_quote_en": "Experience the perfect blend of ancient wisdom and cutting-edge AI technology.",
+    "best_quote_zh": "体验古代智慧和尖端人工智能技术的完美融合。"
+  },
+  {
+    "id": 140,
+    "title": "Ask HN: Voluntary ID verification for better services. Would you use it?",
+    "source": "Hackernews",
+    "desc": "<p>I've been thinking about the signal-to-noise problem in various online communities. So much of the moderation overhead and user frustration seems to stem from trolling, spam, and bad-faith actors operating behind a shield of complete anonymity.<p>This is purely a thought experiment, not a product pitch:<p>If certain services (e.g., marketplace, social-media, a niche forum for professionals, a comments section on a serious publication) offered a strictly voluntary, opt-in \"verified\" mode, would you use it?<p>In this scenario, you'd verify your identity once with a trusted third party, and this would grant you access to these higher-trust spaces. Your real name would not necessarily be public, but your account would be linked to a unique, real person.<p>The theoretical benefit would be a dramatic reduction in scams, spam, and trolling, leading to a higher quality of interaction. The obvious downside is the privacy trade-off.<p>Would you ever consider making that trade? If so, under what specific conditions?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45247206\">https://news.ycombinator.com/item?id=45247206</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45247206",
+    "tags": [
+      "id verification",
+      "online community",
+      "privacy",
+      "moderation",
+      "trust"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "The author proposes a voluntary ID verification system for online services to reduce trolling, spam, and scams. Users would verify their identity with a trusted third party for access to higher-trust spaces, without necessarily revealing their real name publicly. The trade-off would be improved interaction quality versus privacy concerns.",
+    "summary_zh": "作者提出了一个在线服务自愿身份验证系统，以减少网络暴力、垃圾邮件和诈骗。用户将通过受信任的第三方验证其身份，以访问更高信任度的空间，而不必公开其真实姓名。权衡之处在于交互质量的提高与隐私问题。",
+    "best_quote_en": "So much of the moderation overhead and user frustration seems to stem from trolling, spam, and bad-faith actors operating behind a shield of complete anonymity.",
+    "best_quote_zh": "如此多的管理负担和用户沮丧似乎源于在完全匿名保护下进行的网络暴力、垃圾邮件和恶意行为者。"
+  },
+  {
+    "id": 141,
+    "title": "The OpenRouter for OCR",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://parserstudio.com/\">https://parserstudio.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45247193\">https://news.ycombinator.com/item?id=45247193</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://parserstudio.com/",
+    "tags": [
+      "ocr",
+      "document extraction",
+      "parser studio",
+      "automation",
+      "data extraction"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "Parser Studio is presented as an open platform for OCR and document extraction. It simplifies the process by allowing users to choose the best OCR and extraction engines based on their priorities (speed, cost). It aims to unify document processing workflows, boost efficiency, and cut expenses, acting as a single router for developers to manage various file types.",
+    "summary_zh": "Parser Studio 是一个开放的OCR和文档提取平台。它通过允许用户根据优先级（速度、成本）选择最佳的OCR和提取引擎来简化流程。它旨在统一文档处理工作流程，提高效率并削减开支，作为一个单一的路由器供开发人员管理各种文件类型。",
+    "best_quote_en": "Parser Studio aims to be the simple router developers need to make sense of documents.",
+    "best_quote_zh": "Parser Studio 旨在成为开发者理解文档所需的简单路由器。"
+  },
+  {
+    "id": 142,
+    "title": "Network Breakthrough: GNN-Pomdp Enables Robust Policies in Dynamic Systems",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://quantumzeitgeist.com/network-systems-routing-breakthrough-gnn-pomdp-framework-enables-scalable-robust/\">https://quantumzeitgeist.com/network-systems-routing-breakthrough-gnn-pomdp-framework-enables-scalable-robust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45247134\">https://news.ycombinator.com/item?id=45247134</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://quantumzeitgeist.com/network-systems-routing-breakthrough-gnn-pomdp-framework-enables-scalable-robust/",
+    "tags": [
+      "quantum networks",
+      "graph neural networks",
+      "gnn-pomdp",
+      "routing",
+      "dynamic systems"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "Researchers developed a GNN-POMDP framework for robust routing in dynamic quantum networks. This approach encodes network dynamics into simplified representations, accounts for noise and decoherence, and intelligently manages quantum information flow. It combines the scalability of GNNs with the formal guarantees of POMDPs, achieving fidelity tracking and resource management while adapting to changing network conditions.",
+    "summary_zh": "研究人员开发了一个GNN-POMDP框架，用于在动态量子网络中实现稳健的路由。该方法将网络动态编码为简化的表示，考虑了噪声和退相干，并智能地管理量子信息流。它结合了GNN的可扩展性和POMDP的形式保证，实现了保真度跟踪和资源管理，同时适应不断变化的网络条件。",
+    "best_quote_en": "This hybrid algorithm leverages the formal guarantees of belief-state planning alongside the scalability of GNNs, achieving a synergistic combination of robustness and efficiency.",
+    "best_quote_zh": "这种混合算法利用了置信状态规划的形式保证以及GNN的可扩展性，实现了鲁棒性和效率的协同结合。"
   }]
