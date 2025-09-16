@@ -2653,4 +2653,98 @@
     "summary_zh": "研究人员开发了一个GNN-POMDP框架，用于在动态量子网络中实现稳健的路由。该方法将网络动态编码为简化的表示，考虑了噪声和退相干，并智能地管理量子信息流。它结合了GNN的可扩展性和POMDP的形式保证，实现了保真度跟踪和资源管理，同时适应不断变化的网络条件。",
     "best_quote_en": "This hybrid algorithm leverages the formal guarantees of belief-state planning alongside the scalability of GNNs, achieving a synergistic combination of robustness and efficiency.",
     "best_quote_zh": "这种混合算法利用了置信状态规划的形式保证以及GNN的可扩展性，实现了鲁棒性和效率的协同结合。"
+  },{
+    "id": 143,
+    "title": "Dolphin Progress Release 2509",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/\">https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45259344\">https://news.ycombinator.com/item?id=45259344</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/",
+    "tags": [
+      "dolphin",
+      "dual core",
+      "emulation",
+      "nintendo switch",
+      "gamecube"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "This Dolphin Progress Report discusses disabling Dual Core mode by default on desktop due to its instability, while it remains enabled on Android. It also touches on improvements to DSP-LLE and the ongoing efforts to support Nintendo Switch 2 NSO GameCube Controller. The report highlights challenges in emulating games like Star Wars: Rogue Squadron and the 'Disney Trio of Destruction'.",
+    "summary_zh": "Dolphin进度报告讨论了由于Dual Core模式的不稳定性，默认情况下在桌面端禁用它，但在Android端仍然启用。报告还涉及对DSP-LLE的改进以及支持Nintendo Switch 2 NSO GameCube Controller的持续努力。报告强调了模拟《星球大战：侠盗中队》和“迪士尼毁灭三人组”等游戏的挑战。",
+    "best_quote_en": "We'd much rather have users mutter about Dolphin being slower than be heartbroken over lost save data caused by a setting they didn't even realize existed.",
+    "best_quote_zh": "我们宁愿用户抱怨 Dolphin 变慢，也不愿他们因为一个他们甚至不知道存在的设置而丢失存档数据而伤心。"
+  },
+  {
+    "id": 144,
+    "title": "Eggcorn",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Eggcorn\">https://en.wikipedia.org/wiki/Eggcorn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45259331\">https://news.ycombinator.com/item?id=45259331</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Eggcorn",
+    "tags": [
+      "eggcorn",
+      "linguistics",
+      "language change",
+      "malapropism",
+      "etymology"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "An eggcorn is the alteration of a word or phrase based on mishearing or reinterpretation, creating a plausible new phrase. It's a fitting malapropism arising from attempts to make sense of unfamiliar terms. Linguists find them interesting because they reveal how language changes in real-time.",
+    "summary_zh": "Eggcorn是通过误听或重新解释来改变单词或短语，从而创建一个看似合理的新短语。这是一种恰当的用词错误，源于试图理解不熟悉的术语。语言学家认为它们很有趣，因为它们揭示了语言如何实时变化。",
+    "best_quote_en": "Eggcorns are of interest to linguists as they not only show language changing in real time, but can also shed light on how and why the change occurs.",
+    "best_quote_zh": "Eggcorns之所以引起语言学家的兴趣，不仅因为它们展示了语言的实时变化，而且还可以阐明这种变化是如何以及为何发生的。"
+  },
+  {
+    "id": 145,
+    "title": "S1ngularity – What Happened, How We Responded, What We Learned",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://nx.dev/blog/s1ngularity-postmortem\">https://nx.dev/blog/s1ngularity-postmortem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45259326\">https://news.ycombinator.com/item?id=45259326</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://nx.dev/blog/s1ngularity-postmortem",
+    "tags": [
+      "security",
+      "npm",
+      "github actions",
+      "vulnerability",
+      "supply chain"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "On August 26, 2025, Nx packages on npm were compromised due to a GitHub Actions injection vulnerability. Attackers stole the NPM token, published malicious packages, and scanned user systems for data. The issue was contained by removing tokens and packages. Affected users were identified and alerted. Security measures like NPM Trusted Publishers and access hardening were implemented to prevent future attacks.",
+    "summary_zh": "2025年8月26日，由于 GitHub Actions 注入漏洞，npm 上的 Nx 包遭到入侵。攻击者窃取了NPM令牌，发布了恶意软件包，并扫描用户系统以获取数据。通过删除令牌和软件包来控制了问题。已识别并提醒受影响的用户。已实施 NPM Trusted Publishers 和访问权限强化等安全措施，以防止未来的攻击。",
+    "best_quote_en": "Our publishing process itself wasn’t breached, but the token let attackers bypass release pipelines.",
+    "best_quote_zh": "我们的发布流程本身没有被破坏，但令牌让攻击者绕过了发布管道。"
+  },
+  {
+    "id": 146,
+    "title": "Book Review: If Anyone Builds It, Everyone Dies",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/book-review-if-anyone-builds-it-everyone\">https://www.astralcodexten.com/p/book-review-if-anyone-builds-it-everyone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45259291\">https://news.ycombinator.com/item?id=45259291</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.astralcodexten.com/p/book-review-if-anyone-builds-it-everyone",
+    "tags": [
+      "ai safety",
+      "miri",
+      "existential risk",
+      "regulation",
+      "moral clarity"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "The Machine Intelligence Research Institute (MIRI) advocates for an immediate ban on AI capabilities research, believing that AI poses a significant existential risk to humanity. They criticize the incrementalist approach of other AI safety organizations, arguing that it is insufficient to address the potential dangers. MIRI's upcoming book, 'If Anyone Builds It, Everyone Dies', presents this case.",
+    "summary_zh": "机器智能研究所（MIRI）主张立即禁止人工智能能力研究，认为人工智能对人类构成重大的生存风险。他们批评其他人工智能安全组织采取的渐进主义方法，认为这不足以解决潜在的危险。MIRI即将出版的书籍《如果任何人构建它，每个人都会死》提出了这一观点。",
+    "best_quote_en": "MIRI answered: moral clarity.",
+    "best_quote_zh": "机器智能研究所的回答是：道德清晰。"
+  },
+  {
+    "id": 147,
+    "title": "Harvest Now, Decrypt Later",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later\">https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45259266\">https://news.ycombinator.com/item?id=45259266</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later",
+    "tags": [
+      "harvest-now-decrypt-later",
+      "quantum-computing",
+      "post-quantum-cryptography",
+      "surveillance",
+      "encryption"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "\"Harvest now, decrypt later\" is a surveillance strategy involving the long-term storage of encrypted data, anticipating future decryption breakthroughs. Quantum computing poses a major threat, potentially breaking current encryption. The U.S. government is proactively urging migration to post-quantum cryptography to safeguard sensitive data.",
+    "summary_zh": "“先收集，后解密”是一种监视策略，涉及长期存储加密数据，以期未来出现解密技术突破。量子计算构成重大威胁，可能破解当前的加密技术。美国政府正积极推动迁移到后量子密码学，以保护敏感数据。",
+    "best_quote_en": "The existence of this strategy has led to concerns about the need to urgently deploy post-quantum cryptography, even though no practical quantum attacks yet exist, as some data stored now may still remain sensitive even decades into the future.",
+    "best_quote_zh": "这种策略的存在导致人们担心需要紧急部署后量子密码学，即使目前还没有实际的量子攻击，因为现在存储的一些数据在几十年后可能仍然敏感。"
   }]
