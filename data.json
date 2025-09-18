@@ -2822,4 +2822,98 @@
     "summary_zh": "北美有机会建立可靠的电动汽车充电标准。汽车制造商正趋同于NACS，联邦资金要求可靠性，重型卡车运输推动了兆瓦充电的需求。现在解决碎片化问题对于实现2030年电动汽车普及目标和避免不可靠的系统至关重要。",
     "best_quote_en": "North America has the chance to build a charging ecosystem that drivers and fleets can trust as much as a gas pump—and the clock is ticking.",
     "best_quote_zh": "北美有机会建立一个充电生态系统，让司机和车队像信任加油站一样信任它——而且时间正在流逝。"
+  },{
+    "id": 152,
+    "title": "Steering Committee Retrospective",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.haskellforall.com/2025/09/steering-committee-retrospective.html\">https://www.haskellforall.com/2025/09/steering-committee-retrospective.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45286839\">https://news.ycombinator.com/item?id=45286839</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.haskellforall.com/2025/09/steering-committee-retrospective.html",
+    "tags": [
+      "steering-committee",
+      "reform",
+      "nix",
+      "governance",
+      "community"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "The author is resigning early from the Steering Committee due to its ineffectiveness. Issues include its large size leading to diffusion of responsibility and stagnation, timidity hindering consensus, poor self-organization and internal policies like requiring majority approval for statements causing delayed responses, and absenteeism. The author hopes for reforms to address the committee's stagnation.",
+    "summary_zh": "作者因指导委员会效率低下而提前辞职。问题包括规模过大导致责任分散和停滞，胆怯阻碍共识，糟糕的自我组织和内部政策（如要求声明获得多数批准导致回应延迟）以及缺勤。作者希望进行改革以解决委员会的停滞状态。",
+    "best_quote_en": "I believe the Steering Committee is in need of reform in order to be effective and in its present state it does not set up the Nix community for success nor does it set up individual Steering Committee members for success.",
+    "best_quote_zh": "我认为指导委员会需要改革才能有效，并且以目前的状态，它既没有为 Nix 社区的成功做好准备，也没有为指导委员会成员个人的成功做好准备。"
+  },
+  {
+    "id": 153,
+    "title": "What you should do if you suddenly can't pee",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnn.com/2025/09/15/health/cant-pee-what-it-means-wellness\">https://www.cnn.com/2025/09/15/health/cant-pee-what-it-means-wellness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45286836\">https://news.ycombinator.com/item?id=45286836</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnn.com/2025/09/15/health/cant-pee-what-it-means-wellness",
+    "tags": [
+      "urinary retention",
+      "prostate",
+      "constipation",
+      "medications",
+      "urology"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "Difficulty urinating can stem from urinary retention, blockages, weak bladder muscles, or nerve issues. Common causes include enlarged prostate in men, constipation, medications, and neurological conditions. Warning signs include inability to urinate or a weak stream. Urologists use various tests to diagnose the cause, such as uroflowmetry and cystoscopy. Prompt treatment is essential to prevent complications.",
+    "summary_zh": "排尿困难可能源于尿潴留、阻塞、膀胱肌肉无力或神经问题。常见原因包括男性前列腺增大、便秘、药物和神经系统疾病。警告信号包括无法排尿或尿流较弱。泌尿科医生使用多种检查来诊断病因，例如尿流动力学和膀胱镜检查。及时治疗对于预防并发症至关重要。",
+    "best_quote_en": "If you cannot urinate at all and your bladder feels painfully full...that’s likely an emergency. Go to the ER right away.",
+    "best_quote_zh": "如果你完全无法排尿，并且膀胱感到疼痛地充满...这可能就是紧急情况。马上去急诊室。"
+  },
+  {
+    "id": 154,
+    "title": "Ask HN: macOS+AWS Workspace+Bluetooth sucks: dongle headphone recommendations?",
+    "source": "Hackernews",
+    "desc": "<p>Following Apple basically giving up on fixing the Bluetooth audio mode switching ([1]), and AWS Workspace being a very frustrating piece of  software on Mac OS, I am forced to consider giving up my beloved original Bose QC 35 (Bluetooth and ANC).<p>I have to work in AWS Workspaces, which has the habit of needlessly forcing the use of the microphone at all times (yellow icon in the menubar). This makes Mac OS change the Bluetooth profile from audio playback to handset mode, which is extremely low quality audio (and on my headphones pipes the headphones mic back in the audio and seemingly disable the noise cancellation). The tools to deactivate the profile was removed 3 version of Mac OS ago and changing the selected microphone in the settings does nothing.<p>As they don't suffer from the same problem, I am looking for dongle-based over ear headphones like the Logitech G 735. In order criteria are: \"works with mac os\", over the ear,  comfortable, good audio, ANC, low latency, mic optional but a nice microphone a plus.<p>After endless frustrating google searches it seems only Logitech advertise Mac OS support on some of their headphones. Most tests or reviews don't mention mac os, and I think most of the dongle based headphones that \"support\" mac os is through the Bluetooth, which is a no-go for my use case.<p>- G735 work, sound OK but they feel a bit heavy and basically no noise isolation (also not inexpensive).\n- G733 should work with Mac OS, be lighter than G 735, but worse sound, isolation and latency (at least they seem relatively inexpensive)\n- G533 also should work, be light as well, but same problems and worse sound, isolation and latency (also available relatively inexpensive)\n- G Pro X2: should sound better, but Mac OS status is unknown<p>Anybody has good Mac OS experience with the above headphones or the Razer BlackShark series (the last one has ANC) ? Or able to recommend another pair?<p>1: https://support.apple.com/en-us/102217 :\n\"If sound quality is reduced when using Bluetooth headphones with your Mac Quit any apps that use your Bluetooth headphones' built-in microphone, then try your audio again.\" : unfortunately I can't quit AWS Workspace.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45286822\">https://news.ycombinator.com/item?id=45286822</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45286822",
+    "tags": [
+      "macos",
+      "aws workspace",
+      "bluetooth",
+      "headphones",
+      "audio"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "The author is frustrated with Bluetooth audio issues on macOS when using AWS Workspace, specifically the automatic switching to low-quality handset mode due to constant microphone usage. They are seeking recommendations for dongle-based over-ear headphones with macOS support, good audio, ANC, low latency, and optional mic, considering options like Logitech G735, G733, G533, and G Pro X2, or Razer BlackShark series.",
+    "summary_zh": "作者对在macOS上使用AWS Workspace时遇到的蓝牙音频问题感到沮丧，特别是由于持续的麦克风使用而自动切换到低质量的手机模式。他们正在寻找支持macOS的，基于dongle的头戴式耳机，要求具有良好的音频，主动降噪（ANC），低延迟和可选麦克风，并正在考虑Logitech G735，G733，G533和G Pro X2或Razer BlackShark系列等选项。",
+    "best_quote_en": "I have to work in AWS Workspaces, which has the habit of needlessly forcing the use of the microphone at all times (yellow icon in the menubar). This makes Mac OS change the Bluetooth profile from audio playback to handset mode, which is extremely low quality audio (and on my headphones pipes the headphones mic back in the audio and seemingly disable the noise cancellation).",
+    "best_quote_zh": "我必须在AWS Workspaces中工作，它总是习惯性地不必要地强制使用麦克风（菜单栏中的黄色图标）。这使得Mac OS将蓝牙配置文件从音频播放更改为手机模式，这导致极低的音频质量（并且在我的耳机上，会将耳机麦克风重新导入到音频中，并且似乎禁用了降噪功能）。"
+  },
+  {
+    "id": 155,
+    "title": "SlamDunk for 3D Visualizations in Python",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/Robertleoj/slam_dunk\">https://github.com/Robertleoj/slam_dunk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45286817\">https://news.ycombinator.com/item?id=45286817</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/Robertleoj/slam_dunk",
+    "tags": [
+      "visualization",
+      "python",
+      "3d",
+      "opengl",
+      "imgui"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "SlamDunk is a user-friendly Python library for creating 3D and 2D visualizations, ideal for prototyping, data exploration, and algorithm development. It leverages OpenGL and ImGui for lightweight operation. The client-server architecture allows remote visualization. It supports various geometry primitives such as point clouds and meshes.",
+    "summary_zh": "SlamDunk 是一个用户友好的 Python 库，用于创建 3D 和 2D 可视化，非常适合原型设计、数据探索和算法开发。它利用 OpenGL 和 ImGui 实现轻量级操作。客户端-服务器架构允许远程可视化。 它支持各种几何图元，如点云和网格。",
+    "best_quote_en": "SlamDunk is a powerful and user-friendly Python library for making 3D and 2D visualizations for prototyping, data exploration, and algorithm development.",
+    "best_quote_zh": "SlamDunk 是一个强大且用户友好的 Python 库，用于创建 3D 和 2D 可视化，非常适合原型设计、数据探索和算法开发。"
+  },
+  {
+    "id": 156,
+    "title": "Council to introduce facial recognition CCTV",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/crl5030lwkwo\">https://www.bbc.co.uk/news/articles/crl5030lwkwo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45286815\">https://news.ycombinator.com/item?id=45286815</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.co.uk/news/articles/crl5030lwkwo",
+    "tags": [
+      "facial-recognition",
+      "cctv",
+      "ai",
+      "surveillance",
+      "privacy"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "Hammersmith and Fulham Council approved facial recognition and AI-assisted CCTV with over Â£3m funding. Cameras will match faces against police databases, raising privacy concerns. The council aims to improve criminal justice, citing austerity's impact. Big Brother Watch criticizes the lack of safeguards and mass surveillance.",
+    "summary_zh": "哈默史密斯和富勒姆委员会批准了面部识别和人工智能辅助的闭路电视系统，并投入超过300万英镑的资金。摄像头会将面部与警方数据库进行匹配，引发了对隐私的担忧。委员会的目标是改善刑事司法，理由是紧缩政策的影响。老大哥观察组织批评缺乏保障措施和大规模监控。",
+    "best_quote_en": "The use of facial recognition proposed by the council amounted to 'an unprecedented level of mass surveillance and it marks the end of privacy in the public space as we know it'.",
+    "best_quote_zh": "委员会提出的面部识别技术的使用，相当于'前所未有的大规模监控，标志着我们所知的公共空间隐私的终结'。"
   }]
