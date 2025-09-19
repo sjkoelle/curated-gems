@@ -2916,4 +2916,60 @@
     "summary_zh": "哈默史密斯和富勒姆委员会批准了面部识别和人工智能辅助的闭路电视系统，并投入超过300万英镑的资金。摄像头会将面部与警方数据库进行匹配，引发了对隐私的担忧。委员会的目标是改善刑事司法，理由是紧缩政策的影响。老大哥观察组织批评缺乏保障措施和大规模监控。",
     "best_quote_en": "The use of facial recognition proposed by the council amounted to 'an unprecedented level of mass surveillance and it marks the end of privacy in the public space as we know it'.",
     "best_quote_zh": "委员会提出的面部识别技术的使用，相当于'前所未有的大规模监控，标志着我们所知的公共空间隐私的终结'。"
+  },{
+    "id": 157,
+    "title": "Intel says blockbuster Nvidia deal doesn't change its own roadmap",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.pcworld.com/article/2913872/intel-nvidia-deal-doesnt-change-its-roadmap.html\">https://www.pcworld.com/article/2913872/intel-nvidia-deal-doesnt-change-its-roadmap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45299016\">https://news.ycombinator.com/item?id=45299016</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.pcworld.com/article/2913872/intel-nvidia-deal-doesnt-change-its-roadmap.html",
+    "tags": [
+      "intel",
+      "nvidia",
+      "roadmap",
+      "gpu",
+      "cpu"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "Intel claims its deal with Nvidia won't impact its existing product roadmap for CPUs, including Panther Lake and Nova Lake. The Nvidia partnership may add premium products to Intel's lineup, potentially integrating Nvidia's RTX chiplets. While the future of Intel's Arc graphics is uncertain, Intel insists it will continue GPU offerings.",
+    "summary_zh": "英特尔声明与英伟达的合作不会影响现有的CPU产品路线图，包括Panther Lake和Nova Lake。与英伟达的合作可能会为英特尔的产品线增加高端产品，可能集成英伟达的RTX芯片。虽然英特尔Arc显卡的未来尚不确定，但英特尔坚持将继续提供GPU产品。",
+    "best_quote_en": "We’re not discussing specific roadmaps at this time, but the collaboration is complementary to Intel’s roadmap and Intel will continue to have GPU product offerings.",
+    "best_quote_zh": "目前我们不讨论具体的产品规划，但这次合作是对英特尔产品规划的补充，英特尔将继续提供GPU产品。"
+  },
+  {
+    "id": 158,
+    "title": "Show HN: TermChat – Terminal chat (rooms/DMs) via SSH",
+    "source": "Hackernews",
+    "desc": "<p>Hello,<p>I got an idea from a friend a couple of weeks ago when we were discussing how heavy simple apps have become with all their unnecessary features. If you only want to communicate via good old text, you almost certainly need to install some kind of heavy and often slow desktop app. We talked about how cool it would be to just use your terminal without any dependencies. So I got the idea to create a simple chat app, but instead of making YAA (yet another app), why not use something almost all people already have installed on their PCs - SSH? So TermChat was born.<p>Simply type: ssh termchat.me<p>then: /help to see all the available commands or /register and then /login.<p>Switch panes via tab, navigate by 'hjkl' or arrows.<p>It’s still early days, so there will be (are) bugs and hiccups but the basics work: public/private rooms, notifications, and DMs.<p>There are no email registration/verification etc. It's simple username/password registration. Passwords are hashed and salted, private rooms and chats are encrypted at rest.<p>I'm working with code cleanup and docs. now and planning to open source it soon.<p>Feedback, critique or anything that could help me improve this project are welcome. My main reason for creating this was that I just want to communicate with people via simple text with tools I already have on my computer.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45299005\">https://news.ycombinator.com/item?id=45299005</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45299005",
+    "tags": [
+      "ssh",
+      "terminal",
+      "chat",
+      "lightweight",
+      "communication"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "TermChat is a terminal-based chat application accessible via SSH. It aims to provide a lightweight alternative to feature-heavy chat apps, leveraging the ubiquity of SSH. The application supports public/private rooms, DMs, and username/password registration with hashed passwords. Open-sourcing is planned.",
+    "summary_zh": "TermChat是一个基于终端的聊天应用程序，可通过SSH访问。它的目标是提供一个轻量级的替代方案，以取代功能繁重的聊天应用程序，并利用SSH的普遍性。该应用支持公共/私人聊天室、私信，以及用户名/密码注册（密码已哈希处理）。计划开源。",
+    "best_quote_en": "My main reason for creating this was that I just want to communicate with people via simple text with tools I already have on my computer.",
+    "best_quote_zh": "我创建这个的主要原因是，我只想用我电脑上已有的工具，通过简单的文本与人交流。"
+  },
+  {
+    "id": 159,
+    "title": "JEP 500: Prepare to Make Final Mean Final",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://openjdk.org/jeps/500\">https://openjdk.org/jeps/500</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45298949\">https://news.ycombinator.com/item?id=45298949</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://openjdk.org/jeps/500",
+    "tags": [
+      "jep 500",
+      "final fields",
+      "reflection",
+      "immutability",
+      "java"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "JEP 500 proposes issuing warnings for deep reflection-based mutations of final fields, preparing for a future release that enforces immutability by default. This aims to improve safety and performance by aligning final fields with record classes and allowing serialization libraries to function. The goal is to prevent reassignment via deep reflection, enhancing integrity and enabling better JVM optimizations.",
+    "summary_zh": "JEP 500 提议针对基于深度反射的 final 字段突变发出警告，为将来默认强制执行不变性的版本做准备。这旨在通过使 final 字段与 record 类保持一致并允许序列化库发挥作用，来提高安全性和性能。目标是防止通过深度反射重新赋值，从而增强完整性并实现更好的 JVM 优化。",
+    "best_quote_en": "Final fields are, in reality, as mutable as non-final fields. We cannot rely on final fields to be immutable when reasoning about correctness, and we cannot use final fields to construct the deeply immutable graphs of objects that enable the JVM to deliver the best performance optimizations.",
+    "best_quote_zh": "实际上，Final 字段与非 Final 字段一样可变。在推理正确性时，我们不能依赖 Final 字段的不可变性，也不能使用 Final 字段来构建深度不可变的对象图，而这些对象图使 JVM 能够提供最佳的性能优化。"
   }]
