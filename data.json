@@ -2972,4 +2972,79 @@
     "summary_zh": "JEP 500 提议针对基于深度反射的 final 字段突变发出警告，为将来默认强制执行不变性的版本做准备。这旨在通过使 final 字段与 record 类保持一致并允许序列化库发挥作用，来提高安全性和性能。目标是防止通过深度反射重新赋值，从而增强完整性并实现更好的 JVM 优化。",
     "best_quote_en": "Final fields are, in reality, as mutable as non-final fields. We cannot rely on final fields to be immutable when reasoning about correctness, and we cannot use final fields to construct the deeply immutable graphs of objects that enable the JVM to deliver the best performance optimizations.",
     "best_quote_zh": "实际上，Final 字段与非 Final 字段一样可变。在推理正确性时，我们不能依赖 Final 字段的不可变性，也不能使用 Final 字段来构建深度不可变的对象图，而这些对象图使 JVM 能够提供最佳的性能优化。"
+  },{
+    "id": 160,
+    "title": "Euclidea – Geometric Constructions Game with Straightedge and Compass",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.euclidea.xyz/\">https://www.euclidea.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45311374\">https://news.ycombinator.com/item?id=45311374</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.euclidea.xyz/",
+    "tags": [
+      "euclidea",
+      "geometric construction",
+      "puzzle game",
+      "straightedge and compass",
+      "dynamic geometry"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "Euclidea is a geometric construction game using straightedge and compass, offering 120 levels from easy to hard. It focuses on building geometric constructions in a fun and simple way, rewarding elegant solutions with high scores. The game features tutorials, innovative tools and dynamic geometry, with interactive practice. Other similar applications such as Pythagorea and Tchisla are developed.",
+    "summary_zh": "Euclidea是一款使用直尺和圆规进行几何构造的游戏，提供120个从易到难的关卡。 它注重以有趣和简单的方式构建几何图形，并以高分奖励优雅的解决方案。该游戏具有教程，创新工具和动态几何功能，可以进行交互式练习。 开发了其他类似的应用程序，例如Pythagorea和Tchisla。",
+    "best_quote_en": "Find the most elegant solution — the one, which is built in the least possible moves, — and you’ll get the highest score.",
+    "best_quote_zh": "找到最优雅的解决方案——以尽可能少的步骤构建的方案——你将获得最高分。"
+  },
+  {
+    "id": 161,
+    "title": "Attaching a Raspberry Pi to my exercise bike for fun",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://vivekn.dev/blog/vital\">https://vivekn.dev/blog/vital</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45311331\">https://news.ycombinator.com/item?id=45311331</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://vivekn.dev/blog/vital",
+    "tags": [
+      "raspberry pi",
+      "exercise bike",
+      "apple health",
+      "gpio",
+      "api"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "The author attached a Raspberry Pi to their exercise bike to sync its data with Apple Health. They used the Raspberry Pi to read data from the bike's reed switch and created an API to expose stats. Finally, they built an Apple Shortcut to log workout data into Apple Health.",
+    "summary_zh": "作者将树莓派连接到健身自行车，从而将数据与Apple Health同步。他们使用树莓派读取自行车簧片开关中的数据，并创建API来公开统计数据。最后，他们构建了一个Apple Shortcut，将锻炼数据记录到Apple Health中。",
+    "best_quote_en": "Pretty neat that all of cycling can be reduced to a simple on/off switch.",
+    "best_quote_zh": "非常巧妙的是，所有的骑行都可以简化为一个简单的开/关开关。"
+  },
+  {
+    "id": 162,
+    "title": "Growagarden.buzz",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://growagarden.buzz/\">https://growagarden.buzz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45311326\">https://news.ycombinator.com/item?id=45311326</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://growagarden.buzz/",
+    "tags": [
+      "roblox",
+      "simulation",
+      "farming",
+      "creature collection",
+      "grow a garden"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "Grow a Garden is a popular Roblox simulation game with over 646 million visits. Players cultivate crops, collect creatures, and discover mutations. The game features a deep progression system with farming, creature collection, and strategic gameplay. Regular updates and community support ensure a continuous stream of new content and features.",
+    "summary_zh": "《Grow a Garden》是一个流行的 Roblox 模拟游戏，访问量超过 6.46 亿。玩家种植作物、收集生物并发现变异。该游戏具有深入的进程系统，包含农业、生物收集和战略游戏。定期更新和社区支持确保了持续不断的新内容和功能。",
+    "best_quote_en": "Every decision in Grow a Garden matters, from choosing which seeds to plant to deciding which creatures to breed.",
+    "best_quote_zh": "在《Grow a Garden》中，每一个决定都很重要，从选择种植哪种种子到决定繁殖哪种生物。"
+  },
+  {
+    "id": 163,
+    "title": "Show HN: I built a wireless Dactyl 5x6 keyboard (under 10kINR)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/siddhantk232/dactyl\">https://github.com/siddhantk232/dactyl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45311324\">https://news.ycombinator.com/item?id=45311324</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/siddhantk232/dactyl",
+    "tags": [
+      "keyboard",
+      "dactyl",
+      "zmk",
+      "wireless",
+      "diy"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "This article introduces a wireless Dactyl 5x6 keyboard build using ZMK firmware and STL files generated with ryanis.cool/cosmos. It provides hardware sourcing information for India, costing around 10k INR. Resources for the build process, including the original Dactyl project, YouTube stream by Kevin Eckert, and ZMK Docs, are also shared.",
+    "summary_zh": "本文介绍了一个无线 Dactyl 5x6 键盘的构建，使用了 ZMK 固件和 ryanis.cool/cosmos 生成的 STL 文件。它提供了在印度采购硬件的信息，成本约为 1 万印度卢比。同时分享了构建过程的资源，包括原始 Dactyl 项目、Kevin Eckert 的 YouTube 视频以及 ZMK 文档。",
+    "best_quote_en": "Sadly, zmk-studio does not provide a way to export your config to a file for reproducability.",
+    "best_quote_zh": "遗憾的是，zmk-studio 没有提供将配置导出到文件以实现可重复性的方法。"
   }]
