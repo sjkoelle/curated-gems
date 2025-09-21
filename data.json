@@ -3047,4 +3047,98 @@
     "summary_zh": "本文介绍了一个无线 Dactyl 5x6 键盘的构建，使用了 ZMK 固件和 ryanis.cool/cosmos 生成的 STL 文件。它提供了在印度采购硬件的信息，成本约为 1 万印度卢比。同时分享了构建过程的资源，包括原始 Dactyl 项目、Kevin Eckert 的 YouTube 视频以及 ZMK 文档。",
     "best_quote_en": "Sadly, zmk-studio does not provide a way to export your config to a file for reproducability.",
     "best_quote_zh": "遗憾的是，zmk-studio 没有提供将配置导出到文件以实现可重复性的方法。"
+  },{
+    "id": 164,
+    "title": "NixCon 2025 Trip Report",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/\">https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45320910\">https://news.ycombinator.com/item?id=45320910</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
+    "tags": [
+      "nix",
+      "nixos",
+      "ci",
+      "hydra",
+      "devops"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "NixCon 2025 in Switzerland featured talks on Nix-based CI solutions, Hydra queue runner rewritten in Rust, dev environments, binary caches on AWS, and Nix adoption at Shopify. The conference included discussions on improving development workflows and infrastructure, addressing challenges, and community contributions to open source.",
+    "summary_zh": "在瑞士举行的 NixCon 2025 会议以 Nix 为基础的 CI 解决方案、用 Rust 重写的 Hydra 队列运行器、开发环境、AWS 上的二进制缓存以及 Shopify 对 Nix 的采用为主题。会议内容包括改进开发工作流程和基础设施，解决挑战以及社区对开源的贡献。",
+    "best_quote_en": "One interesting thing I learnt is that the Nix garbage collector scans /proc to avoid removing Nix store paths that are still needed by running processes.",
+    "best_quote_zh": "我学到的一个有趣的事情是，Nix 垃圾收集器会扫描 /proc，以避免删除正在运行的进程仍然需要的 Nix 存储路径。"
+  },
+  {
+    "id": 165,
+    "title": "Link Relations",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.iana.org/assignments/link-relations/link-relations.xhtml\">https://www.iana.org/assignments/link-relations/link-relations.xhtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45320909\">https://news.ycombinator.com/item?id=45320909</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.iana.org/assignments/link-relations/link-relations.xhtml",
+    "tags": [
+      "link relations",
+      "rfc8288",
+      "registry",
+      "web resources",
+      "html"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "This document describes Link Relations, including registration procedures, specifications, and expert contacts. It lists various relation names with descriptions, references, and notes, covering aspects like access control, alternatives, API catalogs, authorship, and resource management. It provides a comprehensive registry for link relation types and their usage.",
+    "summary_zh": "本文档描述了链接关系，包括注册程序、规范和专家联系方式。它列出了各种关系名称及其描述，参考资料和注释，涵盖了访问控制、替代方案、API目录、作者身份和资源管理等方面。它为链接关系类型及其使用提供了一个全面的注册表。",
+    "best_quote_en": "The relationship A 'describes' B asserts that resource A provides a description of resource B.",
+    "best_quote_zh": "关系A“描述”B 断言资源A提供了资源B的描述"
+  },
+  {
+    "id": 166,
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Reborn_as_a_Vending_Machine,_I_Now_Wander_the_Dungeon\">https://en.wikipedia.org/wiki/Reborn_as_a_Vending_Machine,_I_Now_Wander_the_Dungeon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45320903\">https://news.ycombinator.com/item?id=45320903</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Reborn_as_a_Vending_Machine,_I_Now_Wander_the_Dungeon",
+    "tags": [
+      "isekai",
+      "vending machine",
+      "dungeon",
+      "light novel",
+      "anime"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "Reborn as a Vending Machine, I Now Wander the Dungeon is a Japanese light novel series, later adapted into a manga and anime. The story follows a vending machine otaku reincarnated as a sentient vending machine in a fantasy dungeon, who partners with a female hunter named Lammis for dungeon adventures.",
+    "summary_zh": "《自动贩卖机转生迷宫漫游》是一部日本轻小说系列，后被改编成漫画和动漫。故事讲述了一位自动售货机宅转生成为幻想地下城中有意识的自动售货机，并与一位名叫拉米斯的女性猎人一起进行地下城冒险。",
+    "best_quote_en": "\"This wasn't a novel where I adjusted for the readers' needs, or had to think long and hard about constructing a plot. Instead, I pursued my own style for it, and it garnered the most popularity of all my work\".",
+    "best_quote_zh": "“这不是一本为了迎合读者需求而写的，或者需要长时间思考如何构建情节的小说。相反，我追求自己的风格，它也获得了我所有作品中最受欢迎的。”"
+  },
+  {
+    "id": 167,
+    "title": "Support for base64url encoding and decoding in PostgreSQL 19",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://tselai.com/base64url\">https://tselai.com/base64url</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45320890\">https://news.ycombinator.com/item?id=45320890</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://tselai.com/base64url",
+    "tags": [
+      "postgresql",
+      "base64url",
+      "encoding",
+      "decoding",
+      "database"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "PostgreSQL 19 will support base64url encoding and decoding. This feature provides a safe and efficient way to handle binary data in URLs and filenames directly within the database. base64url is a variant of base64 that replaces '+' with '-' and '/' with '_', making it URL-safe.",
+    "summary_zh": "PostgreSQL 19 将支持 base64url 编码和解码。此功能提供了一种安全有效的方式，可以直接在数据库中处理 URL 和文件名中的二进制数据。base64url 是 base64 的变体，将 '+' 替换为 '-'，将 '/' 替换为 '_', 使其对 URL 安全。",
+    "best_quote_en": "base64url is a variant of base64 that solves this exact problem. It replaces the problematic + with - and / with _, making the encoded string perfectly safe for use in URLs, filenames, and other contexts where these characters are reserved.",
+    "best_quote_zh": "base64url 是 base64 的一种变体，专门解决了这个问题。它用 - 替换有问题的 + ，用 _ 替换 / ，使编码后的字符串可以安全地用于 URL、文件名和其他保留这些字符的上下文中。"
+  },
+  {
+    "id": 168,
+    "title": "Islands of Belonging in the Azores Real Estate Dream",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://estimateproperty.blogspot.com/2025/09/islands-of-belonging-in-azores-real.html\">https://estimateproperty.blogspot.com/2025/09/islands-of-belonging-in-azores-real.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45320883\">https://news.ycombinator.com/item?id=45320883</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://estimateproperty.blogspot.com/2025/09/islands-of-belonging-in-azores-real.html",
+    "tags": [
+      "azores",
+      "real estate",
+      "belonging",
+      "investment",
+      "nature"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "The Azores offer more than just real estate investment; they offer a sense of belonging. The true value lies in the connection with nature, the rhythm of the waves, and the silence of the mornings. Investing in the Azores is about joining a myth, a place where real estate reflects the eternal search for an island in the soul.",
+    "summary_zh": "亚速尔群岛提供的不仅仅是房地产投资，更是一种归属感。真正的价值在于与自然的连接、海浪的节奏和清晨的宁静。投资亚速尔群岛是加入一个神话，一个房地产反映了灵魂中对岛屿永恒追寻的地方。",
+    "best_quote_en": "To invest in the Azores is to invest in a myth that still breathes.",
+    "best_quote_zh": "投资亚速尔群岛就是投资一个仍在呼吸的神话。"
   }]
