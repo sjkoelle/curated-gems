@@ -3141,4 +3141,60 @@
     "summary_zh": "亚速尔群岛提供的不仅仅是房地产投资，更是一种归属感。真正的价值在于与自然的连接、海浪的节奏和清晨的宁静。投资亚速尔群岛是加入一个神话，一个房地产反映了灵魂中对岛屿永恒追寻的地方。",
     "best_quote_en": "To invest in the Azores is to invest in a myth that still breathes.",
     "best_quote_zh": "投资亚速尔群岛就是投资一个仍在呼吸的神话。"
+  },{
+    "id": 169,
+    "title": "Imagor Studio – Self-hosted image gallery and live editing web application",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://imagor.net/\">https://imagor.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45330349\">https://news.ycombinator.com/item?id=45330349</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://imagor.net/",
+    "tags": [
+      "image-gallery",
+      "live-editing",
+      "self-hosted",
+      "image-processing",
+      "virtual-scrolling"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "Imagor Studio is a self-hosted image gallery and live editing web application designed for creators and professionals. It offers real-time preview, lightning-fast gallery with virtual scrolling, and non-destructive editing. It is perfect for photographers, designers, and content creators.",
+    "summary_zh": "Imagor Studio 是一款自托管的图像库和实时编辑Web应用程序，专为创作者和专业人士设计。它提供实时预览、具有虚拟滚动的极速图库和非破坏性编辑。非常适合摄影师、设计师和内容创作者。",
+    "best_quote_en": "Non-destructive editing - your originals stay safe.",
+    "best_quote_zh": "非破坏性编辑 - 您的原始文件保持安全。"
+  },
+  {
+    "id": 170,
+    "title": "Kernel: Introduce Multikernel Architecture Support",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/\">https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45330339\">https://news.ycombinator.com/item?id=45330339</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
+    "tags": [
+      "anubis",
+      "ai scrapers",
+      "proof-of-work",
+      "javascript",
+      "website protection"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "The website is protected by Anubis against AI scrapers. Anubis uses a Proof-of-Work scheme to make scraping more expensive, acting as a temporary solution. The ultimate goal is to identify headless browsers and reduce challenges for legitimate users. Enabling JavaScript is required to bypass the challenge.",
+    "summary_zh": "该网站使用Anubis保护，以防止AI爬虫。Anubis采用PoW机制增加爬取成本，是临时解决方案。最终目标是识别无头浏览器并减少对合法用户的挑战。需要启用JavaScript才能绕过此验证。",
+    "best_quote_en": "AI companies have changed the social contract around how website hosting works.",
+    "best_quote_zh": "人工智能公司已经改变了网站托管方式的社会契约。"
+  },
+  {
+    "id": 171,
+    "title": "New Eye Drops Sharpen Aging Eyes in Just One Hour",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://scitechdaily.com/new-eye-drops-sharpen-aging-eyes-in-just-one-hour/\">https://scitechdaily.com/new-eye-drops-sharpen-aging-eyes-in-just-one-hour/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45330337\">https://news.ycombinator.com/item?id=45330337</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://scitechdaily.com/new-eye-drops-sharpen-aging-eyes-in-just-one-hour/",
+    "tags": [
+      "eye drops",
+      "presbyopia",
+      "vision improvement",
+      "pilocarpine",
+      "diclofenac"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "New eye drops containing pilocarpine and diclofenac significantly improve near vision for people with presbyopia, with sharper sight reported within an hour and sustained improvements for up to two years. The drops offer a non-invasive alternative to reading glasses and surgery, showing impressive outcomes across various dosage groups and minimal side effects.",
+    "summary_zh": "新型滴眼液包含毛果芸香碱和双氯芬酸，可显著改善老花眼患者的近视力，患者报告一小时内视力变得更清晰，并可持续改善长达两年。该滴眼液为老花镜和手术提供了一种非侵入性替代方案，在各种剂量组中均显示出令人印象深刻的效果，且副作用极小。",
+    "best_quote_en": "These results suggest this combination therapy offers a safe, effective, and well-tolerated alternative to traditional presbyopia management.",
+    "best_quote_zh": "这些结果表明，这种联合疗法为传统的老花眼治疗提供了一种安全、有效且耐受性良好的替代方案。"
   }]
