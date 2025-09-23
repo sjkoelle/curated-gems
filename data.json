@@ -3197,4 +3197,79 @@
     "summary_zh": "新型滴眼液包含毛果芸香碱和双氯芬酸，可显著改善老花眼患者的近视力，患者报告一小时内视力变得更清晰，并可持续改善长达两年。该滴眼液为老花镜和手术提供了一种非侵入性替代方案，在各种剂量组中均显示出令人印象深刻的效果，且副作用极小。",
     "best_quote_en": "These results suggest this combination therapy offers a safe, effective, and well-tolerated alternative to traditional presbyopia management.",
     "best_quote_zh": "这些结果表明，这种联合疗法为传统的老花眼治疗提供了一种安全、有效且耐受性良好的替代方案。"
+  },{
+    "id": 172,
+    "title": "DevRel Foundation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://dev-rel.org/\">https://dev-rel.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45344056\">https://news.ycombinator.com/item?id=45344056</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://dev-rel.org/",
+    "tags": [
+      "devrel",
+      "developer relations",
+      "community",
+      "best practices",
+      "technology adoption"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "DevRel Foundation fosters growth, community, and best practices in Developer Relations. Its mission is to elevate the professional practice of DevRel and increase awareness of its business value. They innovate on knowledge, systems, and best practices for technology adoption, encouraging collaboration through Discord and GitHub.",
+    "summary_zh": "DevRel Foundation 致力于促进开发者关系领域的增长、社区建设和最佳实践。其使命是提升开发者关系的专业实践，提高其作为商业价值驱动力的认知度。他们创新知识、系统和技术采纳的最佳实践，并通过 Discord 和 GitHub 鼓励协作。",
+    "best_quote_en": "To elevate the professional practice of developer relations and increase awareness of it as a driver of business value.",
+    "best_quote_zh": "提升开发者关系的专业实践，提高其作为商业价值驱动力的认知度。"
+  },
+  {
+    "id": 173,
+    "title": "Open Source Initiative's executive director and OSAID debate",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.zdnet.com/article/the-open-source-initiatives-executive-director-departs-what-it-means-for-the-osaid-debate/\">https://www.zdnet.com/article/the-open-source-initiatives-executive-director-departs-what-it-means-for-the-osaid-debate/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45344055\">https://news.ycombinator.com/item?id=45344055</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.zdnet.com/article/the-open-source-initiatives-executive-director-departs-what-it-means-for-the-osaid-debate/",
+    "tags": [
+      "open source initiative",
+      "ai definition",
+      "stefano maffulli",
+      "osaid",
+      "open source ai"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "Stefano Maffulli is stepping down as OSI's executive director, leading to debates about the Open Source AI Definition (OSAID). While OSI defines open-source AI as granting users freedom to use, modify, and share systems, disagreement persists, particularly regarding data and weight openness. The new director will need to address these challenges, especially with AI companies redefining open-source for profit.",
+    "summary_zh": "Stefano Maffulli即将卸任OSI执行董事，引发了关于开源人工智能定义（OSAID）的讨论。虽然OSI将开源AI定义为授予用户使用、修改和共享系统的自由，但对于数据和权重的开放性仍存在争议。新任董事需要解决这些挑战，尤其是在人工智能公司为了自身利益而重新定义开源的情况下。",
+    "best_quote_en": "\"Open source software is everywhere, but its definition is constantly being challenged. The zombies of shared source, limited-use, and proprietary software are emerging from the graves.\"",
+    "best_quote_zh": "“开源软件无处不在，但其定义不断受到挑战。共享源代码、限制使用和专有软件的僵尸正从坟墓中复活。”"
+  },
+  {
+    "id": 174,
+    "title": "Ask HN: Tool to manage glossaries and train a small bias adapter for Whisper?",
+    "source": "Hackernews",
+    "desc": "<p>I’m validating a tool - not-model approach for teams running local Whisper pipelines:<p>• Manage domain glossaries (terms/aliases/weights) → export glosspacks.<p>• Optional: train a tiny bias adapter on your audio+list; drop-in wrapper (logit fusion).<p>• A/B eval with WER + rare-word metrics.<p>For those shipping Whisper in production:<p>How do you handle rare words/terminology today?<p>Do you bias at decode time today? How?<p>What pack/adaptor formats would fit your stack?<p>Which failure modes worry you (over-biasing, latency, multi-lingual)?<p>Would love your feedback. Thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45344043\">https://news.ycombinator.com/item?id=45344043</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45344043",
+    "tags": [
+      "whisper",
+      "glossary",
+      "bias adapter",
+      "speech recognition",
+      "nlp"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "The author is validating a tool for teams using local Whisper pipelines, focusing on managing glossaries, training bias adapters, and A/B evaluation with WER and rare-word metrics. They seek feedback on handling rare words, biasing methods, suitable formats, and concerns like over-biasing and latency.",
+    "summary_zh": "作者正在验证一个供团队使用本地Whisper管道的工具，重点是管理词汇表、训练偏差适配器以及使用WER和罕见词指标进行A/B评估。他们寻求关于处理罕见词、偏置方法、合适格式以及对过度偏置和延迟等问题的反馈。",
+    "best_quote_en": "How do you handle rare words/terminology today?",
+    "best_quote_zh": "您现在如何处理罕见词/术语？"
+  },
+  {
+    "id": 175,
+    "title": "What Makes a Good Email?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://explore.reallygoodemails.com/what-makes-a-really-good-email-1aa835e5f3a6\">https://explore.reallygoodemails.com/what-makes-a-really-good-email-1aa835e5f3a6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45344035\">https://news.ycombinator.com/item?id=45344035</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://explore.reallygoodemails.com/what-makes-a-really-good-email-1aa835e5f3a6",
+    "tags": [
+      "email marketing",
+      "email design",
+      "customer experience",
+      "branding",
+      "best practices"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "This article from Really Good Emails discusses the key elements of a successful email, emphasizing visual design, customer-centric content, branding consistency, technology utilization, and an enjoyable experience. It also highlights the importance of subject lines, pre-header text, email layout patterns, images, typography, whitespace, mobile optimization, CTA design and other factors when reviewing emails using the example of Airbnb's email strategy.",
+    "summary_zh": "本文来自Really Good Emails，讨论了成功电子邮件的关键要素，强调视觉设计、以客户为中心的内容、品牌一致性、技术利用和愉快的体验。文章还强调了主题行、预标题文本、电子邮件布局模式、图像、排版、空白、移动优化、CTA设计在评估电子邮件时的重要性，并以Airbnb的电子邮件策略为例。",
+    "best_quote_en": "The content serves the customer more than the company.",
+    "best_quote_zh": "内容服务于客户要多于服务于公司。"
   }]
