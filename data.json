@@ -3272,4 +3272,98 @@
     "summary_zh": "本文来自Really Good Emails，讨论了成功电子邮件的关键要素，强调视觉设计、以客户为中心的内容、品牌一致性、技术利用和愉快的体验。文章还强调了主题行、预标题文本、电子邮件布局模式、图像、排版、空白、移动优化、CTA设计在评估电子邮件时的重要性，并以Airbnb的电子邮件策略为例。",
     "best_quote_en": "The content serves the customer more than the company.",
     "best_quote_zh": "内容服务于客户要多于服务于公司。"
+  },{
+    "id": 176,
+    "title": "Parse complex documents in LangChain with new provider UndatasIO",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://docs.langchain.com/oss/python/integrations/document_loaders/undatasio\">https://docs.langchain.com/oss/python/integrations/document_loaders/undatasio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45357538\">https://news.ycombinator.com/item?id=45357538</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://docs.langchain.com/oss/python/integrations/document_loaders/undatasio",
+    "tags": [
+      "langchain",
+      "undatasio",
+      "document loaders",
+      "rag",
+      "ai"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "This article introduces the UnDatasIO document loader for LangChain, which efficiently parses various document formats (PDF, PNG, JPG, etc.) using a secure cloud API. It supports features like lazy loading and native async support, making data ready for generative AI workflows such as RAG. The article provides setup and installation instructions, along with examples of how to load documents.",
+    "summary_zh": "本文介绍了LangChain的UnDatasIO文档加载器，它使用安全的云API高效地解析各种文档格式（PDF, PNG, JPG等）。它支持诸如延迟加载和原生异步支持等功能，使数据为诸如RAG之类的生成式AI工作流程做好准备。文章提供了安装设置说明以及如何加载文档的示例。",
+    "best_quote_en": "UnDatasIO enables efficient loading and parsing of various document formats including PDF, PNG, JPG, JPEG, and JFIF, with features like document lazy loading and native async support, all through UnDatasIO’s secure cloud API.",
+    "best_quote_zh": "UnDatasIO通过其安全的云API，能够高效地加载和解析各种文档格式，包括PDF、PNG、JPG、JPEG和JFIF，并具有文档延迟加载和原生异步支持等功能。"
+  },
+  {
+    "id": 177,
+    "title": "Show HN: GravOptAdaptive – Drop-In PyTorch Optimizer, 25% Faster Training",
+    "source": "Hackernews",
+    "desc": "<p>Introducing GravOptAdaptive — a new version of GravOpt that:<a href=\"https://lnkd.in/dw78avM6\">https://lnkd.in/dw78avM6</a> 7 day trial, Drop-in replacement for Adam/SGD . There is no need to change the model, data, loss function, or pipeline.\n→ The code continues to work — but it is trained faster (in the paid version) or with a trial limitation (in the free version).<p>Analyzes the behavior of each parameter separately\n Gives a larger update only when necessary\n Keeps the stability of parameters that are already moving well\n Improves accuracy — without increasing the number of iterations</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45357521\">https://news.ycombinator.com/item?id=45357521</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://drereg.gumroad.com/l/joehz",
+    "tags": [
+      "pytorch",
+      "optimizer",
+      "machine learning",
+      "training",
+      "gpu"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "GravOptAdaptive is a PyTorch optimizer designed to accelerate training. It's a drop-in replacement for SGD/Adam, proven to be faster with stable & safe built-in features. Perfect for researchers, startups to accelerate machine learning workflows.",
+    "summary_zh": "GravOptAdaptive是一种旨在加速训练的PyTorch优化器。它可以直接替换SGD/Adam，经验证速度更快，具有稳定和安全的内置功能。非常适合研究人员、初创公司加速机器学习工作流程。",
+    "best_quote_en": "Drop-in replacement for SGD/Adam — just change 1 line of code",
+    "best_quote_zh": "直接替换SGD/Adam——只需更改一行代码"
+  },
+  {
+    "id": 178,
+    "title": "Why your house is an investment",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://estimateproperty.blogspot.com/2025/09/why-your-house-is-incredible-investment.html\">https://estimateproperty.blogspot.com/2025/09/why-your-house-is-incredible-investment.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45357518\">https://news.ycombinator.com/item?id=45357518</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://estimateproperty.blogspot.com/2025/09/why-your-house-is-incredible-investment.html",
+    "tags": [
+      "real estate",
+      "investment",
+      "homeownership",
+      "property",
+      "financial security"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "A house is not just shelter; it's a significant investment that builds equity and appreciates over time. It offers financial benefits like income generation and inflation protection, alongside emotional and cultural value as a space for family, memories, and future generations. It’s security, growth, and a capital working for you silently.",
+    "summary_zh": "房子不仅仅是一个住所，更是一项重要的投资，随着时间推移可以积累资产并增值。它不仅能带来经济效益，例如产生收入和抵御通货膨胀，还具有情感和文化价值，是家庭、回忆和子孙后代的空间。它是安全、成长和默默为你工作的资本。",
+    "best_quote_en": "A house is a stage where life unfolds. It gives space for family bonds for rest and for dreams. It becomes part of your story and often the most stable part of it.",
+    "best_quote_zh": "房子是生活展开的舞台。它为家庭纽带、休息和梦想提供了空间。它成为你故事的一部分，而且往往是你故事中最稳定的部分。"
+  },
+  {
+    "id": 179,
+    "title": "Japanese city passes two-hours-a-day smartphone usage ordinance",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/09/24/japan_toyoake_smartphone_limitation_ordinance/\">https://www.theregister.com/2025/09/24/japan_toyoake_smartphone_limitation_ordinance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45357510\">https://news.ycombinator.com/item?id=45357510</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/09/24/japan_toyoake_smartphone_limitation_ordinance/",
+    "tags": [
+      "smartphone",
+      "ordinance",
+      "japan",
+      "sleep",
+      "students"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "The Japanese city of Toyoake passed an ordinance symbolically limiting recreational smartphone use to two hours a day, mainly targeting students to improve sleep habits. The council aims to help citizens, especially students, re-establish a healthy daily routine after vacations. The ordinance recognizes broader smartphone uses beyond recreation and addresses difficulties excessive phone use causes.",
+    "summary_zh": "日本丰明市通过一项法令，象征性地将娱乐性智能手机使用限制在每天两小时，主要针对学生，以改善睡眠习惯。市议会旨在帮助市民，特别是学生，在假期后重新建立健康的日常作息。该法令承认智能手机在娱乐之外的广泛用途，并解决过度使用手机带来的难题。",
+    "best_quote_en": "“The primary purpose of this ordinance is to ensure that all citizens receive adequate sleep.”",
+    "best_quote_zh": "“本条例的主要目的是确保所有市民获得充足的睡眠。”"
+  },
+  {
+    "id": 180,
+    "title": "Will We Know Artificial General Intelligence When We See It?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://spectrum.ieee.org/agi-benchmark\">https://spectrum.ieee.org/agi-benchmark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45357501\">https://news.ycombinator.com/item?id=45357501</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://spectrum.ieee.org/agi-benchmark",
+    "tags": [
+      "artificial general intelligence",
+      "agi",
+      "ai benchmarks",
+      "intelligence testing",
+      "machine learning"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "The article discusses the challenges of defining and testing Artificial General Intelligence (AGI). It highlights the difficulties in benchmarking AI's capabilities due to disagreements on its definition and the differences between human and AI intelligence. The article also touches upon the historical attempts to create AI intelligence tests and the evolving understanding of intelligence itself.",
+    "summary_zh": "文章探讨了定义和测试通用人工智能（AGI）的挑战。它强调了由于对AGI的定义存在分歧以及人类和人工智能之间的差异，导致在对AI能力进行基准测试时存在困难。文章还提到了创造AI智能测试的历史尝试以及对智能本身的不断演变的理解。",
+    "best_quote_en": "“We’re building alien beings,” says Geoffrey Hinton, a professor emeritus at the University of Toronto who won a Nobel Prize for his work on AI.",
+    "best_quote_zh": "多伦多大学荣誉教授、因在人工智能领域的研究而获得诺贝尔奖的Geoffrey Hinton说：“我们正在建造外星生物。”"
   }]
