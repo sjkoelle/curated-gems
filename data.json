@@ -3366,4 +3366,60 @@
     "summary_zh": "文章探讨了定义和测试通用人工智能（AGI）的挑战。它强调了由于对AGI的定义存在分歧以及人类和人工智能之间的差异，导致在对AI能力进行基准测试时存在困难。文章还提到了创造AI智能测试的历史尝试以及对智能本身的不断演变的理解。",
     "best_quote_en": "“We’re building alien beings,” says Geoffrey Hinton, a professor emeritus at the University of Toronto who won a Nobel Prize for his work on AI.",
     "best_quote_zh": "多伦多大学荣誉教授、因在人工智能领域的研究而获得诺贝尔奖的Geoffrey Hinton说：“我们正在建造外星生物。”"
+  },{
+    "id": 181,
+    "title": "The next biggest worldwide catering app",
+    "source": "Hackernews",
+    "desc": "<p>Based in Hong Kong and will expand worldwide.<p>We hope we can find devs that knows how to code with function in mind with the least amount of bloat.<p>We are offering profit split with our devs, joining us in this early stage will secure your spot as our leading engineers after our company expands.<p>We are two entrepreneurs that focus on getting money in for the entire company and make sustainable business.<p>We can hop on a 10 minutes call and get straight to work. We hustle together and shape the future of the dining industry.<p>We are looking for four Devs:<p>Golang Backend Dev that knows postgressql<p>React Js Frontend Dev<p>Swift and Kotlin Dev<p>Fullstack Dev<p>Find us on instagram by @gdracot @eddy1au<p>We are a registered business in hk</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45370290\">https://news.ycombinator.com/item?id=45370290</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45370290",
+    "tags": [
+      "catering app",
+      "developers",
+      "golang",
+      "react",
+      "startup"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "A Hong Kong startup is building a worldwide catering app and seeking developers. They offer profit sharing and early-stage opportunities. They are looking for Golang, React, Swift, Kotlin, and Fullstack developers to join their team. The founders focus on sustainable business and are ready for a quick call to start working.",
+    "summary_zh": "一家位于香港的创业公司正在开发一款全球餐饮应用程序，并寻找开发人员。他们提供利润分成和早期机会，正在寻找Golang、React、Swift、Kotlin和全栈工程师加入他们的团队。创始人专注于可持续业务，并准备好快速通话以开始工作。",
+    "best_quote_en": "We hustle together and shape the future of the dining industry.",
+    "best_quote_zh": "我们一起努力，塑造餐饮行业的未来。"
+  },
+  {
+    "id": 182,
+    "title": "Full eGPU acceleration on the Pi 500 with a 15-line patch",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch\">https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45370285\">https://news.ycombinator.com/item?id=45370285</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch",
+    "tags": [
+      "raspberry pi",
+      "egpu",
+      "amdgpu",
+      "pcie",
+      "llama"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This article discusses enabling full eGPU acceleration on the Raspberry Pi 500+ using a 15-line patch. By connecting an AMD RX 7900 XT via an M.2 to OCuLink adapter, the author achieved significant performance improvements in gaming and local LLM inference, demonstrating the potential for high-performance computing on the Pi 500+.",
+    "summary_zh": "本文讨论了如何通过一个15行的补丁在 Raspberry Pi 500+ 上实现完整的eGPU加速。作者通过 M.2 转 OCuLink 适配器连接 AMD RX 7900 XT，在游戏和本地 LLM 推理方面取得了显著的性能提升，展示了 Pi 500+ 在高性能计算方面的潜力。",
+    "best_quote_en": "But 1 lane of PCIe Gen 3 is all we need to have some fun.",
+    "best_quote_zh": "但1条 PCIe Gen 3 通道足以让我们玩得开心。"
+  },
+  {
+    "id": 183,
+    "title": "HSBC Claims Quantum Trading Breakthrough",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ft.com/content/d9d40c18-0fb6-4b7f-aa92-00aed1900859\">https://www.ft.com/content/d9d40c18-0fb6-4b7f-aa92-00aed1900859</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45370264\">https://news.ycombinator.com/item?id=45370264</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ft.com/content/d9d40c18-0fb6-4b7f-aa92-00aed1900859",
+    "tags": [
+      "quantum trading",
+      "hsbc",
+      "financial times",
+      "subscription",
+      "news"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "HSBC claims a quantum trading breakthrough. The article promotes various subscription options to the Financial Times, offering access to global news, expert analysis, and digital features. Different tiers include access to FT apps, newsletters, and digital or print editions.",
+    "summary_zh": "汇丰银行声称在量子交易方面取得突破。文章推广了《金融时报》的各种订阅选项，提供全球新闻、专家分析和数字功能。不同的订阅级别包括访问FT应用程序、新闻通讯以及数字或印刷版。",
+    "best_quote_en": "Stay informed with global news & in-depth analysis.",
+    "best_quote_zh": "随时了解全球新闻和深入分析。"
   }]
