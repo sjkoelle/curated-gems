@@ -3422,4 +3422,60 @@
     "summary_zh": "汇丰银行声称在量子交易方面取得突破。文章推广了《金融时报》的各种订阅选项，提供全球新闻、专家分析和数字功能。不同的订阅级别包括访问FT应用程序、新闻通讯以及数字或印刷版。",
     "best_quote_en": "Stay informed with global news & in-depth analysis.",
     "best_quote_zh": "随时了解全球新闻和深入分析。"
+  },{
+    "id": 184,
+    "title": "Amazon will refund $1.5B to 35M customers allegedly duped into paying for Prime",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/09/25/amazon_will_refund_15b_to/\">https://www.theregister.com/2025/09/25/amazon_will_refund_15b_to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45383907\">https://news.ycombinator.com/item?id=45383907</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/09/25/amazon_will_refund_15b_to/",
+    "tags": [
+      "amazon",
+      "ftc",
+      "prime",
+      "lawsuit",
+      "settlement"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "Amazon will refund $1.5B to 35M customers for allegedly deceptive Prime enrollment practices. The FTC accused Amazon of using manipulative user interfaces to trick customers into signing up for Prime and making cancellation difficult. The settlement includes a $1 billion civil penalty and consumer redress. Former FTC chair Khan expressed dissatisfaction with the settlement.",
+    "summary_zh": "亚马逊将向3500万用户退还15亿美元，原因是其Prime会员注册方式涉嫌欺骗。联邦贸易委员会指控亚马逊使用操纵性用户界面诱骗顾客注册Prime会员，并使取消会员变得困难。和解协议包括10亿美元的民事罚款和消费者赔偿。前联邦贸易委员会主席Khan对和解结果表示不满。",
+    "best_quote_en": "\"A $2.5 billion fine is a drop in the bucket for Amazon and, no doubt, a big relief for the executives who knowingly harmed their customers.\"",
+    "best_quote_zh": "“25亿美元的罚款对亚马逊来说只是九牛一毛，毫无疑问，那些明知会损害客户利益的高管们也因此松了一口气。”"
+  },
+  {
+    "id": 185,
+    "title": "Ode to Libraries from a Remote Worker",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://sibervepunk.com/ode-to-libraries/\">https://sibervepunk.com/ode-to-libraries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45383851\">https://news.ycombinator.com/item?id=45383851</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://sibervepunk.com/ode-to-libraries/",
+    "tags": [
+      "remote work",
+      "libraries",
+      "work-life balance",
+      "home office",
+      "hybrid work"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "The author, a remote worker, discusses the challenges of working from home, including the lack of separation between work and personal life. They explore alternatives like coffee shops and co-working spaces, ultimately finding solace and productivity in libraries. Libraries offer a free, quiet, and stimulating environment away from the distractions of home.",
+    "summary_zh": "作者是一位远程工作者，探讨了在家工作的挑战，包括工作和个人生活缺乏分离。她探索了咖啡馆和联合办公空间等替代方案，最终在图书馆中找到了慰藉和效率。图书馆提供了一个免费、安静且刺激的环境，远离了家庭的干扰。",
+    "best_quote_en": "Being at home while working AND while resting, my brain just can’t switch off between work and rest, drawing a line between bad and good.",
+    "best_quote_zh": "当工作和休息都在家进行时，我的大脑无法在工作和休息之间切换，也无法划分好与坏的界限。"
+  },
+  {
+    "id": 186,
+    "title": "Ask HN: Why don't we have a mobile app to screen for skin cancer?",
+    "source": "Hackernews",
+    "desc": "<p>We already have the data, knowledge, and technology to build this. Why can’t I just use my phone camera to check if a spot on my skin looks concerning? It wouldn’t need to give a full diagnosis—just suggest whether I should see a doctor about a specific area.<p>If such apps exist, why aren’t they widely available?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45383834\">https://news.ycombinator.com/item?id=45383834</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45383834",
+    "tags": [
+      "mobile app",
+      "skin cancer",
+      "health",
+      "technology",
+      "screening"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "The author is asking why there isn't a widely available mobile app for screening skin cancer using phone cameras. They believe the data, knowledge, and technology exist to build such an app, even if it only suggests whether to see a doctor about a specific spot.",
+    "summary_zh": "作者提问：为什么没有广泛可用的手机应用可以通过手机摄像头来筛查皮肤癌？他们认为数据、知识和技术已经存在，即使只是建议是否就特定部位去看医生，也应该可以开发出这样的应用。",
+    "best_quote_en": "We already have the data, knowledge, and technology to build this.",
+    "best_quote_zh": "我们已经拥有了数据、知识和技术来构建这个。"
   }]
