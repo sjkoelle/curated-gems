@@ -3478,4 +3478,97 @@
     "summary_zh": "作者提问：为什么没有广泛可用的手机应用可以通过手机摄像头来筛查皮肤癌？他们认为数据、知识和技术已经存在，即使只是建议是否就特定部位去看医生，也应该可以开发出这样的应用。",
     "best_quote_en": "We already have the data, knowledge, and technology to build this.",
     "best_quote_zh": "我们已经拥有了数据、知识和技术来构建这个。"
+  },{
+    "id": 187,
+    "title": "Kitchen Is Full of Microplastics",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20250919-how-to-eat-less-plastic\">https://www.bbc.com/future/article/20250919-how-to-eat-less-plastic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45393903\">https://news.ycombinator.com/item?id=45393903</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.com/future/article/20250919-how-to-eat-less-plastic",
+    "tags": [
+      "microplastics",
+      "food contamination",
+      "water",
+      "health",
+      "plastic pollution"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "Microplastics are pervasive in our food and water, entering from cookware, packaging, and processing. They are found in various foods, including meat, vegetables, and even honey. Washing and rinsing certain foods can reduce microplastic exposure, but avoiding ultra-processed foods and reducing overall plastic use are crucial steps. Microplastics are also found in tap and bottled water. Reducing plastic debris could halve the amount of ingested plastics.",
+    "summary_zh": "微塑料普遍存在于我们的食物和水中，通过炊具、包装和加工过程进入。它们存在于各种食物中，包括肉类、蔬菜甚至蜂蜜。清洗某些食物可以减少微塑料的暴露，但避免过度加工食品和减少塑料的总体使用是关键步骤。微塑料也存在于自来水和瓶装水中。减少塑料垃圾可以减少人们摄入塑料的量。",
+    "best_quote_en": "\"There's a lot of low-hanging fruit in your house that's really easy to address,\" says Sheela Sathyanarayana. \"I do feel like it gives people a sense of control over their own lives, and we do have that a little bit more than we might think.\"",
+    "best_quote_zh": "希拉·萨蒂亚纳拉亚纳说：“在你的房子里有很多容易解决的问题。”“我确实觉得这让人们对自己的生活有了一种掌控感，而且我们拥有的可能比我们想象的更多。”"
+  },
+  {
+    "id": 188,
+    "title": "Scream AI – Create Viral Y2K Horror Photos with Ghostface",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.screamai.online\">https://www.screamai.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45393890\">https://news.ycombinator.com/item?id=45393890</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.screamai.online",
+    "tags": [
+      "ai",
+      "y2k",
+      "horror",
+      "ghostface",
+      "viral content"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "Scream AI is an AI platform that transforms selfies into Y2K horror photos with Ghostface. It blends 90s aesthetics with horror elements, creating viral content for TikTok and Instagram. It's free, offers unlimited generations, and requires no signup. Users have generated over 10 million views.",
+    "summary_zh": "Scream AI是一个AI平台，可以将自拍照转化为带有鬼脸的Y2K恐怖照片。 它融合了90年代美学和恐怖元素，为TikTok和Instagram创建病毒式内容。 它是免费的，提供无限生成，并且无需注册。 用户已经产生了超过1000万的浏览量。",
+    "best_quote_en": "When you use Scream AI, you're not just creating photos - you're creating trending content that captures the zeitgeist of modern social media.",
+    "best_quote_zh": "当你使用Scream AI时，你不仅仅是在创作照片——你是在创造捕捉现代社交媒体时代精神的潮流内容。"
+  },
+  {
+    "id": 189,
+    "title": "Supply chain security for the 0.001% (and why it won't catch on)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on\">https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45393868\">https://news.ycombinator.com/item?id=45393868</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on",
+    "tags": [
+      "supply chain",
+      "macos",
+      "sandbox",
+      "security"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "This article discusses securing a development environment against supply chain attacks, focusing on macOS. It explores using sandbox-exec to restrict package manager access to sensitive files and network connections. While complex, it aims to prevent credential exfiltration during package installation. The article also touches on challenges related to environment variable cleanup and practical implementation.",
+    "summary_zh": "本文讨论了如何保护macOS开发环境免受供应链攻击。文章探讨了使用sandbox-exec来限制包管理器对敏感文件和网络连接的访问。 虽然该方法较为复杂，但旨在防止在软件包安装过程中泄露凭据。文章还提到了与环境变量清理和实际执行相关的挑战。",
+    "best_quote_en": "The package takeovers will continue to happen and it will only take time before I’m affected by accident.",
+    "best_quote_zh": "软件包劫持事件将会持续发生，我迟早会意外地受到影响。"
+  },
+  {
+    "id": 190,
+    "title": "YouTube Music Stats",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ytmusicstats.vercel.app/\">https://ytmusicstats.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45393862\">https://news.ycombinator.com/item?id=45393862</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ytmusicstats.vercel.app/",
+    "tags": [
+      "youtube music",
+      "data analysis",
+      "music statistics",
+      "google takeout",
+      "listening history"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "YTMusic Stats analyzes your YouTube Music history from Google Takeout data. It transforms data into insights, revealing top artists, most played songs, and listening statistics. It offers features like smart data processing using YouTube API enrichment and provides a personalized dashboard for exploring your music taste, while prioritizing user privacy and open-source transparency.",
+    "summary_zh": "YTMusic Stats 分析你从 Google Takeout 中导出的 YouTube Music 历史数据。它将数据转化为有意义的见解，揭示你最喜欢的艺术家、播放最多的歌曲以及收听统计信息。它提供智能数据处理等功能，利用 YouTube API 丰富数据，并提供个性化仪表板，让你探索你的音乐品味，同时优先考虑用户隐私和开源透明度。",
+    "best_quote_en": "Your data stays private, and the code is open for everyone to review and contribute.",
+    "best_quote_zh": "你的数据保持私密，且代码对所有人开放，欢迎审查和贡献。"
+  },
+  {
+    "id": 191,
+    "title": "Go's builtin 'new()' function will take an expression in Go 1.26",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression\">https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45393847\">https://news.ycombinator.com/item?id=45393847</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression",
+    "tags": [
+      "http user-agent",
+      "crawler blocking",
+      "llm training",
+      "web scraping",
+      "security"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "The author is blocking crawlers with generic HTTP User-Agent headers like 'Go-http-client/1.1' to reduce the load on his blog 'Wandering Thoughts.' These crawlers, often used for LLM training, are considered excessively suspicious. The author emphasizes the need for clear and specific User-Agent headers for non-browser software, including identifying the user.",
+    "summary_zh": "作者正在屏蔽具有通用HTTP User-Agent标头（如“Go-http-client/1.1”）的网络爬虫，以减少其博客“Wandering Thoughts”上的负载。这些爬虫通常用于LLM训练，被认为具有过度的可疑性。作者强调需要为非浏览器软件提供清晰且具体的User-Agent标头，包括识别用户。",
+    "best_quote_en": "All HTTP User-Agent headers should clearly identify what they are, and for non-browser user agents, they should identify not just the software involved but also who specifically is using that software.",
+    "best_quote_zh": "所有HTTP User-Agent标头都应清楚地标识它们是什么，对于非浏览器用户代理，它们不仅应标识所涉及的软件，还应标识具体是谁在使用该软件。"
   }]
