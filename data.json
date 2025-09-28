@@ -3571,4 +3571,41 @@
     "summary_zh": "作者正在屏蔽具有通用HTTP User-Agent标头（如“Go-http-client/1.1”）的网络爬虫，以减少其博客“Wandering Thoughts”上的负载。这些爬虫通常用于LLM训练，被认为具有过度的可疑性。作者强调需要为非浏览器软件提供清晰且具体的User-Agent标头，包括识别用户。",
     "best_quote_en": "All HTTP User-Agent headers should clearly identify what they are, and for non-browser user agents, they should identify not just the software involved but also who specifically is using that software.",
     "best_quote_zh": "所有HTTP User-Agent标头都应清楚地标识它们是什么，对于非浏览器用户代理，它们不仅应标识所涉及的软件，还应标识具体是谁在使用该软件。"
+  },{
+    "id": 192,
+    "title": "How Patient execution beats aggressive capital – Kumar Vembu",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.zoho.com/the-long-game/patient-execution.html\">https://www.zoho.com/the-long-game/patient-execution.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45402524\">https://news.ycombinator.com/item?id=45402524</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.zoho.com/the-long-game/patient-execution.html",
+    "tags": [
+      "zoho",
+      "saas",
+      "patient execution",
+      "india",
+      "entrepreneurship"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "Kumar Vembu reflects on Zoho's success driven by patient execution and building a global tech brand from India. Key lessons include starting small, continuously investing, understanding market leaders while competing on one's own terms, and focusing on customer lifetime value. Strong cash flow, an ownership mindset, and investing in people are also crucial. Zoho's journey embodies the idea that perseverance leads to success, even when odds seem against you.",
+    "summary_zh": "Kumar Vembu 反思了 Zoho 成功的驱动力，即耐心执行和在印度建立全球科技品牌。主要经验包括从小处着手、持续投资、理解市场领导者同时按自己的方式竞争，以及关注客户终身价值。强大的现金流、主人翁意识和对人员的投资也至关重要。Zoho 的旅程体现了坚持不懈就能成功的理念，即使在逆境中也是如此。",
+    "best_quote_en": "Patience is always rewarded with opportunities.",
+    "best_quote_zh": "耐心总是会带来机会。"
+  },
+  {
+    "id": 193,
+    "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/c1wgeq702dyo\">https://www.bbc.co.uk/news/articles/c1wgeq702dyo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45402496\">https://news.ycombinator.com/item?id=45402496</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.co.uk/news/articles/c1wgeq702dyo",
+    "tags": [
+      "rice farming",
+      "climate change",
+      "uk agriculture",
+      "food security",
+      "sustainability"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "The UK's first rice crop is ripe for picking after a hot summer, surprising many. This trial aims to explore future food options for Britain amidst climate change. Nine rice varieties are being tested to see if rice can be grown widely in the UK. Further, the project could help to tackle climate change by flooding peat soils which could reduce greenhouse gas emissions.",
+    "summary_zh": "英国首个水稻作物在炎热的夏季后成熟待收，令许多人感到惊讶。该试验旨在探索英国在气候变化背景下的未来食品选择。目前正在测试九个水稻品种，以确定水稻是否可以在英国广泛种植。此外，该项目可以通过淹没泥炭土壤来帮助应对气候变化，从而减少温室气体排放。",
+    "best_quote_en": "\"We don't want people thinking we're the 'crazy rice farmers' - this is about rethinking the whole system and making it work for everyone.\"",
+    "best_quote_zh": "“我们不希望人们认为我们是‘疯狂的稻农’——这是关于重新思考整个系统，并使其为每个人服务。”"
   }]
