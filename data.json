@@ -3608,4 +3608,79 @@
     "summary_zh": "英国首个水稻作物在炎热的夏季后成熟待收，令许多人感到惊讶。该试验旨在探索英国在气候变化背景下的未来食品选择。目前正在测试九个水稻品种，以确定水稻是否可以在英国广泛种植。此外，该项目可以通过淹没泥炭土壤来帮助应对气候变化，从而减少温室气体排放。",
     "best_quote_en": "\"We don't want people thinking we're the 'crazy rice farmers' - this is about rethinking the whole system and making it work for everyone.\"",
     "best_quote_zh": "“我们不希望人们认为我们是‘疯狂的稻农’——这是关于重新思考整个系统，并使其为每个人服务。”"
+  },{
+    "id": 194,
+    "title": "Queueing to publish in AI and CS",
+    "source": "Hackernews",
+    "desc": "<p>I analyzed some surprising properties of the conference publication system and paper acceptance using queueing theory. I added an interactive model you can play with.<p>It turns out that if you accept papers based on a fix percentage of submission number, increasing rates of acceptance reduces the pool of unaccepted paper and this larger percentage of the smaller queue ends up giving about the same number of accepted papers overall.<p>I also have this funnel simulation <a href=\"https://i.postimg.cc/gz88S2hY/funnel2.gif\" rel=\"nofollow\">https://i.postimg.cc/gz88S2hY/funnel2.gif</a><p>+ Same number of new produced papers per time unit.<p>+ Different acceptance rates.<p>+ But... *same number of accepted papers* on equilibrium! With lower rates you just review more.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45411291\">https://news.ycombinator.com/item?id=45411291</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "link": "https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/",
+    "tags": [
+      "acceptance rate",
+      "peer review",
+      "machine learning",
+      "conferences",
+      "queueing theory"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article analyzes the impact of low acceptance rates in AI and CS conferences. A model shows that reducing the acceptance rate increases reviewing load significantly without dramatically changing the number of accepted papers. It also leads to authors abandoning acceptable papers due to increased waiting times. The author suggests exploring alternative conference models.",
+    "summary_zh": "本文分析了人工智能和计算机科学会议中低接受率的影响。一个模型表明，降低接受率会显著增加审稿负担，而不会显著改变接受论文的数量。由于等待时间增加，这还会导致作者放弃可接受的论文。作者建议探索其他的会议模式。",
+    "best_quote_en": "In the ideal case, by reducing the rate of acceptance, we end up accepting the same amount of papers, and we just review more.",
+    "best_quote_zh": "在理想情况下，通过降低接受率，我们最终接受的论文数量相同，而我们只是审阅了更多论文。"
+  },
+  {
+    "id": 195,
+    "title": "Data on AI Models",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://epoch.ai/data/ai-models\">https://epoch.ai/data/ai-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45411284\">https://news.ycombinator.com/item?id=45411284</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://epoch.ai/data/ai-models",
+    "tags": [
+      "ai models",
+      "machine learning",
+      "training compute",
+      "data analysis",
+      "hardware"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This document provides data on AI models, tracking factors driving machine learning progress. It highlights that the training compute of AI models has been doubling roughly every six months, with a growth rate of 4.4x per year since 2010, driven by increased spending and hardware improvements.",
+    "summary_zh": "本文档提供了关于人工智能模型的数据，追踪驱动机器学习进步的关键因素。它强调，自2010年以来，人工智能模型的训练计算量大约每六个月翻一番，年增长率为4.4倍，这主要得益于支出增加和硬件改进。",
+    "best_quote_en": "The training compute of notable AI models has been doubling roughly every six months.",
+    "best_quote_zh": "著名人工智能模型的训练计算量大约每六个月翻一番。"
+  },
+  {
+    "id": 196,
+    "title": "Show HN: Genesis DB: GDPR-ready event-sourcing database (say hello to CE soon)",
+    "source": "Hackernews",
+    "desc": "<p>I've developed Genesis DB, an event-sourcing database. It's already production-ready, with features like hash chaining, CloudEvents-native design, and built-in GDPR erasure support.<p>I'm thinking about releasing a Community Edition that's free and unlimited, but with a slightly reduced feature set. It could lower the entry barrier for indie developers.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45411263\">https://news.ycombinator.com/item?id=45411263</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.genesisdb.io/blog/posts/2025-09-25/genesis-db-1-1-0-the-future",
+    "tags": [
+      "genesis db",
+      "event sourcing",
+      "community edition",
+      "grpc",
+      "mcp"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "Genesis DB 1.1.0 focuses on accessibility and performance, expanding event sourcing to developers at every level. Key features include gRPC endpoint support, a built-in MCP server, and a Community Edition (CE) with free usage and core functionality. The CE aims to make event sourcing accessible worldwide. They encourage community collaboration.",
+    "summary_zh": "Genesis DB 1.1.0 专注于可访问性和性能，将事件溯源扩展到各个级别的开发者。主要功能包括 gRPC 端点支持、内置 MCP 服务器以及具有免费使用和核心功能的社区版（CE）。CE 旨在使事件溯源在世界范围内普及。他们鼓励社区协作。",
+    "best_quote_en": "The Community Edition represents our commitment to making event sourcing technology available to developers worldwide, regardless of their economic situation or project budget.",
+    "best_quote_zh": "社区版代表了我们致力于向全球开发者提供事件溯源技术的承诺，无论他们的经济状况或项目预算如何。"
+  },
+  {
+    "id": 197,
+    "title": "In C++ modules globally unique module names seem to be unavoidable",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html\">https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45411254\">https://news.ycombinator.com/item?id=45411254</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
+    "tags": [
+      "c++",
+      "modules",
+      "build system",
+      "unique names",
+      "compiler"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "The article discusses the unavoidable requirement for globally unique module names in C++ modules to avoid linking issues. It highlights the complexity of current module integration approaches and argues that accepting this requirement simplifies the build setup and makes it more reliable. Duplicate module names lead to broken code, making global uniqueness a technical necessity, not just a best practice.",
+    "summary_zh": "本文讨论了 C++ 模块中全局唯一模块名称的必然要求，以避免链接问题。文章强调了当前模块集成方法的复杂性，并认为接受此要求可以简化构建设置并使其更可靠。重复的模块名称会导致代码损坏，因此全局唯一性是一项技术必需品，而不仅仅是最佳实践。",
+    "best_quote_en": "Globally unique modules names is thus not a 'recommendation', 'nice to have' or 'best practice'. It is a technical requirement that comes directly from the compiler and standard definition.",
+    "best_quote_zh": "因此，全局唯一的模块名称不是“建议”、“最好有”或“最佳实践”。这是一项直接来自编译器和标准定义的技术要求。"
   }]
