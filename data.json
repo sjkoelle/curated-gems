@@ -3683,4 +3683,79 @@
     "summary_zh": "本文讨论了 C++ 模块中全局唯一模块名称的必然要求，以避免链接问题。文章强调了当前模块集成方法的复杂性，并认为接受此要求可以简化构建设置并使其更可靠。重复的模块名称会导致代码损坏，因此全局唯一性是一项技术必需品，而不仅仅是最佳实践。",
     "best_quote_en": "Globally unique modules names is thus not a 'recommendation', 'nice to have' or 'best practice'. It is a technical requirement that comes directly from the compiler and standard definition.",
     "best_quote_zh": "因此，全局唯一的模块名称不是“建议”、“最好有”或“最佳实践”。这是一项直接来自编译器和标准定义的技术要求。"
+  },{
+    "id": 198,
+    "title": "Examples Are the Best Documentation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://rakhim.exotext.com/examples-are-the-best-documentation\">https://rakhim.exotext.com/examples-are-the-best-documentation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45423018\">https://news.ycombinator.com/item?id=45423018</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://rakhim.exotext.com/examples-are-the-best-documentation",
+    "tags": [
+      "documentation",
+      "examples",
+      "developers",
+      "clojuredocs",
+      "python"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "The author argues that examples are often the best form of documentation, especially for developers switching between projects. Formal documentation can be too complex and lack practical examples, hindering quick understanding. Community-driven example repositories like clojuredocs.org are invaluable for providing clear and practical usage scenarios.",
+    "summary_zh": "作者认为，示例通常是最好的文档形式，尤其对于在不同项目间切换的开发者。正式文档可能过于复杂，缺乏实际示例，阻碍了快速理解。社区驱动的示例仓库，如clojuredocs.org，对于提供清晰实用的使用场景非常有价值。",
+    "best_quote_en": "When I'm searching for docs, 95% of the time a single example would suffice.",
+    "best_quote_zh": "当我在搜索文档时，95% 的情况下一个简单的例子就足够了。"
+  },
+  {
+    "id": 199,
+    "title": "Why Heavy Codes of Conduct Are Unnecessary for Open Source Projects",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/\">https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45423014\">https://news.ycombinator.com/item?id=45423014</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/",
+    "tags": [
+      "open source",
+      "code of conduct",
+      "community",
+      "collaboration",
+      "governance"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "The article discusses the debate surrounding Codes of Conduct (CoC) in open source projects. It traces the evolution of CoC, from practical solutions to maintain healthy collaboration to encompassing participant safety. Critiques by DHH and ESR highlight concerns about strict CoC being tools for troublemakers. The author argues for right-sized norms suitable for individual projects.",
+    "summary_zh": "本文探讨了开源项目中行为准则（CoC）的争议。它追溯了CoC的演变，从维护健康协作的实际解决方案到包含参与者安全。DHH和ESR的批评突出了对严格CoC成为问题制造者工具的担忧。作者认为应该采用适合各个项目的适当规范。",
+    "best_quote_en": "ESR went even further, asserting that CoC are nothing more than a “tool for troublemakers” and that the best course of action is to delete them entirely from projects.",
+    "best_quote_zh": "ESR更进一步，断言CoC只不过是“问题制造者的工具”，最好的做法是从项目中完全删除它们。"
+  },
+  {
+    "id": 200,
+    "title": "Bcachefs Removed from the Mainline Kernel",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://lwn.net/Articles/1040120/\">https://lwn.net/Articles/1040120/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45423004\">https://news.ycombinator.com/item?id=45423004</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://lwn.net/Articles/1040120/",
+    "tags": [
+      "kernel",
+      "bcachefs",
+      "linux",
+      "dkms",
+      "module"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "Linus Torvalds removed bcachefs from the mainline kernel in version 6.18. It was previously marked as 'externally maintained' in 6.17. The reason for removal is that it became a DKMS module, making the in-kernel code stale and potentially causing version confusion.",
+    "summary_zh": "Linus Torvalds 在 6.18 版本中将 bcachefs 从主线内核中移除。之前在 6.17 版本中被标记为“外部维护”。移除的原因是它已成为 DKMS 模块，导致内核代码过时，并可能引起版本混淆。",
+    "best_quote_en": "It's now a DKMS module, making the in-kernel code stale, so remove it to avoid any version confusion.",
+    "best_quote_zh": "它现在是一个 DKMS 模块，导致内核代码过时，所以要移除它以避免任何版本混淆。"
+  },
+  {
+    "id": 201,
+    "title": "Google's dev registration plan 'will end the F-Droid project",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/\">https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45423001\">https://news.ycombinator.com/item?id=45423001</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/",
+    "tags": [
+      "f-droid",
+      "google",
+      "android",
+      "open source",
+      "app store"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "Google's plan to enforce developer registration for app installation may end the F-Droid project, according to F-Droid board member Marc Prud'hommeaux. F-Droid argues this move consolidates Google's power and restricts an open ecosystem. They are appealing to regulators and competition authorities.",
+    "summary_zh": "F-Droid董事会成员Marc Prud'hommeaux表示，谷歌强制应用安装开发者注册的计划可能会结束F-Droid项目。F-Droid认为此举巩固了谷歌的权力，并限制了一个开放的生态系统。他们正在呼吁监管机构和竞争管理机构进行审查。",
+    "best_quote_en": "\"If it were to be put into effect, the developer registration decree will end the F-Droid project and other free/open source app distribution sources as we know them today.\"",
+    "best_quote_zh": "“如果开发者注册法令生效，它将终结我们今天所知的F-Droid项目和其他免费/开源应用分发来源。”"
   }]
