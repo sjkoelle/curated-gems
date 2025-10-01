@@ -3758,4 +3758,98 @@
     "summary_zh": "F-Droid董事会成员Marc Prud'hommeaux表示，谷歌强制应用安装开发者注册的计划可能会结束F-Droid项目。F-Droid认为此举巩固了谷歌的权力，并限制了一个开放的生态系统。他们正在呼吁监管机构和竞争管理机构进行审查。",
     "best_quote_en": "\"If it were to be put into effect, the developer registration decree will end the F-Droid project and other free/open source app distribution sources as we know them today.\"",
     "best_quote_zh": "“如果开发者注册法令生效，它将终结我们今天所知的F-Droid项目和其他免费/开源应用分发来源。”"
+  },{
+    "id": 202,
+    "title": "\"Nightmare bacteria\" are rapidly spreading",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://theweek.com/health/nightmare-bacteria-what-are-they\">https://theweek.com/health/nightmare-bacteria-what-are-they</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45435406\">https://news.ycombinator.com/item?id=45435406</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://theweek.com/health/nightmare-bacteria-what-are-they",
+    "tags": [
+      "antibiotic resistance",
+      "nightmare bacteria",
+      "infections",
+      "cre",
+      "ndm gene"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Nightmare bacteria, resistant to most antibiotics, are rapidly spreading, posing a significant threat. Infections rose by 70% between 2019 and 2023 in the U.S., with a 461% jump in NDM gene-carrying CRE infections. Factors include improper hygiene, insufficient testing, and increased antibiotic use during the COVID-19 pandemic. These infections can lead to pneumonia, bloodstream infections and meningitis.",
+    "summary_zh": "具有抗药性的“梦魇细菌”正在迅速蔓延，构成重大威胁。2019年至2023年间，美国感染病例增加了70%，其中携带NDM基因的CRE感染病例激增461%。原因包括卫生不当、检测不足以及新冠疫情期间抗生素使用增加。这些感染会导致肺炎、血液感染和脑膜炎。",
+    "best_quote_en": "Nightmare bacteria are very much the stuff of waking life.",
+    "best_quote_zh": "梦魇细菌已经成为现实生活的一部分。"
+  },
+  {
+    "id": 203,
+    "title": "The Beer Can",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://brr.fyi/posts/beer-can\">https://brr.fyi/posts/beer-can</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45435375\">https://news.ycombinator.com/item?id=45435375</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://brr.fyi/posts/beer-can",
+    "tags": [
+      "south pole",
+      "beer can",
+      "infrastructure",
+      "antarctica",
+      "station"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "The Beer Can, or vertical tower, at the South Pole Station connects the comfortable living zone above and the critical infrastructure zone below. This corrugated metal cylinder contains 90 stairs and a freight elevator and is the transition element between the modern elevated station and the buried arches, which house essential industrial facilities.",
+    "summary_zh": "南极站的“啤酒罐”，即垂直塔，连接着上方的舒适生活区和下方的关键基础设施区。这个波纹金属圆柱体包含90级楼梯和一个货运电梯，是现代高架站和埋藏拱顶之间的过渡元素，拱顶内设有重要的工业设施。",
+    "best_quote_en": "But it’s the physical and conceptual separator between our living zone and our infrastructure zone, and I think that’s neat.",
+    "best_quote_zh": "但它是我们生活区和基础设施区之间的物理和概念上的分隔，我认为这很棒。"
+  },
+  {
+    "id": 204,
+    "title": "Sam Altman on Sora 2",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.samaltman.com/sora-2\">https://blog.samaltman.com/sora-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45435371\">https://news.ycombinator.com/item?id=45435371</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.samaltman.com/sora-2",
+    "tags": [
+      "sora 2",
+      "ai video generation",
+      "creativity",
+      "social media",
+      "user satisfaction"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Sam Altman introduces Sora 2, a new app combining the Sora 2 model with easy video creation, sharing, and viewing. It aims to revolutionize creativity, enabling easy idea-to-result transitions. Concerns about addiction and misuse are acknowledged, with efforts to prioritize long-term user satisfaction, user control, creation, and the achievement of users' goals through diverse content and personalized experiences.",
+    "summary_zh": "Sam Altman介绍了Sora 2，这是一款结合了Sora 2模型的新应用，可以轻松创建、分享和观看视频。它旨在彻底改变创造力，实现从想法到结果的轻松过渡。承认了对成瘾和滥用的担忧，并努力优先考虑长期用户满意度、用户控制、创作以及通过多样化的内容和个性化体验来实现用户目标。",
+    "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
+    "best_quote_zh": "创造力可能即将经历一次寒武纪大爆发，随之而来的是艺术和娱乐质量的急剧提高。"
+  },
+  {
+    "id": 205,
+    "title": "Online debate in US is botted",
+    "source": "Hackernews",
+    "desc": "<p>As soon as we launched our app on an online directory, we were overwhelmed by thousands of bots spamming “TRUMP2028”, followed by a DDoS attack.\nOur app is a stupid fast 1v1 debate platform judged by AI called Debatable. We built it thinking of dialectic debating, but we were not expecting this. Thanks to AppCheck and Vercel AntiBot Firewall, the platform survived, but hundreds of users and debates had already been created.<p>It’s a wild first stress test. But how can US survive to this level of debate-contamination?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45435360\">https://news.ycombinator.com/item?id=45435360</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45435360",
+    "tags": [
+      "online debate",
+      "bots",
+      "ddos",
+      "trump2028",
+      "appcheck"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "An online debate platform, Debatable, experienced a bot attack shortly after launch. Thousands of bots spammed \"TRUMP2028\" and launched a DDoS, testing the platform's resilience. The app survived thanks to AppCheck and Vercel AntiBot Firewall, but many users and debates were already affected. The author questions the US's capacity to withstand such debate contamination.",
+    "summary_zh": "一个名为 Debatable 的在线辩论平台在启动后不久遭受了机器人攻击。数千个机器人发送垃圾信息“TRUMP2028”并发起了 DDoS 攻击，测试了该平台的弹性。 尽管AppCheck 和 Vercel AntiBot Firewall 帮助该应用幸存下来，但是许多用户和辩论已经受到影响。作者质疑美国承受这种辩论污染的能力。",
+    "best_quote_en": "But how can US survive to this level of debate-contamination?",
+    "best_quote_zh": "但是美国如何才能在这种辩论污染中幸存下来？"
+  },
+  {
+    "id": 206,
+    "title": "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/309\">https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/309</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45435357\">https://news.ycombinator.com/item?id=45435357</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/309",
+    "tags": [
+      "pidgin",
+      "release",
+      "experimental",
+      "chat",
+      "migration"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Pidgin 3.0 Experimental 4 (2.93.0) has been released, marking a pre-alpha stage. This release includes a developer migration guide, backend improvements for data persistence, conversation persistence, a new application icon, and color scheme preferences. It's not intended for end users due to bugs and unfinished features. Experimental 5 is scheduled for 2025-12-31.",
+    "summary_zh": "Pidgin 3.0 Experimental 4 (2.93.0)已发布，这是一个pre-alpha版本。 包括开发者迁移指南、数据持久性后端改进、会话持久性、新的应用程序图标和配色方案偏好。 由于存在错误和未完成的功能，它不适合最终用户。 Experimental 5 计划于 2025-12-31 发布。",
+    "best_quote_en": "Just like the previous experimental releases, this is a timed release. It is a snapshot of what we currently have and is something we think other tinkerers and developers may want to start playing with, but again, it is not meant for end users.",
+    "best_quote_zh": "与之前的实验版本一样，这是一个定时发布版本。 它是我们目前拥有的东西的快照，我们认为其他修补匠和开发人员可能想开始使用，但同样，它不适合最终用户。"
   }]
