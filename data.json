@@ -3927,4 +3927,98 @@
     "summary_zh": "本文回顾了 Rob Pike 的 Sam 文本编辑器的命令语言。重点介绍了 Sam 的 'x' 命令，它作为 'for each' 循环的功能，以及它的可组合性。作者将 Sam 与 sed 和 Awk 进行了对比，强调了 Sam 嵌套命令和深入复杂选择的能力，从而为文本操作提供了一种简洁而强大的方法。",
     "best_quote_en": "Ideally, you make your language elements work together in useful ways, and then have as few as you can get away with.",
     "best_quote_zh": "理想情况下，您应该使您的语言元素以有用的方式协同工作，然后尽可能少地使用它们。"
+  },{
+    "id": 211,
+    "title": "Ordering work: a skill and culture gap",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://charemza.name/blog/posts/agile/deliver-value-daily/ordering-work-skill-culture-gap/\">https://charemza.name/blog/posts/agile/deliver-value-daily/ordering-work-skill-culture-gap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45460235\">https://news.ycombinator.com/item?id=45460235</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://charemza.name/blog/posts/agile/deliver-value-daily/ordering-work-skill-culture-gap/",
+    "tags": [
+      "software engineering",
+      "project management",
+      "agile",
+      "feedback",
+      "workflow"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "The order of software engineering work significantly impacts project success by influencing feedback frequency. Choosing the right order is a crucial skill often overlooked. Emphasizing the order in which work is done and adapting based on feedback leads to better outcomes. Cultural changes are needed to prioritize this skill.",
+    "summary_zh": "软件工程工作的顺序通过影响反馈频率来显著影响项目成功。选择正确的顺序是一项关键技能，但经常被忽视。强调完成工作的顺序并根据反馈进行调整可以带来更好的结果。需要进行文化变革来优先考虑这项技能。",
+    "best_quote_en": "Engineers must be encouraged to internalise that the order of the work they do is of primary consequence, and they must be empowered to continually set that order.",
+    "best_quote_zh": "工程师必须被鼓励将他们所做工作的顺序内化为首要因素，并且他们必须被授权不断地设置该顺序。"
+  },
+  {
+    "id": 212,
+    "title": "Show HN: Dakora – OSS tool to manage LLM prompts without redeploys",
+    "source": "Hackernews",
+    "desc": "<p>Ever get lost in all the prompts in your project? I did. Hardcoding them works fine for POCs and small apps, but once you have dozens it turns into “prompt hell”: giant strings in code, every tweak needs a redeploy, and changes are hard to track.<p>So I built Dakora — a small open source tool that:<p>- Stores prompts in a central vault (files under git)\n- Lets you edit them in a simple UI playground\n- Syncs them into your app without redeploys\n- Works with Python out of the box (pip install dakora)<p>Curious how others are managing prompts in production. Feedback welcome.<p>GH: <a href=\"https://github.com/bogdan-pistol/dakora\" rel=\"nofollow\">https://github.com/bogdan-pistol/dakora</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45460233\">https://news.ycombinator.com/item?id=45460233</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://dakora.io/",
+    "tags": [
+      "llm prompts",
+      "prompt management",
+      "python",
+      "open source",
+      "hot reload"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "Dakora is an open-source tool for managing LLM prompts without redeploys, designed for Python developers. It offers features like type-safe inputs, interactive playgrounds, and hot-reloading of prompts. Dakora supports Jinja2 templating, semantic versioning, execution logging and includes a CLI interface and thread-safe caching.",
+    "summary_zh": "Dakora是一个开源工具，专为Python开发者设计，用于管理LLM提示词，无需重新部署。它提供类型安全的输入、交互式playground和提示词热重载等功能。Dakora支持Jinja2模板、语义版本控制、执行日志记录，并包含CLI界面和线程安全缓存。",
+    "best_quote_en": "Manage, version, and hot-reload prompts with type-safe inputs, interactive playground, and zero-deploy updates.",
+    "best_quote_zh": "使用类型安全的输入、交互式playground和零部署更新，管理、版本控制和热重载提示。"
+  },
+  {
+    "id": 213,
+    "title": "Ask HN: How would you use an AI-powered browser agent?",
+    "source": "Hackernews",
+    "desc": "<p>I’m exploring the idea of AI powered browser agents tools that can navigate the web like a human: clicking, typing, scraping, filling forms, or even completing multi step workflows. All you do is prompt the task.<p>If you had such an agent, what would you use it for?<p>- Automating repetitive tasks?\n- Gathering and cleaning data?\n- Handling customer or internal workflows?\n- Something else entirely?<p>I’d love to hear how the HN community imagines using this.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45460226\">https://news.ycombinator.com/item?id=45460226</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45460226",
+    "tags": [
+      "ai",
+      "browser agent",
+      "automation",
+      "web navigation",
+      "workflow"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "The author is exploring AI-powered browser agents that can mimic human web navigation for tasks like clicking, typing, and form completion. They are asking the Hacker News community for ideas on how such an agent could be used, such as automating repetitive tasks, gathering data, or managing workflows.",
+    "summary_zh": "作者正在探索AI驱动的浏览器代理，该代理可以模仿人类的Web导航，以执行诸如单击、键入和完成表单之类的任务。他们正在向Hacker News社区寻求有关如何使用此类代理的想法，例如自动化重复性任务、收集数据或管理工作流程。",
+    "best_quote_en": "I’m exploring the idea of AI powered browser agents tools that can navigate the web like a human: clicking, typing, scraping, filling forms, or even completing multi step workflows.",
+    "best_quote_zh": "我正在探索AI驱动的浏览器代理工具的想法，该工具可以像人类一样浏览Web：单击、键入、抓取、填写表单，甚至完成多步骤工作流程。"
+  },
+  {
+    "id": 214,
+    "title": "Despite opposition, UK government intends to move forward with Digital ID scheme",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://petition.parliament.uk/petitions/730194?v=2\">https://petition.parliament.uk/petitions/730194?v=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45460213\">https://news.ycombinator.com/item?id=45460213</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://petition.parliament.uk/petitions/730194?v=2",
+    "tags": [
+      "digital-id",
+      "uk-government",
+      "privacy",
+      "security",
+      "consultation"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "The UK government plans to introduce a digital ID system despite public opposition. The government argues it will tackle illegal migration, simplify access to services, and improve efficiency. It won't be compulsory, but mandatory for some applications like 'right to work' checks. Concerns exist about privacy and mass surveillance. A public consultation is planned.",
+    "summary_zh": "尽管公众反对，英国政府计划推出数字身份系统。政府认为这将解决非法移民问题，简化服务访问，并提高效率。该系统并非强制性的，但对于某些应用（如“工作权利”检查）是强制性的。目前存在对隐私和大规模监控的担忧。政府计划进行公众咨询。",
+    "best_quote_en": "We will introduce a digital ID within this Parliament to help tackle illegal migration, make accessing government services easier, and enable wider efficiencies.",
+    "best_quote_zh": "我们将在本届议会内引入数字身份，以帮助解决非法移民问题，使访问政府服务更容易，并实现更广泛的效率。"
+  },
+  {
+    "id": 215,
+    "title": "Sora 2 is vulnerable to prompt injection",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/\">https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45460184\">https://news.ycombinator.com/item?id=45460184</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/",
+    "tags": [
+      "sora 2",
+      "prompt injection",
+      "ai",
+      "security",
+      "generative ai"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "Sora 2 is vulnerable to prompt injection through the \"cameo\" feature. Users can set a text prompt in their \"Cameo preferences\" that influences the appearance and subverts the prompts of others who use their cameo in videos. Examples include forcing characters to speak Spanish or changing the height of people in generated videos.",
+    "summary_zh": "Sora 2通过“cameo”功能存在提示注入漏洞。用户可以在“Cameo偏好设置”中设置文本提示，影响外观并破坏其他人在视频中使用其cameo的提示。例如，可以强制角色说西班牙语或更改生成视频中人物的身高。",
+    "best_quote_en": "You can use your cameo in your own generated videos, and you can also grant your friends permission to use it in theirs.",
+    "best_quote_zh": "你可以在自己生成的视频中使用你的客串角色，你也可以授权你的朋友在他们的视频中使用它。"
   }]
