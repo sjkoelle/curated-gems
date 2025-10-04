@@ -4021,4 +4021,98 @@
     "summary_zh": "Sora 2通过“cameo”功能存在提示注入漏洞。用户可以在“Cameo偏好设置”中设置文本提示，影响外观并破坏其他人在视频中使用其cameo的提示。例如，可以强制角色说西班牙语或更改生成视频中人物的身高。",
     "best_quote_en": "You can use your cameo in your own generated videos, and you can also grant your friends permission to use it in theirs.",
     "best_quote_zh": "你可以在自己生成的视频中使用你的客串角色，你也可以授权你的朋友在他们的视频中使用它。"
+  },{
+    "id": 216,
+    "title": "FSF Celebrates 40 Years",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.fsf.org/fsf40\">https://www.fsf.org/fsf40</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45471532\">https://news.ycombinator.com/item?id=45471532</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.fsf.org/fsf40",
+    "tags": [
+      "fsf",
+      "free software",
+      "anniversary",
+      "hackathon",
+      "community"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The Free Software Foundation (FSF) celebrates its 40th anniversary in 2025 with various events, including LibreLocal month, an in-person celebration in Boston, and a free software hackathon. The FSF encourages everyone to participate and support their mission and invites sponsorship. These activities are designed to bring the international free software community together, and discuss the future of free software.",
+    "summary_zh": "自由软件基金会（FSF）将于2025年庆祝其成立40周年，届时将举办包括自由本地月、波士顿现场庆祝活动和自由软件黑客马拉松等各种活动。FSF鼓励大家参与并支持他们的使命，并邀请赞助。这些活动旨在将国际自由软件社区聚集在一起，并讨论自由软件的未来。",
+    "best_quote_en": "When we look back to 1985, we can see just how many stepping stones on the road to software freedom we've already laid together.",
+    "best_quote_zh": "当我们回顾1985年，我们可以看到我们在通往软件自由的道路上已经共同奠定了多少基石。"
+  },
+  {
+    "id": 217,
+    "title": "Selling Legal Tech SaaS Portfolio – Pre-Revenue but Validated ($8,500)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://x.com/SumanthChary07\">https://x.com/SumanthChary07</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45471527\">https://news.ycombinator.com/item?id=45471527</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://x.com/SumanthChary07",
+    "tags": [
+      "javascript",
+      "privacy",
+      "x.com",
+      "browser",
+      "error"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The text describes an issue encountered on X.com (formerly Twitter) where JavaScript is disabled or privacy extensions are interfering with the site's functionality. It provides instructions for enabling JavaScript, switching browsers, or disabling privacy extensions to resolve the problem.",
+    "summary_zh": "该文本描述了在 X.com (前身为 Twitter) 上遇到的问题，JavaScript 被禁用或隐私扩展干扰了网站功能。 其提供了启用 JavaScript、切换浏览器或禁用隐私扩展的说明，以解决此问题。",
+    "best_quote_en": "Some privacy related extensions may cause issues on x.com. Please disable them and try again.",
+    "best_quote_zh": "某些隐私相关的扩展程序可能会导致 x.com 出现问题。请禁用它们并重试。"
+  },
+  {
+    "id": 218,
+    "title": "Why AI won't work as a software development abstraction",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.robbowley.net/2025/10/02/why-ai-wont-work-as-a-software-development-abstraction/\">https://blog.robbowley.net/2025/10/02/why-ai-wont-work-as-a-software-development-abstraction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45471503\">https://news.ycombinator.com/item?id=45471503</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.robbowley.net/2025/10/02/why-ai-wont-work-as-a-software-development-abstraction/",
+    "tags": [
+      "ai",
+      "software development",
+      "llm",
+      "complexity",
+      "cost"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The idea of using LLMs as a software development abstraction faces challenges due to complexity and processing costs. Software is dynamic, and changes add complexity. AI might encounter the same problems faster. Regenerating the codebase is costly, and slow feedback loops hinder development. Processing information carries an energy cost, making current machine computation less efficient than human effort.",
+    "summary_zh": "将LLM用作软件开发抽象面临复杂性和处理成本的挑战。软件是动态的，变更会增加复杂性。AI可能更快地遇到同样的问题。重新生成代码库成本高昂，缓慢的反馈循环会阻碍开发。处理信息需要能量成本，使得当前的机器计算不如人类努力有效。",
+    "best_quote_en": "Software development depends on feedback loops measured in seconds or minutes, not hours or days.",
+    "best_quote_zh": "软件开发依赖于以秒或分钟为单位的反馈循环，而不是以小时或天为单位。"
+  },
+  {
+    "id": 219,
+    "title": "Piracykills",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://herman.bearblog.dev/piracy-kills/\">https://herman.bearblog.dev/piracy-kills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45471477\">https://news.ycombinator.com/item?id=45471477</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://herman.bearblog.dev/piracy-kills/",
+    "tags": [
+      "piracy",
+      "software",
+      "marketing",
+      "discount",
+      "empathy"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The author discovered that many people were trying to pirate their art tool, JustSketchMe. Instead of fighting it, they created pages targeting these searches and offered a discount code to potential pirates. Surprisingly, this discount code became the most used one, proving empathy and positive incentives can convert potential pirates into paying customers.",
+    "summary_zh": "作者发现很多人试图盗版其艺术工具 JustSketchMe。他们没有直接打击盗版，而是创建页面针对这些搜索，并为潜在的盗版者提供折扣码。令人惊讶的是，这个折扣码成为使用最多的折扣码，证明了同理心和积极的激励措施可以将潜在的盗版者转化为付费客户。",
+    "best_quote_en": "In some ways this is taking advantage of a good search term. In others it's showing empathy and adding delight, creating a positive incentive to purchase to someone who otherwise wouldn't have.",
+    "best_quote_zh": "从某种程度上说，这是在利用一个好的搜索词。而从另一方面来说，这是在展示同理心并增添乐趣，为那些原本不会购买的人创造了积极的购买动机。"
+  },
+  {
+    "id": 220,
+    "title": "Classic 8×8-pixel B&W Mac patterns",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pauladamsmith.com/blog/2025/09/classic-mac-patterns.html\">https://pauladamsmith.com/blog/2025/09/classic-mac-patterns.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45471475\">https://news.ycombinator.com/item?id=45471475</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
+    "tags": [
+      "mac",
+      "patterns",
+      "retro",
+      "pixel art",
+      "system 6"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The author created a website featuring the original 8x8-pixel black-and-white Mac patterns from System 1.0 (1984). He extracted the patterns from a System 6 disk using Mini vMac and various utilities, converting them into .pbm format. The goal was to preserve the authentic patterns in an easily parseable format, driven by nostalgia for the classic Mac aesthetic.",
+    "summary_zh": "作者创建了一个网站，展示了来自System 1.0 (1984)的原始8x8像素黑白Mac图案。他使用Mini vMac和各种实用工具从System 6磁盘中提取了这些图案，并将它们转换为.pbm格式。此举的目的是以易于解析的格式保存真实的图案，这源于对经典Mac美学的怀旧之情。",
+    "best_quote_en": "Ultimately, I wanted to extract the exact original data from the source (or close enough copy thereof) and have the patterns in a format I considered archival for this limited purpose (.pbm files are trivial to parse and manipulate).",
+    "best_quote_zh": "最终，我想从源头（或足够接近源头的副本）提取精确的原始数据，并将这些图案以我视为可存档的格式保存，以达到这个有限的目的（.pbm文件易于解析和操作）。"
   }]
