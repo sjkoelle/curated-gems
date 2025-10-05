@@ -4115,4 +4115,60 @@
     "summary_zh": "作者创建了一个网站，展示了来自System 1.0 (1984)的原始8x8像素黑白Mac图案。他使用Mini vMac和各种实用工具从System 6磁盘中提取了这些图案，并将它们转换为.pbm格式。此举的目的是以易于解析的格式保存真实的图案，这源于对经典Mac美学的怀旧之情。",
     "best_quote_en": "Ultimately, I wanted to extract the exact original data from the source (or close enough copy thereof) and have the patterns in a format I considered archival for this limited purpose (.pbm files are trivial to parse and manipulate).",
     "best_quote_zh": "最终，我想从源头（或足够接近源头的副本）提取精确的原始数据，并将这些图案以我视为可存档的格式保存，以达到这个有限的目的（.pbm文件易于解析和操作）。"
+  },{
+    "id": 221,
+    "title": "Open Source Google Maps Street View Panorama Downloader",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/yousephzidan/gsvp-dl\">https://github.com/yousephzidan/gsvp-dl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45479704\">https://news.ycombinator.com/item?id=45479704</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/yousephzidan/gsvp-dl",
+    "tags": [
+      "street view",
+      "downloader",
+      "panorama",
+      "api",
+      "python"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This project provides a Google Street View Panorama Downloader as both an API and a command-line tool. It's optimized for asynchronously downloading millions of panoramas. Key features include full asynchronous downloading, black tile detection, handling image differences, configurable zoom levels, and scalability. It covers installation, usage as CLI and library, technical details about zoom levels, limitations and disclaimer.",
+    "summary_zh": "该项目提供了一个谷歌街景全景下载器，既作为API又作为命令行工具。它针对异步下载数百万个全景图进行了优化。主要功能包括完全异步下载、黑块检测、处理图像差异、可配置的缩放级别和可伸缩性。内容涵盖安装、作为CLI和库的使用，以及有关缩放级别、局限性和免责声明的技术细节。",
+    "best_quote_en": "This project is intended for educational and research purposes only.",
+    "best_quote_zh": "本项目仅用于教育和研究目的。"
+  },
+  {
+    "id": 222,
+    "title": "'I have your nudes and everything to ruin your life'",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/czrpedexleno\">https://www.bbc.co.uk/news/articles/czrpedexleno</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45479699\">https://news.ycombinator.com/item?id=45479699</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.co.uk/news/articles/czrpedexleno",
+    "tags": [
+      "sextortion",
+      "cybercrime",
+      "scam",
+      "nigeria",
+      "teenagers"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "The article investigates the rise of sextortion, where scammers, often in Nigeria, blackmail teenagers for explicit content. It follows the tragic case of Evan Boettler, who took his life after being targeted. The investigation uncovers 'Hustle Kingdoms,' organized scam operations, revealing the ruthless methods and the grooming of young men into cybercrime. The piece highlights the devastating consequences and difficulties in prosecuting these crimes.",
+    "summary_zh": "本文调查了性勒索的兴起，通常在尼日利亚的诈骗者勒索青少年以获取不雅内容。文章讲述了伊万·博特勒的悲惨案例，他在成为目标后结束了自己的生命。调查揭露了有组织的诈骗活动“诈骗王国”，揭示了无情的方法和诱骗年轻人参与网络犯罪的过程。文章强调了这些犯罪造成的毁灭性后果以及起诉这些犯罪的困难。",
+    "best_quote_en": "\"I don't feel bad because I need the money.\"",
+    "best_quote_zh": "“我不觉得内疚，因为我需要钱。”"
+  },
+  {
+    "id": 223,
+    "title": "Lánczos Interpolation Explained (2022)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mazzo.li/posts/lanczos.html\">https://mazzo.li/posts/lanczos.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45479694\">https://news.ycombinator.com/item?id=45479694</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://mazzo.li/posts/lanczos.html",
+    "tags": [
+      "interpolation",
+      "image resizing",
+      "lánczos",
+      "sinc function",
+      "convolution"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This article explains Lánczos interpolation, a popular image resizing method. It details the problem of interpolation, framing it as convolutions, and introduces the sinc function as the foundation for Lánczos. The article also discusses why sinc can't be directly used and how it's modified for practical application.",
+    "summary_zh": "本文解释了Lánczos插值，一种流行的图像大小调整方法。它详细介绍了插值问题，将其描述为卷积，并介绍了 sinc 函数作为 Lánczos 的基础。文章还讨论了为什么 sinc 不能直接使用，以及如何修改它以用于实际应用。",
+    "best_quote_en": "Leaving the samples intact is a desirable and guiding property for interpolating functions.",
+    "best_quote_zh": "保持样本完整性是插值函数一个理想且具有指导意义的属性。"
   }]
