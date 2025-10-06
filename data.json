@@ -4171,4 +4171,79 @@
     "summary_zh": "本文解释了Lánczos插值，一种流行的图像大小调整方法。它详细介绍了插值问题，将其描述为卷积，并介绍了 sinc 函数作为 Lánczos 的基础。文章还讨论了为什么 sinc 不能直接使用，以及如何修改它以用于实际应用。",
     "best_quote_en": "Leaving the samples intact is a desirable and guiding property for interpolating functions.",
     "best_quote_zh": "保持样本完整性是插值函数一个理想且具有指导意义的属性。"
+  },{
+    "id": 224,
+    "title": "A curated list of resources in the field of electrical grid mapping",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping\">https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45488740\">https://news.ycombinator.com/item?id=45488740</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping",
+    "tags": [
+      "electrical grid",
+      "mapping",
+      "open data",
+      "energy transition",
+      "openstreetmap"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This is a curated list of resources related to electrical grid mapping, aimed at improving global open data coverage, harmonization, and quality for a sustainable energy transition. It emphasizes the importance of manually verifying data in OpenStreetMap using official satellite data and includes links to datasets, maps, and tools.",
+    "summary_zh": "这是一个关于电网地图绘制的精选资源列表，旨在提高全球开放数据的覆盖率、协调性和质量，以实现可持续的能源转型。它强调了在OpenStreetMap中使用官方卫星数据手动验证数据的重要性，并包括数据集、地图和工具的链接。",
+    "best_quote_en": "Each data point of the transmission network must be set manually and verified with official satellite data provided by the OpenStreetMap community.",
+    "best_quote_zh": "输电网络的每个数据点都必须手动设置，并使用OpenStreetMap社区提供的官方卫星数据进行验证。"
+  },
+  {
+    "id": 225,
+    "title": "MindAI – A platform designed to help you save your money and time in AI",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://officialmindai.com\">https://officialmindai.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45488730\">https://news.ycombinator.com/item?id=45488730</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://officialmindai.com",
+    "tags": [
+      "ai tools",
+      "productivity",
+      "time saving",
+      "cost saving",
+      "platform"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "MindAI is an AI platform that consolidates top AI models for writing, coding, images, and audio into one seamless experience. It aims to save users time and money by providing a single subscription with total control, eliminating the need for multiple AI tools and complex setups. It offers fast switching between AI models and automatic integration of new tools.",
+    "summary_zh": "MindAI是一个AI平台，它将写作、编码、图像和音频的顶级AI模型整合为一体化体验。 旨在通过提供单一订阅和完全控制来节省用户的时间和金钱，无需多种AI工具和复杂的设置。可在AI模型之间快速切换, 并自动集成新工具。",
+    "best_quote_en": "MindAI puts your focus back on creating, not configuring.",
+    "best_quote_zh": "MindAI让您重新专注于创作，而不是配置。"
+  },
+  {
+    "id": 226,
+    "title": "Show HN: Envirobly – Efficient App Hosting",
+    "source": "Hackernews",
+    "desc": "<p>This is my, fully bootstrapped, take on an application hosting platform. I designed it primarily for myself, to meet the following goals:<p>* Utilize the best parts of the cloud, leave expensive value added services behind.\n* Host anywhere in the world, close to your users.\n* Batteries included: backups, logging, monitoring, auto-scaling, containerization, databases.\n* Simple and user friendly.<p>The journey was tough. It took me round about 3 years to get everything just right. This goes against the conventional wisdom of getting something simple out quick. With a hosting platform however, in my mind, reliability, stability and certain maturity are a must have from the start.<p>I definitely need to work on the presentation, it's barely covering the basics. But you have to start somewhere :-)<p>I'd love to hear some critique from the community. Thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45488727\">https://news.ycombinator.com/item?id=45488727</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://envirobly.com/",
+    "tags": [
+      "app hosting",
+      "deployment",
+      "git",
+      "cli",
+      "ci"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "Envirobly offers efficient app hosting with simple deployment in 30 seconds, a free 14-day trial, and no complex configuration. It integrates with Git and allows deployment from the command line or CI using their CLI tool.",
+    "summary_zh": "Envirobly提供高效的应用托管服务，30秒内即可完成简单部署，提供14天免费试用，无需复杂配置。它与Git集成，并允许使用CLI工具从命令行或CI进行部署。",
+    "best_quote_en": "Start deploying within 30 seconds of signing up.",
+    "best_quote_zh": "注册后30秒内即可开始部署。"
+  },
+  {
+    "id": 227,
+    "title": "Battering RAM – Low-Cost Interposer Attacks on Confidential Computing",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://batteringram.eu/\">https://batteringram.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45488713\">https://news.ycombinator.com/item?id=45488713</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://batteringram.eu/",
+    "tags": [
+      "battering ram",
+      "memory encryption",
+      "intel sgx",
+      "amd sev-snp",
+      "interposer attack"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "Battering RAM is a low-cost interposer attack that bypasses memory encryption on Intel and AMD cloud processors. A $50 interposer silently redirects protected addresses, allowing access to encrypted memory, breaking Intel SGX and AMD SEV-SNP. This exposes the limits of scalable memory encryption and requires a fundamental redesign ofmemory encryption.",
+    "summary_zh": "Battering RAM是一种低成本的中间人攻击，可以绕过英特尔和AMD云处理器的内存加密。一个50美元的中间设备可以静默地重定向受保护的地址，从而访问加密的内存，破坏英特尔SGX和AMD SEV-SNP。这暴露了可扩展内存加密的局限性，需要从根本上重新设计内存加密。",
+    "best_quote_en": "Battering RAM exposes the limits of today’s scalable memory encryption.",
+    "best_quote_zh": "Battering RAM 暴露了当今可扩展内存加密的局限性。"
   }]
