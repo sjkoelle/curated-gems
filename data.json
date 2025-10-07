@@ -4246,4 +4246,98 @@
     "summary_zh": "Battering RAM是一种低成本的中间人攻击，可以绕过英特尔和AMD云处理器的内存加密。一个50美元的中间设备可以静默地重定向受保护的地址，从而访问加密的内存，破坏英特尔SGX和AMD SEV-SNP。这暴露了可扩展内存加密的局限性，需要从根本上重新设计内存加密。",
     "best_quote_en": "Battering RAM exposes the limits of today’s scalable memory encryption.",
     "best_quote_zh": "Battering RAM 暴露了当今可扩展内存加密的局限性。"
+  },{
+    "id": 228,
+    "title": "Deloitte to refund the Australian government after using AI in $440k report",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report\">https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45500485\">https://news.ycombinator.com/item?id=45500485</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
+    "tags": [
+      "deloitte",
+      "artificial intelligence",
+      "report",
+      "refund",
+      "australia"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Deloitte will issue a partial refund to the Australian government for a $440,000 report that contained errors due to the use of generative AI. The report, commissioned by the Department of Employment and Workplace Relations, had 'hallucinations' and incorrect references. A Labor senator criticized Deloitte for a 'human intelligence problem'.",
+    "summary_zh": "德勤将向澳大利亚政府部分退款，原因是其一份价值 44 万美元的报告因使用生成式人工智能而存在错误。该报告由就业和工作场所关系部委托，存在“幻觉”和不正确的参考文献。一位工党参议员批评德勤存在“人类智能问题”。",
+    "best_quote_en": "Deloitte has a human intelligence problem. This would be laughable if it wasn’t so lamentable. A partial refund looks like a partial apology for substandard work.",
+    "best_quote_zh": "德勤存在人类智能问题。如果不是如此令人惋惜，这简直是可笑的。部分退款看起来像是对不合格工作的部分道歉。"
+  },
+  {
+    "id": 229,
+    "title": "My wife stole my computer 2 (electric boogaloo)",
+    "source": "Hackernews",
+    "desc": "<p>ELECTRIC boogaloo (see what I did there)<p>So anyway yeah after a long and arduous battle with Darlene over my computer, she reluctantly, but generously, threw my computer back through my window into my house. the thousands in glass damage repair and the lobotomy I got from the M.2 SSD flying into my brain at terminal velocity is nothing compared to the value of this previous computer.<p>Thank you Darlene!!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45500476\">https://news.ycombinator.com/item?id=45500476</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45500476",
+    "tags": [
+      "humor",
+      "computer",
+      "wife",
+      "injury",
+      "yc"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The author's wife, Darlene, returned his computer by throwing it through a window. The author humorously describes the damage (glass repair, brain injury) as insignificant compared to getting the computer back. He thanks Darlene and mentions YC's Winter 2026 application deadline.",
+    "summary_zh": "作者的妻子Darlene把他的电脑扔回了他家，穿过窗户。作者幽默地描述了（玻璃维修，脑部受伤）的损害与找回电脑相比微不足道。他感谢Darlene，并提到了YC 2026年冬季申请的截止日期。",
+    "best_quote_en": "the thousands in glass damage repair and the lobotomy I got from the M.2 SSD flying into my brain at terminal velocity is nothing compared to the value of this previous computer.",
+    "best_quote_zh": "数千美元的玻璃损坏维修和我因M.2 SSD以极快速度飞入我大脑而接受的脑叶切除手术与这台旧电脑的价值相比根本不算什么。"
+  },
+  {
+    "id": 230,
+    "title": "Cool down with your Digital Dystopia, bro",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.dedoimedo.com/life/digital-dystopia.html\">https://www.dedoimedo.com/life/digital-dystopia.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45500471\">https://news.ycombinator.com/item?id=45500471</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.dedoimedo.com/life/digital-dystopia.html",
+    "tags": [
+      "smartphones",
+      "digital currencies",
+      "security",
+      "privacy",
+      "technology"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The article criticizes the increasing reliance on smartphones for essential services like banking, transportation, and digital currencies. It argues that these digital solutions, often presented as convenient, lead to decreased user control, increased data vulnerability, and potential for government overreach, questioning the true benefits for consumers.",
+    "summary_zh": "本文批判了对智能手机在银行、交通和数字货币等基本服务方面日益增长的依赖。文章认为，这些数字化解决方案通常以方便为名，实际上导致了用户控制权的降低、数据漏洞的增加以及政府过度干预的可能性，质疑了这些方案对消费者的真正益处。",
+    "best_quote_en": "Slowly, step by step, the idea is to make everyone have to use a smartphone all the time. Not choose if they want to. Have to.",
+    "best_quote_zh": "慢慢地，一步一步地，他们的想法是让每个人都必须一直使用智能手机。不是选择他们是否想用，而是必须用。"
+  },
+  {
+    "id": 231,
+    "title": "The audit trail for the AI era",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://auditry.io/\">https://auditry.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45500457\">https://news.ycombinator.com/item?id=45500457</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://auditry.io/",
+    "tags": [
+      "ai",
+      "audit",
+      "compliance",
+      "regulatory",
+      "system"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Auditry provides a developer-first, system-level compliance solution for the AI era. It turns AI workflows into verifiable audit trails, automatically logging models, datasets, API calls, and decisions. With one click, export regulator-ready evidence packages, ensuring compliance by design. Join the early access list to bring audit-ready compliance to your AI systems.",
+    "summary_zh": "Auditry为人工智能时代提供了一个开发者优先的系统级合规解决方案。它将人工智能工作流程转化为可验证的审计跟踪，自动记录模型、数据集、API调用和决策。一键导出符合监管要求的证据包，确保设计上的合规性。加入早期访问列表，将可审计的合规性引入到您的人工智能系统中。",
+    "best_quote_en": "Turn every AI workflow into a verifiable audit trail.",
+    "best_quote_zh": "将每个AI工作流程转化为可验证的审计跟踪。"
+  },
+  {
+    "id": 232,
+    "title": "GPU Instanced Grass Breakdown",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cyanilux.com/tutorials/gpu-instanced-grass-breakdown/\">https://www.cyanilux.com/tutorials/gpu-instanced-grass-breakdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45500443\">https://news.ycombinator.com/item?id=45500443</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cyanilux.com/tutorials/gpu-instanced-grass-breakdown/",
+    "tags": [
+      "gpu instancing",
+      "unity",
+      "shader graph",
+      "urp",
+      "grass rendering"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This article breaks down GPU instancing for grass rendering in Unity, focusing on URP and Shader Graph. It covers basic setup, optional additions like wind simulation and frustum culling, and adapting the setup for indirect rendering. The article discusses changes introduced in Unity versions 2021.2, 2022, and 6, and provides code examples for C#, Shader Graph, and Compute Shader.",
+    "summary_zh": "本文分析了Unity中用于草地渲染的GPU Instancing技术，重点介绍了URP和Shader Graph。 内容涵盖基本设置、风模拟和视锥体剔除等可选附加功能，以及间接渲染的设置调整。文章讨论了Unity 2021.2、2022和6版本中引入的更改，并提供了C#、Shader Graph和Compute Shader的代码示例。",
+    "best_quote_en": "The main advantage of GPU Instancing is that you can render many objects in a single draw call.",
+    "best_quote_zh": "GPU Instancing的主要优势在于，你可以在一个绘制调用中渲染多个对象。"
   }]
