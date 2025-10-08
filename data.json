@@ -4340,4 +4340,60 @@
     "summary_zh": "本文分析了Unity中用于草地渲染的GPU Instancing技术，重点介绍了URP和Shader Graph。 内容涵盖基本设置、风模拟和视锥体剔除等可选附加功能，以及间接渲染的设置调整。文章讨论了Unity 2021.2、2022和6版本中引入的更改，并提供了C#、Shader Graph和Compute Shader的代码示例。",
     "best_quote_en": "The main advantage of GPU Instancing is that you can render many objects in a single draw call.",
     "best_quote_zh": "GPU Instancing的主要优势在于，你可以在一个绘制调用中渲染多个对象。"
+  },{
+    "id": 233,
+    "title": "Rust-based web browser project \"Verso\" no longer maintained",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/versotile-org/verso/tree/eb719bdd6c7b4a22b640d33ea55c6d440a5a850d\">https://github.com/versotile-org/verso/tree/eb719bdd6c7b4a22b640d33ea55c6d440a5a850d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45513326\">https://news.ycombinator.com/item?id=45513326</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/versotile-org/verso/tree/eb719bdd6c7b4a22b640d33ea55c6d440a5a850d",
+    "tags": [
+      "rust",
+      "web browser",
+      "servo",
+      "open source",
+      "verso"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "The Verso web browser project, aimed at building a browser on top of Servo, is no longer maintained due to limited resources. While Verso contributed to Servo's evolution, it couldn't keep pace with updates. The project's repository will be archived, but there's hope for future revitalization. Verso explores Servo embedding solutions, experimenting with multi-view and multi-window interfaces, and building UI elements entirely from Servo.",
+    "summary_zh": "Verso Web浏览器项目旨在在Servo之上构建浏览器，但由于资源有限，目前已停止维护。Verso为Servo的发展做出了贡献，但无法跟上更新的步伐。项目仓库将被存档，但仍有望在未来重新启动。Verso探索Servo的嵌入式解决方案，尝试多视图和多窗口界面，并完全从Servo构建UI元素。",
+    "best_quote_en": "A web browser that plays old world blues to build new world hope.",
+    "best_quote_zh": "一个用怀旧的布鲁斯来构建新世界希望的Web浏览器。"
+  },
+  {
+    "id": 234,
+    "title": "Clockss: Digital preservation services run by academic publishers and libraries",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://clockss.org/\">https://clockss.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45513313\">https://news.ycombinator.com/item?id=45513313</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://clockss.org/",
+    "tags": [
+      "digital preservation",
+      "academic publishing",
+      "research libraries",
+      "open access",
+      "lockss"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "CLOCKSS is a community-led collaboration between academic publishers and research libraries, providing a sustainable online archive for long-term digital scholarship preservation. It ensures open access through Creative Commons licenses and safeguards against digital loss using innovative LOCKSS technology. CLOCKSS operates with global collaboration, preserving millions of journal articles and books.",
+    "summary_zh": "CLOCKSS是由学术出版商和研究图书馆共同主导的合作项目，旨在提供可持续的在线存档，以长期保存数字学术成果。它通过知识共享许可确保开放获取，并使用创新的LOCKSS技术来防范数字丢失。CLOCKSS通过全球合作运营，保存了数百万篇期刊文章和书籍。",
+    "best_quote_en": "Together we ensure the long-term survival of our shared intellectual heritage.",
+    "best_quote_zh": "我们共同确保我们共享的知识遗产得以长期留存。"
+  },
+  {
+    "id": 235,
+    "title": "Manage your tabs with agentic AI",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://twitter.com/side_space_app/status/1975821668120731873\">https://twitter.com/side_space_app/status/1975821668120731873</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45513305\">https://news.ycombinator.com/item?id=45513305</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://twitter.com/side_space_app/status/1975821668120731873",
+    "tags": [
+      "javascript",
+      "error",
+      "x",
+      "browser",
+      "website"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "The provided content appears to be an error message from X (formerly Twitter). It indicates that JavaScript is disabled in the user's browser, preventing them from using the site. The message suggests enabling JavaScript or switching to a supported browser and provides links to the Help Center, Terms of Service, Privacy Policy, Cookie Policy, and Ads info.",
+    "summary_zh": "提供的内容似乎是来自 X (前身为 Twitter) 的错误消息。它表明用户的浏览器中禁用了 JavaScript，从而阻止他们使用该网站。该消息建议启用 JavaScript 或切换到受支持的浏览器，并提供指向帮助中心、服务条款、隐私政策、Cookie 政策和广告信息的链接。",
+    "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
+    "best_quote_zh": "出了点问题，但别担心——让我们再试一次。"
   }]
