@@ -4396,4 +4396,60 @@
     "summary_zh": "提供的内容似乎是来自 X (前身为 Twitter) 的错误消息。它表明用户的浏览器中禁用了 JavaScript，从而阻止他们使用该网站。该消息建议启用 JavaScript 或切换到受支持的浏览器，并提供指向帮助中心、服务条款、隐私政策、Cookie 政策和广告信息的链接。",
     "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
     "best_quote_zh": "出了点问题，但别担心——让我们再试一次。"
+  },{
+    "id": 236,
+    "title": "Hunyuan Image 3.0 – AI Image Generator (Text-to-Image)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://hunyuanimage.online\">https://hunyuanimage.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45524818\">https://news.ycombinator.com/item?id=45524818</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://hunyuanimage.online",
+    "tags": [
+      "ai image generation",
+      "text-to-image",
+      "multimodal model",
+      "diffusion model",
+      "hunyuan image 3.0"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Hunyuan Image 3.0 is Tencent's advanced AI image generation model that transforms text descriptions into high-resolution images. It features enhanced quality generation, advanced compression, dual encoder system, RLHF optimization, multi-language support, and flexible aspect ratios, empowering creators with professional-grade AI-assisted visual content generation.",
+    "summary_zh": "Hunyuan Image 3.0是腾讯公司先进的AI图像生成模型，可以将文本描述转换为高分辨率图像。它具有增强的质量生成、高级压缩、双编码器系统、RLHF优化、多语言支持和灵活的宽高比，可以帮助创作者使用专业级AI辅助视觉内容生成。",
+    "best_quote_en": "HunyuanImage 3.0 fuses aesthetic skill with reasoning and world knowledge.",
+    "best_quote_zh": "HunyuanImage 3.0 将审美技巧与推理和世界知识融合在一起。"
+  },
+  {
+    "id": 237,
+    "title": "Show HN: Built Open Source AI Coding Assistant Which Rivals to Cursor",
+    "source": "Hackernews",
+    "desc": "<p>I built a completely FREE, open-source AI coding assistant in Python over a weekend. It works with any codebase, keeps your data local, and rivals paid alternatives.<p>What is Lynecode?\n Open Source: You can customize if you want\n Terminal first: Works with ANY language, ANY project size\n 30+ tools from ASTSearch to SEMGREP \n Your data stays LOCAL\n Built in safety, Auto-backups before every change without even having git<p>The \"Holy Sh*t\" moment\nI built my entire website (<a href=\"https://www.lynelabs.com/\" rel=\"nofollow\">https://www.lynelabs.com/</a>) using Lynecode in under 2 hours. That’s when I realized this thing actually works and could rival the expensive alternatives.<p>Why this matters for developers everywhere:\n No more $20/month subscriptions draining your budget\n Data sovereignty: Your code doesn’t leave your machine (or host on your own Azure for extra privacy)\n Learn from readable code\n Toolset which can rival it's paid alternative and easily expandable<p>The bigger picture\nThis isn’t about claiming to be the absolute best (I honestly haven’t tested every tool out there). It’s about showing that you don’t need million dollar funding or fancy marketing to build something useful</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45524815\">https://news.ycombinator.com/item?id=45524815</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.lynelabs.com/",
+    "tags": [
+      "ai coding assistant",
+      "open source",
+      "terminal",
+      "india",
+      "developer tools"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Lynecode is an open-source AI coding assistant for the terminal, built in India. It works with any language and project, offering features like project indexing, safe snapshots, and intelligent file edits. It's free to use with your own API key from providers like OpenAI, Gemini, and Azure OpenAI. Lynecode emphasizes local data storage and easy integration.",
+    "summary_zh": "Lynecode 是一款在印度开发的开源 AI 编码助手，可在终端中使用。它支持任何语言和项目，提供项目索引、安全快照和智能文件编辑等功能。用户可以使用来自 OpenAI、Gemini 和 Azure OpenAI 等供应商的 API 密钥免费使用。 Lynecode 强调本地数据存储和易于集成。",
+    "best_quote_en": "Lynecode helps you work faster with any project, Build anything you imagine no mess, we’ve got your back. It’s free. Bring your own API key.",
+    "best_quote_zh": "Lynecode 可帮助您更快地处理任何项目，构建您能想象到的任何东西，并且没有混乱。我们为你提供支持。它是免费的。带上你自己的 API 密钥。"
+  },
+  {
+    "id": 238,
+    "title": "The \"Corrupted Blood\" Incident (Wow, 2005)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Corrupted_Blood_incident\">https://en.wikipedia.org/wiki/Corrupted_Blood_incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45524806\">https://news.ycombinator.com/item?id=45524806</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Corrupted_Blood_incident",
+    "tags": [
+      "world of warcraft",
+      "pandemic",
+      "corrupted blood",
+      "mmorpg",
+      "epidemiology"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "The Corrupted Blood incident was a virtual pandemic in World of Warcraft in 2005 caused by a debuff spreading beyond its intended game region. It started in Zul'Gurub and spread due to a programming oversight, affecting players and NPCs. The event gained attention from epidemiologists for its simulation of human responses to disease outbreaks.",
+    "summary_zh": "“堕落之血”事件是2005年《魔兽世界》中的一场虚拟瘟疫，起因是一个Debuff（减益效果）扩散到游戏区域之外。它始于祖尔格拉布，并由于编程失误而蔓延，影响了玩家和NPC。该事件引起了流行病学家的关注，因为它模拟了人类对疾病爆发的反应。",
+    "best_quote_en": "Epidemiologists, meanwhile, took interest in how MMORPGs, unlike mathematical models, could capture individual human responses to disease outbreaks rather than generating assumptions about behavior.",
+    "best_quote_zh": "与此同时，流行病学家对MMORPG如何捕捉个人对疾病爆发的反应（而不是生成关于行为的假设）产生了兴趣，这与数学模型不同。"
   }]
