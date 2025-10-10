@@ -4452,4 +4452,79 @@
     "summary_zh": "“堕落之血”事件是2005年《魔兽世界》中的一场虚拟瘟疫，起因是一个Debuff（减益效果）扩散到游戏区域之外。它始于祖尔格拉布，并由于编程失误而蔓延，影响了玩家和NPC。该事件引起了流行病学家的关注，因为它模拟了人类对疾病爆发的反应。",
     "best_quote_en": "Epidemiologists, meanwhile, took interest in how MMORPGs, unlike mathematical models, could capture individual human responses to disease outbreaks rather than generating assumptions about behavior.",
     "best_quote_zh": "与此同时，流行病学家对MMORPG如何捕捉个人对疾病爆发的反应（而不是生成关于行为的假设）产生了兴趣，这与数学模型不同。"
+  },{
+    "id": 239,
+    "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/\">https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45536325\">https://news.ycombinator.com/item?id=45536325</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+    "tags": [
+      "wifi",
+      "security",
+      "networking",
+      "bypass",
+      "dns"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "The author collaborated with a roommate to bypass Air Canada's in-flight WiFi restrictions, which only allowed free texting. They explored domain self-signing and DNS port masquerading techniques. The first approach was blocked and the second approach worked, ultimately discovering that arbitrary DNS servers and TCP-based DNS requests were not blocked.",
+    "summary_zh": "作者与室友合作，试图绕过加拿大航空仅允许免费文本信息的机上WiFi限制。他们探索了域名自签名和DNS端口伪装技术。第一种方法被阻止，第二种方法起作用，最终发现任意DNS服务器和基于TCP的DNS请求未被阻止。",
+    "best_quote_en": "After all, with such a long journey ahead, I needed something interesting to pass the 12 hours.",
+    "best_quote_zh": "毕竟，在如此漫长的旅程中，我需要一些有趣的事情来打发这12个小时。"
+  },
+  {
+    "id": 240,
+    "title": "Show HN: Real-time Docker event watcher with multi-channel notifications",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/filippofinke/docker-events\">https://github.com/filippofinke/docker-events</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45536317\">https://news.ycombinator.com/item?id=45536317</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/filippofinke/docker-events",
+    "tags": [
+      "docker",
+      "events",
+      "notifications",
+      "go",
+      "real-time"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "Docker Events is a lightweight Go service that watches Docker events in real-time and dispatches rich notifications through configurable channels like Slack, Telegram, and Discord. It offers features like real-time event streaming, human-friendly notifications, multi-channel delivery, opt-in filtering, and event grouping to prevent notification spam.",
+    "summary_zh": "Docker Events是一个轻量级的Go服务，可以实时监控Docker事件，并通过可配置的通道（如Slack、Telegram和Discord）发送丰富的通知。它提供实时事件流、人性化的通知、多通道传递、选择性过滤和事件分组等功能，以防止通知泛滥。",
+    "best_quote_en": "It is designed to be small, dependable, and easy to extend with new transports or event processing rules.",
+    "best_quote_zh": "它的设计目标是小巧、可靠，并且易于扩展新的传输方式或事件处理规则。"
+  },
+  {
+    "id": 241,
+    "title": "The Handle Trait",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/\">https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45536293\">https://news.ycombinator.com/item?id=45536293</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/",
+    "tags": [
+      "rust",
+      "ref-counting",
+      "ergonomics",
+      "trait",
+      "handle"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "The article discusses the naming of a trait for ergonomic ref-counting in Rust. The author proposes the name 'Handle' for a trait that signifies shared ownership or 'entanglement' of data, distinguishing it from simple cloning which creates independent copies. The key idea is to focus on the semantic concept of sharing rather than the operational details of implementation.",
+    "summary_zh": "本文讨论了Rust中符合人体工程学的引用计数的trait命名。作者建议使用'Handle'这个名称，来表示数据的所有权共享或“纠缠”，这与创建独立副本的简单克隆不同。核心思想是关注共享的语义概念，而不是实现的运行细节。",
+    "best_quote_en": "When you clone the Arc, you don’t get a new value – you get back a second handle to the same value.",
+    "best_quote_zh": "当你克隆Arc时，你不会得到一个新值，而是会得到指向相同值的第二个句柄。"
+  },
+  {
+    "id": 242,
+    "title": "SSH Security: Why You Should Touch to Verify",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ubicloud.com/blog/ssh-security-why-you-should-touch-to-verify\">https://www.ubicloud.com/blog/ssh-security-why-you-should-touch-to-verify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45536283\">https://news.ycombinator.com/item?id=45536283</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ubicloud.com/blog/ssh-security-why-you-should-touch-to-verify",
+    "tags": [
+      "ssh",
+      "security",
+      "malware",
+      "touch verification",
+      "secretive"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This article emphasizes the importance of touch-verified SSH for enhanced security. It addresses the increasing threat of malware stealing SSH keys and highlights how touch verification, using hardware isolation and physical confirmation, prevents key exfiltration and silent abuse. The article suggests using tools like Secretive on macOS to implement this.",
+    "summary_zh": "本文强调了使用触摸验证SSH来增强安全性的重要性。它指出了恶意软件窃取SSH密钥的日益增长的威胁，并强调了触摸验证如何通过硬件隔离和物理确认来防止密钥泄露和静默滥用。 文章建议在macOS上使用Secretive等工具来实现这一点。",
+    "best_quote_en": "Touch-verified SSH is an inexpensive, low-impact intervention that helps.",
+    "best_quote_zh": "触摸验证的SSH是一种廉价，低影响的干预措施，可以提供帮助。"
   }]
