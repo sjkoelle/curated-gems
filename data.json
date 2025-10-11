@@ -4527,4 +4527,60 @@
     "summary_zh": "本文强调了使用触摸验证SSH来增强安全性的重要性。它指出了恶意软件窃取SSH密钥的日益增长的威胁，并强调了触摸验证如何通过硬件隔离和物理确认来防止密钥泄露和静默滥用。 文章建议在macOS上使用Secretive等工具来实现这一点。",
     "best_quote_en": "Touch-verified SSH is an inexpensive, low-impact intervention that helps.",
     "best_quote_zh": "触摸验证的SSH是一种廉价，低影响的干预措施，可以提供帮助。"
+  },{
+    "id": 243,
+    "title": "Can an LLM Be a Black-Box Optimizer?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://posgeo.wordpress.com/2025/10/10/can-an-llm-be-a-black-box-optimizer/\">https://posgeo.wordpress.com/2025/10/10/can-an-llm-be-a-black-box-optimizer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45547385\">https://news.ycombinator.com/item?id=45547385</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://posgeo.wordpress.com/2025/10/10/can-an-llm-be-a-black-box-optimizer/",
+    "tags": [
+      "llm",
+      "optimization",
+      "rosenbrock function",
+      "bayesian optimization",
+      "nelder-mead"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "This article explores using Large Language Models (LLMs) as black-box optimizers, testing their ability to minimize the Rosenbrock function. The author compares an LLM optimizer to Nelder-Mead and Bayesian optimization, assessing their performance based on the minimum objective function found within a budget of 20 function evaluations. The initial evaluation revealed a tendency for the LLM to guess the minimum at the origin or (1,1), requiring adjustments to the prompt.",
+    "summary_zh": "本文探讨了使用大型语言模型（LLM）作为黑盒优化器，测试其最小化 Rosenbrock 函数的能力。作者将 LLM 优化器与 Nelder-Mead 和贝叶斯优化进行比较，根据在 20 次函数评估预算内找到的最小目标函数来评估它们的性能。初步评估显示 LLM 倾向于猜测最小值在原点或 (1,1)，因此需要调整提示。",
+    "best_quote_en": "What if we could take the intuition that is latent in a large language model (LLM) to guide an optimization process?",
+    "best_quote_zh": "如果我们能利用大型语言模型（LLM）中潜在的直觉来指导优化过程，会怎么样？"
+  },
+  {
+    "id": 244,
+    "title": "I Triggered a Government Investigation into Microsoft (Update)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.trevornestor.com/post/update-on-my-case-against-microsoft\">https://www.trevornestor.com/post/update-on-my-case-against-microsoft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45547384\">https://news.ycombinator.com/item?id=45547384</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.trevornestor.com/post/update-on-my-case-against-microsoft",
+    "tags": [
+      "microsoft",
+      "investigation",
+      "whistleblower",
+      "labor law",
+      "retaliation"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "Trevor Nestor triggered a government investigation into Microsoft for wrongful terminations, ADA noncompliance, and whistleblower retaliation. Despite facing criticism, he decided to double down on going public, encouraged by others who experienced similar issues. He believes that exposing corporate misconduct is a victory in itself, holding Microsoft accountable for labor law violations.",
+    "summary_zh": "Trevor Nestor因不当解雇、违反 ADA 规定和举报人报复等问题，触发了对微软的政府调查。尽管面临批评，但他决定加倍公开此事，受到其他有类似经历的人的鼓励。他认为，揭露公司的不当行为本身就是一种胜利，可以追究微软违反劳动法的责任。",
+    "best_quote_en": "The way I see it, even if gatekeepers through formal channels fail to hold Microsoft accountable, by going public and resisting fear and intimidation, I've already won.",
+    "best_quote_zh": "在我看来，即使正式渠道的把关人未能追究微软的责任，通过公开此事并抵制恐惧和恐吓，我已经赢了。"
+  },
+  {
+    "id": 245,
+    "title": "More Speculations on Arenas in C++",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2025/09/30/\">https://nullprogram.com/blog/2025/09/30/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45547361\">https://news.ycombinator.com/item?id=45547361</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://nullprogram.com/blog/2025/09/30/",
+    "tags": [
+      "c++",
+      "memory management",
+      "arena allocation",
+      "object lifetime",
+      "pointer provenance"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "This article discusses arena allocation in C++ and how recent C++ standards, particularly C++20, affect memory management and object lifetimes. It revisits the author's previous arena implementation, highlighting potential issues with pointer provenance and the importance of using array new for proper lifetime management. The author also touches on the allowance of starting new lifetimes on top of technically still-alive objects within the arena.",
+    "summary_zh": "本文讨论了C++中的arena内存分配，以及最新的C++标准，尤其是C++20，如何影响内存管理和对象生命周期。作者回顾了之前实现的arena，强调了指针来源的潜在问题，以及使用数组new进行正确的生命周期管理的重要性。作者还提到了在arena中，允许在技术上仍然存在的对象之上开始新的生命周期。",
+    "best_quote_en": "Assignment without a lifetime is invalid. Pointer casts are that much more suspicious in C++, and due to lifetime semantics, in many cases indicate incorrect code.",
+    "best_quote_zh": "没有生命周期的赋值是无效的。在C++中，指针转换更令人怀疑，并且由于生命周期语义，在许多情况下表明代码不正确。"
   }]
