@@ -4583,4 +4583,98 @@
     "summary_zh": "本文讨论了C++中的arena内存分配，以及最新的C++标准，尤其是C++20，如何影响内存管理和对象生命周期。作者回顾了之前实现的arena，强调了指针来源的潜在问题，以及使用数组new进行正确的生命周期管理的重要性。作者还提到了在arena中，允许在技术上仍然存在的对象之上开始新的生命周期。",
     "best_quote_en": "Assignment without a lifetime is invalid. Pointer casts are that much more suspicious in C++, and due to lifetime semantics, in many cases indicate incorrect code.",
     "best_quote_zh": "没有生命周期的赋值是无效的。在C++中，指针转换更令人怀疑，并且由于生命周期语义，在许多情况下表明代码不正确。"
+  },{
+    "id": 246,
+    "title": "Video of Kristi Noem blaming Democrats for shutdown rolling out at airports",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnn.com/2025/10/09/us/kristi-noem-tsa-video\">https://www.cnn.com/2025/10/09/us/kristi-noem-tsa-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45556217\">https://news.ycombinator.com/item?id=45556217</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnn.com/2025/10/09/us/kristi-noem-tsa-video",
+    "tags": [
+      "trump administration",
+      "government shutdown",
+      "tsa",
+      "democrats",
+      "kristi noem"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "The Trump administration plans to display a video at US airports blaming Democrats for TSA workers' unpaid status during the government shutdown. The video features Kristi Noem, who states that Democrats in Congress refuse to fund the government, impacting TSA operations and employees. This politicizes travelers' airport experience.",
+    "summary_zh": "特朗普政府计划在美国机场播放一段视频，将政府关闭期间运输安全管理局（TSA）员工未获得报酬归咎于民主党。视频中，Kristi Noem 声称国会中的民主党人拒绝为政府提供资金，影响了 TSA 的运营和员工。此举将政治带入了旅客的机场体验。",
+    "best_quote_en": "Democrats in Congress refuse to fund the federal government, and because of this, many of our operations are impacted, and most of our TSA employees are working without pay.",
+    "best_quote_zh": "国会中的民主党人拒绝为联邦政府提供资金，因此，我们的许多运营都受到了影响，我们的大多数 TSA 员工都在无薪工作。"
+  },
+  {
+    "id": 247,
+    "title": "Run Express server in the browser (2016)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://glebbahmutov.com/blog/run-express-server-in-your-browser/\">https://glebbahmutov.com/blog/run-express-server-in-your-browser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45556197\">https://news.ycombinator.com/item?id=45556197</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://glebbahmutov.com/blog/run-express-server-in-your-browser/",
+    "tags": [
+      "serviceworker",
+      "express",
+      "server-side rendering",
+      "web performance",
+      "loading times"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "The article discusses techniques to improve web application loading times. It explores using ServiceWorker to intercept HTML and display cached content for instant loading. It also covers server-side rendering as an alternative solution, highlighting its performance benefits and SEO advantages. Finally, it connects Express server with ServiceWorker.",
+    "summary_zh": "本文讨论了提高Web应用程序加载速度的技术。它探讨了使用ServiceWorker拦截HTML并显示缓存内容以实现即时加载的方法。文章还介绍了服务端渲染作为另一种解决方案，强调了其性能优势和搜索引擎优化优势。最后，将Express服务器与ServiceWorker联系起来。",
+    "best_quote_en": "The instant page content achieved!",
+    "best_quote_zh": "实现了即时页面内容！"
+  },
+  {
+    "id": 248,
+    "title": "Scientists may have spotted 'wind' blowing from the Milky Way's black hole",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theverge.com/science/798656/scientists-may-have-spotted-wind-blowing-from-the-milky-ways-supermassive-black-hole\">https://www.theverge.com/science/798656/scientists-may-have-spotted-wind-blowing-from-the-milky-ways-supermassive-black-hole</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45556190\">https://news.ycombinator.com/item?id=45556190</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theverge.com/science/798656/scientists-may-have-spotted-wind-blowing-from-the-milky-ways-supermassive-black-hole",
+    "tags": [
+      "black hole",
+      "milky way",
+      "sagittarius a*",
+      "plasma wind",
+      "astronomy"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Scientists have potentially detected a 'wind' emanating from Sagittarius A*, the supermassive black hole at the Milky Way's center. This wind is evidenced by a cone-shaped gap in the surrounding gas, suggesting the black hole ejects matter, though less dramatically than other black holes like Centaurus A.",
+    "summary_zh": "科学家们可能已经探测到来自银河系中心超大质量黑洞人马座 A* 的“风”。这种风的证据是周围气体中一个锥形的间隙，表明该黑洞会喷射物质，尽管不如半人马座 A 等其他黑洞那么引人注目。",
+    "best_quote_en": "Most supermassive black holes don’t just swallow up matter, they eject it, sometimes in spectacular jets of super heated plasma.",
+    "best_quote_zh": "大多数超大质量黑洞不仅仅吞噬物质，它们还会喷射物质，有时会以壮观的超热等离子体喷流的形式喷射出来。"
+  },
+  {
+    "id": 249,
+    "title": "Major IQ differences in twins due to schooling, challenging decades of research",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.psypost.org/major-iq-differences-in-identical-twins-linked-to-schooling-challenging-decades-of-research/\">https://www.psypost.org/major-iq-differences-in-identical-twins-linked-to-schooling-challenging-decades-of-research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45556185\">https://news.ycombinator.com/item?id=45556185</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.psypost.org/major-iq-differences-in-identical-twins-linked-to-schooling-challenging-decades-of-research/",
+    "tags": [
+      "twins",
+      "iq",
+      "education",
+      "genetics",
+      "intelligence"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "A new analysis of twin studies suggests that differences in schooling significantly contribute to IQ gaps between identical twins raised apart. When twins have similar education, their IQ scores are nearly as alike as twins raised together.  However, when schooling varies greatly, IQ differences resemble those of unrelated individuals, challenging previous conclusions about the dominance of genetics in intelligence.",
+    "summary_zh": "一项新的双胞胎研究分析表明，教育差异显著影响了分开抚养的同卵双胞胎之间的智商差距。当双胞胎接受相似的教育时，他们的智商分数几乎与一起长大的双胞胎一样接近。然而，当教育差异很大时，智商差异类似于无关个体，挑战了先前关于遗传在智力中占主导地位的结论。",
+    "best_quote_en": "When these twins receive similar educations, their IQ scores are nearly as alike as identical twins raised together, but when their schooling is very different, their IQs can be as dissimilar as those of unrelated strangers.",
+    "best_quote_zh": "当这些双胞胎接受相似的教育时，他们的智商分数几乎与一起长大的同卵双胞胎一样接近，但是当他们的教育非常不同时，他们的智商可能与无关的陌生人一样不同。"
+  },
+  {
+    "id": 250,
+    "title": "Airbnb: Agent-in-the-Loop: Data Flywheel for LLM-Based Customer Support",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.06674\">https://arxiv.org/abs/2510.06674</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45556170\">https://news.ycombinator.com/item?id=45556170</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2510.06674",
+    "tags": [
+      "llm",
+      "customer support",
+      "agent-in-the-loop",
+      "data flywheel",
+      "human feedback"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This paper introduces Agent-in-the-Loop (AITL), a data flywheel framework for continuously improving LLM-based customer support. AITL integrates annotations directly into operations, reducing retraining cycles. A pilot program showed improvements in retrieval accuracy, generation quality, and agent adoption rates, demonstrating the effectiveness of human feedback loops in refining LLM systems.",
+    "summary_zh": "本文介绍了一种Agent-in-the-Loop (AITL)框架，这是一个数据飞轮，用于持续改进基于LLM的客户支持系统。AITL将注释直接集成到运营中，从而减少了再培训周期。一个试点项目表明，检索准确率、生成质量和代理采用率均有所提高，证明了人工反馈循环在优化LLM系统中的有效性。",
+    "best_quote_en": "These results underscore the effectiveness of embedding human feedback loops directly into operational workflows to continuously refine LLM-based customer support system.",
+    "best_quote_zh": "这些结果强调了将人工反馈循环直接嵌入到运营工作流程中以持续优化基于LLM的客户支持系统的有效性。"
   }]
