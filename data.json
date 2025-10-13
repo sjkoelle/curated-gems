@@ -4677,4 +4677,79 @@
     "summary_zh": "本文介绍了一种Agent-in-the-Loop (AITL)框架，这是一个数据飞轮，用于持续改进基于LLM的客户支持系统。AITL将注释直接集成到运营中，从而减少了再培训周期。一个试点项目表明，检索准确率、生成质量和代理采用率均有所提高，证明了人工反馈循环在优化LLM系统中的有效性。",
     "best_quote_en": "These results underscore the effectiveness of embedding human feedback loops directly into operational workflows to continuously refine LLM-based customer support system.",
     "best_quote_zh": "这些结果强调了将人工反馈循环直接嵌入到运营工作流程中以持续优化基于LLM的客户支持系统的有效性。"
+  },{
+    "id": 251,
+    "title": "The work of AI today is writing a Rust parser for a 20-year-old sensor",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://physical-ai.ghost.io/the-real-work-of-ai-today-is-writing-a-rust-parser-for-a-20-year-old-sensor/\">https://physical-ai.ghost.io/the-real-work-of-ai-today-is-writing-a-rust-parser-for-a-20-year-old-sensor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45565850\">https://news.ycombinator.com/item?id=45565850</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://physical-ai.ghost.io/the-real-work-of-ai-today-is-writing-a-rust-parser-for-a-20-year-old-sensor/",
+    "tags": [
+      "ai",
+      "data",
+      "sensors",
+      "physical stack",
+      "rust"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "The article argues that the real frontier of AI lies not in bigger models and more parameters but in improving the connection to physical data. It highlights the unglamorous but crucial work of parsing data from sensors and building the physical stack, which involves dealing with raw, real-world data. This is where a true competitive advantage can be found.",
+    "summary_zh": "文章认为，人工智能的真正前沿不在于更大的模型和更多的参数，而在于改善与物理数据的连接。它强调了解析传感器数据和构建物理堆栈这项不光彩但至关重要的工作，这项工作涉及处理原始的、真实世界的数据。真正的竞争优势可以从这里找到。",
+    "best_quote_en": "The physical stack is 90 percent of the effort and 0 percent of the glamour. And it's where the truth lives.",
+    "best_quote_zh": "物理堆栈占据了 90% 的努力，却没有一丝光彩。而真相就存在于此。"
+  },
+  {
+    "id": 252,
+    "title": "Flattening the stack, reducing the complexity of a JavaScript runtime",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/gritzko/librdx/blob/master/js/README.md\">https://github.com/gritzko/librdx/blob/master/js/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45565833\">https://news.ycombinator.com/item?id=45565833</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/gritzko/librdx/blob/master/js/README.md",
+    "tags": [
+      "javascript",
+      "runtime",
+      "librdx",
+      "github",
+      "error"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "The article appears to be a placeholder or an incomplete page from a GitHub repository related to 'librdx' by 'gritzko'. It indicates potential issues with loading content and doesn't provide meaningful information for summarization beyond a project title and author.",
+    "summary_zh": "这篇文章似乎是一个占位符或来自GitHub仓库'gritzko/librdx'的不完整页面。它表明加载内容时可能出现问题，除了项目标题和作者之外，没有提供有意义的信息。",
+    "best_quote_en": "Uh oh! There was an error while loading. Please reload this page.",
+    "best_quote_zh": "糟糕！加载时出错。请重新加载此页面。"
+  },
+  {
+    "id": 253,
+    "title": "Go Subtleties You May Not Know",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/\">https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45565793\">https://news.ycombinator.com/item?id=45565793</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/",
+    "tags": [
+      "go",
+      "golang",
+      "subtleties",
+      "programming",
+      "tips"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This article highlights several lesser-known features and subtleties of the Go programming language, covering topics such as ranging over integers, renaming packages, constraining generic function signatures, index-based string interpolation, the 'time.After' function, embedding files, UTF-8 gotchas with 'len()', nil interfaces, invoking methods on nil values, and variable references with ranging over maps.",
+    "summary_zh": "本文重点介绍Go编程语言的一些鲜为人知的特性和微妙之处，涵盖了整数范围，重命名包，约束泛型函数签名，基于索引的字符串插值，“time.After”函数，嵌入文件，带“len()”的UTF-8陷阱，Nil接口，在Nil值上调用方法以及在使用map进行范围限定的变量引用等主题。",
+    "best_quote_en": "One of the best ways to learn something new is to write down something you’ve learned about it regularly.",
+    "best_quote_zh": "学习新事物最好的方法之一就是定期写下你学到的东西。"
+  },
+  {
+    "id": 254,
+    "title": "Hackers targeted JLR months before cyber attack that halted production",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ft.com/content/49a49961-0dc9-4d19-bb26-7020e07e465c\">https://www.ft.com/content/49a49961-0dc9-4d19-bb26-7020e07e465c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45565785\">https://news.ycombinator.com/item?id=45565785</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.ft.com/content/49a49961-0dc9-4d19-bb26-7020e07e465c",
+    "tags": [
+      "cyber attack",
+      "jlr",
+      "financial times",
+      "subscription",
+      "news"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Hackers targeted JLR months before the cyber attack that halted production. The article discusses subscription options for accessing the Financial Times for global news, expert analysis, and other features.",
+    "summary_zh": "黑客在导致捷豹路虎（JLR）停产的网络攻击发生前几个月就盯上了该公司。文章主要介绍了订阅《金融时报》以获取全球新闻、专家分析和其他功能的选项。",
+    "best_quote_en": "Stay informed with global news & in-depth analysis.",
+    "best_quote_zh": "随时了解全球新闻和深度分析。"
   }]
