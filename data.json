@@ -4752,4 +4752,79 @@
     "summary_zh": "黑客在导致捷豹路虎（JLR）停产的网络攻击发生前几个月就盯上了该公司。文章主要介绍了订阅《金融时报》以获取全球新闻、专家分析和其他功能的选项。",
     "best_quote_en": "Stay informed with global news & in-depth analysis.",
     "best_quote_zh": "随时了解全球新闻和深度分析。"
+  },{
+    "id": 255,
+    "title": "From Nginx to ngrok: Dogfooding our own website with Traffic Policy",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ngrok.com/blog-post/nginx-ngrok-dogfooding\">https://ngrok.com/blog-post/nginx-ngrok-dogfooding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45577278\">https://news.ycombinator.com/item?id=45577278</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ngrok.com/blog-post/nginx-ngrok-dogfooding",
+    "tags": [
+      "ngrok",
+      "traffic policy",
+      "api gateway",
+      "dogfooding",
+      "nginx"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "ngrok replaced its aging nginx configurations with its own Traffic Policy to fully dogfood its product. The transition involved migrating complex routing rules, redirects, and other configurations to ngrok's more capable API gateway. This showcases ngrok's evolution into a full API gateway solution, simplifying traffic management and improving user experience.",
+    "summary_zh": "ngrok 使用其自身的流量策略替换了老旧的 nginx 配置，以完全体验自己的产品。 此次迁移涉及将复杂的路由规则、重定向和其他配置迁移到 ngrok 功能更强大的 API 网关。 这展示了 ngrok 演变为完整的 API 网关解决方案，简化了流量管理并改善了用户体验。",
+    "best_quote_en": "To really embody the spirit of dogfooding, you shouldn't side-step your product gaps and fill those with something else.",
+    "best_quote_zh": "为了真正体现内部测试的精神，你不应该回避你产品的不足，并用其他的东西来填补这些空白。"
+  },
+  {
+    "id": 256,
+    "title": "Windows 10 support ends on October 14, 2025",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281\">https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45577274\">https://news.ycombinator.com/item?id=45577274</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281",
+    "tags": [
+      "windows 10",
+      "end of support",
+      "windows 11",
+      "upgrade",
+      "security updates"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "Windows 10 support ends on October 14, 2025. Upgrade to Windows 11 for security updates and features. Options include upgrading your current PC, buying a new one, or using the Extended Security Updates (ESU) program. Microsoft 365 Apps support on Windows 10 also ends on the same date, but security updates will be provided for three more years.",
+    "summary_zh": "Windows 10 将于 2025 年 10 月 14 日停止支持。建议升级到 Windows 11 以获得安全更新和新功能。您可以选择升级现有电脑、购买新电脑或使用扩展安全更新（ESU）计划。Microsoft 365 应用对 Windows 10 的支持也将于同日结束，但安全更新将额外提供三年。",
+    "best_quote_en": "While you could continue to use a PC running Windows 10, without continued software and security updates, your PC will be at a greater risk for viruses and malware.",
+    "best_quote_zh": "虽然您可以继续使用运行 Windows 10 的电脑，但如果没有持续的软件和安全更新，您的电脑将面临更大的病毒和恶意软件风险。"
+  },
+  {
+    "id": 257,
+    "title": "How one of the longest dinosaur trackways in the world was uncovered in the UK",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe\">https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45577266\">https://news.ycombinator.com/item?id=45577266</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe",
+    "tags": [
+      "dinosaur",
+      "trackway",
+      "paleontology",
+      "jurassic period",
+      "oxfordshire"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "One of the world's longest dinosaur trackways, dating back 166 million years, has been uncovered in an Oxfordshire quarry. The trackways, made by sauropods and megalosaurus, reveal insights into dinosaur behavior, speed, and environment. The 220m trail provides a unique snapshot of prehistoric life in the Jurassic period, offering clues about how these giant creatures moved and interacted.",
+    "summary_zh": "在牛津郡的采石场发现了一条世界上最长的恐龙足迹之一，可以追溯到1.66亿年前。这些由蜥脚类恐龙和斑龙留下的足迹，揭示了恐龙的行为、速度和环境。这条220米长的足迹为了解侏罗纪时期的史前生命提供了一个独特的快照，为了解这些巨型生物如何移动和互动提供了线索。",
+    "best_quote_en": "But with a trackway like this, we've got hundreds of metres of the animal doing its own thing. And it's so important to look at the way animals move freely and naturally, and tracks are the only way we can do that for dinosaurs.",
+    "best_quote_zh": "有了这样的足迹，我们可以观察到动物数百米的活动轨迹。观察动物自由和自然移动的方式非常重要，而足迹是我们可以做到这一点的唯一途径。"
+  },
+  {
+    "id": 258,
+    "title": "Problem Details for HTTP APIs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://datatracker.ietf.org/doc/html/rfc7807\">https://datatracker.ietf.org/doc/html/rfc7807</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45577262\">https://news.ycombinator.com/item?id=45577262</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://datatracker.ietf.org/doc/html/rfc7807",
+    "tags": [
+      "http",
+      "api",
+      "error handling",
+      "json",
+      "xml"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This document defines a \"problem detail\" format for HTTP APIs to carry machine-readable error details in HTTP responses. It uses JSON and XML formats to provide finer-grained error information beyond HTTP status codes, allowing API clients to understand the problem and how to resolve it.",
+    "summary_zh": "本文定义了一种HTTP API的“问题详情”格式，用于在HTTP响应中携带机器可读的错误详情。它使用JSON和XML格式来提供比HTTP状态码更精细的错误信息，使API客户端能够了解问题以及如何解决它。",
+    "best_quote_en": "This document defines a \"problem detail\" as a way to carry machine-readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.",
+    "best_quote_zh": "本文定义了一种“问题详情”，作为在HTTP响应中携带机器可读的错误详情的方式，以避免为HTTP API定义新的错误响应格式。"
   }]
