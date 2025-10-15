@@ -4827,4 +4827,79 @@
     "summary_zh": "本文定义了一种HTTP API的“问题详情”格式，用于在HTTP响应中携带机器可读的错误详情。它使用JSON和XML格式来提供比HTTP状态码更精细的错误信息，使API客户端能够了解问题以及如何解决它。",
     "best_quote_en": "This document defines a \"problem detail\" as a way to carry machine-readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.",
     "best_quote_zh": "本文定义了一种“问题详情”，作为在HTTP响应中携带机器可读的错误详情的方式，以避免为HTTP API定义新的错误响应格式。"
+  },{
+    "id": 259,
+    "title": "Technological Optimism and Appropriate Fear",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/\">https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45589330\">https://news.ycombinator.com/item?id=45589330</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/",
+    "tags": [
+      "artificial intelligence",
+      "ai",
+      "technology",
+      "optimism",
+      "fear"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "The author reflects on the increasing capabilities of AI systems, moving beyond simple tools to exhibit situational awareness, sparking both technological optimism and appropriate fear. He emphasizes the importance of acknowledging AI's reality and mastering our fears to understand and potentially tame it. Ignoring the reality of AI is a guaranteed losing strategy.",
+    "summary_zh": "作者反思了人工智能系统日益增长的能力，这些系统不再是简单的工具，而是展现出情境意识，这既引发了技术乐观主义，也引发了适当的恐惧。他强调了承认人工智能的现实并掌握我们的恐惧来理解并可能驯服它的重要性。忽视人工智能的现实是一种必输的策略。",
+    "best_quote_en": "But make no mistake: what we are dealing with is a real and mysterious creature, not a simple and predictable machine.",
+    "best_quote_zh": "但请不要搞错：我们所面对的是一个真实而神秘的生物，而不是一个简单且可预测的机器。"
+  },
+  {
+    "id": 260,
+    "title": "Europe's Digital Sovereignty Paradox – \"Chat Control\" Update",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.process-one.net/blog/chat-control-update-oct-2025/\">https://www.process-one.net/blog/chat-control-update-oct-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45589327\">https://news.ycombinator.com/item?id=45589327</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.process-one.net/blog/chat-control-update-oct-2025/",
+    "tags": [
+      "digital sovereignty",
+      "encryption",
+      "chat control",
+      "eu policy",
+      "tech strategy"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "The EU's \"Chat Control\" proposal, mandating scanning of private communications, faces opposition due to concerns about breaking encryption. European tech companies argue this undermines digital sovereignty by forcing vulnerabilities. Policymakers need to understand encryption's crucial role in secure infrastructure for democracy and national security. A coherent tech strategy is needed to bridge the gap between political vision and technical reality.",
+    "summary_zh": "欧盟的“聊天控制”提案，强制扫描私人通信，因担心破坏加密而面临反对。欧洲科技公司认为，这通过强行制造漏洞来破坏数字主权。政策制定者需要了解加密在民主和国家安全的安全基础设施中的关键作用。需要一项连贯的技术战略来弥合政治愿景和技术现实之间的差距。",
+    "best_quote_en": "When Denmark's Justice Minister suggested that the \"completely misguided perception\" is that everyone has a right to secure communication, he revealed the fundamental gap: policymakers who don't understand that secure infrastructure is the core of today's Internet backbone, not just for the pure sake of democracy (I swear it hurts to have to explain this), but also for the existential security of European countries.",
+    "best_quote_zh": "当丹麦司法部长暗示“完全错误的观念”是每个人都有权进行安全通信时，他揭示了根本差距：政策制定者不明白安全基础设施是当今互联网骨干的核心，不仅是为了纯粹的民主（我发誓解释这一点让我感到痛苦），而且也为了欧洲国家的存在安全。"
+  },
+  {
+    "id": 261,
+    "title": "Sweater",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Sweater\">https://en.wikipedia.org/wiki/Sweater</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45589326\">https://news.ycombinator.com/item?id=45589326</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Sweater",
+    "tags": [
+      "sweater",
+      "knitted garment",
+      "pullover",
+      "cardigan",
+      "clothing"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "A sweater is a knitted or crocheted garment with long sleeves that covers the upper body. Also called a pullover, jumper, or jersey, sweaters can be made from wool, cotton, or synthetic fibers. They come in various designs, including V-neck, turtleneck, and crew neck, and can be cardigans with an open front.",
+    "summary_zh": "毛衣是一种针织或钩织的服装，通常有长袖，覆盖身体的上半部分。也称为套头衫、跳线衫或运动衫，毛衣可以用羊毛、棉或合成纤维制成。它们有多种设计，包括V领、高领和圆领，也可以是开襟衫。",
+    "best_quote_en": "Sweaters that are more tightly fitted or have a soft drape may conform well to the body without requiring tailoring necessary in a woven garment such as darts, flares, and gores.",
+    "best_quote_zh": "更贴身或具有柔软悬垂感的毛衣可以很好地贴合身体，而无需像飞镖、喇叭口和三角形布等梭织服装所需的剪裁。"
+  },
+  {
+    "id": 262,
+    "title": "ComfyUI on Nvidia DGX Spark",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.comfy.org/p/comfyui-on-nvidia-dgx-spark\">https://blog.comfy.org/p/comfyui-on-nvidia-dgx-spark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45589294\">https://news.ycombinator.com/item?id=45589294</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.comfy.org/p/comfyui-on-nvidia-dgx-spark",
+    "tags": [
+      "comfyui",
+      "nvidia",
+      "dgx spark",
+      "ai",
+      "grace blackwell"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "NVIDIA released DGX Spark, a small form factor computer with a Grace Blackwell Superchip and 128GB unified memory. It supports ComfyUI well and can run large models. While not as performant as a desktop 5090, its unified memory allows for workloads that exceed high-end desktops. Benchmarks will be available in a future post.",
+    "summary_zh": "NVIDIA发布了DGX Spark，一款小尺寸计算机, 具有Grace Blackwell Superchip和128GB统一内存。它良好支持ComfyUI，可以运行大型模型。虽然性能不及桌面5090，但其统一内存允许处理超出高端桌面的工作负载。基准测试将在未来的文章中提供。",
+    "best_quote_en": "Performance wise it doesn’t beat a full desktop with a 5090 but it can run models and workloads that are too large for even high-end desktop systems.",
+    "best_quote_zh": "性能方面，它比不上配备5090的完整桌面电脑，但它可以运行即使是高端桌面系统也无法处理的大型模型和工作负载。"
   }]
