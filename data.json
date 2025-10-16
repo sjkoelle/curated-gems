@@ -4902,4 +4902,79 @@
     "summary_zh": "NVIDIA发布了DGX Spark，一款小尺寸计算机, 具有Grace Blackwell Superchip和128GB统一内存。它良好支持ComfyUI，可以运行大型模型。虽然性能不及桌面5090，但其统一内存允许处理超出高端桌面的工作负载。基准测试将在未来的文章中提供。",
     "best_quote_en": "Performance wise it doesn’t beat a full desktop with a 5090 but it can run models and workloads that are too large for even high-end desktop systems.",
     "best_quote_zh": "性能方面，它比不上配备5090的完整桌面电脑，但它可以运行即使是高端桌面系统也无法处理的大型模型和工作负载。"
+  },{
+    "id": 263,
+    "title": "Why Your Brain and Mine Agree on What We See",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://neurosciencenews.com/sharedd-perception-neuroscience-29817/\">https://neurosciencenews.com/sharedd-perception-neuroscience-29817/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45602611\">https://news.ycombinator.com/item?id=45602611</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://neurosciencenews.com/sharedd-perception-neuroscience-29817/",
+    "tags": [
+      "perception",
+      "neuroscience",
+      "artificial intelligence",
+      "brain",
+      "neural networks"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "A study shows that while individual brains respond differently to images, the relationships between neural responses are consistent across people. This shared relational pattern enables similar perception of the world. Understanding this could improve AI models by mirroring human cognition.",
+    "summary_zh": "一项研究表明，尽管个体大脑对图像的反应不同，但神经反应之间的关系在人与人之间具有一致性。 这种共享的关系模式使得对世界的感知相似。 理解这一点可以通过模仿人类认知来改进人工智能模型。",
+    "best_quote_en": "This relational representation may be the brain’s way of organizing information so that all humans can understand the world in a similar way, even when the underlying neural coding differs.",
+    "best_quote_zh": "这种关系表示可能是大脑组织信息的方式，以便所有人都可以以相似的方式理解世界，即使底层神经编码不同。"
+  },
+  {
+    "id": 264,
+    "title": "Elixir 1.9.0 Release",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/elixir-lang/elixir/releases/tag/v1.19.0\">https://github.com/elixir-lang/elixir/releases/tag/v1.19.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45602609\">https://news.ycombinator.com/item?id=45602609</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/elixir-lang/elixir/releases/tag/v1.19.0",
+    "tags": [
+      "elixir",
+      "release",
+      "enhancements",
+      "bug fixes",
+      "programming"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "Elixir 1.19.0 is released with enhancements and bug fixes. Key updates include improvements to Access, Base, Calendar, Code, Enum, Inspect, IO.ANSI, Kernel, Macro, Module, OptionParser, Protocol, Regex, Registry, String, ExUnit, IEx, Logger, and Mix. Bug fixes address issues in Code, DateTime, Enum, File, Inspect, Kernel, Protocol, Regex, Stream, URI, and ExUnit.",
+    "summary_zh": "Elixir 1.19.0 版本发布，包含多项增强和错误修复。主要更新包括改进了 Access、Base、Calendar、Code、Enum、Inspect、IO.ANSI、Kernel、Macro、Module、OptionParser、Protocol、Regex、Registry、String、ExUnit、IEx、Logger 和 Mix。修复的错误涉及 Code、DateTime、Enum、File、Inspect、Kernel、Protocol、Regex、Stream、URI 和 ExUnit。",
+    "best_quote_en": "Do not automatically load modules after their compilation, guaranteeing a more consistent compile time experience and drastically improving compilation times.",
+    "best_quote_zh": "在模块编译后不再自动加载，从而保证更一致的编译体验并大幅缩短编译时间。"
+  },
+  {
+    "id": 265,
+    "title": "Netherlands' renewables drive putting pressure on its power grid",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn40y9yxkgvo\">https://www.bbc.com/news/articles/cn40y9yxkgvo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45602581\">https://news.ycombinator.com/item?id=45602581</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.com/news/articles/cn40y9yxkgvo",
+    "tags": [
+      "netherlands",
+      "renewable energy",
+      "power grid",
+      "grid congestion",
+      "solar panels"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "The Netherlands' rapid shift to renewable energy, particularly wind and solar power, is straining the country's electricity grid, leading to congestion and power cuts. Despite leading in solar panel adoption, the grid, designed for large gas-fired power plants, struggles to handle the decentralized renewable energy sources. Significant investment is needed to upgrade the grid and avoid hampering economic growth.",
+    "summary_zh": "荷兰迅速转向可再生能源，特别是风能和太阳能，给该国的电力网络带来了压力，导致拥堵和停电。尽管在太阳能电池板的采用方面处于领先地位，但该电网是为大型燃气发电厂设计的，难以处理分散的可再生能源。需要大量投资来升级电网，避免阻碍经济增长。",
+    "best_quote_en": "\"Grid congestion is putting the future of the Dutch chemical industry at risk… while in other countries it will be easier to invest.\"",
+    "best_quote_zh": "“电网拥堵正在使荷兰化学工业的未来面临风险……而在其他国家，投资会更容易。”"
+  },
+  {
+    "id": 266,
+    "title": "Meta partners up with Arm to scale AI efforts",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/\">https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45602574\">https://news.ycombinator.com/item?id=45602574</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/",
+    "tags": [
+      "meta",
+      "arm",
+      "ai",
+      "partnership",
+      "datacenter"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "Meta and Arm are partnering to enhance Meta's AI systems using Arm's Neoverse platform, optimized for AI in the cloud. This multi-year partnership aims to efficiently scale AI innovation to Meta's billions of users, focusing on low-power deployments and efficiency. Meta is also vastly expanding its data center network to support AI services.",
+    "summary_zh": "Meta与Arm合作，利用Arm的Neoverse平台增强Meta的AI系统，该平台针对云中的AI进行了优化。这项多年合作旨在有效地将AI创新扩展到Meta的数十亿用户，重点关注低功耗部署和效率。Meta还在大力扩展其数据中心网络，以支持AI服务。",
+    "best_quote_en": "AI’s next era will be defined by delivering efficiency at scale.",
+    "best_quote_zh": "人工智能的下一个时代将通过大规模地提供效率来定义。"
   }]
