@@ -4977,4 +4977,79 @@
     "summary_zh": "Meta与Arm合作，利用Arm的Neoverse平台增强Meta的AI系统，该平台针对云中的AI进行了优化。这项多年合作旨在有效地将AI创新扩展到Meta的数十亿用户，重点关注低功耗部署和效率。Meta还在大力扩展其数据中心网络，以支持AI服务。",
     "best_quote_en": "AI’s next era will be defined by delivering efficiency at scale.",
     "best_quote_zh": "人工智能的下一个时代将通过大规模地提供效率来定义。"
+  },{
+    "id": 267,
+    "title": "MNT September 2025 Update",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mntre.com/media/reform_md/2025-09-30-september-update.html\">https://mntre.com/media/reform_md/2025-09-30-september-update.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45614254\">https://news.ycombinator.com/item?id=45614254</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://mntre.com/media/reform_md/2025-09-30-september-update.html",
+    "tags": [
+      "mnt",
+      "reform",
+      "firmware",
+      "hardware",
+      "update"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "MNT's September 2025 update covers the MNT Mini Campaign closing on Crowd Supply, developments on the MNT Quasar processor module and MNT Reform Next, firmware updates for MNT Pocket Reform, Desserto vegan leather adoption and order fulfillment updates. Improved USB 3.0 performance and battery pack design for MNT Reform Next are highlighted. Firmware bugs are fixed, and shipment dates are provided.",
+    "summary_zh": "MNT 2025年9月更新涵盖了MNT Mini Campaign在Crowd Supply上的结束、MNT Quasar处理器模块和MNT Reform Next的开发，MNT Pocket Reform的固件更新，Desserto纯素皮革的应用以及订单履行更新。重点介绍了MNT Reform Next改进的USB 3.0性能和电池组设计。固件错误已修复，并提供了发货日期。",
+    "best_quote_en": "This more modular design allows for easier improvements and alternative pack geometries in the future.",
+    "best_quote_zh": "这种更模块化的设计允许将来更容易地进行改进和实现替代的电池组几何形状。"
+  },
+  {
+    "id": 268,
+    "title": "Mill as an Alternative Android Build Tool",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mill-build.org/blog/15-android-build-flow.html\">https://mill-build.org/blog/15-android-build-flow.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45614215\">https://news.ycombinator.com/item?id=45614215</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://mill-build.org/blog/15-android-build-flow.html",
+    "tags": [
+      "android",
+      "build tool",
+      "mill",
+      "gradle",
+      "development"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "Mill is presented as an alternative to Gradle for Android builds, offering ease of use and learning. It supports complex project setups like Jetpack Compose and Android Native. Mill's object-oriented modules provide transparency and hackability, enabling developers to debug and tweak the build process themselves.",
+    "summary_zh": "Mill被提出作为Gradle的替代品，用于Android构建，提供了易用性和学习性。它支持复杂的项目设置，如Jetpack Compose和Android Native。 Mill的面向对象模块提供了透明性和可破解性，使开发人员能够自行调试和调整构建过程。",
+    "best_quote_en": "If something doesn’t work, you don’t need to wait for a plugin update, you can open the task in your IDE, see the source, and tweak it yourself.",
+    "best_quote_zh": "如果某些东西不起作用，你不需要等待插件更新，你可以在IDE中打开任务，查看源代码，然后自己调整它。"
+  },
+  {
+    "id": 269,
+    "title": "Jj Part 4: Configuration",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://andre.arko.net/2025/10/15/jj-part-4-configuration/\">https://andre.arko.net/2025/10/15/jj-part-4-configuration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45614214\">https://news.ycombinator.com/item?id=45614214</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://andre.arko.net/2025/10/15/jj-part-4-configuration/",
+    "tags": [
+      "jj",
+      "configuration",
+      "version control",
+      "templates",
+      "revsets"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "This article discusses customizing the Jj version control system through configuration. It covers basic configurations like setting name and email, diff formatters, diff editors, and merge editors. It also explains how to configure default subcommands and revsets. Additionally, the article explores advanced customization options like using custom templates, revset aliases, and template aliases to extend or replace built-in functionality in jj.",
+    "summary_zh": "本文探讨了通过配置自定义Jj版本控制系统。它涵盖了基本配置，如设置名称和电子邮件、diff格式化器、diff编辑器和合并编辑器。它还解释了如何配置默认子命令和revset。此外，本文还探讨了高级自定义选项，例如使用自定义模板、revset别名和模板别名来扩展或替换jj中的内置功能。",
+    "best_quote_en": "Just like git, jj offers tiers of configuration that layer on top of one another. Every setting can be set for a single repo, for the current user, or globally for the entire system.",
+    "best_quote_zh": "就像Git一样，jj提供了层层叠加的配置层级。每个设置都可以针对单个仓库、当前用户或全局系统进行设置。"
+  },
+  {
+    "id": 270,
+    "title": "The Art of Scaling Reinforcement Learning Compute for LLMs [Meta]",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.13786\">https://arxiv.org/abs/2510.13786</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45614212\">https://news.ycombinator.com/item?id=45614212</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2510.13786",
+    "tags": [
+      "reinforcement learning",
+      "large language models",
+      "scaling",
+      "compute efficiency",
+      "algorithm"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "This paper presents a large-scale study on scaling reinforcement learning (RL) compute for large language models (LLMs). It defines framework for analyzing and predicting RL scaling, identifies key factors affecting performance and proposes a best-practice recipe, ScaleRL, demonstrating its effectiveness at 100,000 GPU-hours. The work provides a scientific framework and a practical recipe for predictable RL training.",
+    "summary_zh": "本文针对大型语言模型（LLM），提出了一种扩展强化学习（RL）计算的大规模研究。它定义了一个分析和预测RL扩展的框架，确定了影响性能的关键因素，并提出了ScaleRL的最佳实践方案，证明了其在100,000 GPU-hours上的有效性。这项工作为可预测的RL训练提供了一个科学的框架和实践方案。",
+    "best_quote_en": "Our work provides both a scientific framework for analyzing scaling in RL and a practical recipe that brings RL training closer to the predictability long achieved in pre-training.",
+    "best_quote_zh": "我们的工作既提供了一个分析RL扩展的科学框架，又提供了一个实践方案，使RL训练更接近于预训练长期以来实现的可预测性。"
   }]
