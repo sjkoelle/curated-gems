@@ -5052,4 +5052,79 @@
     "summary_zh": "本文针对大型语言模型（LLM），提出了一种扩展强化学习（RL）计算的大规模研究。它定义了一个分析和预测RL扩展的框架，确定了影响性能的关键因素，并提出了ScaleRL的最佳实践方案，证明了其在100,000 GPU-hours上的有效性。这项工作为可预测的RL训练提供了一个科学的框架和实践方案。",
     "best_quote_en": "Our work provides both a scientific framework for analyzing scaling in RL and a practical recipe that brings RL training closer to the predictability long achieved in pre-training.",
     "best_quote_zh": "我们的工作既提供了一个分析RL扩展的科学框架，又提供了一个实践方案，使RL训练更接近于预训练长期以来实现的可预测性。"
+  },{
+    "id": 271,
+    "title": "Ask HN: What background color among white or black preferrable for websites?",
+    "source": "Hackernews",
+    "desc": "<p>These days, it is very common to see websites with dark backgrounds.<p>I ran a poll within my company and it seems like many love the dark background of our Website.<p>Www.hexarocket.com<p>But while speaking to a few folks within my professional network, they say it's better to choose the light background.<p>Does one really care the background color of a website ?<p>Or one would just skip reading because of the background color ?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45625674\">https://news.ycombinator.com/item?id=45625674</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45625674",
+    "tags": [
+      "website",
+      "background color",
+      "design",
+      "ux",
+      "preference"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "The author is asking whether it is preferable to use a white or black background for websites. A poll within the author's company showed that many people loved the dark background, but some people in the author's professional network preferred the light background. The author wonders if people really care about the background color of a website or if they would simply skip reading because of it.",
+    "summary_zh": "作者提问：网站背景颜色选择白色还是黑色更好？公司内部调查显示很多人喜欢深色背景，但作者职业网络中的一些人更喜欢浅色背景。作者想知道人们是否真的关心网站的背景颜色，或者是否会因为背景颜色而直接跳过阅读。",
+    "best_quote_en": "Does one really care the background color of a website ? Or one would just skip reading because of the background color ?",
+    "best_quote_zh": "人们真的关心网站的背景颜色吗？或者是否会因为背景颜色而直接跳过阅读？"
+  },
+  {
+    "id": 272,
+    "title": "What to do after detecting a signal from extraterrestrial intelligence",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.14506\">https://arxiv.org/abs/2510.14506</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45625666\">https://news.ycombinator.com/item?id=45625666</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2510.14506",
+    "tags": [
+      "seti",
+      "protocols",
+      "extraterrestrial intelligence",
+      "post-detection",
+      "international academy of astronautics"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "This paper discusses the progress towards a new version of SETI post-detection protocols by the IAA SETI Committee. The protocols, initially formulated in 1989, have been updated to reflect advancements in SETI research, international participation, and the evolving information environment. A revised Declaration of Principles was presented at IAC 2024, with ongoing refinements based on community feedback.",
+    "summary_zh": "本文讨论了国际宇航科学院（IAA）SETI委员会在SETI探测后协议新版本方面的进展。该协议最初于1989年制定，现已更新，以反映SETI研究的进展、国际参与以及不断发展的信息环境。修订后的原则声明已在2024年国际宇航大会上提出，并根据社区反馈不断进行改进。",
+    "best_quote_en": "The Group recognises the living document nature of the protocols, which will require ongoing refinement to remain relevant and effective in a rapidly changing world.",
+    "best_quote_zh": "该小组认识到这些协议是动态文件，需要不断完善，才能在快速变化的世界中保持相关性和有效性。"
+  },
+  {
+    "id": 273,
+    "title": "Kerr cell shutter to measure the speed of light",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Kerr_cell_shutter\">https://en.wikipedia.org/wiki/Kerr_cell_shutter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45625649\">https://news.ycombinator.com/item?id=45625649</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Kerr_cell_shutter",
+    "tags": [
+      "kerr cell",
+      "shutter",
+      "speed of light",
+      "nitrobenzene",
+      "photography"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "A Kerr cell shutter is a high-speed photographic shutter using the Kerr effect in substances like nitrobenzene to achieve nanosecond shutter speeds. It's been replaced by KTN and barium titanate due to toxicity. It was also used in the 1920s-40s to measure the speed of light by diverting a light beam and measuring the time difference.",
+    "summary_zh": "克尔盒快门是一种高速摄影快门，利用硝基苯等物质的克尔效应实现纳秒级的快门速度。 由于毒性，它已被KTN和钛酸钡取代。 在1920年代至40年代，它也被用于测量光速，方法是转移光束并测量时间差。",
+    "best_quote_en": "The cell makes use of the Kerr effect, in which the nitrobenzene becomes birefringent under the influence of the electric field.",
+    "best_quote_zh": "该装置利用了克尔效应，在这种效应中，硝基苯在电场的影响下会发生双折射。"
+  },
+  {
+    "id": 274,
+    "title": "Testing tricky network services with Linux Namespaces",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://angelofailla.com/posts/2025/10/16/testing-with-linux-namespaces/\">https://angelofailla.com/posts/2025/10/16/testing-with-linux-namespaces/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45625642\">https://news.ycombinator.com/item?id=45625642</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://angelofailla.com/posts/2025/10/16/testing-with-linux-namespaces/",
+    "tags": [
+      "linux namespaces",
+      "network testing",
+      "dhcp",
+      "veth pairs",
+      "lima"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "This article discusses using Linux network namespaces, veth pairs, and bridges to create isolated, scriptable test labs for network services like DHCP. It focuses on the DHCP load balancer (dhcplb) and demonstrates how to test relay and server/broadcast topologies on Linux and macOS using Lima. The approach allows for testing on local machines and in CI/CD pipelines, ensuring reliable testing without dedicated hardware.",
+    "summary_zh": "本文探讨了如何使用Linux网络命名空间，veth对和网桥来为DHCP等网络服务创建隔离的、可脚本化的测试环境。重点介绍了DHCP负载均衡器（dhcplb），并演示了如何在Linux和macOS上使用Lima测试中继和服务器/广播拓扑。该方法允许在本地机器和CI/CD管道上进行测试，确保在没有专用硬件的情况下进行可靠的测试。",
+    "best_quote_en": "By combining these three tools, we can build any network topology we can imagine, all on a single Linux host.",
+    "best_quote_zh": "通过结合这三种工具，我们可以在单个Linux主机上构建我们能想到的任何网络拓扑。"
   }]
