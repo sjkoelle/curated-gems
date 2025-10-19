@@ -5127,4 +5127,41 @@
     "summary_zh": "本文探讨了如何使用Linux网络命名空间，veth对和网桥来为DHCP等网络服务创建隔离的、可脚本化的测试环境。重点介绍了DHCP负载均衡器（dhcplb），并演示了如何在Linux和macOS上使用Lima测试中继和服务器/广播拓扑。该方法允许在本地机器和CI/CD管道上进行测试，确保在没有专用硬件的情况下进行可靠的测试。",
     "best_quote_en": "By combining these three tools, we can build any network topology we can imagine, all on a single Linux host.",
     "best_quote_zh": "通过结合这三种工具，我们可以在单个Linux主机上构建我们能想到的任何网络拓扑。"
+  },{
+    "id": 275,
+    "title": "I built an AI that replaces spreadsheets",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://wealth-ai.in/\">https://wealth-ai.in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45632652\">https://news.ycombinator.com/item?id=45632652</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://wealth-ai.in/",
+    "tags": [
+      "dashboard",
+      "finance",
+      "expenses",
+      "income",
+      "transactions"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "This article showcases a dashboard designed to replace spreadsheets for financial overview. It tracks income, expenses, and balance, allowing users to add transactions, categorize them, and view expense breakdowns through various charts. It also provides options to share and export data.",
+    "summary_zh": "本文展示了一个旨在取代电子表格的财务概览仪表板。它可以跟踪收入、支出和余额，允许用户添加交易、对其进行分类，并通过各种图表查看支出细目。它还提供了共享和导出数据的选项。",
+    "best_quote_en": "No transactions yet. Add your first transaction above!",
+    "best_quote_zh": "尚无交易。请在上方添加您的第一笔交易！"
+  },
+  {
+    "id": 276,
+    "title": "Show HN: Nova: open-source solution for CAD file conflicts",
+    "source": "Hackernews",
+    "desc": "<p>Hey HN,<p>A friend at a hardware startup mentioned how their engineering team struggles with CAD file conflicts as PDM solutions are not affordable. Multiple engineers opening the same SolidWorks part = corrupted files and lost work.<p>I was motivated and started building Nova. Nova is a open source file locking system, designed to support multiple CAD softwares with real time locking and live dashboard to keep design engineers in sync.<p>Nova is built with python and Next.js.<p>Get started with -<p><pre><code>  git clone https://github.com/agg111/nova\n  cd nova\n  pip install -r requirements.txt\n  nova start\n  nova --help (for more commands)\n</code></pre>\nOpen http://localhost:3000 in browser<p>I am looking for early users to get some feedback and learn about more features or bottlenecks that mechanical design teams currently face.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45632630\">https://news.ycombinator.com/item?id=45632630</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/agg111/nova",
+    "tags": [
+      "cad",
+      "file locking",
+      "collaboration",
+      "open-source",
+      "automation"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "Nova is an open-source CAD file locking system designed for team collaboration. It automatically manages file locks for CAD applications like SolidWorks and AutoCAD, preventing conflicts and ensuring seamless workflow. Key features include intelligent locking, a web dashboard for real-time monitoring, zero configuration, and support for major CAD applications.",
+    "summary_zh": "Nova是一个开源的CAD文件锁定系统，专为团队协作设计。它可以自动管理SolidWorks和AutoCAD等CAD应用程序的文件锁定，防止冲突，确保工作流程顺畅。主要功能包括智能锁定、用于实时监控的Web仪表板、零配置以及对主要CAD应用程序的支持。",
+    "best_quote_en": "Nova automatically manages file locks for CAD applications (SolidWorks, AutoCAD, Inventor, etc.) to prevent conflicts in team environments.",
+    "best_quote_zh": "Nova自动管理CAD应用程序（如SolidWorks、AutoCAD、Inventor等）的文件锁，以防止团队环境中的冲突。"
   }]
