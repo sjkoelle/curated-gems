@@ -5164,4 +5164,79 @@
     "summary_zh": "Nova是一个开源的CAD文件锁定系统，专为团队协作设计。它可以自动管理SolidWorks和AutoCAD等CAD应用程序的文件锁定，防止冲突，确保工作流程顺畅。主要功能包括智能锁定、用于实时监控的Web仪表板、零配置以及对主要CAD应用程序的支持。",
     "best_quote_en": "Nova automatically manages file locks for CAD applications (SolidWorks, AutoCAD, Inventor, etc.) to prevent conflicts in team environments.",
     "best_quote_zh": "Nova自动管理CAD应用程序（如SolidWorks、AutoCAD、Inventor等）的文件锁，以防止团队环境中的冲突。"
+  },{
+    "id": 277,
+    "title": "Security Observability in Kubernetes Goes Beyond Logs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://fatihkoc.net/posts/kubernetes-security-observability/\">https://fatihkoc.net/posts/kubernetes-security-observability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45641029\">https://news.ycombinator.com/item?id=45641029</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://fatihkoc.net/posts/kubernetes-security-observability/",
+    "tags": [
+      "security",
+      "kubernetes",
+      "observability",
+      "audit logs",
+      "correlation"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Security observability in Kubernetes correlates logs, runtime behavior, and network flow analysis to answer security questions in real-time. It utilizes Kubernetes audit logs, runtime security events, and security metrics to detect and investigate incidents faster. Effective audit log policies and integration with observability pipelines are crucial for proactive security.",
+    "summary_zh": "Kubernetes中的安全可观测性关联日志、运行时行为和网络流量分析，以实时响应安全问题。它利用Kubernetes审计日志、运行时安全事件和安全指标更快地检测和调查事件。有效的审计日志策略以及与可观测性管道的集成对于主动安全至关重要。",
+    "best_quote_en": "Security observability gives you investigation superpowers through correlation and context.",
+    "best_quote_zh": "安全可观测性通过关联和上下文赋予你调查的超能力。"
+  },
+  {
+    "id": 278,
+    "title": "SBI awarded Best Consumer Bank 2025 award by Global Finance magazin",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://bfsi.economictimes.indiatimes.com/news/banking/sbi-crowned-worlds-best-consumer-bank-for-2025-by-global-finance-magazine/122749151\">https://bfsi.economictimes.indiatimes.com/news/banking/sbi-crowned-worlds-best-consumer-bank-for-2025-by-global-finance-magazine/122749151</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45641023\">https://news.ycombinator.com/item?id=45641023</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://bfsi.economictimes.indiatimes.com/news/banking/sbi-crowned-worlds-best-consumer-bank-for-2025-by-global-finance-magazine/122749151",
+    "tags": [
+      "sbi",
+      "consumer banking",
+      "digital transformation",
+      "global finance",
+      "banking awards"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "State Bank of India (SBI) has been recognized as the 'World's Best Consumer Bank' for 2025 by Global Finance magazine. The award recognizes SBI's advancements in customer service and digital transformation. SBI is focused on customer engagement, digital accessibility with the goal of providing better banking experiences.",
+    "summary_zh": "印度国家银行（SBI）被《环球金融》杂志评为2025年度“世界最佳消费银行”。该奖项表彰了SBI在客户服务和数字化转型方面的进步。SBI专注于客户参与和数字可访问性，目标是提供更好的银行体验。",
+    "best_quote_en": "\"Focused on customer engagement, digital transformation, and expanding accessibility, the State Bank of India has secured its leadership role in consumer banking.\"",
+    "best_quote_zh": "“专注于客户参与、数字化转型和扩大可访问性，印度国家银行巩固了其在消费银行领域的领导地位。”"
+  },
+  {
+    "id": 279,
+    "title": "What Sleep Is",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://aeon.co/essays/two-billion-humans-are-doing-something-bizarre-right-now-sleeping\">https://aeon.co/essays/two-billion-humans-are-doing-something-bizarre-right-now-sleeping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45641017\">https://news.ycombinator.com/item?id=45641017</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://aeon.co/essays/two-billion-humans-are-doing-something-bizarre-right-now-sleeping",
+    "tags": [
+      "sleep",
+      "consciousness",
+      "science",
+      "biology",
+      "philosophy"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Despite research, the true nature and purpose of sleep remain elusive. Often discussed for its necessity and potential negative consequences of deprivation, this perspective may be too utilitarian. Sleep is a bizarre, daily experience impacting health and society. Viewing sleep from an alien perspective as a 'negative image of activity' reveals its planetary-scale significance where billions are asleep.",
+    "summary_zh": "尽管经过数十年的研究，睡眠的真正本质和目的仍然难以捉摸。人们通常讨论的是睡眠的必要性以及缺乏睡眠的潜在负面影响，但这种观点可能过于功利。睡眠是一种奇怪的、每天都会发生的现象，影响着健康和社会。从外星人的角度将睡眠视为“活动的负面形象”揭示了其行星尺度的重要性，即数十亿人处于睡眠状态。",
+    "best_quote_en": "Sleep is the single most bizarre experience that happens to all of us, against our will, every day.",
+    "best_quote_zh": "睡眠是发生在我们所有人身上，违背我们的意愿，每天都会发生的最奇怪的经历。"
+  },
+  {
+    "id": 280,
+    "title": "Mistaken Dichotomies about Dgit",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.chiark.greenend.org.uk/~cjwatson/blog/dgit-dichotomies.html\">https://www.chiark.greenend.org.uk/~cjwatson/blog/dgit-dichotomies.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45641003\">https://news.ycombinator.com/item?id=45641003</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.chiark.greenend.org.uk/~cjwatson/blog/dgit-dichotomies.html",
+    "tags": [
+      "dgit",
+      "git-buildpackage",
+      "debian",
+      "git",
+      "version control"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "The article clarifies misconceptions about dgit, emphasizing that it's not an alternative to git-buildpackage but a separate layer. Dgit can support complete upstream git history if the maintainer uses it correctly, dispelling the notion that it only synthesizes repositories without history. It works together with tools like git-buildpackage.",
+    "summary_zh": "本文澄清了对 dgit 的误解，强调它不是 git-buildpackage 的替代品，而是一个独立的层。如果维护者正确使用 dgit，它可以支持完整的上游 git 历史记录，从而消除了它仅合成没有历史记录的存储库的观念。它可以与 git-buildpackage 等工具一起使用。",
+    "best_quote_en": "It’s really better to think of dgit as a separate and orthogonal layer.",
+    "best_quote_zh": "将 dgit 视为一个独立的，正交的层会更好。"
   }]
