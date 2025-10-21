@@ -5239,4 +5239,98 @@
     "summary_zh": "本文澄清了对 dgit 的误解，强调它不是 git-buildpackage 的替代品，而是一个独立的层。如果维护者正确使用 dgit，它可以支持完整的上游 git 历史记录，从而消除了它仅合成没有历史记录的存储库的观念。它可以与 git-buildpackage 等工具一起使用。",
     "best_quote_en": "It’s really better to think of dgit as a separate and orthogonal layer.",
     "best_quote_zh": "将 dgit 视为一个独立的，正交的层会更好。"
+  },{
+    "id": 281,
+    "title": "Show HN: UltraFaceSwap – Multi-face swap for photos, GIFs, and videos",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN,<p>I just launched UltraFaceSwap (<a href=\"https://ultrafaceswap.com\" rel=\"nofollow\">https://ultrafaceswap.com</a>), an AI face swapping tool that handles photos, GIFs, and videos with single or multiple face swaps.<p>*What makes it different:*\n- *Multi-person swapping*: Swap multiple faces in one image/video (most tools only do one)\n- *Multi-face GIF support*: First tool I've seen that handles multi-person face swapping in animated GIFs\n- *Video quality*: Maintains temporal consistency (no flickering between frames)\n- *Comprehensive format support*: Works seamlessly across photos, GIFs, and videos<p>*Why I built it:*\nA friend needed a face swap tool for their project, so I tried every option on the market. They all had limitations:\n- Only single face swaps\n- Poor video quality with flickering\n- No proper GIF support, especially for multiple faces\n- Clunky UX requiring multiple steps<p>So I built what I wished existed.<p>*Pricing model:*\n- Free trial to test it out\n- Daily free credits (casual users might never pay)\n- Pay-as-you-go for volume (no subscription)<p>*Tech challenges I solved:*\n- Face tracking across video frames\n- Handling occlusions (when faces turn away)\n- Multi-face detection and assignment in animated GIFs\n- GIF color palette preservation while swapping multiple faces<p>*Current limitations:*\n- Processing videos takes time (30s video = ~3-5 min processing)\n- Works best with clear, well-lit faces\n- Very fast motion can still cause artifacts<p>I'm a solo developer and spent 2 months getting the quality right. Would love feedback from HN:\n- What use cases would you have for this?\n- Is multi-face swapping something you've needed?\n- Any concerns about the technology?<p>Try it out – I think you'll find the quality noticeably better than alternatives.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45653516\">https://news.ycombinator.com/item?id=45653516</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ultrafaceswap.com",
+    "tags": [
+      "face swap",
+      "ai",
+      "image editing",
+      "video editing",
+      "gif"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "UltraFaceSwap is an AI platform that offers multi-face swapping for photos, GIFs, and videos. It features stable multi-face tracking, high-fidelity blending, and a unified workflow for various media formats. It provides realistic results suitable for social media entertainment, professional headshots, and fun content creation.",
+    "summary_zh": "UltraFaceSwap是一个AI平台，为照片、GIF和视频提供多人脸替换功能。它具有稳定的多人脸追踪、高保真融合以及适用于各种媒体格式的统一工作流程。 它提供逼真的结果，适用于社交媒体娱乐、专业头像和有趣的内容创作。",
+    "best_quote_en": "Ultra Face Swap delivers a high‑fidelity multi‑face swapping experience across photos, GIFs, and videos.",
+    "best_quote_zh": "Ultra Face Swap在照片、GIF和视频中提供高保真多人脸交换体验。"
+  },
+  {
+    "id": 282,
+    "title": "Show HN: Mocking APIs by just posting them to endpoints",
+    "source": "Hackernews",
+    "desc": "<p>I made a self-hosted API for crud-ing json data (initially for simple storage use cases). However, I started using to mock APIs, where I have scripts that create/edit random jsons and I make them available as API endpoints through this application.<p>The API is based on your JSON structure. So the example below is for CRUD-ing [key1][key2] in file.json. The value (which can be anything) is then added to the body of the request. Moreover, there are helper functions for appending and incrementing values.<p><pre><code>  DELETE/PUT/GET: /api/file/key1/key2/...</code></pre></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45653511\">https://news.ycombinator.com/item?id=45653511</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/TimoKats/emmer",
+    "tags": [
+      "api",
+      "mocking",
+      "json",
+      "crud",
+      "self-hosted"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "Emmer is a self-hosted API for CRUD operations on JSON data across various filesystems. It's designed for small projects' data storage or API mocking during development. It uses HTTP endpoints to manage and manipulate JSON data based on its structure. Supports DELETE/PUT/GET operations.",
+    "summary_zh": "Emmer是一个自托管API，用于在各种文件系统上对JSON数据执行CRUD操作。它专为小型项目的数据存储或开发期间的API模拟而设计。它使用HTTP端点来管理和操作基于其结构的JSON数据。支持DELETE/PUT/GET操作。",
+    "best_quote_en": "The API is based on your JSON structure.",
+    "best_quote_zh": "API基于你的JSON结构。"
+  },
+  {
+    "id": 283,
+    "title": "What to do to get a colleague promoted",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.leadinginproduct.com/p/a-guide-to-helping-your-colleagues\">https://www.leadinginproduct.com/p/a-guide-to-helping-your-colleagues</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45653508\">https://news.ycombinator.com/item?id=45653508</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.leadinginproduct.com/p/a-guide-to-helping-your-colleagues",
+    "tags": [
+      "promotion",
+      "career development",
+      "mentorship",
+      "collaboration",
+      "workplace culture"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The article provides practical steps to help a colleague get promoted, including advocating for them, assigning easy-win tasks, offering coaching, sharing information, facilitating connections, and directly recommending them to their manager. It emphasizes the importance of supporting deserving colleagues for a positive workplace culture.",
+    "summary_zh": "本文提供了帮助同事晋升的实用步骤，包括为他们辩护、分配容易成功的任务、提供指导、分享信息、促进联系，以及直接向经理推荐他们。文章强调了支持有价值的同事对于营造积极工作场所文化的重要性。",
+    "best_quote_en": "Collaboration and mutual support foster a positive workplace culture, and you’d likely appreciate the same advocacy if you were seeking a promotion yourself.",
+    "best_quote_zh": "合作和互相支持能够培养积极的工作场所文化，如果您自己寻求晋升，您也很可能会欣赏同样的帮助。"
+  },
+  {
+    "id": 284,
+    "title": "October 29:Perihelion and What It Would Mean If 3I/Atlas Is a Mothership",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://medium.com/@tim_62250/october-29-the-day-at-perihelion-and-what-it-would-mean-if-3i-atlas-is-a-mothership-e80eb2b7f263\">https://medium.com/@tim_62250/october-29-the-day-at-perihelion-and-what-it-would-mean-if-3i-atlas-is-a-mothership-e80eb2b7f263</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45653461\">https://news.ycombinator.com/item?id=45653461</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://medium.com/@tim_62250/october-29-the-day-at-perihelion-and-what-it-would-mean-if-3i-atlas-is-a-mothership-e80eb2b7f263",
+    "tags": [
+      "astronomy",
+      "avi loeb",
+      "3i atlas",
+      "extraterrestrial life",
+      "space policy"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The article discusses the upcoming perihelion of interstellar object 3I/ATLAS and the possibility, proposed by Avi Loeb, that it could be an alien mothership. It explores the implications of such a discovery, including scientific, political, and cultural impacts, and suggests a rational response based on coordinated observation, independent verification, and transparent communication.",
+    "summary_zh": "文章讨论了星际物体3I/ATLAS即将到来的近日点，以及Avi Loeb提出的它可能是外星母舰的可能性。文章探讨了这一发现的潜在影响，包括科学、政治和文化层面，并提出了基于协调观测、独立验证和透明沟通的理性应对措施。",
+    "best_quote_en": "Perihelion is not just the object’s closest point to the Sun; it is our closest point to comprehension.",
+    "best_quote_zh": "近日点不仅是该物体距离太阳最近的点；它也是我们距离理解最近的点。"
+  },
+  {
+    "id": 285,
+    "title": "It's Official: Xbox Has a Full-Blown Identity Crisis",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://gizmodo.com/its-official-xbox-has-a-full-blown-identity-crisis-2000674326\">https://gizmodo.com/its-official-xbox-has-a-full-blown-identity-crisis-2000674326</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45653455\">https://news.ycombinator.com/item?id=45653455</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://gizmodo.com/its-official-xbox-has-a-full-blown-identity-crisis-2000674326",
+    "tags": [
+      "xbox",
+      "gaming",
+      "hardware",
+      "xbox ally",
+      "next-gen"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The article discusses Xbox's identity crisis amidst the release of the ROG Xbox Ally X and upcoming next-gen Xbox. It highlights concerns about pricing, the blurring lines between console and PC gaming, and the need for Xbox to clarify its vision. The author questions if the Xbox Ally is simply a branded laptop with joysticks, emphasizing the importance of hardware and software integration for a seamless gaming experience.",
+    "summary_zh": "文章讨论了 Xbox 在推出 ROG Xbox Ally X 和即将推出的下一代 Xbox 时面临的身份危机。文章强调了对定价、主机和 PC 游戏之间界限模糊的担忧，以及 Xbox 需要澄清其愿景的必要性。作者质疑 Xbox Ally 是否只是一个带有操纵杆的品牌笔记本电脑，强调了硬件和软件集成对于无缝游戏体验的重要性。",
+    "best_quote_en": "‘Is it actually just a branded laptop with joysticks?’",
+    "best_quote_zh": "“这实际上只是一个带有操纵杆的品牌笔记本电脑吗？”"
   }]
