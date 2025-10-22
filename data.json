@@ -5333,4 +5333,98 @@
     "summary_zh": "文章讨论了 Xbox 在推出 ROG Xbox Ally X 和即将推出的下一代 Xbox 时面临的身份危机。文章强调了对定价、主机和 PC 游戏之间界限模糊的担忧，以及 Xbox 需要澄清其愿景的必要性。作者质疑 Xbox Ally 是否只是一个带有操纵杆的品牌笔记本电脑，强调了硬件和软件集成对于无缝游戏体验的重要性。",
     "best_quote_en": "‘Is it actually just a branded laptop with joysticks?’",
     "best_quote_zh": "“这实际上只是一个带有操纵杆的品牌笔记本电脑吗？”"
+  },{
+    "id": 286,
+    "title": "Interactive Double Pendulum Simulator",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://bigjobby.com/pendulum/\">https://bigjobby.com/pendulum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45666020\">https://news.ycombinator.com/item?id=45666020</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://bigjobby.com/pendulum/",
+    "tags": [
+      "pendulum",
+      "simulator",
+      "interactive",
+      "physics",
+      "visualization"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This is an interactive double pendulum simulator. Users can adjust parameters like mass, length, and damping. The simulator allows pausing, resetting, and sharing the pendulum's configuration. Users can drag the bobs to set new starting positions and also donate to support the project.",
+    "summary_zh": "这是一个交互式双摆模拟器。用户可以调整质量、长度和阻尼等参数。该模拟器允许暂停、重置和分享摆的配置。用户可以拖动摆锤来设置新的起始位置，并且可以捐款支持项目。",
+    "best_quote_en": "Tip: drag the bobs while paused",
+    "best_quote_zh": "提示：暂停时拖动摆锤"
+  },
+  {
+    "id": 287,
+    "title": "Bitmasks, Threads, and Interrupts: Concurrent, Colorless Ruby",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html\">https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45666004\">https://news.ycombinator.com/item?id=45666004</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html",
+    "tags": [
+      "ruby",
+      "concurrency",
+      "threads",
+      "interrupts",
+      "bitmasks"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article explores concurrency in Ruby, focusing on how the Ruby thread scheduler manages threads through interrupts. It discusses interrupt masks, which are used to represent different interrupt events like timer interrupts and terminate interrupts. The article emphasizes the importance of understanding how the thread scheduler rudely interrupts threads for efficiency and fairness, ensuring the runtime operates smoothly.",
+    "summary_zh": "本文探讨了Ruby中的并发，重点介绍了Ruby线程调度器如何通过中断来管理线程。它讨论了中断掩码，该掩码用于表示不同的中断事件，如计时器中断和终止中断。文章强调了理解线程调度器为了效率和公平而粗暴地中断线程的重要性，从而确保运行时平稳运行。",
+    "best_quote_en": "The Ruby thread scheduler is rude. There, I said it.",
+    "best_quote_zh": "Ruby线程调度器是粗鲁的。我说了。"
+  },
+  {
+    "id": 288,
+    "title": "Frames relaunch – A tool for film photographers to log and embed metadata",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://withframes.com/\">https://withframes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45665998\">https://news.ycombinator.com/item?id=45665998</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://withframes.com/",
+    "tags": [
+      "film photography",
+      "metadata",
+      "organization",
+      "archive",
+      "library"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Frames relaunch is a tool for film photographers to log and embed metadata. It helps to effortlessly browse, organize, and manage film rolls, keeping each session structured and easily accessible.",
+    "summary_zh": "Frames重新发布，是一款供胶片摄影师记录和嵌入元数据的工具。 它有助于毫不费力地浏览、组织和管理胶卷，保持每个会话的结构化和易于访问。",
+    "best_quote_en": "Browse, organize, and manage all your film rolls effortlessly, keeping each session clearly structured, easy to find, and neatly arranged within your library for quick access anytime.",
+    "best_quote_zh": "毫不费力地浏览、组织和管理你的所有胶卷，使每个会话结构清晰、易于查找，并整齐地排列在图库中，以便随时快速访问。"
+  },
+  {
+    "id": 289,
+    "title": "Grasp Any Region: Precise, Contextual Pixel Understanding for Multimodal LLMs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.18876\">https://arxiv.org/abs/2510.18876</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45665984\">https://news.ycombinator.com/item?id=45665984</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2510.18876",
+    "tags": [
+      "multimodal llms",
+      "computer vision",
+      "region understanding",
+      "contextual perception",
+      "compositional reasoning"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "The paper introduces Grasp Any Region (GAR), a multimodal LLM designed for precise, contextual pixel understanding. GAR utilizes a RoI-aligned feature replay technique for precise perception and interaction modeling between prompts, enabling advanced compositional reasoning. The authors also introduce GAR-Bench for evaluating single-region comprehension and cross-region interactions. Experiments demonstrate that GAR achieves state-of-the-art performance and strong transferability to videos.",
+    "summary_zh": "本文介绍了一种名为Grasp Any Region (GAR)的多模态LLM，旨在实现精确的上下文像素理解。GAR采用RoI对齐的特征重放技术，以实现精确的感知和提示之间的交互建模，从而实现高级的组合推理。作者还介绍了GAR-Bench，用于评估单区域理解和跨区域交互。实验表明，GAR实现了最先进的性能，并具有强大的视频迁移能力。",
+    "best_quote_en": "GAR supports (1) precise perception by leveraging necessary global contexts, and (2) modeling interactions between multiple prompts. Together, it then naturally achieves (3) advanced compositional reasoning to answer specific free-form questions about any region, shifting the paradigm from passive description to active dialogue.",
+    "best_quote_zh": "GAR通过利用必要的全局上下文来支持（1）精确感知，并通过模拟多个提示之间的交互来支持（2）。综上，它自然实现了（3）高级组合推理，以回答关于任何区域的特定自由形式问题，从而将范式从被动描述转变为主动对话。"
+  },
+  {
+    "id": 290,
+    "title": "AI-generated version of Without Me, Eminem recommended by Spotify",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://open.spotify.com/track/2T2kGWVFncp0Gkzbw2qFK1\">https://open.spotify.com/track/2T2kGWVFncp0Gkzbw2qFK1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45665982\">https://news.ycombinator.com/item?id=45665982</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://open.spotify.com/track/2T2kGWVFncp0Gkzbw2qFK1",
+    "tags": [
+      "ai-generated music",
+      "spotify",
+      "jazz",
+      "soul",
+      "covers"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Spotify recommends an AI-generated 1950's Soul/Jazz version of Eminem's \"Without Me\" by IAXMUSIC. This version, released in 2025, is part of IAXMUSIC's popular tracks, along with other jazz/soul/blues renditions of popular songs. Other artists such as Enlly Blue, Teddy Swims are listed under Recommended based on this song.",
+    "summary_zh": "Spotify推荐了IAXMUSIC制作的AI生成的1950年代灵魂/爵士版本的Eminem歌曲“Without Me”。这个版本于2025年发行，是IAXMUSIC的热门曲目之一，以及其他流行歌曲的爵士/灵魂/蓝调版本。Enlly Blue、Teddy Swims 等其他艺术家也在“基于这首歌推荐”列表中。",
+    "best_quote_en": "Without Me (1950's) Soul/Jazz Best Vrsion",
+    "best_quote_zh": "Without Me（1950年代）灵魂/爵士最佳版本"
   }]
