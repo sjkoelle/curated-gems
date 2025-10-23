@@ -5427,4 +5427,60 @@
     "summary_zh": "Spotify推荐了IAXMUSIC制作的AI生成的1950年代灵魂/爵士版本的Eminem歌曲“Without Me”。这个版本于2025年发行，是IAXMUSIC的热门曲目之一，以及其他流行歌曲的爵士/灵魂/蓝调版本。Enlly Blue、Teddy Swims 等其他艺术家也在“基于这首歌推荐”列表中。",
     "best_quote_en": "Without Me (1950's) Soul/Jazz Best Vrsion",
     "best_quote_zh": "Without Me（1950年代）灵魂/爵士最佳版本"
+  },{
+    "id": 291,
+    "title": "ChatGPT's Atlas: The Browser That's Anti-Web",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.anildash.com//2025/10/22/atlas-anti-web-browser/\">https://www.anildash.com//2025/10/22/atlas-anti-web-browser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45679349\">https://news.ycombinator.com/item?id=45679349</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
+    "tags": [
+      "chatgpt",
+      "browser",
+      "ai",
+      "anti-web",
+      "openai"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "OpenAI's Atlas browser is anti-web, substituting AI-generated content, requiring command-line-like inputs, and acting as the user's agent. It doesn't prioritize links to original websites, trapping users in a walled garden of AI-generated results. It's a shift away from intuitive, clickable interfaces towards guessing commands. This approach has significant drawbacks.",
+    "summary_zh": "OpenAI的Atlas浏览器反网络，用AI生成内容代替网页，需要类似命令行的输入，并充当用户的代理。它不优先提供原始网站的链接，而是将用户困在AI生成内容的围墙花园中。这是从直观、可点击的界面转向猜测命令。这种方法有显著的缺点。",
+    "best_quote_en": "Atlas is a browser, but it is not a web browser. It is an anti-web browser.",
+    "best_quote_zh": "Atlas是一个浏览器，但它不是一个网络浏览器。它是一个反网络浏览器。"
+  },
+  {
+    "id": 292,
+    "title": "Show HN: Azure IP ranges Terraform module",
+    "source": "Hackernews",
+    "desc": "<p>I wrote a terraform/opentofu module which makes the IP ranges of Azure cloud easy accessible. The IP ranges are updates every night. What do you think?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45679330\">https://news.ycombinator.com/item?id=45679330</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/aeimer/terraform-azure-ip-ranges",
+    "tags": [
+      "terraform",
+      "azure",
+      "ip ranges",
+      "automation",
+      "devops"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This Terraform module provides Azure service IP address ranges, automatically updated nightly from Microsoft's official ServiceTags JSON. It offers comprehensive IP ranges, service-specific filtering, IP version filtering, and automatic updates without external dependencies. Examples for various use cases like retrieving all IPs, specific services, and regional services are provided.",
+    "summary_zh": "这个Terraform模块提供了Azure服务IP地址范围，并从微软官方ServiceTags JSON每日自动更新。它提供全面的IP范围、特定于服务的过滤、IP版本过滤以及自动更新，没有外部依赖项。提供了各种用例的示例，例如检索所有IP，特定服务和区域服务。",
+    "best_quote_en": "A Terraform/OpenTofu module that provides all IP address ranges used by Azure services. The data is automatically updated nightly from Microsoft's official ServiceTags JSON.",
+    "best_quote_zh": "一个Terraform/OpenTofu模块，提供Azure服务使用的所有IP地址范围。数据每天晚上都会从微软官方的ServiceTags JSON自动更新。"
+  },
+  {
+    "id": 293,
+    "title": "AI assistance is only making coders dumb, lazy and prone to replacement",
+    "source": "Hackernews",
+    "desc": "<p>LLMs like ChatGPT and copilot are like those super saturated junk food like a pizza or burger which feels good in that moment (ready code snippets or answers) but over a period only accumulates weight gain, sugar and diseases (technical debt, brain drain).<p>We have stopped reading or even looking up official documentation, that has become an extinct skill today. And why would we if an LLM does it for us and tells us only what we need to be told to create that release or fulfill that urgent deadline.<p>What happened with AWS outage recently is only a brief foreshadow of what might eventually come to pass if this trend continues. Imagine a world where most programmers are primarily LLM prompters with a very shallow understanding of core programming skills or even operational skills pertaining to an app, framework or library. What will we do if a major outage or technical issue occurs then and no person around knows what’s really going on?<p>And that’s not even mentioning the replacement of human workers problem which is the most discussed topic these days. Eventually, the senior/mid management will think why do we even need these “prompt engineers”, let an agent do that work. After that, senior management will think why do we need these “prompt managers”, let another agentic AI that controls other agents do it! Eventually, the company will be run entirely by robots and shareholders will enjoy their wealth in peace!<p>As dystopian as the above scenario sounds, that’s the world we are eventually heading towards with all the progress in AI and the commerce oriented environment it’s evolving in. But it’ll still take decades at least considering the state of prevailing systems in public and private sectors. But until that happens, let us programmers equip ourselves with real old school skills which have stood the test of time - like scavenging documentation, referring to stack overflow and wikipedia for knowledge, etc. and coding with humility and passion, not this LLM crap.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45679307\">https://news.ycombinator.com/item?id=45679307</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45679307",
+    "tags": [
+      "ai assistance",
+      "coders",
+      "lazy",
+      "replacement",
+      "programming skills"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "The author argues that AI assistance tools like ChatGPT and Copilot are making coders lazy, dumb, and prone to replacement. Over-reliance on these tools leads to technical debt, brain drain and a shallow understanding of core programming skills. The author urges programmers to maintain real old-school skills like reading documentation.",
+    "summary_zh": "作者认为，ChatGPT和Copilot等AI辅助工具正使程序员变得懒惰、愚蠢和容易被取代。过度依赖这些工具会导致技术债务、脑流失以及对核心编程技能的肤浅理解。作者敦促程序员保持阅读文档等真正的老式技能。",
+    "best_quote_en": "Imagine a world where most programmers are primarily LLM prompters with a very shallow understanding of core programming skills or even operational skills pertaining to an app, framework or library.",
+    "best_quote_zh": "想象一下这样一个世界：大多数程序员主要充当LLM提示者，对核心编程技能甚至与应用程序、框架或库相关的操作技能的理解非常肤浅。"
   }]
