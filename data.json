@@ -5483,4 +5483,98 @@
     "summary_zh": "作者认为，ChatGPT和Copilot等AI辅助工具正使程序员变得懒惰、愚蠢和容易被取代。过度依赖这些工具会导致技术债务、脑流失以及对核心编程技能的肤浅理解。作者敦促程序员保持阅读文档等真正的老式技能。",
     "best_quote_en": "Imagine a world where most programmers are primarily LLM prompters with a very shallow understanding of core programming skills or even operational skills pertaining to an app, framework or library.",
     "best_quote_zh": "想象一下这样一个世界：大多数程序员主要充当LLM提示者，对核心编程技能甚至与应用程序、框架或库相关的操作技能的理解非常肤浅。"
+  },{
+    "id": 294,
+    "title": "Netflix optimized its petabyte-scale logging system with ClickHouse",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://clickhouse.com/blog/netflix-petabyte-scale-logging\">https://clickhouse.com/blog/netflix-petabyte-scale-logging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45692063\">https://news.ycombinator.com/item?id=45692063</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://clickhouse.com/blog/netflix-petabyte-scale-logging",
+    "tags": [
+      "netflix",
+      "clickhouse",
+      "logging",
+      "optimization",
+      "scalability"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "Netflix uses ClickHouse to ingest 5 petabytes of logs daily, processing 10.6M events/second. Key optimizations include generated lexers for fingerprinting (8-10x faster), custom serialization, and sharded tag maps reducing query times. This enables engineers to debug issues and monitor microservices rapidly, supporting over 300 million subscribers.",
+    "summary_zh": "Netflix 使用 ClickHouse 每日摄取 5PB 的日志，处理速度达 1060 万个事件/秒。关键优化包括：用于指纹识别的生成词法分析器（速度提高 8-10 倍）、定制序列化和分片标签映射，从而缩短查询时间。这使得工程师能够快速调试问题和监控微服务，为超过 3 亿用户提供支持。",
+    "best_quote_en": "At Netflix, scale drives everything.",
+    "best_quote_zh": "在 Netflix，规模驱动一切。"
+  },
+  {
+    "id": 295,
+    "title": "Show HN: Share your coding agent sessions",
+    "source": "Hackernews",
+    "desc": "<p>Knowing it might soon be obsolete, I still went ahead and built aisessions.dev - a place to share sessions from Claude Code, Codex, and Gemini CLI.<p>It was a fun zero-to-one project and an excuse to think through:<p>- Safely accepting user generated data (security, PII scrubbing, etc)\n- Building a privacy conscious service\n- Designing for long-term low-maintenance operation\n- Developer experience — CLI distribution, onboarding, and good defaults\n- UI, design, and simplicity\n- Keeping everything open source<p>Kudos to AMP and opencode for the inspiration.<p>If OpenAI, Anthropic, or Google launch native session sharing tomorrow, that’s fine. The experience is well worth the effort (which wasn't that big considering I wrote very little of the code).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45692052\">https://news.ycombinator.com/item?id=45692052</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://aisessions.dev",
+    "tags": [
+      "coding",
+      "ai",
+      "tool",
+      "session",
+      "share"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This is a tool called ai_sessions that allows users to share their coding agent sessions. Users can upload transcripts in JSON or JSONL format after signing in with GitHub. The tool can be installed and used via command line interface.",
+    "summary_zh": "ai_sessions是一个允许用户分享其编码代理会话的工具。用户可以通过GitHub登录后，上传JSON或JSONL格式的记录。该工具可以通过命令行界面安装和使用。",
+    "best_quote_en": "Authenticate to share your transcripts",
+    "best_quote_zh": "验证身份以分享您的记录"
+  },
+  {
+    "id": 296,
+    "title": "Singing bus horns in West Sumatra",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.auralarchipelago.com/auralarchipelago/kalason\">https://www.auralarchipelago.com/auralarchipelago/kalason</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45692042\">https://news.ycombinator.com/item?id=45692042</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.auralarchipelago.com/auralarchipelago/kalason",
+    "tags": [
+      "west sumatra",
+      "bus horns",
+      "kalason oto",
+      "minangkabau",
+      "music"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This article discusses the unique tradition of \"singing bus horns\" (kalason oto) in West Sumatra, Indonesia.  These musical horns, developed by local mechanics, were used on buses in the 1950s to play Minangkabau folk music for migrants. Pak Budahar, a legendary kalason player, is highlighted, showcasing the cultural significance and evolution of this art form.",
+    "summary_zh": "这篇文章介绍了印度尼西亚西苏门答腊岛独特的“歌唱巴士喇叭”（kalason oto）传统。这些由当地机械师开发的音乐喇叭在20世纪50年代被用于公共汽车上，为移民演奏米南加保民间音乐。文章重点介绍了传奇的kalason演奏家Pak Budahar，展示了这种艺术形式的文化意义和演变。",
+    "best_quote_en": "The honk is a scream from within our sealed-in vehicles - “Take heed! There’s a human in here!” But have you ever honked with tenderness, with love, with longing?",
+    "best_quote_zh": "喇叭声是从我们封闭的车辆内发出的一声尖叫——“注意！这里有人！”但你有没有用温柔、爱意和渴望来按喇叭？"
+  },
+  {
+    "id": 297,
+    "title": "Video‐rate tunable colour electronic paper with human resolution",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41586-025-09642-3\">https://www.nature.com/articles/s41586-025-09642-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45692030\">https://news.ycombinator.com/item?id=45692030</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.nature.com/articles/s41586-025-09642-3",
+    "tags": [
+      "electronic paper",
+      "metapixels",
+      "high resolution",
+      "virtual reality",
+      "display technology"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This article introduces a video-rate tunable color electronic paper with human resolution using electrically tunable metapixels of WO3 nanodisks. The technology achieves high pixel density, full-color video capability, high reflectance, strong optical contrast, and low energy consumption, making it a potential solution for immersive virtual reality systems.",
+    "summary_zh": "本文介绍了一种具有人眼分辨率的视频速率可调彩色电子纸，它使用WO3纳米盘的电可调超像素。该技术实现了高像素密度、全彩色视频能力、高反射率、强光学对比度和低能耗，使其成为沉浸式虚拟现实系统的潜在解决方案。",
+    "best_quote_en": "By contrast, electronic paper, which uses ambient light for visibility, can maintain high optical contrast regardless of pixel size, but cannot achieve high resolution.",
+    "best_quote_zh": "相比之下，电子纸使用环境光来获得可见性，可以保持高光学对比度，而与像素尺寸无关，但无法实现高分辨率。"
+  },
+  {
+    "id": 298,
+    "title": "When Cells Run a Red Light: Double Trouble for Old Models in Cell Division",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.irb.hr/eng/News/When-Cells-Run-a-Red-Light-Double-Trouble-for-Old-Models-in-Cell-Division\">https://www.irb.hr/eng/News/When-Cells-Run-a-Red-Light-Double-Trouble-for-Old-Models-in-Cell-Division</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45692028\">https://news.ycombinator.com/item?id=45692028</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.irb.hr/eng/News/When-Cells-Run-a-Red-Light-Double-Trouble-for-Old-Models-in-Cell-Division",
+    "tags": [
+      "cookies",
+      "google analytics",
+      "website",
+      "privacy",
+      "data collection"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This article discusses the use of cookies on a website. It mentions Google Analytics for website analysis and the Sublime Video player, both of which use cookies. Users can opt-out of Google Analytics data collection using a browser add-on or disable cookies through their browser settings. Links to further information about cookies and Google Analytics are provided.",
+    "summary_zh": "本文讨论了网站上 Cookie 的使用。它提到了用于网站分析的 Google Analytics 以及 Sublime Video 播放器，两者都使用 Cookie。用户可以使用浏览器插件选择退出 Google Analytics 数据收集，或通过浏览器设置禁用 Cookie。文中提供了有关 Cookie 和 Google Analytics 的更多信息的链接。",
+    "best_quote_en": "In order to provide website visitors with more choice on how data is collected by Google Analytics, Google has developed the Google Analytics Opt-out Browser Add-on.",
+    "best_quote_zh": "为了让网站访问者在 Google Analytics 如何收集数据方面有更多选择，Google 开发了 Google Analytics Opt-out Browser Add-on。"
   }]
