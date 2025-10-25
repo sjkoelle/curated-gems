@@ -5577,4 +5577,98 @@
     "summary_zh": "本文讨论了网站上 Cookie 的使用。它提到了用于网站分析的 Google Analytics 以及 Sublime Video 播放器，两者都使用 Cookie。用户可以使用浏览器插件选择退出 Google Analytics 数据收集，或通过浏览器设置禁用 Cookie。文中提供了有关 Cookie 和 Google Analytics 的更多信息的链接。",
     "best_quote_en": "In order to provide website visitors with more choice on how data is collected by Google Analytics, Google has developed the Google Analytics Opt-out Browser Add-on.",
     "best_quote_zh": "为了让网站访问者在 Google Analytics 如何收集数据方面有更多选择，Google 开发了 Google Analytics Opt-out Browser Add-on。"
+  },{
+    "id": 299,
+    "title": "It's the \"Hardware\", Stupid",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep\">https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45702091\">https://news.ycombinator.com/item?id=45702091</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep",
+    "tags": [
+      "ai hardware",
+      "humane ai pin",
+      "rabbit r1",
+      "toothbrush test",
+      "jony ive"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "The article discusses the failure of AI hardware like Humane's AI Pin and Rabbit R1, attributing it to their inability to solve user problems and pass the 'toothbrush test' of daily essential use. It argues that AI should integrate into existing smartphones rather than replace them, highlighting OpenAI's $6.5 billion investment in Jony Ive's team to explore new AI device concepts.",
+    "summary_zh": "文章讨论了 Humane 的 AI Pin 和 Rabbit R1 等 AI 硬件的失败，认为其原因是未能解决用户问题，也未能通过每日必需品 “牙刷测试”。文章认为，AI 应该融入现有智能手机，而不是取代它们，并强调 OpenAI 斥资 65 亿美元投资 Jony Ive 团队，以探索新的 AI 设备概念。",
+    "best_quote_en": "AI hardware must 'integrate' rather than 'replace' smartphones.",
+    "best_quote_zh": "AI硬件必须“整合”而不是“取代”智能手机。"
+  },
+  {
+    "id": 300,
+    "title": "The universal chess language of the \"Informant\"",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.chessbase.com/post/the-universal-chess-language-of-the-informant-part-3\">https://en.chessbase.com/post/the-universal-chess-language-of-the-informant-part-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45702079\">https://news.ycombinator.com/item?id=45702079</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.chessbase.com/post/the-universal-chess-language-of-the-informant-part-3",
+    "tags": [
+      "chess informant",
+      "chess language",
+      "chess symbols",
+      "chess annotation",
+      "universal language"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "The article discusses the universal chess language created by the \"Chess Informant,\" a system of signs and symbols that allows chess annotations to be understood worldwide. It highlights how these signs, including punctuation and specific chess symbols, clarify the meaning of moves and positions. The creator of the \"Informant\" has gifted the world with the beautiful language used worldwide.",
+    "summary_zh": "本文探讨了“Chess Informant”创造的通用国际象棋语言，这是一种符号系统，使得国际象棋注释可以在全球范围内被理解。文章强调了这些符号，包括标点符号和特定的国际象棋符号，如何阐明了棋步和位置的含义。“Informant”的创造者为世界奉献了一种被广泛使用的优美语言。",
+    "best_quote_en": "\"Chess is a scientific game and its literature ought to be placed on the basis of the strictest truthfulness, which is the foundation of all scientific research.\"",
+    "best_quote_zh": "“国际象棋是一门科学的游戏，它的文献应该建立在最严格的真实性的基础上，这是所有科学研究的基础。”"
+  },
+  {
+    "id": 301,
+    "title": "Mapping Starlink's global IP transit providers",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/\">https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45702047\">https://news.ycombinator.com/item?id=45702047</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/",
+    "tags": [
+      "starlink",
+      "ip transit",
+      "bgp",
+      "geoip",
+      "network providers"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This article maps Starlink's global IP transit providers by analyzing GeoIP data and BGP announcements. It identifies upstream providers for various locations globally, such as Arelion/Telia Carrier (AS1299) serving numerous cities and TELXIUS Cable (AS12956) covering locations across the Americas and Europe. The methodology involves correlating GeoIP data with BGP routing table information to determine transit providers.",
+    "summary_zh": "本文通过分析GeoIP数据和BGP公告，绘制了Starlink的全球IP传输供应商分布图。确定了各个地区的上游供应商，例如Arelion/Telia Carrier (AS1299) 为众多城市提供服务，TELXIUS Cable (AS12956) 覆盖美洲和欧洲的多个地点。该方法涉及将GeoIP数据与BGP路由表信息相关联，以确定传输供应商。",
+    "best_quote_en": "To find out, I have to establish a relation between their GeoIP data and their BGP announcements globally.",
+    "best_quote_zh": "为了找出答案，我必须在全球范围内建立他们的GeoIP数据和BGP公告之间的关系。"
+  },
+  {
+    "id": 302,
+    "title": "Australia to sign UN 'surveillance treaty' in Vietnam – iTnews",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.itnews.com.au/news/australia-to-sign-un-surveillance-treaty-in-vietnam-621260\">https://www.itnews.com.au/news/australia-to-sign-un-surveillance-treaty-in-vietnam-621260</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45702038\">https://news.ycombinator.com/item?id=45702038</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.itnews.com.au/news/australia-to-sign-un-surveillance-treaty-in-vietnam-621260",
+    "tags": [
+      "cybercrime",
+      "un",
+      "australia",
+      "surveillance",
+      "privacy"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "Australia is set to sign a UN treaty in Vietnam aimed at combating cybercrime through cooperation and information sharing. However, the treaty, proposed by Russia, faces criticism from tech companies and human rights organizations who fear it may undermine privacy and security, leading to a broad UN surveillance. Concerns include cross-border data sharing and vague definitions of cybercrime.",
+    "summary_zh": "澳大利亚即将在越南签署一项联合国条约，旨在通过合作和信息共享打击网络犯罪。然而，该条约由俄罗斯提议，面临着科技公司和人权组织的批评，他们担心这可能会损害隐私和安全，导致广泛的联合国监视。担忧包括跨境数据共享和网络犯罪的模糊定义。",
+    "best_quote_en": "\"a broad UN surveillance treaty that would undermine both privacy and security in the digital environment.\"",
+    "best_quote_zh": "“一项范围广泛的联合国监视条约，将破坏数字环境中的隐私和安全。”"
+  },
+  {
+    "id": 303,
+    "title": "Was Apple Founder Steve Jobs Right about Market Research?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.flexmr.net/steve-jobs-market-research\">https://blog.flexmr.net/steve-jobs-market-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45702030\">https://news.ycombinator.com/item?id=45702030</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.flexmr.net/steve-jobs-market-research",
+    "tags": [
+      "steve jobs",
+      "market research",
+      "apple",
+      "innovation",
+      "product design"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This article examines Steve Jobs's stance on market research, highlighting his skepticism towards traditional methods. Jobs famously stated that Apple didn't conduct market research, believing that customers often don't know what they want until they see it. The article suggests that while Jobs's approach worked for Apple, it may not be suitable for all organizations.",
+    "summary_zh": "本文探讨了史蒂夫·乔布斯对市场调研的看法，强调了他对传统方法持怀疑态度。乔布斯曾明确表示，苹果不做市场调研，因为他认为顾客往往在看到产品之前不知道自己想要什么。文章指出，虽然乔布斯的方法对苹果有效，但可能不适合所有组织。",
+    "best_quote_en": "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.",
+    "best_quote_zh": "通过焦点小组来设计产品非常困难。很多时候，人们在看到产品之前不知道自己想要什么。"
   }]
