@@ -5671,4 +5671,79 @@
     "summary_zh": "本文探讨了史蒂夫·乔布斯对市场调研的看法，强调了他对传统方法持怀疑态度。乔布斯曾明确表示，苹果不做市场调研，因为他认为顾客往往在看到产品之前不知道自己想要什么。文章指出，虽然乔布斯的方法对苹果有效，但可能不适合所有组织。",
     "best_quote_en": "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.",
     "best_quote_zh": "通过焦点小组来设计产品非常困难。很多时候，人们在看到产品之前不知道自己想要什么。"
+  },{
+    "id": 304,
+    "title": "Show HN: MicroDiagram Prototype",
+    "source": "Hackernews",
+    "desc": "<p>Hey y'all,<p>this is something I've been thinking of for a while - a micro DSL framework for diagrams with one implementation. I'll have a write-up about technology soonish, but in short - this prototype written with Haskell, no database, everything server-side rendered, frontend with Unpoly (pulled from CDN), HTML generated manually. Deployed as Cloudflare container with single request taking approx. 0.8ms time.<p>Note: because it's using naive load balancing there might be some jank as containers wake up.<p>No data gathering whatsoever outside of requests and also some debug output from parser.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45709856\">https://news.ycombinator.com/item?id=45709856</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://microdiagram.com",
+    "tags": [
+      "diagram",
+      "visualization",
+      "framework",
+      "prototype",
+      "microdiagram"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "MicroDiagram is a framework for small diagramming languages, aiming to make visual aids during conversations easier for the average person. It's a hobby project focused on simplifying diagram creation.",
+    "summary_zh": "MicroDiagram是一个小型图表语言框架，旨在使普通人在对话中使用视觉辅助工具变得更容易。 这是一个致力于简化图表创建的业余项目。",
+    "best_quote_en": "visual aids during conversation are helpfull but also too difficult for an average person.",
+    "best_quote_zh": "对话过程中的视觉辅助很有帮助，但对普通人来说也太难了。"
+  },
+  {
+    "id": 305,
+    "title": "Show HN: Raise Animals – Codes, Calculators and Wiki Guide 2025",
+    "source": "Hackernews",
+    "desc": "<p>Get all Raise Animals codes, breeding calculators, egg hatching tools, and complete wiki guide. Join Discord for new codes daily! Updated October 2025.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45709855\">https://news.ycombinator.com/item?id=45709855</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://raiseanimals.me/",
+    "tags": [
+      "raise animals",
+      "roblox",
+      "game guide",
+      "codes",
+      "calculators"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This article provides guides and tools for the Roblox game Raise Animals, updated as of October 26, 2025. It includes active codes for free rewards, breeding and hatching calculators, information on rare animals, and advice on money-making strategies, mutation systems, and script safety.",
+    "summary_zh": "本文提供Roblox游戏《Raise Animals》的指南和工具，截止到2025年10月26日更新。内容包括免费奖励的有效代码、繁殖和孵化计算器、稀有动物信息，以及关于赚钱策略、变异系统和脚本安全的建议。",
+    "best_quote_en": "Planning breeding combinations and egg hatching can save you hours of grinding and help you build the perfect animal collection faster.",
+    "best_quote_zh": "规划繁殖组合和孵蛋可以节省你数小时的苦力，并帮助你更快地构建完美的动物收藏。"
+  },
+  {
+    "id": 306,
+    "title": "The Anti-Tail of 3I/Atlas Turned to a Tail",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://avi-loeb.medium.com/the-anti-tail-of-3i-atlas-turned-to-a-tail-9ad2479b6633\">https://avi-loeb.medium.com/the-anti-tail-of-3i-atlas-turned-to-a-tail-9ad2479b6633</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45709847\">https://news.ycombinator.com/item?id=45709847</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://avi-loeb.medium.com/the-anti-tail-of-3i-atlas-turned-to-a-tail-9ad2479b6633",
+    "tags": [
+      "3i/atlas",
+      "interstellar object",
+      "anti-tail",
+      "avi loeb",
+      "coma"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "Observations of interstellar object 3I/ATLAS show a transition from an anti-tail to a tail as it approaches the Sun. This is attributed to changes in the sublimation rate of ice fragments, driven by solar radiation. The object's mass loss is a tiny fraction of its total mass, and future observations will help determine if it's a natural comet or something more exotic.",
+    "summary_zh": "对星际天体3I/ATLAS的观测显示，随着它接近太阳，其反尾转变为尾。这归因于太阳辐射驱动下冰碎片升华率的变化。该天体的质量损失仅占其总质量的一小部分，未来的观测将有助于确定它是一个天然彗星还是更奇特的东西。",
+    "best_quote_en": "Needless to say, we cannot infer the true nature of 3I/ATLAS from the skin layer that it shed so far.",
+    "best_quote_zh": "毋庸置疑，我们无法从 3I/ATLAS 迄今为止脱落的表层来推断它的真正性质。"
+  },
+  {
+    "id": 307,
+    "title": "Over 700M events/second: How we make sense of too much data",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/\">https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45709841\">https://news.ycombinator.com/item?id=45709841</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/",
+    "tags": [
+      "data-pipeline",
+      "downsampling",
+      "cloudflare",
+      "analytics",
+      "data-management"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "Cloudflare ingests up to 706M events/second, a 100x growth since 2018. To manage this data volume, they use techniques like downsampling to retain valuable information even when data must be dropped. This involves controlled data loss to maintain a blurry but useful view, ensuring continuous data flow and improving analytics accuracy by adaptive sampling.",
+    "summary_zh": "Cloudflare的数据管道每秒接收高达7.06亿个事件，自2018年以来增长了100倍。为了管理如此庞大的数据量，他们采用了诸如下采样等技术，即使在必须丢弃数据时也能保留有价值的信息。这涉及到受控的数据丢失，以保持模糊但有用的视图，确保连续的数据流，并通过自适应采样提高分析的准确性。",
+    "best_quote_en": "Dropping data to retain information",
+    "best_quote_zh": "丢弃数据以保留信息"
   }]
