@@ -5746,4 +5746,22 @@
     "summary_zh": "Cloudflare的数据管道每秒接收高达7.06亿个事件，自2018年以来增长了100倍。为了管理如此庞大的数据量，他们采用了诸如下采样等技术，即使在必须丢弃数据时也能保留有价值的信息。这涉及到受控的数据丢失，以保持模糊但有用的视图，确保连续的数据流，并通过自适应采样提高分析的准确性。",
     "best_quote_en": "Dropping data to retain information",
     "best_quote_zh": "丢弃数据以保留信息"
+  },{
+    "id": 308,
+    "title": "Kide – Fast and Lightweight Kubernetes IDE",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/openobserve/kide\">https://github.com/openobserve/kide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45718355\">https://news.ycombinator.com/item?id=45718355</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/openobserve/kide",
+    "tags": [
+      "kubernetes",
+      "ide",
+      "vue",
+      "tauri",
+      "tailwind css"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "OpenObserve Kide is a lightweight and fast Kubernetes IDE. It can be installed on macOS, Linux, and Windows. Development requires Node.js and Rust. The project uses Vue 3, Tailwind CSS, and Tauri for a native desktop app with hot module replacement and fast performance.",
+    "summary_zh": "OpenObserve Kide是一个轻量且快速的Kubernetes IDE。它可以安装在macOS、Linux和Windows上。开发需要Node.js和Rust。该项目使用Vue 3、Tailwind CSS和Tauri，构建具有热模块替换和快速性能的原生桌面应用程序。",
+    "best_quote_en": "OpenObserve Kide is a lightweight and fast Kubernetes IDE.",
+    "best_quote_zh": "OpenObserve Kide是一个轻量且快速的Kubernetes IDE。"
   }]
