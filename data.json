@@ -5764,4 +5764,79 @@
     "summary_zh": "OpenObserve Kide是一个轻量且快速的Kubernetes IDE。它可以安装在macOS、Linux和Windows上。开发需要Node.js和Rust。该项目使用Vue 3、Tailwind CSS和Tauri，构建具有热模块替换和快速性能的原生桌面应用程序。",
     "best_quote_en": "OpenObserve Kide is a lightweight and fast Kubernetes IDE.",
     "best_quote_zh": "OpenObserve Kide是一个轻量且快速的Kubernetes IDE。"
+  },{
+    "id": 309,
+    "title": "Tech on the Toilet: Driving Software Excellence, One Bathroom Break at a Time",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://testing.googleblog.com/2024/12/tech-on-toilet-driving-software.html\">https://testing.googleblog.com/2024/12/tech-on-toilet-driving-software.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45730143\">https://news.ycombinator.com/item?id=45730143</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://testing.googleblog.com/2024/12/tech-on-toilet-driving-software.html",
+    "tags": [
+      "software development",
+      "google",
+      "best practices",
+      "testing",
+      "culture"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "Tech on the Toilet (TotT) is a weekly one-page publication at Google, delivering software development best practices in bathroom stalls. It started as Testing on the Toilet to promote software testing culture and evolved to cover broader topics. TotT empowers Google employees to learn and drives positive change, influencing internal tool adoption and inspiring similar publications.",
+    "summary_zh": "Tech on the Toilet (TotT) 是谷歌每周发布的一页出版物，在卫生间提供软件开发最佳实践。它最初是 Testing on the Toilet，旨在推广软件测试文化，后来发展到涵盖更广泛的主题。TotT 帮助谷歌员工学习，推动积极变革，影响内部工具采用，并启发了类似的出版物。",
+    "best_quote_en": "After all, where better to ponder the mysteries of the code than in a place of quiet contemplation?",
+    "best_quote_zh": "毕竟，有什么地方比在安静沉思的地方更能思考代码的奥秘呢？"
+  },
+  {
+    "id": 310,
+    "title": "Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/microsoft/call-center-ai\">https://github.com/microsoft/call-center-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45730127\">https://news.ycombinator.com/item?id=45730127</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/microsoft/call-center-ai",
+    "tags": [
+      "ai",
+      "call center",
+      "azure",
+      "openai",
+      "gpt-4.1"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "Microsoft releases an AI call center stack with voice, SMS, and memory, leveraging Azure and OpenAI GPT. It features enhanced communication, advanced intelligence with GPT-4.1, customization options, and cloud-native deployment for scalability and cost optimization. A French demo showcases its capabilities including call handling, data storage, and automated tasks.",
+    "summary_zh": "微软发布了具有语音、短信和记忆功能的AI呼叫中心堆栈，利用Azure和OpenAI GPT。它具有增强的通信功能、使用GPT-4.1的先进智能、定制选项以及云原生部署，从而实现可扩展性和成本优化。一个法语演示展示了其功能，包括呼叫处理、数据存储和自动化任务。",
+    "best_quote_en": "Historical conversations and past interactions can also be used to fine-tune the LLM, improving accuracy and personalization over time.",
+    "best_quote_zh": "历史对话和过去的互动也可以用来微调LLM，随着时间的推移提高准确性和个性化。"
+  },
+  {
+    "id": 311,
+    "title": "Fire Temple of Yazd",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Fire_Temple_of_Yazd\">https://en.wikipedia.org/wiki/Fire_Temple_of_Yazd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45730122\">https://news.ycombinator.com/item?id=45730122</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Fire_Temple_of_Yazd",
+    "tags": [
+      "fire temple",
+      "zoroastrian",
+      "yazd",
+      "iran",
+      "atash behram"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "The Fire Temple of Yazd, also known as Yazd Atash Behram, is a Zoroastrian fire temple in Yazd, Iran, enshrining the Atash Behram, dated to 470 AD. It is one of the nine Atash Behrams and the only one in Iran, where Zoroastrians have practiced their religion since 400 BC. The temple's construction dates to 1934, with funds from Parsi Zoroastrians of India, and houses a sacred fire that has been burning for over 1500 years.",
+    "summary_zh": "亚兹德火庙，又称亚兹德阿塔什·贝赫拉姆，是伊朗亚兹德的一座琐罗亚斯德教火庙，供奉着公元470年的阿塔什·贝赫拉姆。它是九座阿塔什·贝赫拉姆之一，也是伊朗境内唯一的一座，自公元前400年以来，琐罗亚斯德教徒一直在那里进行宗教活动。 该庙建于1934年，资金来自印度帕西琐罗亚斯德教徒，庙内有一处已燃烧超过1500年的圣火。",
+    "best_quote_en": "This sacred fire (also known as Behram Fire) is the longest burning flame in Iran. It was kindled more than 1,500 years ago, it is still burning and it has never died down.",
+    "best_quote_zh": "这圣火（也称为贝赫拉姆之火）是伊朗燃烧时间最长的火焰。它于1500多年前点燃，至今仍在燃烧，而且从未熄灭。"
+  },
+  {
+    "id": 312,
+    "title": "Ask HN: Why didn't online speed-dating catch on?",
+    "source": "Hackernews",
+    "desc": "<p>Why isn't online speed-dating main stream? I noticed there are some apps that try to do it but they are not popular at all.<p>To me this seems so much more efficient than the endless swiping and pointless texting.<p>I'm thinking about trying to create and promote such an app myself. WDYT?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45730115\">https://news.ycombinator.com/item?id=45730115</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45730115",
+    "tags": [
+      "online dating",
+      "speed dating",
+      "dating apps",
+      "efficiency",
+      "market analysis"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "The author is curious why online speed-dating hasn't become mainstream despite its potential efficiency compared to traditional dating apps with endless swiping and texting. They are considering developing and promoting such an app themselves.",
+    "summary_zh": "作者好奇为什么在线快速约会没有成为主流，尽管与传统的约会应用程序（无休止的滑动和发短信）相比，它具有潜在的效率。他们正在考虑自己开发和推广这样的应用程序。",
+    "best_quote_en": "To me this seems so much more efficient than the endless swiping and pointless texting.",
+    "best_quote_zh": "对我来说，这似乎比无休止的滑动和毫无意义的短信要高效得多。"
   }]
