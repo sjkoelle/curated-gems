@@ -5839,4 +5839,79 @@
     "summary_zh": "作者好奇为什么在线快速约会没有成为主流，尽管与传统的约会应用程序（无休止的滑动和发短信）相比，它具有潜在的效率。他们正在考虑自己开发和推广这样的应用程序。",
     "best_quote_en": "To me this seems so much more efficient than the endless swiping and pointless texting.",
     "best_quote_zh": "对我来说，这似乎比无休止的滑动和毫无意义的短信要高效得多。"
+  },{
+    "id": 313,
+    "title": "EU Cloud Sovereignty Framework",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Cloud-Sovereignty-Framework-How-the-EU-will-assess-cloud-sovereignty-10922224.html\">https://www.heise.de/en/news/Cloud-Sovereignty-Framework-How-the-EU-will-assess-cloud-sovereignty-10922224.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45743915\">https://news.ycombinator.com/item?id=45743915</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.heise.de/en/news/Cloud-Sovereignty-Framework-How-the-EU-will-assess-cloud-sovereignty-10922224.html",
+    "tags": [
+      "cloud sovereignty",
+      "eu",
+      "seal",
+      "data protection",
+      "digital strategy"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "The EU's Cloud Sovereignty Framework assesses cloud services against uniform criteria to reduce dependence on non-European providers. It defines metrics for cloud sovereignty, using the SEAL system to rank providers based on compliance with EU standards. The framework considers strategic, legal, operational, and technological dimensions, impacting the European cloud market and requiring additional documentation from providers.",
+    "summary_zh": "欧盟云主权框架根据统一标准评估云服务，以减少对非欧洲供应商的依赖。它定义了云主权的衡量标准，使用SEAL系统根据欧盟标准的合规性对供应商进行排名。该框架考虑战略、法律、运营和技术维度，影响欧洲云市场，并要求供应商提供更多文档。",
+    "best_quote_en": "The new Cloud Sovereignty Framework is intended to help EU institutions and agencies select cloud services based on uniform sovereignty criteria.",
+    "best_quote_zh": "新的云主权框架旨在帮助欧盟机构和机构根据统一的主权标准选择云服务。"
+  },
+  {
+    "id": 314,
+    "title": "Why Foundation Models in Pathology Are Failing",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.23807\">https://arxiv.org/abs/2510.23807</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45743893\">https://news.ycombinator.com/item?id=45743893</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2510.23807",
+    "tags": [
+      "foundation models",
+      "pathology",
+      "artificial intelligence",
+      "cancer diagnosis",
+      "computer vision"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This paper examines why foundation models (FMs) are failing in pathology despite their success in other domains. It identifies seven causes, including biological complexity, ineffective self-supervision, and insufficient data, arguing that current pathology FMs are misaligned with tissue morphology and require a fundamental rethinking.",
+    "summary_zh": "本文探讨了基础模型(FMs)在病理学中失败的原因，尽管它们在其他领域取得了成功。文章指出了七个原因，包括生物复杂性、无效的自监督和数据不足，认为当前病理学FMs与组织形态学不一致，需要从根本上重新思考。",
+    "best_quote_en": "These findings suggest that current pathology foundation models remain conceptually misaligned with the nature of tissue morphology and call for a fundamental rethinking of the paradigm itself.",
+    "best_quote_zh": "这些发现表明，当前病理学的基础模型在概念上仍然与组织形态的本质不一致，需要从根本上重新思考这一范式本身。"
+  },
+  {
+    "id": 315,
+    "title": "We used to sleep in two segments and how modern shift changed sense of time",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://theconversation.com/why-we-used-to-sleep-in-two-segments-and-how-the-modern-shift-changed-our-sense-of-time-267909\">https://theconversation.com/why-we-used-to-sleep-in-two-segments-and-how-the-modern-shift-changed-our-sense-of-time-267909</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45743819\">https://news.ycombinator.com/item?id=45743819</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://theconversation.com/why-we-used-to-sleep-in-two-segments-and-how-the-modern-shift-changed-our-sense-of-time-267909",
+    "tags": [
+      "sleep",
+      "circadian rhythm",
+      "time perception",
+      "light",
+      "insomnia"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "The article discusses how segmented sleep, or sleeping in two shifts, was common throughout history before artificial light and the Industrial Revolution shifted us to continuous sleep. This change has affected our perception of time, and brief awakenings are normal. Understanding this, along with calm acceptance of wakefulness, can improve sleep quality.",
+    "summary_zh": "文章探讨了分段睡眠（即分两段睡眠）在人造光和工业革命之前很常见的现象。这种转变影响了我们对时间的感知，短暂的觉醒是正常的。理解这一点，以及平静地接受清醒状态，可以提高睡眠质量。",
+    "best_quote_en": "The brain’s sense of duration is elastic: anxiety, boredom, or low light tend to make time stretch, while engagement and calm can compress it.",
+    "best_quote_zh": "大脑对持续时间的感知是可变的：焦虑、无聊或弱光往往会拉长时间，而投入和冷静可以压缩时间。"
+  },
+  {
+    "id": 316,
+    "title": "The Principles of Diffusion Models (over 400 pages)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.21890\">https://arxiv.org/abs/2510.21890</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45743810\">https://news.ycombinator.com/item?id=45743810</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://arxiv.org/abs/2510.21890",
+    "tags": [
+      "diffusion models",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence",
+      "generative models"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This monograph introduces the principles of diffusion models, detailing how they transform data into noise and back. It explores variational, score-based, and flow-based perspectives, unified by a time-dependent velocity field. Topics include controllable generation, efficient solvers, and flow-map models, requiring basic deep-learning knowledge.",
+    "summary_zh": "本专著介绍了扩散模型的原理，详细说明了它们如何将数据转换为噪声并再转换回来。它探讨了变分、基于分数和基于流的视角，这些视角由一个随时间变化的速度场统一起来。主题包括可控生成、高效求解器和流图模型，需要基本的深度学习知识。",
+    "best_quote_en": "Diffusion modeling starts by defining a forward process that gradually corrupts data into noise, linking the data distribution to a simple prior through a continuum of intermediate distributions.",
+    "best_quote_zh": "扩散建模首先定义一个前向过程，该过程逐渐将数据破坏为噪声，通过连续的中间分布将数据分布连接到一个简单的先验。"
   }]
