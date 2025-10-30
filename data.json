@@ -5914,4 +5914,60 @@
     "summary_zh": "本专著介绍了扩散模型的原理，详细说明了它们如何将数据转换为噪声并再转换回来。它探讨了变分、基于分数和基于流的视角，这些视角由一个随时间变化的速度场统一起来。主题包括可控生成、高效求解器和流图模型，需要基本的深度学习知识。",
     "best_quote_en": "Diffusion modeling starts by defining a forward process that gradually corrupts data into noise, linking the data distribution to a simple prior through a continuum of intermediate distributions.",
     "best_quote_zh": "扩散建模首先定义一个前向过程，该过程逐渐将数据破坏为噪声，通过连续的中间分布将数据分布连接到一个简单的先验。"
+  },{
+    "id": 317,
+    "title": "AOL Desktop Beta Page",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://beta.aol.com/main\">https://beta.aol.com/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45757406\">https://news.ycombinator.com/item?id=45757406</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://beta.aol.com/main",
+    "tags": [
+      "aol",
+      "desktop",
+      "beta",
+      "software",
+      "updates"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "AOL Desktop is back in beta with an all-new version. Users are invited to test the software and provide feedback. Recent updates include fixes for spam, mail lists, address book errors, and crashes. AOL also offers help resources and other services.",
+    "summary_zh": "AOL Desktop以全新的Beta版本回归。邀请用户测试该软件并提供反馈。最近的更新包括修复垃圾邮件、邮件列表、地址簿错误和崩溃等问题。AOL还提供帮助资源和其他服务。",
+    "best_quote_en": "AOL's premier all-in-one software is back in beta with an ALL NEW version and we want your help to test it.",
+    "best_quote_zh": "AOL首屈一指的多合一软件以全新的测试版回归，我们需要您的帮助来进行测试。"
+  },
+  {
+    "id": 318,
+    "title": "Jupiter's Impact on the Habitable Zone",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.centauri-dreams.org/2025/10/29/jupiters-impact-on-the-habitable-zone/\">https://www.centauri-dreams.org/2025/10/29/jupiters-impact-on-the-habitable-zone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45757376\">https://news.ycombinator.com/item?id=45757376</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.centauri-dreams.org/2025/10/29/jupiters-impact-on-the-habitable-zone/",
+    "tags": [
+      "jupiter",
+      "planetesimals",
+      "protoplanetary disk",
+      "meteorites",
+      "solar system"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "The article discusses Jupiter's role in shaping the protoplanetary disk and its impact on the formation of planetesimals. It explores how Jupiter's gravitational effects created dense bands of planetesimals and influenced the isotopic variation among meteorites, ultimately affecting the formation of terrestrial planets.",
+    "summary_zh": "本文探讨了木星在塑造原行星盘中的作用及其对星子形成的影响。 文章探讨了木星的引力效应如何形成密集的星子带，并影响陨石之间的同位素变化，最终影响类地行星的形成。",
+    "best_quote_en": "\"Chondrites are like time capsules from the dawn of the solar system. They have fallen to Earth over billions of years, where scientists collect and study them to unlock clues about our cosmic origins.",
+    "best_quote_zh": "“球粒陨石就像太阳系诞生之初的时间胶囊。 它们在数十亿年的时间里落到地球上，科学家们收集并研究它们，以解开我们宇宙起源的线索。"
+  },
+  {
+    "id": 319,
+    "title": "IBM Cloud is experiencing a quantum computer outage",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/10/30/ibm_cloud_experiencing_quantum_computer/\">https://www.theregister.com/2025/10/30/ibm_cloud_experiencing_quantum_computer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45757357\">https://news.ycombinator.com/item?id=45757357</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/10/30/ibm_cloud_experiencing_quantum_computer/",
+    "tags": [
+      "ibm",
+      "quantum computing",
+      "outage",
+      "qiskit",
+      "ibm_aachen"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "IBM's quantum computer, ibm_aachen, experienced an outage within the Qiskit Runtime service. IBM is working to restore it. Quantum computers are finicky and prone to errors due to factors like temperature changes causing quantum decoherence. Unlike classical computers, a simple restart might not fix the issue.",
+    "summary_zh": "IBM的量子计算机ibm_aachen在Qiskit Runtime服务中出现故障。IBM正在努力恢复。量子计算机非常不稳定，容易出错，例如温度变化会导致量子退相干。与传统计算机不同，简单的重启可能无法解决问题。",
+    "best_quote_en": "We’re guessing that turning it off and on again won’t help given qubits can be on and off at the same time",
+    "best_quote_zh": "我们猜测，考虑到量子比特可以同时处于开启和关闭状态，重启可能也无济于事。"
   }]
