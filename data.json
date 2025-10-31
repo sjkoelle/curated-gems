@@ -5970,4 +5970,79 @@
     "summary_zh": "IBM的量子计算机ibm_aachen在Qiskit Runtime服务中出现故障。IBM正在努力恢复。量子计算机非常不稳定，容易出错，例如温度变化会导致量子退相干。与传统计算机不同，简单的重启可能无法解决问题。",
     "best_quote_en": "We’re guessing that turning it off and on again won’t help given qubits can be on and off at the same time",
     "best_quote_zh": "我们猜测，考虑到量子比特可以同时处于开启和关闭状态，重启可能也无济于事。"
+  },{
+    "id": 320,
+    "title": "Ask HN: Are employee stock programs in startups inherently unfair?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://capitalfolly.com/philz-coffee/\">https://capitalfolly.com/philz-coffee/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45769286\">https://news.ycombinator.com/item?id=45769286</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://capitalfolly.com/philz-coffee/",
+    "tags": [
+      "venture capital",
+      "employee stock",
+      "startup",
+      "philz coffee",
+      "liquidation preference"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "Philz Coffee, once a promising startup, was sold for $145 million, but employees with stock options received nothing due to venture capital's liquidation preferences. The company's decline was accelerated by the pandemic, leading to a down round of funding and ultimately a sale where preferred shareholders were prioritized over common stockholders.",
+    "summary_zh": "Philz Coffee曾是一家很有前途的初创公司，最终以1.45亿美元的价格出售，但由于风险投资的清算优先权，拥有股票期权的员工一无所获。疫情加速了公司的衰落，导致融资估值下降，最终在出售时优先股股东的利益高于普通股股东。",
+    "best_quote_en": "Unless the existing investors (preferred shareholders) collectively agree to make a different distribution. That’s very rare.",
+    "best_quote_zh": "除非现有投资者（优先股股东）一致同意进行不同的分配方案，但这非常罕见。"
+  },
+  {
+    "id": 321,
+    "title": "Ask HN: What frustrates Engineering Managers most?",
+    "source": "Hackernews",
+    "desc": "<p>I am currently trying to build a product that handles communications and management work for engineering managers.<p>I struggled with similar problems myself and set to solve it.<p>Currently I am looking to get my first set of power users and also validation for the idea.<p>Would be a great help to know the frustrations and main pain points of engineering managers and tech leads.<p>I am thinking of starting with startups with at least 10 engineers to pilot and test the product and grow from there on.<p>All inputs are highly appreciated.<p>For reference:<p>Twitter: https://x.com/harmonyai_\nWebsite: https://getharmony.ai</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45769282\">https://news.ycombinator.com/item?id=45769282</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45769282",
+    "tags": [
+      "engineering management",
+      "product development",
+      "communication",
+      "startups",
+      "pain points"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "An individual is developing a product aimed at streamlining communications and management for engineering managers. They are seeking input from engineering managers and tech leads regarding their frustrations and pain points to validate the product idea and gather early users, focusing on startups with at least 10 engineers.",
+    "summary_zh": "一位开发者正在构建一款旨在简化工程经理沟通和管理的产品。他们正在寻求工程经理和技术主管的反馈，了解他们的痛点，以验证产品理念并收集早期用户，重点关注至少有10名工程师的初创公司。",
+    "best_quote_en": "Would be a great help to know the frustrations and main pain points of engineering managers and tech leads.",
+    "best_quote_zh": "了解工程经理和技术主管的挫折和主要痛点将非常有帮助。"
+  },
+  {
+    "id": 322,
+    "title": "Nethack",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.nethack.org/\">https://www.nethack.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45769278\">https://news.ycombinator.com/item?id=45769278</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.nethack.org/",
+    "tags": [
+      "nethack",
+      "roguelike",
+      "game",
+      "museum",
+      "security"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "NetHack is a single-player roguelike video game. The game has been inducted into The Museum of Modern Art. Current version is 3.6.7, which includes security fixes. The website provides information, resources, and references for the game and developers. It also features links to various articles and mentions of NetHack in popular media.",
+    "summary_zh": "NetHack是一款单人roguelike游戏，已被现代艺术博物馆收藏。当前版本为3.6.7，包含安全修复。该网站为游戏和开发者提供信息、资源和参考，还包含指向各种文章和NetHack在大众媒体中被提及的链接。",
+    "best_quote_en": "Nethack is one of my all-time favorite games, one I've been\nplaying since 1200 baud was smokin' fast.",
+    "best_quote_zh": "Nethack是我一直以来最喜欢的游戏之一，我从1200波特率非常快的时候就开始玩了。"
+  },
+  {
+    "id": 323,
+    "title": "Ask HN: Does Apple dictation (iPhone) process on device?",
+    "source": "Hackernews",
+    "desc": "<p>I come with frustrations. My new iPhone 16 max is a dog. I use to use dictation a lot, has it changed from on device because I can’t get a straight answer from Apples documentation.<p>(1) Support website says yes on device : Dictation requests are processed on your device in many languages—no internet connection is required. When dictating in a search box, dictated text may be sent to the search provider in order to process the search. (https://support.apple.com/en-au/guide/iphone/iph2c0651d2/ios)<p>(2) Device documentation says it will show you if it’s on device or on cloud (it never does) : https://i.postimg.cc/d3pxT9cH/IMG-1661.jpg</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45769238\">https://news.ycombinator.com/item?id=45769238</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45769238",
+    "tags": [
+      "iphone",
+      "dictation",
+      "apple",
+      "on-device",
+      "documentation"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "The user is frustrated with their new iPhone 16 Max's dictation feature. Apple's documentation is inconsistent, with the support website stating on-device processing in many languages, while the device documentation suggests on-cloud processing indicator if internet connection needed, which is not showing up. User suspects inconsistent dictation processing.",
+    "summary_zh": "用户对他们的新iPhone 16 Max的语音输入功能感到沮丧。苹果的文档不一致，支持网站声明许多语言都可以在设备上处理，而设备文档表明，如果需要互联网连接，会显示云处理指示器，但用户并没有看到。用户怀疑语音输入处理不一致。",
+    "best_quote_en": "Dictation requests are processed on your device in many languages—no internet connection is required.",
+    "best_quote_zh": "语音输入请求在许多语言中都在您的设备上处理 - 无需互联网连接。"
   }]
