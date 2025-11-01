@@ -6045,4 +6045,98 @@
     "summary_zh": "用户对他们的新iPhone 16 Max的语音输入功能感到沮丧。苹果的文档不一致，支持网站声明许多语言都可以在设备上处理，而设备文档表明，如果需要互联网连接，会显示云处理指示器，但用户并没有看到。用户怀疑语音输入处理不一致。",
     "best_quote_en": "Dictation requests are processed on your device in many languages—no internet connection is required.",
     "best_quote_zh": "语音输入请求在许多语言中都在您的设备上处理 - 无需互联网连接。"
+  },{
+    "id": 324,
+    "title": "I've built a wireframe library using Shadcn/UI custom registry feature",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/aguiarsc/wireframe-ui\">https://github.com/aguiarsc/wireframe-ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45779954\">https://news.ycombinator.com/item?id=45779954</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/aguiarsc/wireframe-ui",
+    "tags": [
+      "wireframe",
+      "ui",
+      "shadcn",
+      "mockup",
+      "ide"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "Wireframe-UI offers wireframe components for direct integration into apps, bypassing Figma. Users can quickly build mockups in their IDE. It can be installed via Shadcn/UI's custom registry feature. The documentation is available on the Wireframe-UI website and licensed under the MIT license.",
+    "summary_zh": "Wireframe-UI 提供了线框组件，可以直接集成到应用程序中，无需使用 Figma。用户可以在 IDE 中快速构建模型。它可以通过 Shadcn/UI 的自定义注册表功能进行安装。文档可在 Wireframe-UI 网站上找到，并根据 MIT 许可证获得许可。",
+    "best_quote_en": "Wireframe components that you can copy and paste into your apps. Skip Figma. Build mockups directly in your IDE.",
+    "best_quote_zh": "您可以复制并粘贴线框组件到您的应用程序中。跳过 Figma。直接在您的 IDE 中构建模型。"
+  },
+  {
+    "id": 325,
+    "title": "The Secret World of Russia's Cold War Mapmakers (2015)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.wired.com/2015/07/secret-cold-war-maps/\">https://www.wired.com/2015/07/secret-cold-war-maps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45779933\">https://news.ycombinator.com/item?id=45779933</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.wired.com/2015/07/secret-cold-war-maps/",
+    "tags": [
+      "soviet maps",
+      "cold war",
+      "cartography",
+      "russia",
+      "espionage"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "During the Cold War, the Soviet military secretly mapped the entire world with incredible detail. These maps contained information not found on domestic maps, such as road widths and bridge load capacities. After the Soviet Union's collapse, these maps were sold and acquired by governments, libraries, and researchers. John Davies, a retired software developer, has dedicated years to studying these maps, revealing their comprehensive nature.",
+    "summary_zh": "冷战期间，苏联军方秘密绘制了全世界的详细地图。这些地图包含国内地图上找不到的信息，例如道路宽度和桥梁承重能力。苏联解体后，这些地图被出售，并被政府、图书馆和研究人员获得。退休软件开发人员John Davies花费数年时间研究这些地图，揭示了它们的全面性。",
+    "best_quote_en": "Rather, they were a framework for organizing much of what the Soviets knew about the world, almost like a mashup of Google Maps and Wikipedia, built from paper.",
+    "best_quote_zh": "不如说，它们是组织苏联人所了解的世界的框架，几乎就像是纸上版的谷歌地图和维基百科的混合体。"
+  },
+  {
+    "id": 326,
+    "title": "Universe Is Not a Computer Simulation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.sci.news/physics/universe-simulation-14321.html\">https://www.sci.news/physics/universe-simulation-14321.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45779926\">https://news.ycombinator.com/item?id=45779926</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.sci.news/physics/universe-simulation-14321.html",
+    "tags": [
+      "universe",
+      "simulation",
+      "non-algorithmic understanding",
+      "quantum gravity",
+      "physics"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "A team of physicists has mathematically proven that the universe cannot be a computer simulation. Their research shows that reality requires \"non-algorithmic understanding,\" which is beyond computation. This understanding precedes space, time, and even quantum gravity, making a complete and consistent description of reality impossible through computation alone. Thus, the universe cannot be a simulation.",
+    "summary_zh": "一个物理学家团队通过数学方法证明了宇宙不可能是计算机模拟。他们的研究表明，现实需要“非算法理解”，这超出了计算能力。这种理解先于空间，时间，甚至量子引力，使得仅通过计算无法对现实进行完整和一致的描述。因此，宇宙不可能是模拟的。",
+    "best_quote_en": "Any simulation is inherently algorithmic — it must follow programmed rules. But since the fundamental level of reality is based on non-algorithmic understanding, the Universe cannot be, and could never be, a simulation.",
+    "best_quote_zh": "任何模拟本质上都是算法式的 —— 它必须遵循预先设定的规则。但由于现实的根本层面是基于非算法理解的，宇宙不可能是，也永远不可能是模拟的。"
+  },
+  {
+    "id": 327,
+    "title": "AI blew open software security, now OpenAI wants to fix it with agent Aardvark",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/10/31/openai_aardvark_agentic_security/\">https://www.theregister.com/2025/10/31/openai_aardvark_agentic_security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45779883\">https://news.ycombinator.com/item?id=45779883</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/10/31/openai_aardvark_agentic_security/",
+    "tags": [
+      "ai",
+      "openai",
+      "security",
+      "vulnerability",
+      "aardvark"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "OpenAI is privately testing Aardvark, an AI agent based on GPT-5, to discover and fix software vulnerabilities. Aardvark scans code repositories, prioritizes bugs, and proposes fixes, using LLM-powered reasoning rather than traditional methods. It has shown effectiveness in internal and external codebases, flagging vulnerabilities and contributing to defensive posture.",
+    "summary_zh": "OpenAI正在私下测试基于GPT-5的AI代理Aardvark，以发现和修复软件漏洞。Aardvark扫描代码仓库，按严重程度排列错误优先级，并提出修复建议，使用LLM驱动的推理而非传统方法。它已在内部和外部代码库中显示出有效性，标记漏洞并为防御态势做出贡献。",
+    "best_quote_en": "\"Aardvark represents a breakthrough in AI and security research: an autonomous agent that can help developers and security teams discover and fix security vulnerabilities at scale.\"",
+    "best_quote_zh": "“Aardvark代表了人工智能和安全研究的一项突破：一种自主代理，可以帮助开发人员和安全团队大规模地发现和修复安全漏洞。”"
+  },
+  {
+    "id": 328,
+    "title": "Hard Rust requirements from May onward for all Debian ports",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel/2025/10/msg00285.html\">https://lists.debian.org/debian-devel/2025/10/msg00285.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45779860\">https://news.ycombinator.com/item?id=45779860</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+    "tags": [
+      "rust",
+      "debian",
+      "apt",
+      "memory safety",
+      "toolchain"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "Julian Andres Klode plans to introduce hard Rust dependencies into APT by May 2026, including the compiler, standard library, and Sequoia ecosystem. This aims to improve memory safety and unit testing for parsing .deb, .ar, .tar, and HTTP signatures. Ports lacking a Rust toolchain should implement it within 6 months or be discontinued.",
+    "summary_zh": "Julian Andres Klode计划在2026年5月前在APT中引入强制的Rust依赖，包括Rust编译器、标准库和Sequoia生态系统。目的是提高解析.deb、.ar、.tar和HTTP签名的内存安全性和单元测试。缺乏Rust工具链的移植版本应在6个月内实现，否则将被停止。",
+    "best_quote_en": "It's important for the project as whole to be able to move forward and rely on modern tools and technologies and not be held back by trying to shoehorn modern software on retro computing devices.",
+    "best_quote_zh": "对于整个项目来说，重要的是能够向前发展并依赖现代工具和技术，而不是因试图将现代软件硬塞到复古计算设备上而受到阻碍。"
   }]
