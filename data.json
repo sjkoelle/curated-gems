@@ -6139,4 +6139,98 @@
     "summary_zh": "Julian Andres Klode计划在2026年5月前在APT中引入强制的Rust依赖，包括Rust编译器、标准库和Sequoia生态系统。目的是提高解析.deb、.ar、.tar和HTTP签名的内存安全性和单元测试。缺乏Rust工具链的移植版本应在6个月内实现，否则将被停止。",
     "best_quote_en": "It's important for the project as whole to be able to move forward and rely on modern tools and technologies and not be held back by trying to shoehorn modern software on retro computing devices.",
     "best_quote_zh": "对于整个项目来说，重要的是能够向前发展并依赖现代工具和技术，而不是因试图将现代软件硬塞到复古计算设备上而受到阻碍。"
+  },{
+    "id": 329,
+    "title": "Webb-Site Shutdown",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://webb-database.com/dbpub/\">https://webb-database.com/dbpub/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45788584\">https://news.ycombinator.com/item?id=45788584</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://webb-database.com/dbpub/",
+    "tags": [
+      "hongkong",
+      "database",
+      "financial data",
+      "statistics",
+      "companies"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The Webb-database is a resource compiling data on individuals, organizations, and statistics from Hong Kong and beyond, started by David M. Webb in 1998 and now maintained independently. The database covers various topics, including HK-listed companies, financial data, regulatory information, and more. The entire database is available for download.",
+    "summary_zh": "Webb-database是一个综合性的资源，收集了香港及其他地区的个人、组织和统计数据。该数据库由David M. Webb于1998年创建，目前由他人独立维护。涵盖香港上市公司、财务数据、监管信息等多个主题。整个数据库可供下载。",
+    "best_quote_en": "Scientia potentia est",
+    "best_quote_zh": "知识就是力量"
+  },
+  {
+    "id": 330,
+    "title": "Color Comparison Between E Ink's Spectra 6 and ChLCD",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/\">https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45788564\">https://news.ycombinator.com/item?id=45788564</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/",
+    "tags": [
+      "e-paper",
+      "spectra 6",
+      "chlcd",
+      "color comparison",
+      "display technology"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "This article compares E Ink's Spectra 6 and ChLCD color e-paper technologies. Spectra 6 uses four ink particles (red, blue, yellow, white) to create six colors, while ChLCD uses three layers of RGB liquid crystals to reproduce over 16 million colors. ChLCD offers a wider color gamut, finer detail, and faster refresh rates, making it suitable for outdoor applications due to its wider operating temperature range. Spectra 6 excels in yellow saturation, but ChLCD provides more accurate color representation overall.",
+    "summary_zh": "本文比较了E Ink的Spectra 6和 ChLCD 彩色电子纸技术。Spectra 6使用四种墨水粒子（红、蓝、黄、白）产生六种颜色，而ChLCD使用三层RGB液晶来重现超过1600万种颜色。ChLCD提供更广的色域、更精细的细节和更快的刷新率，由于其更宽的工作温度范围，更适合户外应用。Spectra 6在黄色饱和度方面表现出色，但ChLCD总体上提供了更准确的色彩表现。",
+    "best_quote_en": "ChLCD can perfectly reproduce more than 16 million colors, creating a rich color image comparable to LCD.",
+    "best_quote_zh": "ChLCD可以完美地再现超过1600万种颜色，创造出可与LCD相媲美的丰富彩色图像。"
+  },
+  {
+    "id": 331,
+    "title": "Show HN: CLI for writing SYLT synced lyrics to MP3 files",
+    "source": "Hackernews",
+    "desc": "<p>I was setting up Navidrome on my home lab and discovered its web interface supports synchronized lyrics, but only in a SYLT format which I never heard of. I wanted to display lyrics for my early song demos, so I tried a few existing tools that claimed to write SYLT lyrics. None of them worked.<p>Turns out SYLT is just a specific ID3 tag type, so I needed to write proper ID3v2 tags. I found the excellent <a href=\"https://github.com/n10v/id3v2\" rel=\"nofollow\">https://github.com/n10v/id3v2</a> library and built go-sylt on top of it to solve this specific problem. The tool reads from common formats (LRC, SRT, VTT) to make it easy to add synced lyrics.<p>One limitation: go-sylt only supports ID3v2.3 and ID3v2.4. If you have older ID3 versions, you'll need to convert them first (I use Kid3 for this).<p>I only discovered this pretty obscure format existed through Navidrome. But if anyone else has run into this issue, I hope this helps. Happy to answer questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45788551\">https://news.ycombinator.com/item?id=45788551</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/mogita/go-sylt",
+    "tags": [
+      "cli",
+      "lyrics",
+      "mp3",
+      "sylt",
+      "go"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "GO SYLT is a CLI tool that writes synchronized lyrics to MP3 files in SYLT format, supporting LRC, SRT, and VTT inputs. It creates new files with a \"- sylt\" suffix. Contributions are welcome, and the project uses Go 1.21 or above. It supports ID3v2.3 and ID3v2.4 tags.",
+    "summary_zh": "GO SYLT 是一个命令行工具，可以将同步歌词以 SYLT 格式写入 MP3 文件，支持 LRC、SRT 和 VTT 输入。它会创建带有 \"- sylt\" 后缀的新文件。欢迎贡献，项目使用 Go 1.21 或更高版本，并且支持 ID3v2.3 和 ID3v2.4 标签。",
+    "best_quote_en": "A pretty convenient CLI tool that reads and writes synced lyrics to MP3 files in SYLT (SYnchronized Lyrics/Text) format.",
+    "best_quote_zh": "一个非常方便的命令行工具，可以读取并将同步歌词以 SYLT (同步歌词/文本) 格式写入 MP3 文件。"
+  },
+  {
+    "id": 332,
+    "title": "The new hot job in AI: forward-deployed engineers",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408\">https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45788526\">https://news.ycombinator.com/item?id=45788526</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408",
+    "tags": [
+      "ai",
+      "engineering",
+      "subscription",
+      "financial times",
+      "news"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The article discusses the emerging role of 'forward-deployed engineers' in AI. It promotes various subscription options for accessing Financial Times content, including digital and print formats, highlighting features like global news, expert opinions, and premium newsletters.",
+    "summary_zh": "文章讨论了人工智能领域新兴的“前沿部署工程师”角色。 它推广了订阅金融时报内容的各种选择，包括数字和印刷版本，突出了全球新闻、专家意见和高级通讯等功能。",
+    "best_quote_en": "Complete digital access to quality FT journalism on any device.",
+    "best_quote_zh": "在任何设备上完全访问高质量的金融时报新闻。"
+  },
+  {
+    "id": 333,
+    "title": "VisualDiffer Released Open Source",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/visualdiffer/visualdiffer\">https://github.com/visualdiffer/visualdiffer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45788505\">https://news.ycombinator.com/item?id=45788505</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/visualdiffer/visualdiffer",
+    "tags": [
+      "visualdiffer",
+      "macos",
+      "folder comparison",
+      "open source",
+      "file comparison"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "VisualDiffer is a macOS application for visually comparing folders and files, highlighting differences. It helps developers and designers manage versions by identifying changes, filtering files, and synchronizing content. Key features include side-by-side comparison, file-level diff view, powerful filters, drag & drop support, export/automation via CLI, and a fast comparison engine. It's open-source under GPL3 License.",
+    "summary_zh": "VisualDiffer 是一款 macOS 应用程序，用于可视化比较文件夹和文件，突出显示差异。 它通过识别更改、过滤文件和同步内容，帮助开发人员和设计人员管理版本。关键特性包括并排比较、文件级差异视图、强大的过滤器、拖放支持、通过 CLI 进行导出/自动化以及快速比较引擎。它是根据 GPL3 许可的开源软件。",
+    "best_quote_en": "VisualDiffer was inspired by the need for a fast, reliable, and elegant folder comparison tool for macOS.",
+    "best_quote_zh": "VisualDiffer 的灵感来自于对 macOS 上一款快速、可靠且优雅的文件夹比较工具的需求。"
   }]
