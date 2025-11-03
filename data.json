@@ -6233,4 +6233,98 @@
     "summary_zh": "VisualDiffer 是一款 macOS 应用程序，用于可视化比较文件夹和文件，突出显示差异。 它通过识别更改、过滤文件和同步内容，帮助开发人员和设计人员管理版本。关键特性包括并排比较、文件级差异视图、强大的过滤器、拖放支持、通过 CLI 进行导出/自动化以及快速比较引擎。它是根据 GPL3 许可的开源软件。",
     "best_quote_en": "VisualDiffer was inspired by the need for a fast, reliable, and elegant folder comparison tool for macOS.",
     "best_quote_zh": "VisualDiffer 的灵感来自于对 macOS 上一款快速、可靠且优雅的文件夹比较工具的需求。"
+  },{
+    "id": 334,
+    "title": "How long until solid decentralized alternative to Instagram?",
+    "source": "Hackernews",
+    "desc": "<p>I feel like the world very much needs a decentralized, censorship-free alternative to Instagram. I know about Pixelfed, but it doesn't seem to have gained much traction. Bluesky-based Flashes still doesn't have an Android version. Any thoughts on main blockers and near-to-medium future developments on this matter?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45796787\">https://news.ycombinator.com/item?id=45796787</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45796787",
+    "tags": [
+      "decentralized",
+      "instagram",
+      "pixelfed",
+      "bluesky",
+      "social media"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The author is seeking information on the progress of decentralized, censorship-free alternatives to Instagram. Mentions Pixelfed and Bluesky-based Flashes, noting their limited traction and lack of Android version respectively. Inquires about blockers and future developments.",
+    "summary_zh": "作者正在寻找关于去中心化、无审查的Instagram替代品的进展信息。提到了Pixelfed和基于Bluesky的Flashes，指出它们分别缺乏吸引力和Android版本。询问了主要障碍和未来的发展。",
+    "best_quote_en": "I feel like the world very much needs a decentralized, censorship-free alternative to Instagram.",
+    "best_quote_zh": "我觉得世界非常需要一个去中心化、无审查的Instagram替代品。"
+  },
+  {
+    "id": 335,
+    "title": "Orcas Repeatedly Attack Young Great White Sharks, Drone Footage Reveals",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/orcas-repeatedly-attack-young-great-white-sharks-drone-footage-reveals/\">https://www.scientificamerican.com/article/orcas-repeatedly-attack-young-great-white-sharks-drone-footage-reveals/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45796776\">https://news.ycombinator.com/item?id=45796776</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.scientificamerican.com/article/orcas-repeatedly-attack-young-great-white-sharks-drone-footage-reveals/",
+    "tags": [
+      "orcas",
+      "great white sharks",
+      "marine science",
+      "predation",
+      "climate change"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Orcas have been observed repeatedly attacking young great white sharks in a shark nursery, using a technique of flipping them onto their backs to induce paralysis. The orcas primarily target the sharks' livers, rich in nutrients. This behavior may be linked to climate change, pushing shark nurseries into orca hunting grounds, potentially disrupting the ecosystem.",
+    "summary_zh": "观察到虎鲸在鲨鱼繁殖区反复攻击幼年大白鲨，采用将其翻转至背部以诱导麻痹的技术。虎鲸主要以富含营养的鲨鱼肝脏为目标。 这种行为可能与气候变化有关，气候变化将幼鲨繁殖区推入虎鲸的狩猎区，可能会破坏生态系统。",
+    "best_quote_en": "\"This behavior is a testament to orcas’ advanced intelligence, strategic thinking, and sophisticated social learning, as the hunting techniques are passed down through generations within their pods.\"",
+    "best_quote_zh": "“这种行为证明了逆戟鲸的高度智慧、战略思维和复杂的社会学习能力，因为狩猎技巧在其种群中代代相传。”"
+  },
+  {
+    "id": 336,
+    "title": "Show HN: Chess but you make your own starting position",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://chess39.com/\">https://chess39.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45796765\">https://news.ycombinator.com/item?id=45796765</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://chess39.com/",
+    "tags": [
+      "chess",
+      "strategy",
+      "customization",
+      "board game",
+      "chess variant"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Chess39 is a chess variant where players create their own starting position within their half of the board using 39 points worth of pieces. It offers advanced and classic modes, online and offline play, and various time controls. The game emphasizes strategic flexibility and custom setups.",
+    "summary_zh": "Chess39 是一种国际象棋变体，玩家可以在棋盘的一半区域内，使用总价值 39 点的棋子创建自己的起始位置。它提供高级和经典模式、在线和离线游戏以及各种时间控制。该游戏强调战略灵活性和自定义设置。",
+    "best_quote_en": "Chess39 is chess where you create your own starting position on your half of the board (4 rows). After setup, normal chess rules apply.",
+    "best_quote_zh": "Chess39 是一种国际象棋，你可以在棋盘的一半（4 行）上创建自己的起始位置。 设置完成后，适用正常的国际象棋规则。"
+  },
+  {
+    "id": 337,
+    "title": "The 1B Token Challenge: Finding the Perfect Pre-Training Mix",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://huggingface.co/blog/codelion/optimal-dataset-mixing\">https://huggingface.co/blog/codelion/optimal-dataset-mixing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45796734\">https://news.ycombinator.com/item?id=45796734</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://huggingface.co/blog/codelion/optimal-dataset-mixing",
+    "tags": [
+      "pre-training",
+      "language models",
+      "dataset mixing",
+      "generalization",
+      "curriculum learning"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The article explores efficient pre-training datasets for language models. It finds that a static mix of 50% finePDFs, 30% DCLM-baseline, and 20% FineWeb-Edu outperforms complex curriculum strategies, balancing quality and diversity. The study emphasizes the validation-generalization tradeoff and identifies the optimal recipe for 1B token datasets, enabling GPT-2-70M training with 1/10th of the data.",
+    "summary_zh": "本文探讨了用于语言模型的高效预训练数据集。研究发现，50% finePDFs、30% DCLM-baseline 和 20% FineWeb-Edu 的静态混合优于复杂的课程策略，从而平衡了质量和多样性。该研究强调了验证-泛化之间的权衡，并确定了 10 亿 token 数据集的最佳配方，能够以 1/10 的数据训练 GPT-2-70M。",
+    "best_quote_en": "You can't have both <10 validation PPL AND <500 FineWiki PPL. The sweet spot is accepting 20-30 validation PPL to achieve 300-400 FineWiki PPL.",
+    "best_quote_zh": "你不能同时拥有小于10的验证困惑度和小于500的FineWiki困惑度。最佳点是接受20-30的验证困惑度来实现300-400的FineWiki困惑度。"
+  },
+  {
+    "id": 338,
+    "title": "Spy gondolas on WWI German zeppelins",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://twitter.com/RealAirPower1/status/1984971965065531810\">https://twitter.com/RealAirPower1/status/1984971965065531810</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45796729\">https://news.ycombinator.com/item?id=45796729</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://twitter.com/RealAirPower1/status/1984971965065531810",
+    "tags": [
+      "javascript",
+      "error",
+      "x corp",
+      "privacy",
+      "website"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The provided text appears to be an error message from X Corp (formerly Twitter) indicating that JavaScript is disabled or that privacy extensions are causing issues with the website. It suggests enabling JavaScript or disabling privacy extensions to resolve the problem.",
+    "summary_zh": "提供的文本似乎是来自X公司（前身为Twitter）的错误消息，表明JavaScript已禁用或隐私扩展程序导致网站出现问题。 它建议启用JavaScript或禁用隐私扩展程序以解决此问题。",
+    "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
+    "best_quote_zh": "出了点问题，但别担心——让我们再试一次。"
   }]
