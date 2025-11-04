@@ -6327,4 +6327,98 @@
     "summary_zh": "提供的文本似乎是来自X公司（前身为Twitter）的错误消息，表明JavaScript已禁用或隐私扩展程序导致网站出现问题。 它建议启用JavaScript或禁用隐私扩展程序以解决此问题。",
     "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
     "best_quote_zh": "出了点问题，但别担心——让我们再试一次。"
+  },{
+    "id": 339,
+    "title": "Antarctic glacier saw the fastest retreat in history; trouble for sea levels",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnn.com/2025/11/03/climate/antarctic-glacier-hektoria-rapid-melt-sea-level\">https://www.cnn.com/2025/11/03/climate/antarctic-glacier-hektoria-rapid-melt-sea-level</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45808437\">https://news.ycombinator.com/item?id=45808437</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnn.com/2025/11/03/climate/antarctic-glacier-hektoria-rapid-melt-sea-level",
+    "tags": [
+      "antarctic glacier",
+      "sea level rise",
+      "climate change",
+      "hektoria glacier",
+      "ice retreat"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "A new study reveals that the Hektoria Glacier in Antarctica shrank by nearly 50% in two months, the fastest retreat ever recorded. This rapid retreat, influenced by climate change and the loss of sea ice, allowed ocean water to reach the glacier. Scientists worry that larger glaciers could undergo similar rapid disintegration, leading to potentially catastrophic sea level rise.",
+    "summary_zh": "一项新研究表明，南极洲的赫克托里亚冰川在短短两个月内缩小了近50%，是有记录以来最快的退却速度。 这种由气候变化和海冰损失引起的快速退却，使海水得以到达冰川。 科学家们担心更大的冰川可能会经历类似的快速解体，从而导致潜在的灾难性海平面上升。",
+    "best_quote_en": "\"This is astonishing; the rate of retreat is just crazy.\"",
+    "best_quote_zh": "“这太令人震惊了； 这种退却的速度太疯狂了。”"
+  },
+  {
+    "id": 340,
+    "title": "Ultra-HD televisions not noticeably better for typical viewer, scientists say",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2025/oct/27/ultra-hd-televisions-4k-8k-not-noticeably-better-study\">https://www.theguardian.com/technology/2025/oct/27/ultra-hd-televisions-4k-8k-not-noticeably-better-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45808430\">https://news.ycombinator.com/item?id=45808430</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/technology/2025/oct/27/ultra-hd-televisions-4k-8k-not-noticeably-better-study",
+    "tags": [
+      "ultra-hd",
+      "television",
+      "resolution",
+      "4k",
+      "8k"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "Research from the University of Cambridge and Meta suggests that for average-sized living rooms, 4K or 8K screens offer no noticeable benefit over similarly sized 2K screens. The study found that the human eye can resolve more detail than commonly thought, but upgrading to a higher resolution may not always result in a sharper image for typical viewers.",
+    "summary_zh": "剑桥大学和Meta的研究表明，对于普通大小的客厅，4K或8K屏幕与同等大小的2K屏幕相比，没有明显的优势。研究发现，人眼可以分辨出比通常认为的更多的细节，但升级到更高的分辨率并不总是能为普通观众带来更清晰的图像。",
+    "best_quote_en": "\"At a certain viewing distance, it doesn’t matter how many pixels you add. It’s just, I suppose, wasteful because your eye can’t really detect it.\"",
+    "best_quote_zh": "“在一定的观看距离上，增加多少像素都没有关系。我想，这只是浪费，因为你的眼睛根本无法察觉到。”"
+  },
+  {
+    "id": 341,
+    "title": "Ask HN: How to detect Google Play review completion via API?",
+    "source": "Hackernews",
+    "desc": "<p>Hi all,<p>We’ve hit a limitation with the Google Play Developer API during automation and wondered if anyone has found a workaround.<p>Short background:\nUsing the Google Play Developer API, we can upload artifacts and move releases between tracks (internal/alpha/beta/production).\nHowever, once a release is submitted for review, there’s no API to read the review status (e.g., “in review,” “approved,” “rejected”), and you cannot remotely trigger the final publish after review completes.<p>Reference issue:\n https://issuetracker.google.com/issues/179708468<p>This is blocking our end-to-end automation: we can push builds and submit for review, but we can’t reliably detect when review finishes or automatically finalize the rollout.<p>Questions for the community:<p>Has anyone found a direct API (official or undocumented) that provides review status?<p>Any reliable workarounds? (examples: polling track/release timestamps, scraping Play Console UI, email/webhook notifications, or manual gates)<p>If you had to design a robust release pipeline around this limitation, what approach did you take?<p>Thanks — any pointers, scripts, or experiences would be hugely helpful!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45808419\">https://news.ycombinator.com/item?id=45808419</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45808419",
+    "tags": [
+      "google play",
+      "api",
+      "automation",
+      "review status",
+      "release pipeline"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The author is seeking solutions for detecting Google Play review completion via API. The Google Play Developer API lacks an endpoint to read the review status of submitted releases or trigger the final publish after review. The author asks the community for direct APIs, reliable workarounds, or approaches to design a robust release pipeline around this limitation.",
+    "summary_zh": "作者正在寻求通过API检测Google Play审核完成状态的解决方案。Google Play开发者API缺少读取已提交版本的审核状态或在审核完成后触发最终发布的端点。作者向社区寻求直接API、可靠的变通方法或围绕此限制设计稳健发布管道的方法。",
+    "best_quote_en": "This is blocking our end-to-end automation: we can push builds and submit for review, but we can’t reliably detect when review finishes or automatically finalize the rollout.",
+    "best_quote_zh": "这阻碍了我们的端到端自动化：我们可以推送构建并提交审核，但我们无法可靠地检测到审核何时完成或自动完成发布。"
+  },
+  {
+    "id": 342,
+    "title": "Sprout by Edera: UEFI Bootloader in Rust",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/edera-dev/sprout\">https://github.com/edera-dev/sprout</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45808416\">https://news.ycombinator.com/item?id=45808416</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/edera-dev/sprout",
+    "tags": [
+      "uefi",
+      "bootloader",
+      "rust",
+      "secure boot",
+      "chainload"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "Sprout is a programmable UEFI bootloader written in Rust, designed for x86_64 and ARM64 EFI systems. It aims to be flexible, secure, and modern, using a machine-readable configuration for boot information. Sprout supports features like loadable drivers, BLS, chainload, and Secure Boot, and is intended for use in development and production environments.",
+    "summary_zh": "Sprout 是一个用 Rust 编写的可编程 UEFI 引导加载程序，专为 x86_64 和 ARM64 EFI 系统设计。它的目标是灵活、安全和现代，使用机器可读的配置来实现引导信息。Sprout 支持可加载驱动程序、BLS、链式加载和安全启动等功能，旨在用于开发和生产环境。",
+    "best_quote_en": "Sprout was designed to take in a machine-readable, writable, and modifiable configuration that treats boot information like data plus configuration, and can be chained from both UEFI firmware and GRUB alike.",
+    "best_quote_zh": "Sprout 的设计旨在采用机器可读、可写和可修改的配置，将引导信息视为数据加配置，并且可以从 UEFI 固件和 GRUB 进行链式加载。"
+  },
+  {
+    "id": 343,
+    "title": "Unofficial Microsoft Teams Client for Linux",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/IsmaelMartinez/teams-for-linux\">https://github.com/IsmaelMartinez/teams-for-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45808407\">https://news.ycombinator.com/item?id=45808407</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/IsmaelMartinez/teams-for-linux",
+    "tags": [
+      "teams",
+      "linux",
+      "client",
+      "application",
+      "unofficial"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This is an unofficial Microsoft Teams client for Linux, a native desktop app wrapping the Teams web version. It offers system notifications, tray integration, custom themes, screen sharing, and multiple account support. Installation is available via package repositories or manual download. It's not affiliated with Microsoft and some features are limited.",
+    "summary_zh": "这是一个非官方的 Linux 版 Microsoft Teams 客户端，一个封装了 Teams 网页版的原生桌面应用。它提供系统通知、托盘集成、自定义主题、屏幕共享和多账户支持。可以通过包存储库或手动下载进行安装。它不隶属于微软，某些功能受到限制。",
+    "best_quote_en": "System-level sandboxing provides better isolation than Electron's built-in features while preserving full functionality.",
+    "best_quote_zh": "系统级沙箱比Electron的内置功能提供更好的隔离，同时保留完整的功能。"
   }]
