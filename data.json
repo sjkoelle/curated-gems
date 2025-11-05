@@ -6421,4 +6421,78 @@
     "summary_zh": "这是一个非官方的 Linux 版 Microsoft Teams 客户端，一个封装了 Teams 网页版的原生桌面应用。它提供系统通知、托盘集成、自定义主题、屏幕共享和多账户支持。可以通过包存储库或手动下载进行安装。它不隶属于微软，某些功能受到限制。",
     "best_quote_en": "System-level sandboxing provides better isolation than Electron's built-in features while preserving full functionality.",
     "best_quote_zh": "系统级沙箱比Electron的内置功能提供更好的隔离，同时保留完整的功能。"
+  },{
+    "id": 344,
+    "title": "2025 Component Abuse Challenge: A Transistor as a Voltage Reference",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://hackaday.com/2025/11/01/2025-component-abuse-challenge-a-transistor-as-a-voltage-reference/\">https://hackaday.com/2025/11/01/2025-component-abuse-challenge-a-transistor-as-a-voltage-reference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45820509\">https://news.ycombinator.com/item?id=45820509</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://hackaday.com/2025/11/01/2025-component-abuse-challenge-a-transistor-as-a-voltage-reference/",
+    "tags": [
+      "transistor",
+      "voltage reference",
+      "component abuse",
+      "breakdown mode"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Ken Yap's component abuse challenge entry uses a transistor's base-emitter junction as a voltage reference in reverse biased breakdown mode. This damages the transistor's function. The voltage observed is consistent within the same transistor type, around 9.5V for NPN and 6.5V for PNP devices.",
+    "summary_zh": "Ken Yap的组件滥用挑战赛作品将晶体管的基极-发射极结用作反向偏置击穿模式下的电压参考。这会损坏晶体管的功能。在同一类型的晶体管中，观察到的电压是一致的，NPN器件约为9.5V，PNP器件约为6.5V。",
+    "best_quote_en": "Using one of those cheap grab bags of transistor seconds, he finds that devices of the same type maintain the same voltage.",
+    "best_quote_zh": "他发现，使用那些廉价的晶体管次品，同类型的器件保持相同的电压。"
+  },
+  {
+    "id": 345,
+    "title": "Awk Technical Notes (2023)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://maximullaris.com/awk_tech_notes.html\">https://maximullaris.com/awk_tech_notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45820502\">https://news.ycombinator.com/item?id=45820502</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://maximullaris.com/awk_tech_notes.html",
+    "tags": [
+      "awk",
+      "garbage collection",
+      "syntax",
+      "parser",
+      "technical notes"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This article discusses interesting technical aspects of AWK, including its lack of garbage collection (GC), the implications of using local variables for resource management, autovivification, the unary operator '$', function calling conventions (especially differences between user-defined and built-in functions), and how built-in functions are parsed as part of the language's grammar for flexibility and terseness.",
+    "summary_zh": "本文讨论了AWK的一些有趣的技术方面，包括它缺乏垃圾回收（GC），使用局部变量进行资源管理的影响，自动激活，一元运算符'$'，函数调用约定（特别是用户定义函数和内置函数之间的差异），以及内置函数如何被解析为语言语法的一部分，以实现灵活性和简洁性。",
+    "best_quote_en": "The absense of GC allows to keep the language implementation very simple, thus fast and portable.",
+    "best_quote_zh": "没有GC使得语言实现非常简单，因此快速且可移植。"
+  },
+  {
+    "id": 346,
+    "title": "China offers tech giants cheap power to boost domestic AI chips",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ft.com/content/cad2cdd6-7cce-4de3-8710-977de667378c\">https://www.ft.com/content/cad2cdd6-7cce-4de3-8710-977de667378c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45820476\">https://news.ycombinator.com/item?id=45820476</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ft.com/content/cad2cdd6-7cce-4de3-8710-977de667378c",
+    "tags": [
+      "china",
+      "ai chips",
+      "technology",
+      "power",
+      "subscriptions"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "China is offering tech giants cheap power to support the development of domestic AI chips. The article promotes subscriptions to the Financial Times, outlining different access levels and benefits.",
+    "summary_zh": "中国通过向科技巨头提供廉价电力，以支持国产AI芯片的开发。文章主要推广了金融时报的订阅服务，并详细介绍了不同的订阅级别及其权益。",
+    "best_quote_en": "Access to eight surprising articles a day, hand-picked by FT editors.",
+    "best_quote_zh": "每天可以访问由英国《金融时报》编辑精选的八篇令人惊喜的文章。"
+  },
+  {
+    "id": 347,
+    "title": "You are going to get priced out of the best AI coding tools",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of\">https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45820416\">https://news.ycombinator.com/item?id=45820416</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of",
+    "tags": [
+      "ai coding tools",
+      "pricing",
+      "inference",
+      "llm",
+      "compute cost"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The author argues that the best AI coding tools will become significantly more expensive due to increased demand for more powerful and faster inference. He points to the rising costs of AI coding subscriptions and the potential for even higher prices for top-tier research agents. While competition and hardware improvements might mitigate costs, the author believes the trend towards pricier AI tools is likely to continue.",
+    "summary_zh": "作者认为，由于对更强大和更快速推理的需求增加，最佳AI编程工具将变得更加昂贵。他指出AI编程订阅费用不断上涨，以及顶级研究代理可能出现更高的价格。虽然竞争和硬件改进可能会降低成本，但作者认为AI工具价格上涨的趋势可能会持续下去。",
+    "best_quote_en": "when they can, they do it much cheaper than people!",
+    "best_quote_zh": "当它们能做到时，它们就比人类做得便宜得多！"
   }]
