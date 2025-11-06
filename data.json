@@ -6495,4 +6495,60 @@
     "summary_zh": "作者认为，由于对更强大和更快速推理的需求增加，最佳AI编程工具将变得更加昂贵。他指出AI编程订阅费用不断上涨，以及顶级研究代理可能出现更高的价格。虽然竞争和硬件改进可能会降低成本，但作者认为AI工具价格上涨的趋势可能会持续下去。",
     "best_quote_en": "when they can, they do it much cheaper than people!",
     "best_quote_zh": "当它们能做到时，它们就比人类做得便宜得多！"
+  },{
+    "id": 348,
+    "title": "New repository engagements page on trendshift.io",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://julianli.co/articles/repository-engagements-page-on-trendshift-io\">https://julianli.co/articles/repository-engagements-page-on-trendshift-io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45832622\">https://news.ycombinator.com/item?id=45832622</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://julianli.co/articles/repository-engagements-page-on-trendshift-io",
+    "tags": [
+      "trendshift.io",
+      "github trending",
+      "open source",
+      "repository engagements",
+      "repository activity"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The author launched a new \"Repository Engagements\" page on trendshift.io to address the challenges of finding interesting and new open-source projects on GitHub Trending. The page tracks monthly repository activity, allowing users to filter repositories based on creation date and view activity charts to assess popularity and maintenance. Future features include repository grouping/bookmarking, comprehensive search with custom filters, and repository comparison.",
+    "summary_zh": "作者在 trendshift.io 上推出了新的“Repository Engagements”页面，旨在解决在 GitHub Trending 上查找有趣和新的开源项目的挑战。该页面跟踪每月存储库活动，允许用户根据创建日期过滤存储库，并查看活动图表以评估受欢迎程度和维护状态。未来的功能包括存储库分组/书签、具有自定义过滤器的全面搜索以及存储库比较。",
+    "best_quote_en": "Trendshift.io now continuously pulls data from GitHub and stores the monthly activity of tracked repositories.",
+    "best_quote_zh": "Trendshift.io 现在持续从 GitHub 提取数据，并存储跟踪存储库的每月活动。"
+  },
+  {
+    "id": 349,
+    "title": "A Noob's Guide to Kubernetes Monitoring: SigNoz vs. Datadog vs. Grafana",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://simpletechguides.com/comparisons/signoz-vs-datadog-vs-grafana/\">https://simpletechguides.com/comparisons/signoz-vs-datadog-vs-grafana/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45832553\">https://news.ycombinator.com/item?id=45832553</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://simpletechguides.com/comparisons/signoz-vs-datadog-vs-grafana/",
+    "tags": [
+      "kubernetes",
+      "monitoring",
+      "signoz",
+      "datadog",
+      "grafana"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This article compares SigNoz, DataDog, and Grafana Cloud for Kubernetes monitoring from a beginner's perspective. It focuses on the ease of setup, initial experience, and usefulness for a simple autoscaling grocery list application. SigNoz is highlighted for its ease of use, DataDog for its comprehensive features, and Grafana for its flexibility.",
+    "summary_zh": "本文从初学者的角度比较了SigNoz、DataDog和Grafana Cloud这三个Kubernetes监控平台。重点关注了它们的设置简易程度、初始体验以及对于一个简单的自动缩放购物清单应用程序的实用性。SigNoz因其易用性而受到突出评价，DataDog因其全面的功能而备受赞誉，Grafana则因其灵活性而引人注目。",
+    "best_quote_en": "You need monitoring. So you start googling.",
+    "best_quote_zh": "你需要监控。所以你开始在谷歌上搜索。"
+  },
+  {
+    "id": 350,
+    "title": "Actor Programming Language",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://winworldpc.com/product/actor/4x\">https://winworldpc.com/product/actor/4x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45832532\">https://news.ycombinator.com/item?id=45832532</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://winworldpc.com/product/actor/4x",
+    "tags": [
+      "actor",
+      "programming language",
+      "windows",
+      "object-oriented",
+      "smalltalk"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "Actor is an object-oriented programming language and environment for Windows, similar to Smalltalk. Developed by The Whitewater Group and later Genesis Development Systems, Actor was among the early Windows applications. Versions like Actor 2 ran under Windows 2, and Actor Professional was available for Windows 3.0 and 3.1.",
+    "summary_zh": "Actor是一种面向对象的编程语言和Windows环境，类似于Smalltalk。由The Whitewater Group和后来的Genesis Development Systems开发，Actor是最早的Windows应用程序之一。Actor 2等版本在Windows 2下运行，Actor Professional适用于Windows 3.0和3.1。",
+    "best_quote_en": "Actor, released by The Whitewater Group, Inc. and later Genesis Development Systems, is an object oriented programming language and environment similar to Smalltalk.",
+    "best_quote_zh": "Actor由The Whitewater Group, Inc.发布，后来由Genesis Development Systems发布，是一种类似于Smalltalk的面向对象的编程语言和环境。"
   }]
