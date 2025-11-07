@@ -6551,4 +6551,79 @@
     "summary_zh": "Actor是一种面向对象的编程语言和Windows环境，类似于Smalltalk。由The Whitewater Group和后来的Genesis Development Systems开发，Actor是最早的Windows应用程序之一。Actor 2等版本在Windows 2下运行，Actor Professional适用于Windows 3.0和3.1。",
     "best_quote_en": "Actor, released by The Whitewater Group, Inc. and later Genesis Development Systems, is an object oriented programming language and environment similar to Smalltalk.",
     "best_quote_zh": "Actor由The Whitewater Group, Inc.发布，后来由Genesis Development Systems发布，是一种类似于Smalltalk的面向对象的编程语言和环境。"
+  },{
+    "id": 351,
+    "title": "How to benchmark performance difference between Windows 11 Home and LTSC",
+    "source": "Hackernews",
+    "desc": "<p>- I want to test if Windows 11 LTSC operates \"smoother\" than vanilla Windows 11 Home or Windows 11 Pro as it seems to lack almost all the bloatware applications that come bundled with Windows these days<p>- How do I measure or benchmark a performance difference between these OSes if it exists<p>- If this was an HTTP request for example, I could use something like Apache Bench that sends millions of requests \nand gives me an average number of requests handled per second<p>- What is the equivalent tool for benchmarking operating systems performance?<p>- To clarify I am trying to run 2000-2010s games on them as my end goal</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45844393\">https://news.ycombinator.com/item?id=45844393</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45844393",
+    "tags": [
+      "windows 11",
+      "ltsc",
+      "benchmark",
+      "performance",
+      "games"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The user wants to benchmark the performance difference between Windows 11 Home/Pro and LTSC, focusing on smoothness and lack of bloatware. They aim to find a tool equivalent to Apache Bench for OS performance, specifically for running older games (2000-2010s).",
+    "summary_zh": "用户想要测试 Windows 11 家庭版/专业版与 LTSC 版本之间的性能差异，重点关注流畅度和预装软件的减少。他们希望找到类似于 Apache Bench 的工具来衡量操作系统性能，特别是针对运行较旧的游戏（2000-2010年代）。",
+    "best_quote_en": "I want to test if Windows 11 LTSC operates \"smoother\" than vanilla Windows 11 Home or Windows 11 Pro as it seems to lack almost all the bloatware applications that come bundled with Windows these days",
+    "best_quote_zh": "我想测试 Windows 11 LTSC 是否比原版 Windows 11 家庭版/专业版运行得“更流畅”，因为它似乎缺少现在 Windows 捆绑的所有预装软件应用程序。"
+  },
+  {
+    "id": 352,
+    "title": "Cisco Event Response: Continued Attacks Against Cisco Firewalls",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://sec.cloudapps.cisco.com/security/center/resources/asa_ftd_continued_attacks\">https://sec.cloudapps.cisco.com/security/center/resources/asa_ftd_continued_attacks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45844389\">https://news.ycombinator.com/item?id=45844389</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://sec.cloudapps.cisco.com/security/center/resources/asa_ftd_continued_attacks",
+    "tags": [
+      "cisco",
+      "firewall",
+      "asa",
+      "vulnerability",
+      "attack"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "Cisco identified ongoing attacks targeting Cisco ASA devices, exploiting vulnerabilities like CVE-2025-20333 and CVE-2025-20362 to implant malware and exfiltrate data. Attackers used zero-day vulnerabilities and advanced evasion techniques. Cisco recommends upgrading to fixed software releases to remediate affected devices and migrating end-of-life devices.",
+    "summary_zh": "思科发现持续攻击事件，目标是Cisco ASA设备，利用 CVE-2025-20333 和 CVE-2025-20362等漏洞植入恶意软件和窃取数据。攻击者使用了零日漏洞和高级规避技术。思科建议升级到已修复的软件版本以修复受影响的设备，并迁移已停止服务的设备。",
+    "best_quote_en": "The complexity and sophistication of this incident required an extensive, multi-disciplinary response across Ciscos engineering and security teams.",
+    "best_quote_zh": "此次事件的复杂性和精密度需要思科工程和安全团队进行广泛的、跨学科的响应。"
+  },
+  {
+    "id": 353,
+    "title": "Tool to help researchers submit an application in accordance with Art. 40 DSA",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://centerforuserrights.freiheitsrechte.org/en/webtool-zur-beantragung-des-forschungsdatenzugangs\">https://centerforuserrights.freiheitsrechte.org/en/webtool-zur-beantragung-des-forschungsdatenzugangs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45844384\">https://news.ycombinator.com/item?id=45844384</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://centerforuserrights.freiheitsrechte.org/en/webtool-zur-beantragung-des-forschungsdatenzugangs",
+    "tags": [
+      "dsa",
+      "data protection",
+      "research application",
+      "art. 40",
+      "data access"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "A web tool has been developed to assist researchers in submitting applications under Art. 40(4) DSA. It guides users through a form, generating necessary declarations and attachments, including risk assessments and technical/organizational measures (TOM) documents. This aims to ease compliance with data security, confidentiality, and personal data protection requirements.",
+    "summary_zh": "开发了一个网络工具，以协助研究人员根据Art. 40(4) DSA提交申请。该工具通过表单指导用户，生成必要的声明和附件，包括风险评估和技术/组织措施 (TOM) 文件。旨在简化数据安全、保密和个人数据保护要求的合规性。",
+    "best_quote_en": "Researchers must demonstrate that they comply with the requirements for data security, confidentiality, and the protection of personal data, and must describe appropriate technical and organizational measures.",
+    "best_quote_zh": "研究人员必须证明他们符合数据安全、保密和个人数据保护的要求，并且必须描述适当的技术和组织措施。"
+  },
+  {
+    "id": 354,
+    "title": "Solar-powered backpack is helping California's homeless live better",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.yankodesign.com/2025/11/05/more-than-a-backpack-the-solar-powered-makeshift-traveler-is-helping-californias-homeless-live-better/\">https://www.yankodesign.com/2025/11/05/more-than-a-backpack-the-solar-powered-makeshift-traveler-is-helping-californias-homeless-live-better/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45844362\">https://news.ycombinator.com/item?id=45844362</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.yankodesign.com/2025/11/05/more-than-a-backpack-the-solar-powered-makeshift-traveler-is-helping-californias-homeless-live-better/",
+    "tags": [
+      "solar power",
+      "backpack",
+      "homeless",
+      "california",
+      "makeshift traveler"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The HomeMore Project's Makeshift Traveler is a solar-powered backpack designed to help California's homeless. It provides connectivity, shelter, resources, and assistance. The backpack includes a solar panel, power bank, tent, sleeping bag, FM radio, flashlight, hygiene kit, and informational brochure, offering essential services and support to vulnerable individuals. The latest edition aims to deliver 2,000 units across 25 cities.",
+    "summary_zh": "HomeMore Project的Makeshift Traveler是一款太阳能背包，旨在帮助加州地区的无家可归者。它提供连接、住所、资源和援助。这款背包包括太阳能板、充电宝、帐篷、睡袋、FM收音机、手电筒、卫生包和信息手册，为弱势群体提供基本服务和支持。最新版本计划在加州25个城市交付2000个。",
+    "best_quote_en": "It’s a self-sustaining unit that is designed to provide connectivity, shelter, resources, and assistance to the homeless.",
+    "best_quote_zh": "这是一个自给自足的单元，旨在为无家可归者提供连接、住所、资源和援助。"
   }]
