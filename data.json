@@ -6626,4 +6626,60 @@
     "summary_zh": "HomeMore Project的Makeshift Traveler是一款太阳能背包，旨在帮助加州地区的无家可归者。它提供连接、住所、资源和援助。这款背包包括太阳能板、充电宝、帐篷、睡袋、FM收音机、手电筒、卫生包和信息手册，为弱势群体提供基本服务和支持。最新版本计划在加州25个城市交付2000个。",
     "best_quote_en": "It’s a self-sustaining unit that is designed to provide connectivity, shelter, resources, and assistance to the homeless.",
     "best_quote_zh": "这是一个自给自足的单元，旨在为无家可归者提供连接、住所、资源和援助。"
+  },{
+    "id": 355,
+    "title": "Google Threat Intel Group AI Threat Tracker:Advances in Threat Actor AI Tool Use",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools\">https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45854892\">https://news.ycombinator.com/item?id=45854892</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools",
+    "tags": [
+      "ai",
+      "malware",
+      "threat intelligence",
+      "llm",
+      "cybercrime"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "Google Threat Intelligence Group (GTIG) reports that threat actors are now deploying AI-enabled malware in operations, dynamically altering behavior. Malware families like PROMPTFLUX and PROMPTSTEAL use LLMs during execution. Actors are also using social engineering to bypass AI safeguards and the cybercrime marketplace for AI tooling is maturing. State-sponsored actors continue to misuse AI to enhance their operations.",
+    "summary_zh": "谷歌威胁情报组 (GTIG) 报告称，威胁行为者目前正在部署支持人工智能的恶意软件，且行为具有动态变化。PROMPTFLUX 和 PROMPTSTEAL 等恶意软件家族在执行过程中使用大型语言模型。行为者还利用社会工程来绕过人工智能安全措施，并且人工智能工具的网络犯罪市场正在成熟。国家支持的行为者继续滥用人工智能来加强其行动。",
+    "best_quote_en": "For the first time, GTIG has identified malware families, such as PROMPTFLUX and PROMPTSTEAL, that use Large Language Models (LLMs) during execution.",
+    "best_quote_zh": "GTIG 首次发现了在执行过程中使用大型语言模型 (LLM) 的恶意软件家族，例如 PROMPTFLUX 和 PROMPTSTEAL。"
+  },
+  {
+    "id": 356,
+    "title": "Web browser add-on that prevents YouTube's automatic translations",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/YouG-o/YouTube-No-Translation\">https://github.com/YouG-o/YouTube-No-Translation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45854867\">https://news.ycombinator.com/item?id=45854867</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/YouG-o/YouTube-No-Translation",
+    "tags": [
+      "youtube",
+      "extension",
+      "no translation",
+      "browser",
+      "automatic translation"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "YouTube No Translation is a browser extension that prevents automatic translations on YouTube, keeping video titles, audio tracks, descriptions, and subtitles in their original language. Users can also use YouTube Data API. It supports Firefox, Chromium, and Safari, and offers a build-it-yourself option from source. Contributions are welcome.",
+    "summary_zh": "YouTube No Translation是一个浏览器扩展，可以阻止YouTube上的自动翻译，保持视频标题、音轨、描述和字幕使用原始语言。用户还可以使用YouTube Data API。它支持Firefox、Chromium和Safari，并提供从源代码构建的选项，欢迎贡献。",
+    "best_quote_en": "A web browser extension that keeps your YouTube experience authentic by preventing automatic translations.",
+    "best_quote_zh": "一个通过阻止自动翻译来保持您 YouTube 体验原汁原味的网页浏览器扩展。"
+  },
+  {
+    "id": 357,
+    "title": "U.S. Export Promotion Executive Order \"AI Stack\"",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.hyperdimensional.co/p/dont-overthink-the-ai-stack\">https://www.hyperdimensional.co/p/dont-overthink-the-ai-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45854863\">https://news.ycombinator.com/item?id=45854863</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.hyperdimensional.co/p/dont-overthink-the-ai-stack",
+    "tags": [
+      "ai",
+      "export",
+      "data centers",
+      "technology",
+      "executive order"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "The executive order aims to promote the export of the American AI technology stack by facilitating the construction of AI-focused data centers in other countries. It addresses concerns about sovereign AI and geopolitical considerations, while also ensuring U.S. dominance in AI services and semiconductor production. The author emphasizes the importance of not overthinking 'the stack'.",
+    "summary_zh": "该行政命令旨在通过促进在其他国家建设以人工智能为中心的数据中心，来推广美国人工智能技术栈的出口。它解决对主权人工智能和地缘政治的担忧，同时也确保美国在人工智能服务和半导体生产领域的主导地位。作者强调不要过度解读“技术栈”。",
+    "best_quote_en": "My key message, however, is simple: do not overthink “the stack.”",
+    "best_quote_zh": "然而，我的核心信息很简单：不要过度解读“技术栈”。"
   }]
