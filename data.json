@@ -6682,4 +6682,79 @@
     "summary_zh": "该行政命令旨在通过促进在其他国家建设以人工智能为中心的数据中心，来推广美国人工智能技术栈的出口。它解决对主权人工智能和地缘政治的担忧，同时也确保美国在人工智能服务和半导体生产领域的主导地位。作者强调不要过度解读“技术栈”。",
     "best_quote_en": "My key message, however, is simple: do not overthink “the stack.”",
     "best_quote_zh": "然而，我的核心信息很简单：不要过度解读“技术栈”。"
+  },{
+    "id": 358,
+    "title": "Congressional Budget Office hacked, China suspected in breach",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnn.com/2025/11/06/politics/congressional-budget-office-hacked-china-suspected\">https://www.cnn.com/2025/11/06/politics/congressional-budget-office-hacked-china-suspected</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45863740\">https://news.ycombinator.com/item?id=45863740</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnn.com/2025/11/06/politics/congressional-budget-office-hacked-china-suspected",
+    "tags": [
+      "cyberattack",
+      "china",
+      "congressional budget office",
+      "hacking",
+      "us-china relations"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "The Congressional Budget Office (CBO) has been hacked, potentially exposing communications with lawmakers. Chinese state-backed hackers are suspected. The CBO provides cost estimates and analysis of legislation. This breach is one of several linked to China that targetted non-public information about US policies amid US-China trade tensions. CBO has taken immediate action.",
+    "summary_zh": "美国国会预算办公室（CBO）遭到黑客攻击，可能泄露与立法者的通信。怀疑是中国官方支持的黑客所为。CBO提供立法成本估算和分析。此次泄露是近期与中国有关的多次黑客攻击之一，目标是在中美贸易紧张局势中，美国政策的非公开信息。CBO已立即采取行动。",
+    "best_quote_en": "Like other government agencies and private sector entities, CBO occasionally faces threats to its network and continually monitors to address those threats.",
+    "best_quote_zh": "像其他政府机构和私营部门实体一样，CBO偶尔会面临对其网络的威胁，并持续监控以应对这些威胁。"
+  },
+  {
+    "id": 359,
+    "title": "How many options fit into a boolean?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/\">https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45863733\">https://news.ycombinator.com/item?id=45863733</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/",
+    "tags": [
+      "rust",
+      "blogging",
+      "ai",
+      "personal updates",
+      "paged out"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "The author discusses contributing a one-page article to 'Paged Out!' technical magazine about Rust trivia. The author also shares personal updates, including a move from Central Europe to Seattle to work on AI. They mention various interests and half-finished drafts, emphasizing the importance of not stressing over blogging and allowing ideas to develop naturally.",
+    "summary_zh": "作者讨论了为技术杂志'Paged Out!'撰写一篇关于Rust琐事的文章。作者还分享了个人近况，包括从欧洲中部搬到西雅图从事人工智能工作。作者提到了各种兴趣爱好和未完成的草稿，并强调了不要过分强调博客的重要性，让想法自然发展。",
+    "best_quote_en": "A blog is something you do for yourself, stressing out too much over it is a bad idea.",
+    "best_quote_zh": "写博客是你为自己做的事情，为此感到压力太大不是一个好主意。"
+  },
+  {
+    "id": 360,
+    "title": "Most DevSecOps Advice Is Useless Without Context–Here's What Works",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.docker.com/blog/context-aware-devsecops-what-works/\">https://www.docker.com/blog/context-aware-devsecops-what-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45863679\">https://news.ycombinator.com/item?id=45863679</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.docker.com/blog/context-aware-devsecops-what-works/",
+    "tags": [
+      "devsecops",
+      "security",
+      "context",
+      "prioritization",
+      "defaults"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "Generic DevSecOps advice often fails due to ignoring context. Prioritize risks, use opinionated defaults, and tailor policies for the environment. Contextual security reduces noise and increases adoption, allowing developers to focus on building, operations to move quickly, and security to trust the baselines. Prioritization and incremental adoption are also vital.",
+    "summary_zh": "通用的DevSecOps建议常因忽略上下文而失败。应优先考虑风险，使用预设配置，并定制适合环境的策略。情境化的安全降低干扰并提高采纳率，使开发人员能够专注于构建，运维能够快速行动，安全人员能够信任基线。优先级划分和逐步采纳也至关重要。",
+    "best_quote_en": "When security measures don’t align with workflow, they turn into obstacles instead of safeguards.",
+    "best_quote_zh": "当安全措施与工作流程不一致时，它们就会变成障碍，而不是保障。"
+  },
+  {
+    "id": 361,
+    "title": "ADK architecture: When to use sub-agents versus agents as tools",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://cloud.google.com/blog/topics/developers-practitioners/where-to-use-sub-agents-versus-agents-as-tools/\">https://cloud.google.com/blog/topics/developers-practitioners/where-to-use-sub-agents-versus-agents-as-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45863643\">https://news.ycombinator.com/item?id=45863643</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://cloud.google.com/blog/topics/developers-practitioners/where-to-use-sub-agents-versus-agents-as-tools/",
+    "tags": [
+      "agent development kit",
+      "multi-agent systems",
+      "sub-agents",
+      "agents as tools",
+      "ai architecture"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "The article discusses the architectural decision between using sub-agents and agents as tools in multi-agent AI systems built with the Agent Development Kit (ADK). It explains the key differences in control and context handling, outlining the characteristics and use cases for each. Agents as tools are best for independent, reusable tasks with isolated context, while sub-agents excel in complex, multi-step processes that require shared context and state management.",
+    "summary_zh": "本文讨论了在使用 Agent Development Kit (ADK) 构建多智能体人工智能系统时，如何选择子智能体（sub-agent）和将智能体作为工具（agent as tool）的架构决策。文章解释了控制和上下文处理方面的关键差异，概述了每种方法的特征和用例。将智能体作为工具最适合具有隔离上下文的独立、可重用任务，而子智能体则擅长需要共享上下文和状态管理的复杂多步骤流程。",
+    "best_quote_en": "Choosing the wrong pattern can lead to massive overhead — either by constantly passing full conversational history to a simple function or by under-utilizing the context-sharing capabilities of a more complex system.",
+    "best_quote_zh": "选择错误的模式可能会导致巨大的开销——要么不断地将完整的对话历史传递给一个简单的函数，要么未能充分利用更复杂系统的上下文共享能力。"
   }]
