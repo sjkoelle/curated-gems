@@ -6757,4 +6757,98 @@
     "summary_zh": "本文讨论了在使用 Agent Development Kit (ADK) 构建多智能体人工智能系统时，如何选择子智能体（sub-agent）和将智能体作为工具（agent as tool）的架构决策。文章解释了控制和上下文处理方面的关键差异，概述了每种方法的特征和用例。将智能体作为工具最适合具有隔离上下文的独立、可重用任务，而子智能体则擅长需要共享上下文和状态管理的复杂多步骤流程。",
     "best_quote_en": "Choosing the wrong pattern can lead to massive overhead — either by constantly passing full conversational history to a simple function or by under-utilizing the context-sharing capabilities of a more complex system.",
     "best_quote_zh": "选择错误的模式可能会导致巨大的开销——要么不断地将完整的对话历史传递给一个简单的函数，要么未能充分利用更复杂系统的上下文共享能力。"
+  },{
+    "id": 362,
+    "title": "What's new in Easel (Nov 2025)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://easel.games/blog/2025-nov-update\">https://easel.games/blog/2025-nov-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45873543\">https://news.ycombinator.com/item?id=45873543</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://easel.games/blog/2025-nov-update",
+    "tags": [
+      "game engine",
+      "multiplayer",
+      "cameras",
+      "optimization",
+      "easel"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Easel introduces multiple cameras for enhanced visual effects like minimaps and split-screen displays. Edition 15 brings breaking changes to support this, allowing multiple cameras via the Camera function. Network optimization eliminates inactive players for improved multiplayer responsiveness. Additional features include camera boundary settings, vignette layering, and more.",
+    "summary_zh": "Easel引入了多摄像头功能，增强了视觉效果，如迷你地图和分屏显示。第15版带来了一些重大更改以支持此功能，允许通过Camera函数创建多个摄像头。网络优化消除了不活跃玩家，从而提高了多人游戏的响应速度。其他功能包括摄像头边界设置、vignette图层等。",
+    "best_quote_en": "Easel optimizes this even further by moving the virtual server to the midpoint between only the active players.",
+    "best_quote_zh": "Easel 通过将虚拟服务器移动到仅活跃玩家的中间点来进一步优化这一点。"
+  },
+  {
+    "id": 363,
+    "title": "An open, storage-agnostic, sync engine development kit",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://synclets.org/\">https://synclets.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45873540\">https://news.ycombinator.com/item?id=45873540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://synclets.org/",
+    "tags": [
+      "synclets",
+      "data synchronization",
+      "open-source",
+      "local-first apps",
+      "storage-agnostic"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Synclets is an open-source project aiming to simplify data synchronization in modern app development, especially for rich client and local-first applications. It supports various storage solutions (like PGlite, SQLite) and transport layers (WebSockets) without vendor lock-in. The project is currently in pre-alpha, with ongoing development focusing on expanding connectors, transports, and examples.",
+    "summary_zh": "Synclets是一个开源项目，旨在简化现代应用程序开发中的数据同步，特别是对于富客户端和本地优先的应用程序。 它支持各种存储解决方案（如PGlite，SQLite）和传输层（WebSockets），而没有供应商锁定。 该项目目前处于pre-alpha阶段，正在进行的开发重点是扩展连接器、传输和示例。",
+    "best_quote_en": "We believe synchronization is a fundamental part of modern app development, especially in the context of rich client and local-first apps.",
+    "best_quote_zh": "我们认为同步是现代应用程序开发的一个基本组成部分，尤其是在富客户端和本地优先应用程序的背景下。"
+  },
+  {
+    "id": 364,
+    "title": "IncusOS: Immutable OS solely designed around safely and reliably running Incus",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://linuxcontainers.org/incus-os/\">https://linuxcontainers.org/incus-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45873532\">https://news.ycombinator.com/item?id=45873532</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://linuxcontainers.org/incus-os/",
+    "tags": [
+      "incus",
+      "incusos",
+      "immutable os",
+      "uefi secure boot",
+      "zfs"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "IncusOS is an immutable OS designed for safely and reliably running Incus. It features UEFI Secure Boot, full disk encryption, and atomic A/B updates. The system is locked down with API-only management. Ideal for building infrastructure on Incus, it ensures consistent software across servers, simplifying scaling and deployment. It offers advanced storage, network, and management features based on Debian 13.",
+    "summary_zh": "IncusOS 是一个为安全可靠地运行 Incus 而设计的不可变操作系统。它具有 UEFI 安全启动、全盘加密和原子 A/B 更新等特性。系统被锁定，仅通过 API 进行管理。它非常适合在 Incus 上构建基础设施，并确保所有服务器上的软件一致，从而简化了扩展和部署。它提供了基于 Debian 13 的高级存储、网络和管理功能。",
+    "best_quote_en": "All IncusOS servers are guaranteed to be running bit for bit the same software, eliminating any deployment variance and making it trivial to scale or re-deploy even large number of servers.",
+    "best_quote_zh": "所有 IncusOS 服务器都保证运行完全相同的软件，从而消除了任何部署差异，并使扩展或重新部署大量服务器变得非常简单。"
+  },
+  {
+    "id": 365,
+    "title": "Python dependencies states managed via uv(illustrated)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://valarmorghulis.io/tech/202511-python-dependencies-states-managed-via-uv/\">https://valarmorghulis.io/tech/202511-python-dependencies-states-managed-via-uv/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45873531\">https://news.ycombinator.com/item?id=45873531</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://valarmorghulis.io/tech/202511-python-dependencies-states-managed-via-uv/",
+    "tags": [
+      "python",
+      "dependencies",
+      "uv",
+      "dependency management",
+      "virtual environment"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "The article discusses managing Python dependencies using uv, highlighting different dependency management file types like requirements.txt, uv.lock, and pyproject.toml. It illustrates how uv can handle these files and shows a transition graph for moving between dependency states using uv commands, emphasizing the management of libraries within a virtual environment created by uv venv.",
+    "summary_zh": "本文讨论了使用uv管理Python依赖关系，强调了不同的依赖管理文件类型，如requirements.txt、uv.lock和pyproject.toml。它说明了uv如何处理这些文件，并展示了一个转换图，用于使用uv命令在依赖状态之间移动，强调了由uv venv创建的虚拟环境中库的管理。",
+    "best_quote_en": "With uv, we can handle most of them.",
+    "best_quote_zh": "使用uv，我们可以处理它们中的大多数。"
+  },
+  {
+    "id": 366,
+    "title": "Hackers, Wizards, and Scientists",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mynamelowercase.com/blog/hacker-scientists/\">https://mynamelowercase.com/blog/hacker-scientists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45873527\">https://news.ycombinator.com/item?id=45873527</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://mynamelowercase.com/blog/hacker-scientists/",
+    "tags": [
+      "computer-science",
+      "innovation",
+      "collaboration",
+      "hacker-culture",
+      "scaling"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Moxie Marlinspike compares the real world to the Harry Potter universe, highlighting that in reality, achieving significant results requires more than just knowledge and tools. It involves collaboration, resources, and fitting into a larger system, unlike the individualistic magic in fantasy. While coding once offered a similar 'hacker' freedom, scaling projects now demands coordination, potentially impacting creativity. Finding a balance between individual curiosity and large-scale coordination is essential.",
+    "summary_zh": "Moxie Marlinspike将现实世界与哈利·波特的世界进行比较，强调在现实中，取得重大成果需要的不仅仅是知识和工具，还需要协作、资源以及融入更大的系统，这与幻想作品中个人主义的魔法不同。虽然编程曾经提供过类似的“黑客”自由，但扩展项目现在需要协调，这可能会影响创造力。在个人好奇心和大规模协调之间找到平衡至关重要。",
+    "best_quote_en": "In our world if we try to cast a spell we're going to need more than a wand and that is what makes us Muggles",
+    "best_quote_zh": "在我们的世界里，如果我们试图施魔法，我们需要的比魔杖更多，这就是我们成为麻瓜的原因。"
   }]
