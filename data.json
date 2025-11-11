@@ -6851,4 +6851,98 @@
     "summary_zh": "Moxie Marlinspike将现实世界与哈利·波特的世界进行比较，强调在现实中，取得重大成果需要的不仅仅是知识和工具，还需要协作、资源以及融入更大的系统，这与幻想作品中个人主义的魔法不同。虽然编程曾经提供过类似的“黑客”自由，但扩展项目现在需要协调，这可能会影响创造力。在个人好奇心和大规模协调之间找到平衡至关重要。",
     "best_quote_en": "In our world if we try to cast a spell we're going to need more than a wand and that is what makes us Muggles",
     "best_quote_zh": "在我们的世界里，如果我们试图施魔法，我们需要的比魔杖更多，这就是我们成为麻瓜的原因。"
+  },{
+    "id": 367,
+    "title": "GPG and Me (2015)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://moxie.org/2015/02/24/gpg-and-me.html\">https://moxie.org/2015/02/24/gpg-and-me.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45885070\">https://news.ycombinator.com/item?id=45885070</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://moxie.org/2015/02/24/gpg-and-me.html",
+    "tags": [
+      "gpg",
+      "encryption",
+      "privacy",
+      "cryptography",
+      "security"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The author reflects on their changing feelings about GPG encryption. Initially optimistic about its potential for widespread adoption, they now view it as a technology and philosophical dead end. GPG, designed for power and flexibility, has a complex interface and outdated cryptography. Despite its use by journalists and activists, it faces structural problems and isn't the path to ubiquitous end-to-end encryption. The author now hopes to move beyond GPG.",
+    "summary_zh": "作者反思了自己对 GPG 加密技术的感受变化。最初对它的广泛应用前景感到乐观，现在认为它在技术和哲学上都走入了死胡同。GPG 的设计追求强大和灵活，但界面复杂且密码学技术过时。尽管记者和活动家在使用它，但它面临着结构性问题，并不是实现普及端到端加密的途径。作者现在希望超越 GPG。",
+    "best_quote_en": "Increasingly, it’s a club that I don’t want to belong to anymore.",
+    "best_quote_zh": "越来越多地，这是一个我已经不想再加入的俱乐部。"
+  },
+  {
+    "id": 368,
+    "title": "Leymosun: High-Entropy Statistical Research Toolkit",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pypi.org/project/leymosun/\">https://pypi.org/project/leymosun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45885058\">https://news.ycombinator.com/item?id=45885058</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://pypi.org/project/leymosun/",
+    "tags": [
+      "javascript",
+      "browser",
+      "error",
+      "troubleshooting",
+      "website"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The provided content indicates an issue with JavaScript being disabled in the user's browser, preventing a part of the site from loading. It suggests troubleshooting steps such as checking the connection, disabling ad blockers, or using a different browser.",
+    "summary_zh": "提供的内容表明用户的浏览器中禁用了 JavaScript，阻止了网站的一部分加载。 它建议进行故障排除，例如检查连接，禁用广告拦截器或使用其他浏览器。",
+    "best_quote_en": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.",
+    "best_quote_zh": "网站的必需部分无法加载。 这可能是由于浏览器扩展程序，网络问题或浏览器设置所致。"
+  },
+  {
+    "id": 369,
+    "title": "Trip November 2025 ISO C++ standards meeting (Kona, USA)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/\">https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45885019\">https://news.ycombinator.com/item?id=45885019</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/",
+    "tags": [
+      "c++26",
+      "iso c++",
+      "standards meeting",
+      "contracts",
+      "erroneous behavior"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The ISO C++ committee made progress on C++26 at its meeting in Kona, focusing on bug fixes and increasing consensus. No new features were added, and trivial relocatability was removed. Contracts were retained with bug fixes. The committee is on track to finalize C++26 at the next meeting in March 2026.",
+    "summary_zh": "ISO C++ 委员会在美国科纳的会议上在 C++26 的制定上取得了进展，主要集中在修复错误和增加共识。没有添加新功能，并移除了简单重定位。 Contracts 功能被保留，并进行了错误修复。委员会计划在 2026 年 3 月的下次会议上最终确定 C++26。",
+    "best_quote_en": "Recall: EB is a new C++26 concept that means “well-defined to be Just Wrong”… any code whose behavior is changed from undefined behavior (UB) to EB can no longer result in time travel optimizations or security vulnerabilities.",
+    "best_quote_zh": "回顾：EB 是 C++26 中的一个新概念，意思是“明确定义为错误”……任何其行为从未定义行为 (UB) 更改为 EB 的代码将不再导致时间旅行优化或安全漏洞。"
+  },
+  {
+    "id": 370,
+    "title": "Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/xsser01/phantomcollect\">https://github.com/xsser01/phantomcollect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45885013\">https://news.ycombinator.com/item?id=45885013</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/xsser01/phantomcollect",
+    "tags": [
+      "web data collection",
+      "open-source",
+      "python",
+      "security",
+      "fingerprinting"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "PhantomCollect is an open-source Python framework for stealth web data collection. It features precise GPS location tracking, device fingerprinting, and network information gathering. It supports multiple storage backends and real-time terminal display. Intended for educational and security testing, it emphasizes responsible and ethical use.",
+    "summary_zh": "PhantomCollect是一个开源的Python框架，用于隐秘的网络数据收集。它具有精确的GPS位置跟踪、设备指纹识别和网络信息收集等功能。支持多种存储后端和实时终端显示。专为教育和安全测试而设计，强调负责任和合乎道德的使用。",
+    "best_quote_en": "Use Responsibly. Secure Ethically.",
+    "best_quote_zh": "负责任地使用，合乎道德地保护。"
+  },
+  {
+    "id": 371,
+    "title": "Copilot modes you probably didn't know exist",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/github/awesome-copilot\">https://github.com/github/awesome-copilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884985\">https://news.ycombinator.com/item?id=45884985</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/github/awesome-copilot",
+    "tags": [
+      "github-copilot",
+      "prompt-engineering",
+      "agents",
+      "customization",
+      "productivity"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This article introduces 'Awesome GitHub Copilot,' a community-driven collection of resources for customizing GitHub Copilot. It offers custom agents, prompts, instructions, and chat modes to enhance Copilot's capabilities across domains. The project includes a MCP server for easy installation and emphasizes productivity, best practices, specialized assistance, and continuous learning. Contributions are welcome.",
+    "summary_zh": "本文介绍了“Awesome GitHub Copilot”，一个社区驱动的资源集合，用于自定义 GitHub Copilot。它提供了自定义代理、提示、指令和聊天模式，以增强 Copilot 在各个领域的能力。该项目包括一个 MCP 服务器，便于安装，并强调生产力、最佳实践、专业协助和持续学习。欢迎贡献。",
+    "best_quote_en": "Pre-built agents, prompts and instructions save time and provide consistent results.",
+    "best_quote_zh": "预构建的代理、提示和指令可以节省时间并提供一致的结果。"
   }]
