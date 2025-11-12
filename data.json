@@ -6945,4 +6945,79 @@
     "summary_zh": "本文介绍了“Awesome GitHub Copilot”，一个社区驱动的资源集合，用于自定义 GitHub Copilot。它提供了自定义代理、提示、指令和聊天模式，以增强 Copilot 在各个领域的能力。该项目包括一个 MCP 服务器，便于安装，并强调生产力、最佳实践、专业协助和持续学习。欢迎贡献。",
     "best_quote_en": "Pre-built agents, prompts and instructions save time and provide consistent results.",
     "best_quote_zh": "预构建的代理、提示和指令可以节省时间并提供一致的结果。"
+  },{
+    "id": 372,
+    "title": "HAProxy Unified Gateway (Beta)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.haproxy.com/blog/announcing-haproxy-unified-gateway-beta\">https://www.haproxy.com/blog/announcing-haproxy-unified-gateway-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45897418\">https://news.ycombinator.com/item?id=45897418</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.haproxy.com/blog/announcing-haproxy-unified-gateway-beta",
+    "tags": [
+      "kubernetes",
+      "gateway api",
+      "ingress",
+      "haproxy",
+      "cloud-native"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "HAProxy Unified Gateway (beta) is a free, open-source product for Kubernetes-native application routing, supporting both Gateway API and Ingress. It offers flexible protocol support, role-based access control, and a low-risk migration path from Ingress to Gateway API. Built on HAProxy's open-source innovation, it provides a dependable and scalable solution for cloud-native application delivery.",
+    "summary_zh": "HAProxy Unified Gateway (beta) 是一款免费的开源产品，专为 Kubernetes 原生应用程序路由而设计，同时支持 Gateway API 和 Ingress。它提供灵活的协议支持、基于角色的访问控制以及从 Ingress 到 Gateway API 的低风险迁移路径。基于 HAProxy 的开源创新，它为 Kubernetes 社区中的云原生应用程序交付提供可靠且可扩展的解决方案。",
+    "best_quote_en": "HAProxy Unified Gateway is engineered to leverage the modern Gateway API standard immediately, and relieve pressure on organizations with substantial Ingress deployments by providing unified support for both Ingress and Gateway API.",
+    "best_quote_zh": "HAProxy Unified Gateway 旨在立即利用现代 Gateway API 标准，并通过为 Ingress 和 Gateway API 提供统一支持来减轻拥有大量 Ingress 部署的组织的压力。"
+  },
+  {
+    "id": 373,
+    "title": "AI is taking our jobs, and now fine lines too",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.greyb.com/newsletters/ai-is-taking-our-jobs-and-now-fine-lines-too/\">https://www.greyb.com/newsletters/ai-is-taking-our-jobs-and-now-fine-lines-too/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45897395\">https://news.ycombinator.com/item?id=45897395</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.greyb.com/newsletters/ai-is-taking-our-jobs-and-now-fine-lines-too/",
+    "tags": [
+      "ai",
+      "anti-aging",
+      "biotech",
+      "beauty tech",
+      "mitochondrial science"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "AI is accelerating anti-aging research and beauty tech. Yuva Biosciences' MitoGPT™ discovered Y100™, which speeds up mitochondrial function restoration and improves skin/hair health. Humanoid LABs develops a smart cosmetic system using AR/VR to experiment with looks and apply makeup in both digital and real worlds.",
+    "summary_zh": "人工智能正在加速抗衰老研究和美容科技的发展。Yuva Biosciences的MitoGPT™发现了Y100™，它可以加速线粒体功能恢复，并改善皮肤和头发健康。Humanoid LABs开发了一款智能化妆系统，使用AR/VR来试验妆容，并在数字和现实世界中应用化妆。",
+    "best_quote_en": "AI-driven speed – Y100™ was identified in 4–5 years with MitoGPT™, whereas traditional drug discovery takes 5–10 years from target identification to commercialization.",
+    "best_quote_zh": "人工智能驱动的速度——Y100™通过MitoGPT™在4-5年内被发现，而传统的药物发现从目标识别到商业化需要5-10年。"
+  },
+  {
+    "id": 374,
+    "title": "Vibe Hacking a Padding Oracle",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://beny23.github.io/posts/capturing_a_padding_oracle/\">https://beny23.github.io/posts/capturing_a_padding_oracle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45897323\">https://news.ycombinator.com/item?id=45897323</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://beny23.github.io/posts/capturing_a_padding_oracle/",
+    "tags": [
+      "padding oracle",
+      "vulnerability",
+      "encryption",
+      "hacker101",
+      "appsec"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "This post analyzes a \"Padding Oracle\" vulnerability in a web application, specifically the \"Encrypted Pastebin\" exercise on Hacker101. It discusses how exploiting error messages and stack traces can reveal information about the encryption process and lead to plaintext recovery through repeated probes.",
+    "summary_zh": "本文分析了一个Web应用中的\"Padding Oracle\"漏洞，特别是Hacker101上的\"Encrypted Pastebin\"练习。它讨论了如何利用错误消息和堆栈跟踪来揭示关于加密过程的信息，并通过重复探测来恢复明文。",
+    "best_quote_en": "Distinct exception messages + ability to control input bytes (IV/ciphertext) = oracle. Classic CBC padding oracle attacks exploit exactly this: they send modified ciphertexts and observe whether padding was valid. With repeated probes an attacker can recover plaintext.",
+    "best_quote_zh": "不同的异常消息 + 控制输入字节的能力(IV/密文) = oracle。 经典的CBC填充 oracle 攻击正是利用了这一点：他们发送修改后的密文，并观察填充是否有效。 通过重复探测，攻击者可以恢复明文。"
+  },
+  {
+    "id": 375,
+    "title": "NaNoWriMo and the creative power of looming fear",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://buttondown.com/blog/nanowrimo-lessons-email\">https://buttondown.com/blog/nanowrimo-lessons-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45897313\">https://news.ycombinator.com/item?id=45897313</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://buttondown.com/blog/nanowrimo-lessons-email",
+    "tags": [
+      "nanowrimo",
+      "writing",
+      "creativity",
+      "goals",
+      "novel"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "NaNoWriMo, despite its official end, remains an inspiring concept where writers aim to complete a 50,000-word novel in November. The core idea is to embrace quantity over quality, pushing writers beyond their comfort zone to achieve a challenging writing goal, fostering creativity through commitment and public accountability, even if it means facing the 'looming fear of personal humiliation'.",
+    "summary_zh": "NaNoWriMo （国家小说写作月）的核心在于鼓励写作者在十一月完成50,000字的小说。 即使官方已经停止，其理念仍然具有启发意义：强调数量而非质量，推动写作者突破舒适区，通过承诺和公开责任实现具有挑战性的写作目标，即使这意味着要面对“个人羞辱的隐约恐惧”。",
+    "best_quote_en": "“It’s really useful to have that sort of looming fear of personal humiliation,” said Baty about the effect of NaNoWriMo on his writing.",
+    "best_quote_zh": "Baty在谈到NaNoWriMo对他的写作的影响时说：“拥有那种个人羞辱的隐约恐惧真的很有用。”"
   }]
