@@ -7020,4 +7020,79 @@
     "summary_zh": "NaNoWriMo （国家小说写作月）的核心在于鼓励写作者在十一月完成50,000字的小说。 即使官方已经停止，其理念仍然具有启发意义：强调数量而非质量，推动写作者突破舒适区，通过承诺和公开责任实现具有挑战性的写作目标，即使这意味着要面对“个人羞辱的隐约恐惧”。",
     "best_quote_en": "“It’s really useful to have that sort of looming fear of personal humiliation,” said Baty about the effect of NaNoWriMo on his writing.",
     "best_quote_zh": "Baty在谈到NaNoWriMo对他的写作的影响时说：“拥有那种个人羞辱的隐约恐惧真的很有用。”"
+  },{
+    "id": 376,
+    "title": "Veggie Burger Nation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theglobeandmail.com/life/style/food-and-drink/article-plant-based-burger-india-vegetarian-meat-fast-food-masala-mcveggie/\">https://www.theglobeandmail.com/life/style/food-and-drink/article-plant-based-burger-india-vegetarian-meat-fast-food-masala-mcveggie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45912007\">https://news.ycombinator.com/item?id=45912007</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theglobeandmail.com/life/style/food-and-drink/article-plant-based-burger-india-vegetarian-meat-fast-food-masala-mcveggie/",
+    "tags": [
+      "mcveggie",
+      "vegetarian",
+      "plant-based",
+      "mcdonalds",
+      "a&w"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "McDonald's introduced the McVeggie burger in Canada, a vegetable-forward patty unlike faux-meat burgers. It gained popularity, especially among the South Asian diaspora who found it a nostalgic taste of home. This reflects a shift towards vegetarian options, driven by a growing Indian population and a demand for vegetable-forward burgers over meat replicas. A&W also experienced success with their Masala Veggie Burger, catering to customers seeking authentic flavors.",
+    "summary_zh": "麦当劳在加拿大推出了 McVeggie 汉堡，这是一种以蔬菜为主的馅饼，不同于人造肉汉堡。它很受欢迎，尤其是在南亚侨民中，他们发现这是一种怀旧的家乡味道。这反映了向素食选择的转变，这主要是由于印度人口的增长以及对以蔬菜为主的汉堡而非肉类复制品的需求。 A&W 的 Masala Veggie 汉堡也取得了成功，迎合了寻求正宗风味的顾客。",
+    "best_quote_en": "Customers were really more excited about a veggie-forward burger than a meat replica.",
+    "best_quote_zh": "顾客们对以蔬菜为主的汉堡比对肉类复制品更感兴趣。"
+  },
+  {
+    "id": 377,
+    "title": "Tony Hoare and Negative Space",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/\">https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45911997\">https://news.ycombinator.com/item?id=45911997</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/",
+    "tags": [
+      "programming",
+      "logic",
+      "hoare logic",
+      "negative-space programming",
+      "design by contract"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "The article discusses \"Negative-Space Programming,\" using assertions to constrain program possibilities. It connects this idea to Tony Hoare's work on logic in programming and Hoare Triples. The author emphasizes designing programs by contract, establishing preconditions and postconditions, and avoiding arbitrary jumps in code to maintain logical integrity.",
+    "summary_zh": "文章探讨了“负空间编程”，即使用断言来约束程序的可能性。它将这个想法与 Tony Hoare 在编程逻辑和 Hoare Triples 上的工作联系起来。作者强调通过契约设计程序，建立前提条件和后置条件，并避免代码中的任意跳转，以保持逻辑完整性。",
+    "best_quote_en": "If the caller of f() makes sure that the precondition for calling the function is true before making the call, then f() guarantees that the postcondition is true after the call returns.",
+    "best_quote_zh": "如果 f() 的调用者确保在调用之前满足调用函数的前提条件，那么 f() 保证在调用返回后后置条件为真。"
+  },
+  {
+    "id": 378,
+    "title": "Parsing Integers in C",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/\">https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45911976\">https://news.ycombinator.com/item?id=45911976</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
+    "tags": [
+      "integer parsing",
+      "c programming",
+      "curl",
+      "security",
+      "error handling"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "The article discusses the drawbacks of using standard C library functions like atoi, atol, and strtol for parsing integers due to their lenient nature and potential for errors. It highlights how the curl project replaced these functions with a custom function, curlx_str_number(), which offers stricter parsing, overflow detection, and better security. All calls to weak functions have been removed from the curl source code as of November 12, 2025.",
+    "summary_zh": "本文讨论了使用标准C库函数atoi、atol和strtol解析整数的缺点，因为它们过于宽松且容易出错。文章重点介绍了curl项目如何用自定义函数curlx_str_number()替换了这些函数，该函数提供更严格的解析、溢出检测和更好的安全性。截止到2025年11月12日，所有对弱函数的调用都已从curl源代码中移除。",
+    "best_quote_en": "I think we in the curl project as well as more or less the entire world has learned through the years that it is usually better to be strict when parsing protocols and data, rather than be lenient and try to accept many things and guess what it otherwise maybe meant.",
+    "best_quote_zh": "我认为我们curl项目以及或多或少整个世界多年来已经了解到，在解析协议和数据时，严格总是比宽松更好，而不是试图接受很多东西并猜测它原本可能意味着什么。"
+  },
+  {
+    "id": 379,
+    "title": "Fei-Fei Li's Marble: 3D world model for spatially consistent virtual environment",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://marble-ai.org\">https://marble-ai.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45911965\">https://news.ycombinator.com/item?id=45911965</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://marble-ai.org",
+    "tags": [
+      "3d",
+      "ai",
+      "spatial intelligence",
+      "image to 3d",
+      "virtual environment"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "Marble AI by Marble World Labs transforms single images into explorable 3D environments. It uses spatial intelligence to create immersive and persistent 3D worlds. Users can upload images, configure environments, generate 3D worlds instantly, and share them. It empowers designers, developers, and architects to visualize spaces and build immersive experiences without 3D modeling expertise.",
+    "summary_zh": "Marble World Labs 的 Marble AI 可将单张图像转换为可探索的 3D 环境。它使用空间智能来创建沉浸式和持久的 3D 世界。用户可以上传图像、配置环境、立即生成 3D 世界并进行共享。它使设计师、开发人员和建筑师能够可视化空间并构建沉浸式体验，而无需 3D 建模专业知识。",
+    "best_quote_en": "Marble AI gives creators instant access to spatial world generation powered by Marble World Labs.",
+    "best_quote_zh": "Marble AI 使创作者能够即时访问由 Marble World Labs 提供支持的空间世界生成功能。"
   }]
