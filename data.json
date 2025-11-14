@@ -7095,4 +7095,60 @@
     "summary_zh": "Marble World Labs 的 Marble AI 可将单张图像转换为可探索的 3D 环境。它使用空间智能来创建沉浸式和持久的 3D 世界。用户可以上传图像、配置环境、立即生成 3D 世界并进行共享。它使设计师、开发人员和建筑师能够可视化空间并构建沉浸式体验，而无需 3D 建模专业知识。",
     "best_quote_en": "Marble AI gives creators instant access to spatial world generation powered by Marble World Labs.",
     "best_quote_zh": "Marble AI 使创作者能够即时访问由 Marble World Labs 提供支持的空间世界生成功能。"
+  },{
+    "id": 380,
+    "title": "Why Are Seattle Drivers Paying More for Gas?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://oilprice.com/Energy/Energy-General/Why-Are-Seattle-Drivers-Paying-So-Much-More-for-Gas.html\">https://oilprice.com/Energy/Energy-General/Why-Are-Seattle-Drivers-Paying-So-Much-More-for-Gas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45924796\">https://news.ycombinator.com/item?id=45924796</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://oilprice.com/Energy/Energy-General/Why-Are-Seattle-Drivers-Paying-So-Much-More-for-Gas.html",
+    "tags": [
+      "oil prices",
+      "energy news",
+      "crude oil",
+      "gasoline",
+      "market update"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "The provided text is a compilation of oil price data, energy news headlines, and market updates. It includes information on crude oil prices, gasoline prices, natural gas, and various global blends. The headlines cover a range of topics, including geopolitical events, company news, renewable energy, and sanctions.",
+    "summary_zh": "该文本汇编了石油价格数据、能源新闻标题和市场更新。它包含了原油价格、汽油价格、天然气和各种全球混合油的信息。标题涵盖了一系列主题，包括地缘政治事件、公司新闻、可再生能源和制裁。",
+    "best_quote_en": "N/A",
+    "best_quote_zh": "N/A"
+  },
+  {
+    "id": 381,
+    "title": "Sam Altman and husband fund startup to edit babies' genes",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.thetimes.com/us/news-today/article/sam-altman-open-ai-husband-genetically-engineered-babies-0gtlckj2h\">https://www.thetimes.com/us/news-today/article/sam-altman-open-ai-husband-genetically-engineered-babies-0gtlckj2h</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45924779\">https://news.ycombinator.com/item?id=45924779</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.thetimes.com/us/news-today/article/sam-altman-open-ai-husband-genetically-engineered-babies-0gtlckj2h",
+    "tags": [
+      "gene-editing",
+      "genetics",
+      "sam-altman",
+      "ethics",
+      "startup"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "Sam Altman and his husband are funding Preventive, a startup aiming to genetically engineer babies to eliminate hereditary diseases. This controversial practice raises ethical concerns and is illegal in many countries. Preventive seeks a location where embryo editing is legal for testing and has raised $30 million. The goal is to correct devastating genetic conditions, potentially marking a significant health breakthrough, but ethical debates persist.",
+    "summary_zh": "Sam Altman和他的丈夫正在资助一家名为Preventive的初创公司，该公司旨在通过基因工程改造婴儿来消除遗传疾病。这种有争议的做法引起了伦理担忧，并在许多国家/地区都是非法的。Preventive正在寻找胚胎编辑合法的地点进行测试，并已筹集了3000万美元。其目标是纠正破坏性的遗传疾病，可能标志着一项重大的健康突破，但伦理辩论依然存在。",
+    "best_quote_en": "More than 300 million people globally live with genetic disease. Foundational research should be done to determine if safe and effective therapies can be developed to cure these diseases at birth.",
+    "best_quote_zh": "全球有超过3亿人患有遗传疾病。应该进行基础研究，以确定是否可以开发出安全有效的疗法，在出生时治愈这些疾病。"
+  },
+  {
+    "id": 382,
+    "title": "Peekpoke: Tiny retro fantasy console with two commands peek and poke",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/abagames/peekpoke\">https://github.com/abagames/peekpoke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45924764\">https://news.ycombinator.com/item?id=45924764</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/abagames/peekpoke",
+    "tags": [
+      "peekpoke",
+      "retro console",
+      "javascript",
+      "fantasy console",
+      "game development"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "PEEKPOKE is a tiny retro fantasy console with only two commands: peek and poke. Games can be written in simple JavaScript and run in the browser. It allows drawing pixels or text by writing to memory addresses and getting key input status by reading from addresses. Sample code snippets are provided for drawing, setting colors, and checking keystrokes.",
+    "summary_zh": "PEEKPOKE是一个微型的复古幻想控制台，只有两个命令：peek和poke。 游戏可以用简单的JavaScript编写并在浏览器中运行。 它允许通过写入内存地址来绘制像素或文本，并通过从地址读取来获取按键输入状态。 提供了用于绘图、设置颜色和检查按键操作的示例代码片段。",
+    "best_quote_en": "You can draw pixels or text by writing a number to a specific address in memory (poke), or get the input status of a key by reading a number from the address (peek).",
+    "best_quote_zh": "你可以通过向内存中的特定地址写入数字（poke）来绘制像素或文本，或者通过从地址读取数字来获取按键的输入状态（peek）。"
   }]
