@@ -7151,4 +7151,98 @@
     "summary_zh": "PEEKPOKE是一个微型的复古幻想控制台，只有两个命令：peek和poke。 游戏可以用简单的JavaScript编写并在浏览器中运行。 它允许通过写入内存地址来绘制像素或文本，并通过从地址读取来获取按键输入状态。 提供了用于绘图、设置颜色和检查按键操作的示例代码片段。",
     "best_quote_en": "You can draw pixels or text by writing a number to a specific address in memory (poke), or get the input status of a key by reading a number from the address (peek).",
     "best_quote_zh": "你可以通过向内存中的特定地址写入数字（poke）来绘制像素或文本，或者通过从地址读取数字来获取按键的输入状态（peek）。"
+  },{
+    "id": 383,
+    "title": "Caitriona Jennings smashes 100-mile world record",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.rte.ie/sport/athletics/2025/1109/1543037-donegals-jennings-smashes-100-mile-world-record/\">https://www.rte.ie/sport/athletics/2025/1109/1543037-donegals-jennings-smashes-100-mile-world-record/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45935764\">https://news.ycombinator.com/item?id=45935764</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.rte.ie/sport/athletics/2025/1109/1543037-donegals-jennings-smashes-100-mile-world-record/",
+    "tags": [
+      "caitriona jennings",
+      "100-mile race",
+      "world record",
+      "ultra running",
+      "athletics"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "Caitriona Jennings broke the world record in the 100-mile distance at the Tunnel Hill 100 Mile in Illinois, with a time of 12:37:04. This surpasses the previous record set by Camille Herron in 2017. Jennings has an accomplished history in ultra-distance events and is also the Irish record holder in 50k and 100k.",
+    "summary_zh": "Caitriona Jennings在伊利诺伊州的Tunnel Hill 100英里比赛中打破了100英里距离的世界纪录，成绩为12:37:04，超过了Camille Herron在2017年创下的纪录。 Jennings在超长距离赛事中有着辉煌的成绩，同时也是爱尔兰50公里和100公里纪录的保持者。",
+    "best_quote_en": "Impressively, she paced herself perfectly for most of the 100-mile race, ticking off each mile in seven minutes and 26 seconds.",
+    "best_quote_zh": "令人印象深刻的是，她在100英里的比赛中大部分时间都完美地控制了自己的节奏，每英里用时7分26秒。"
+  },
+  {
+    "id": 384,
+    "title": "Spec-Driven Development: The Waterfall Strikes Back",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html\">https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45935763\">https://news.ycombinator.com/item?id=45935763</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html",
+    "tags": [
+      "spec-driven development",
+      "agile",
+      "ai",
+      "waterfall model",
+      "software development"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "Spec-Driven Development (SDD) aims to structure AI-driven programming with heavy documentation. It echoes the Waterfall model, but its excessive Markdown files and potential bureaucratic overhead may hinder agility. While SDD can help agents stay on task, it risks increasing development costs due to context blindness, systematic bureaucracy and double code review.",
+    "summary_zh": "规范驱动开发（SDD）旨在通过大量的文档来构建AI驱动的编程。它呼应了瀑布模型，但其过多的Markdown文件和潜在的官僚开销可能会阻碍敏捷性。虽然SDD可以帮助代理保持任务状态，但由于环境盲点，系统官僚主义和双重代码审查，它可能会增加开发成本。",
+    "best_quote_en": "Software development is fundamentally a non-deterministic process, so planning doesn’t eliminate uncertainty.",
+    "best_quote_zh": "软件开发从根本上说是一个非确定性的过程，因此计划并不能消除不确定性。"
+  },
+  {
+    "id": 385,
+    "title": "Messing with Scraper Bots",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://herman.bearblog.dev/messing-with-bots/\">https://herman.bearblog.dev/messing-with-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45935729\">https://news.ycombinator.com/item?id=45935729</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://herman.bearblog.dev/messing-with-bots/",
+    "tags": [
+      "web scraping",
+      "bots",
+      "markov chain",
+      "static content",
+      "security"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "The author describes methods to combat malicious web scrapers by feeding them generated junk data, initially using a Markov chain to create fake PHP files. Facing performance issues with dynamic generation, they switched to serving static content, like paragraphs from Frankenstein. This approach is more efficient and aims to waste the bots' resources and time.",
+    "summary_zh": "作者描述了通过向恶意网络爬虫提供生成的垃圾数据来对抗它们的方法，最初使用马尔可夫链创建虚假的 PHP 文件。由于动态生成带来的性能问题，作者转而提供静态内容，例如《弗兰肯斯坦》中的段落。这种方法更有效，旨在浪费爬虫的资源和时间。",
+    "best_quote_en": "Garbage for the garbage",
+    "best_quote_zh": "给垃圾以垃圾"
+  },
+  {
+    "id": 386,
+    "title": "RDP Port 3389: The Backbone of Remote Desktop Connections",
+    "source": "Hackernews",
+    "desc": "<p>RDP Port 3389 is the default port behind Microsoft’s Remote Desktop Protocol, allowing users to access and control Windows systems from anywhere. This guide explains how Port 3389 works, why it’s essential for remote access, and the steps you can take to secure it against common threats like brute-force attacks. It also covers configuration, best practices, troubleshooting tips, and safe ways to manage RDP in 2025.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45935724\">https://news.ycombinator.com/item?id=45935724</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45935724",
+    "tags": [
+      "rdp",
+      "port 3389",
+      "remote desktop",
+      "security",
+      "windows"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "RDP Port 3389 is the default port for Microsoft's Remote Desktop Protocol, enabling remote access and control of Windows systems. The text explains its function, importance for remote access, and security measures against threats like brute-force attacks. It also covers configuration, best practices, troubleshooting, and safe management of RDP in 2025.",
+    "summary_zh": "RDP端口3389是微软远程桌面协议的默认端口，允许远程访问和控制Windows系统。文章解释了它的功能、远程访问的重要性，以及防范暴力破解等威胁的安全措施。还涵盖了配置、最佳实践、故障排除以及2025年RDP的安全管理。",
+    "best_quote_en": "RDP Port 3389 is the default port behind Microsoft’s Remote Desktop Protocol, allowing users to access and control Windows systems from anywhere.",
+    "best_quote_zh": "RDP端口3389是微软远程桌面协议的默认端口，允许用户从任何地方访问和控制Windows系统。"
+  },
+  {
+    "id": 387,
+    "title": "Oh Yeah? Forecasting Follies Around the 1929 Crash (1931/2018)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://novelinvestor.com/oh-yeah-forecasting-follies-around-29-crash/\">https://novelinvestor.com/oh-yeah-forecasting-follies-around-29-crash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45935706\">https://news.ycombinator.com/item?id=45935706</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://novelinvestor.com/oh-yeah-forecasting-follies-around-29-crash/",
+    "tags": [
+      "1929 crash",
+      "financial forecasting",
+      "market cycles",
+      "economic history",
+      "irving fisher"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "This article discusses the overconfidence and flawed predictions made by financial experts, business leaders, and politicians leading up to the 1929 stock market crash.  They believed a new economic era had arrived, dismissing market cycles and anticipating continued prosperity, ultimately failing to foresee the impending crisis.",
+    "summary_zh": "本文讨论了1929年股市崩盘前，金融专家、商业领袖和政治家们表现出的过度自信和错误预测。他们认为一个新的经济时代已经到来，忽视了市场周期，并预期持续繁荣，最终未能预见到即将到来的危机。",
+    "best_quote_en": "Stock prices have reached what looks like a permanently high plateau.",
+    "best_quote_zh": "股价已经达到了看起来像是永久性高位的水平。"
   }]
