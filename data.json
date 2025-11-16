@@ -7245,4 +7245,41 @@
     "summary_zh": "本文讨论了1929年股市崩盘前，金融专家、商业领袖和政治家们表现出的过度自信和错误预测。他们认为一个新的经济时代已经到来，忽视了市场周期，并预期持续繁荣，最终未能预见到即将到来的危机。",
     "best_quote_en": "Stock prices have reached what looks like a permanently high plateau.",
     "best_quote_zh": "股价已经达到了看起来像是永久性高位的水平。"
+  },{
+    "id": 388,
+    "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/nadimkobeissi/16iax10h-linux-sound-saga\">https://github.com/nadimkobeissi/16iax10h-linux-sound-saga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45943413\">https://news.ycombinator.com/item?id=45943413</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
+    "tags": [
+      "linux",
+      "audio driver",
+      "bug bounty",
+      "lenovo legion pro 7",
+      "awinic"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "A bug bounty of $1900 is offered to fix the Lenovo Legion Pro 7 16IAX10H's internal speaker issue on Linux. The laptop's Realtek ALC3306 codec is incorrectly detected, leading to low volume and muffled sound. The solution involves a custom SOF topology file and a DMI/ACPI quirk to properly configure the audio pipeline with I2C smart amplifiers.",
+    "summary_zh": "为修复联想拯救者Pro 7 16IAX10H在Linux上的扬声器问题，悬赏1900美元。该笔记本电脑的Realtek ALC3306编解码器被错误检测，导致音量低和声音沉闷。解决方案包括自定义SOF拓扑文件和DMI/ACPI quirk，以正确配置包含I2C智能放大器的音频管道。",
+    "best_quote_en": "If you help us make sure that Linux has support for audio on our laptops, we will send you a lot of money.",
+    "best_quote_zh": "如果你能帮助我们在Linux上为我们的笔记本电脑提供音频支持，我们将给你很多钱。"
+  },
+  {
+    "id": 389,
+    "title": "I know you don't want them to want AI, but",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/\">https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45943399\">https://news.ycombinator.com/item?id=45943399</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/",
+    "tags": [
+      "ai",
+      "mozilla",
+      "firefox",
+      "browsers",
+      "privacy"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The article discusses the complex feelings surrounding AI, particularly within the Mozilla community and beyond. While many express concerns about Big AI's harms, millions of people are actively using AI tools. The author draws a parallel to the early browser wars, suggesting Firefox could improve AI user safety, even for those who dislike AI.",
+    "summary_zh": "文章讨论了围绕人工智能的复杂情感，尤其是在Mozilla社区内外。虽然许多人对大型人工智能的危害表示担忧，但数百万人正在积极使用人工智能工具。作者将此与早期浏览器之战进行了比较，建议Firefox可以提高人工智能用户的安全性，即使对于那些不喜欢人工智能的人。",
+    "best_quote_en": "Regular, non-expert internet users find it interesting, or even amusing, to generate images or videos using AI and to send that media to their friends.",
+    "best_quote_zh": "普通的、非专业的互联网用户发现，使用人工智能生成图像或视频，并将这些媒体发送给他们的朋友，是一件有趣甚至令人愉快的事情。"
   }]
