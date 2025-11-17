@@ -7282,4 +7282,79 @@
     "summary_zh": "文章讨论了围绕人工智能的复杂情感，尤其是在Mozilla社区内外。虽然许多人对大型人工智能的危害表示担忧，但数百万人正在积极使用人工智能工具。作者将此与早期浏览器之战进行了比较，建议Firefox可以提高人工智能用户的安全性，即使对于那些不喜欢人工智能的人。",
     "best_quote_en": "Regular, non-expert internet users find it interesting, or even amusing, to generate images or videos using AI and to send that media to their friends.",
     "best_quote_zh": "普通的、非专业的互联网用户发现，使用人工智能生成图像或视频，并将这些媒体发送给他们的朋友，是一件有趣甚至令人愉快的事情。"
+  },{
+    "id": 390,
+    "title": "Ask HN: A frictionless security engine for all platforms?",
+    "source": "Hackernews",
+    "desc": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45951640\">https://news.ycombinator.com/item?id=45951640</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45951640",
+    "tags": [
+      "security",
+      "platforms",
+      "hackernews",
+      "api",
+      "question"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The post is a question on Hacker News asking about a frictionless security engine for all platforms. It was posted by gokulnair2001. The post contains links to guidelines, FAQ, lists, API, security, legal, applying to YC, contact, and search.",
+    "summary_zh": "这篇文章是在Hacker News上提出的一个问题，询问是否有适用于所有平台的无摩擦安全引擎。由gokulnair2001发布。帖子包含指向指南，常见问题解答，列表，API，安全性，法律，申请YC，联系方式和搜索的链接。",
+    "best_quote_en": "Ask HN: A frictionless security engine for all platforms?",
+    "best_quote_zh": "询问HN: 一个适用于所有平台的无摩擦安全引擎？"
+  },
+  {
+    "id": 391,
+    "title": "Layanan Agoda Reschedule",
+    "source": "Hackernews",
+    "desc": "<p>Untuk reschedule,Anda dapat menghubungi layanan pelanggan Agoda telepon atau WhatsApp di (0811-506-050).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45951634\">https://news.ycombinator.com/item?id=45951634</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45951634",
+    "tags": [
+      "agoda",
+      "reschedule",
+      "customer service",
+      "phone",
+      "whatsapp"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The article mentions Agoda's reschedule service and provides a customer support contact number for rescheduling inquiries. Users can reach Agoda customer service via phone or WhatsApp at 0811-506-050.",
+    "summary_zh": "文章提到了Agoda的改期服务，并提供了一个用于改期咨询的客户支持联系电话。用户可以通过电话或WhatsApp联系Agoda客服：0811-506-050。",
+    "best_quote_en": "Untuk reschedule,Anda dapat menghubungi layanan pelanggan Agoda telepon atau WhatsApp di (0811-506-050).",
+    "best_quote_zh": "要改期，您可以拨打Agoda客服电话或WhatsApp：(0811-506-050) 联系。"
+  },
+  {
+    "id": 392,
+    "title": "Layanan Agoda 24 Jam",
+    "source": "Hackernews",
+    "desc": "<p>Call Center Agoda: (0811-506-050). Layanan Bantuan Pelanggan 24 Jam Untuk Refund Dan Reschedule.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45951625\">https://news.ycombinator.com/item?id=45951625</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=45951625",
+    "tags": [
+      "agoda",
+      "customer service",
+      "call center",
+      "refund",
+      "reschedule"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "This article mentions Agoda's 24-hour customer service, specifically highlighting their call center number (0811-506-050) for refund and reschedule assistance. It also shows the layout of the Hacker News website.",
+    "summary_zh": "本文提到了Agoda的24小时客户服务，特别强调了他们的呼叫中心号码(0811-506-050)，用于退款和重新安排。文章也展示了Hacker News网站的布局。",
+    "best_quote_en": "Layanan Bantuan Pelanggan 24 Jam Untuk Refund Dan Reschedule.",
+    "best_quote_zh": "24小时客户支持服务，用于退款和重新安排。"
+  },
+  {
+    "id": 393,
+    "title": "Show HN: WyseOS – An AgentOS for Web Automation",
+    "source": "Hackernews",
+    "desc": "<p>Hi everyone, we're building WyseOS — an AgentOS designed for autonomous web automation.  \nThis article provides a deeper look at how it works, why we built it, and what's next.<p>We’d love feedback from the community.  \nThe beta is now live: if you’re interested in trying it, DM us on X at @WyseOS_com.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45951624\">https://news.ycombinator.com/item?id=45951624</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://medium.com/@EricZhang2015/wyseos-the-agentos-for-web-automation-65e3679b8e03",
+    "tags": [
+      "agentos",
+      "web automation",
+      "multi-agent",
+      "ai",
+      "framework"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "WyseOS is an AgentOS designed for web automation with a multi-agent orchestration framework. It features intelligent task decomposition, high-performance action model, and continuous learning. It supports various scenarios like analysis, marketing, and process assistance, accessible through web, plugin, and API. The platform provides user and session management, agent framework, and integrates LLMs and external APIs.",
+    "summary_zh": "WyseOS是一个为Web自动化设计的AgentOS，具有多智能体编排框架。它具有智能任务分解、高性能动作模型和持续学习的特点。它支持分析、营销和流程辅助等多种场景，可通过Web、插件和API访问。该平台提供用户和会话管理、代理框架，并集成了LLM和外部API。",
+    "best_quote_en": "The core advantage of WyseOS lies in its advanced multi-agent orchestration framework.",
+    "best_quote_zh": "WyseOS 的核心优势在于其先进的多智能体编排框架。"
   }]
