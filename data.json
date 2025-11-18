@@ -7357,4 +7357,41 @@
     "summary_zh": "WyseOS是一个为Web自动化设计的AgentOS，具有多智能体编排框架。它具有智能任务分解、高性能动作模型和持续学习的特点。它支持分析、营销和流程辅助等多种场景，可通过Web、插件和API访问。该平台提供用户和会话管理、代理框架，并集成了LLM和外部API。",
     "best_quote_en": "The core advantage of WyseOS lies in its advanced multi-agent orchestration framework.",
     "best_quote_zh": "WyseOS 的核心优势在于其先进的多智能体编排框架。"
+  },{
+    "id": 394,
+    "title": "Background job manager for AI Coding Agents",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/juanibiapina/gob\">https://github.com/juanibiapina/gob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45962498\">https://news.ycombinator.com/item?id=45962498</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/juanibiapina/gob",
+    "tags": [
+      "background process",
+      "cli tool",
+      "coding agents",
+      "process management",
+      "gob"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "Gob is a lightweight CLI tool designed for managing background processes, especially useful for AI coding agents. It allows users to start commands as detached processes, monitor their status and output, and simplifies the management of long-running tasks like servers. It supports Linux and macOS.",
+    "summary_zh": "Gob是一个轻量级的命令行工具，用于管理后台进程，特别适用于AI编码代理。它允许用户启动作为分离进程的命令，监视它们的状态和输出，并简化对服务器等长时间运行任务的管理。它支持Linux和macOS。",
+    "best_quote_en": "Run commands that persist independently of the CLI.",
+    "best_quote_zh": "运行独立于CLI持续存在的命令。"
+  },
+  {
+    "id": 395,
+    "title": "Authors dumped from New Zealand's top book prize after AI used in cover designs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2025/nov/18/authors-dumped-from-new-zealands-top-book-prize-after-ai-used-in-cover-designs\">https://www.theguardian.com/world/2025/nov/18/authors-dumped-from-new-zealands-top-book-prize-after-ai-used-in-cover-designs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45962433\">https://news.ycombinator.com/item?id=45962433</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.theguardian.com/world/2025/nov/18/authors-dumped-from-new-zealands-top-book-prize-after-ai-used-in-cover-designs",
+    "tags": [
+      "ai",
+      "book awards",
+      "new zealand",
+      "authors",
+      "cover design"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "Two New Zealand authors, Stephanie Johnson and Elizabeth Smither, were disqualified from the 2026 Ockham Book Awards because AI was used in their book cover designs. The publisher and authors expressed disappointment, emphasizing the minimal role authors have in cover design and the focus on the book's content. The awards trust defends its stance, citing a need to protect creative and copyright interests.",
+    "summary_zh": "新西兰作家斯蒂芬妮·约翰逊和伊丽莎白·史密瑟因其书籍封面设计使用了人工智能而被取消了2026年奥克姆图书奖的资格。出版商和作者对这一决定表示失望，强调作者在封面设计中的作用很小，重点应放在书籍的内容上。奖项信托会为自己的立场辩护，认为有必要保护创意和版权利益。",
+    "best_quote_en": "“Instead of talking about my book … and what the inspiration was, we are talking about bloody AI, which I hate.”",
+    "best_quote_zh": "“我们现在没有在讨论我的书和创作灵感，却在讨论我讨厌的人工智能。”"
   }]
