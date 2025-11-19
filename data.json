@@ -7394,4 +7394,60 @@
     "summary_zh": "新西兰作家斯蒂芬妮·约翰逊和伊丽莎白·史密瑟因其书籍封面设计使用了人工智能而被取消了2026年奥克姆图书奖的资格。出版商和作者对这一决定表示失望，强调作者在封面设计中的作用很小，重点应放在书籍的内容上。奖项信托会为自己的立场辩护，认为有必要保护创意和版权利益。",
     "best_quote_en": "“Instead of talking about my book … and what the inspiration was, we are talking about bloody AI, which I hate.”",
     "best_quote_zh": "“我们现在没有在讨论我的书和创作灵感，却在讨论我讨厌的人工智能。”"
+  },{
+    "id": 396,
+    "title": "How to disable Cloudflare proxying when you can't access the dashboard",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.coryzue.com/writing/cloudflare-dns/\">https://www.coryzue.com/writing/cloudflare-dns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976890\">https://news.ycombinator.com/item?id=45976890</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.coryzue.com/writing/cloudflare-dns/",
+    "tags": [
+      "cloudflare",
+      "api",
+      "proxy",
+      "dns",
+      "outage"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "The article describes how to disable Cloudflare proxying when the dashboard is inaccessible during an outage. It guides users to obtain an API token in advance, list zone IDs and DNS records using the API, and then patch the relevant record to disable or re-enable proxying. It emphasizes the importance of having an API key and understanding the caveats of disabling Cloudflare's protection.",
+    "summary_zh": "本文介绍了在Cloudflare面板不可用时，如何禁用Cloudflare代理。文章指导用户提前获取API令牌，使用API列出区域ID和DNS记录，然后修改相关记录以禁用或重新启用代理。文章强调了拥有API密钥的重要性，并说明了禁用Cloudflare保护的注意事项。",
+    "best_quote_en": "The most frustrating thing about this situation was that in theory all I had to do was change one flag in my DNS settings—the flag that told CloudFlare to proxy my domain—and everything would work perfectly!",
+    "best_quote_zh": "最令人沮丧的是，理论上我所要做的就是在我的DNS设置中更改一个标志，即告诉CloudFlare代理我的域名的标志，一切都会完美运行！"
+  },
+  {
+    "id": 397,
+    "title": "A free AI tool to generate custom reviews (any tone/length) in seconds",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.reviewsgenerator.org/\">https://www.reviewsgenerator.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976853\">https://news.ycombinator.com/item?id=45976853</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.reviewsgenerator.org/",
+    "tags": [
+      "ai",
+      "review generator",
+      "content creation",
+      "product review",
+      "text generation"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "This AI tool generates custom reviews in various tones and lengths instantly. Users input a topic, select a tone (e.g., professional, casual), and choose a length (100-500 words). The AI then creates a natural, detailed review that can be copied and edited. Basic use is free and doesn't require sign-up.",
+    "summary_zh": "这款AI工具可以立即生成各种语气和长度的自定义评论。用户输入主题，选择语气（例如，专业、随意），并选择长度（100-500字）。然后，AI会创建自然且详细的评论，可以复制和编辑。基本使用是免费的，无需注册。",
+    "best_quote_en": "Advanced AI technology creates natural, engaging reviews in seconds.",
+    "best_quote_zh": "先进的AI技术可以在几秒钟内创建自然且引人入胜的评论。"
+  },
+  {
+    "id": 398,
+    "title": "Pipedream to Be Acquired by Workday",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pipedream.com/blog/pipedream-to-be-acquired-by-workday/\">https://pipedream.com/blog/pipedream-to-be-acquired-by-workday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976821\">https://news.ycombinator.com/item?id=45976821</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://pipedream.com/blog/pipedream-to-be-acquired-by-workday/",
+    "tags": [
+      "pipedream",
+      "workday",
+      "acquisition",
+      "ai agents",
+      "enterprise"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Pipedream has entered into a definitive agreement to be acquired by Workday. This acquisition aims to accelerate Pipedream's mission of enabling customers to build powerful and connected AI agents by combining their AI agent-building products and connectors with Workday's enterprise customer base. The Pipedream team will join Workday after the acquisition, continuing to operate independently until the closing.",
+    "summary_zh": "Pipedream已达成最终协议，将被Workday收购。此次收购旨在通过结合Pipedream的AI Agent构建产品和连接器与Workday的企业客户群，加速Pipedream实现其帮助客户构建强大且互联的AI Agent的使命。收购完成后，Pipedream团队将加入Workday，在完成收购前将继续独立运营。",
+    "best_quote_en": "Our mission to enable customers to build powerful and connected AI agents will accelerate as we bring together our AI agent-building products and 3,000+ connectors with Workday’s leading enterprise customer base and 75+ million end users under contract.",
+    "best_quote_zh": "通过将我们的AI Agent构建产品和3000多个连接器与Workday领先的企业客户群以及合同下的7500多万终端用户结合起来，我们将加速我们帮助客户构建强大且互联的AI Agent的使命。"
   }]
