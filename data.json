@@ -7450,4 +7450,60 @@
     "summary_zh": "Pipedream已达成最终协议，将被Workday收购。此次收购旨在通过结合Pipedream的AI Agent构建产品和连接器与Workday的企业客户群，加速Pipedream实现其帮助客户构建强大且互联的AI Agent的使命。收购完成后，Pipedream团队将加入Workday，在完成收购前将继续独立运营。",
     "best_quote_en": "Our mission to enable customers to build powerful and connected AI agents will accelerate as we bring together our AI agent-building products and 3,000+ connectors with Workday’s leading enterprise customer base and 75+ million end users under contract.",
     "best_quote_zh": "通过将我们的AI Agent构建产品和3000多个连接器与Workday领先的企业客户群以及合同下的7500多万终端用户结合起来，我们将加速我们帮助客户构建强大且互联的AI Agent的使命。"
+  },{
+    "id": 399,
+    "title": "How Uber is reducing manual logins by 4M per year",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2025/11/how-uber-is-reducing-manual-logins-by-4.html\">https://android-developers.googleblog.com/2025/11/how-uber-is-reducing-manual-logins-by-4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45990063\">https://news.ycombinator.com/item?id=45990063</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://android-developers.googleblog.com/2025/11/how-uber-is-reducing-manual-logins-by-4.html",
+    "tags": [
+      "uber",
+      "android",
+      "restore credentials",
+      "login",
+      "security"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Uber implemented the Restore Credentials API, reducing manual logins by 4 million annually. This API streamlines account transfers between devices by silently moving a unique token during the standard onboarding process, leveraging Android's native backup and restore mechanism. Users experience a seamless transition, especially beneficial for infrequent Uber app users.",
+    "summary_zh": "Uber实施了 Restore Credentials API，每年减少400万次手动登录。该API通过在标准引导过程中静默移动唯一令牌，简化了设备之间的帐户转移，利用了Android的原生备份和恢复机制。用户可以体验到无缝过渡，对于不经常使用Uber应用程序的用户尤其有益。",
+    "best_quote_en": "Some users don’t use the Uber app on a daily basis, but they expect it will just work when they need it.",
+    "best_quote_zh": "有些用户并不每天都使用Uber应用程序，但他们希望在需要时它能正常工作。"
+  },
+  {
+    "id": 400,
+    "title": "Nano Prompt UI – Local-Only Gemini Nano Side Panel for Chrome",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/theodedra/nano-prompt-ui\">https://github.com/theodedra/nano-prompt-ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45990045\">https://news.ycombinator.com/item?id=45990045</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/theodedra/nano-prompt-ui",
+    "tags": [
+      "chrome extension",
+      "gemini nano",
+      "ai assistant",
+      "privacy",
+      "side panel"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Nano Prompt UI is a Chrome extension that uses Gemini Nano to provide on-device AI assistance in a side panel. It offers features like summarizing articles, persistent sessions, and multimodal support while ensuring privacy. Users can customize the AI's persona and fine-tune its creativity.",
+    "summary_zh": "Nano Prompt UI是一款Chrome扩展，它使用Gemini Nano在侧边栏中提供设备上的AI助手。它提供文章总结、持久会话和多模态支持等功能，同时确保隐私。用户可以自定义AI的角色并微调其创造力。",
+    "best_quote_en": "Runs on the window.ai (Prompt API) built into Chrome. No data leaves your device.",
+    "best_quote_zh": "运行在Chrome内置的window.ai (Prompt API)上。没有数据离开您的设备。"
+  },
+  {
+    "id": 401,
+    "title": "Show HN: Build A2A Compatible AI Agents with Rust",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/agents-sh/radkit\">https://github.com/agents-sh/radkit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45989979\">https://news.ycombinator.com/item?id=45989979</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/agents-sh/radkit",
+    "tags": [
+      "radkit",
+      "rust",
+      "ai agent",
+      "a2a protocol",
+      "llm"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Radkit is a Rust SDK designed for building reliable AI agent systems with A2A protocol support. It prioritizes developer control over agent behavior, execution flow, and context management, offering a unified LLM interface and features like automatic tool calling, structured outputs, and type safety.",
+    "summary_zh": "Radkit 是一个 Rust SDK，旨在构建具有 A2A 协议支持的可靠 AI 代理系统。它优先考虑开发者对代理行为、执行流程和上下文管理的控制，提供统一的 LLM 接口，并具有自动工具调用、结构化输出和类型安全等功能。",
+    "best_quote_en": "Radkit prioritizes developer experience and control above all else.",
+    "best_quote_zh": "Radkit 将开发者体验和控制置于首位。"
   }]
