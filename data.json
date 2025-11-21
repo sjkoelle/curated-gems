@@ -7506,4 +7506,41 @@
     "summary_zh": "Radkit 是一个 Rust SDK，旨在构建具有 A2A 协议支持的可靠 AI 代理系统。它优先考虑开发者对代理行为、执行流程和上下文管理的控制，提供统一的 LLM 接口，并具有自动工具调用、结构化输出和类型安全等功能。",
     "best_quote_en": "Radkit prioritizes developer experience and control above all else.",
     "best_quote_zh": "Radkit 将开发者体验和控制置于首位。"
+  },{
+    "id": 402,
+    "title": "Gemini 3 is almost as good as Google says it is",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test\">https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46002189\">https://news.ycombinator.com/item?id=46002189</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test",
+    "tags": [
+      "gemini 3",
+      "google ai",
+      "ai model",
+      "visualization",
+      "generative ui"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "Gemini 3 shows promise with its upgraded features like code generation and interactive visualizations. However, its output quality and detail sometimes fall short of Google's demos. Features like the visual layout for travel planning and Gemini Agent for task automation are promising, but the AI model delivers reasonably well with caveats.",
+    "summary_zh": "Gemini 3 在代码生成和交互式可视化等升级功能方面表现出前景。但是，其输出质量和细节有时不如谷歌的演示。诸如旅游计划的可视化布局和用于任务自动化的 Gemini Agent 等功能很有前景，但该 AI 模型在某种程度上能良好地满足需求。",
+    "best_quote_en": "Gemini 3 delivers reasonably well — with caveats.",
+    "best_quote_zh": "Gemini 3 在某种程度上能良好地满足需求。"
+  },
+  {
+    "id": 403,
+    "title": "Solving Fizz Buzz with Cosines",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://susam.net/fizz-buzz-with-cosines.html\">https://susam.net/fizz-buzz-with-cosines.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46002171\">https://news.ycombinator.com/item?id=46002171</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://susam.net/fizz-buzz-with-cosines.html",
+    "tags": [
+      "fizzbuzz",
+      "trigonometry",
+      "programming",
+      "mathematics",
+      "fourier series"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "This article explores solving the Fizz Buzz problem using trigonometric functions, specifically cosines. It defines symbol functions and indicator functions to create a closed-form expression for the Fizz Buzz sequence. The article demonstrates how to represent the Fizz Buzz logic with a finite Fourier series and simplifies the code using mathematical concepts.",
+    "summary_zh": "本文探讨了使用三角函数，特别是余弦函数来解决 Fizz Buzz 问题。它定义了符号函数和指示函数，为Fizz Buzz序列创建了一个闭式表达式。文章展示了如何用有限傅里叶级数来表示Fizz Buzz逻辑，并使用数学概念简化了代码。",
+    "best_quote_en": "Can we make the program more complicated? Perhaps we can use trigonometric functions to encode all four cases in a single closed-form expression.",
+    "best_quote_zh": "我们能否让程序更复杂？或许我们可以使用三角函数将所有四种情况编码到一个闭式表达式中。"
   }]
