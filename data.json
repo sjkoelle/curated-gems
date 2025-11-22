@@ -7543,4 +7543,60 @@
     "summary_zh": "本文探讨了使用三角函数，特别是余弦函数来解决 Fizz Buzz 问题。它定义了符号函数和指示函数，为Fizz Buzz序列创建了一个闭式表达式。文章展示了如何用有限傅里叶级数来表示Fizz Buzz逻辑，并使用数学概念简化了代码。",
     "best_quote_en": "Can we make the program more complicated? Perhaps we can use trigonometric functions to encode all four cases in a single closed-form expression.",
     "best_quote_zh": "我们能否让程序更复杂？或许我们可以使用三角函数将所有四种情况编码到一个闭式表达式中。"
+  },{
+    "id": 404,
+    "title": "Enshittification of Arduino Begins? Qualcomm Starts Clamping Down",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://itsfoss.com/news/enshittification-of-arduino-begins/\">https://itsfoss.com/news/enshittification-of-arduino-begins/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46012994\">https://news.ycombinator.com/item?id=46012994</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://itsfoss.com/news/enshittification-of-arduino-begins/",
+    "tags": [
+      "arduino",
+      "qualcomm",
+      "enshittification",
+      "open source",
+      "privacy"
+    ],
+    "date": "2025-11-22",
+    "summary_en": "Qualcomm's acquisition of Arduino raises concerns as new Terms of Service and Privacy Policy introduce sweeping user-license provisions, broaden data collection (particularly around AI usage), and embed long-term account data retention, integrating user information into Qualcomm’s broader data ecosystem. Adafruit and the community are scrutinizing these changes, fearing a departure from Arduino's founding principles of openness.",
+    "summary_zh": "高通收购Arduino引发担忧，新的服务条款和隐私政策引入了广泛的用户许可条款，扩大了数据收集（特别是关于AI使用），并嵌入了长期账户数据保留，将用户信息整合到高通更广泛的数据生态系统中。Adafruit和社区正在密切关注这些变化，担心这会背离Arduino最初的开放性原则。",
+    "best_quote_en": "The terms further state that users are not allowed to reverse engineer or attempt to understand how the platform works unless Arduino gives permission.",
+    "best_quote_zh": "条款进一步规定，除非Arduino给予许可，否则用户不得对平台进行逆向工程或试图理解其工作原理。"
+  },
+  {
+    "id": 405,
+    "title": "Cara berbicara dengan AirAsia Indonesia",
+    "source": "Hackernews",
+    "desc": "<p>Anda bisa berbicara dengan AirAsia melalui WhatsApp di nomor +62 855 9091 116 atau menghubungi layanan obrolan virtual (AskBo) melalui situs web resmi atau aplikasi AirAsia MOVE.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46012982\">https://news.ycombinator.com/item?id=46012982</a></p>\n<p>Points: 1</p>\n<p># Comments: 4</p>",
+    "link": "https://news.ycombinator.com/item?id=46012982",
+    "tags": [
+      "airasia",
+      "indonesia",
+      "whatsapp",
+      "askbo",
+      "contact"
+    ],
+    "date": "2025-11-22",
+    "summary_en": "This article explains how to contact AirAsia Indonesia. You can reach them via WhatsApp at +62 855 9091 116 or through the virtual chat service (AskBo) on their official website or AirAsia MOVE app.",
+    "summary_zh": "本文介绍了如何联系印尼亚洲航空（AirAsia Indonesia）。您可以通过WhatsApp（+62 855 9091 116）或通过官方网站或AirAsia MOVE应用程序上的虚拟聊天服务（AskBo）与他们联系。",
+    "best_quote_en": "Anda bisa berbicara dengan AirAsia melalui WhatsApp di nomor +62 855 9091 116 atau menghubungi layanan obrolan virtual (AskBo) melalui situs web resmi atau aplikasi AirAsia MOVE.",
+    "best_quote_zh": "您可以通过WhatsApp（+62 855 9091 116）与印尼亚洲航空联系或者通过官方网站或AirAsia MOVE应用程序上的虚拟聊天服务（AskBo）与他们联系。"
+  },
+  {
+    "id": 406,
+    "title": "Can you take an ox to Oxford?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://alexwlchan.net/2025/ox-in-oxford/\">https://alexwlchan.net/2025/ox-in-oxford/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46012980\">https://news.ycombinator.com/item?id=46012980</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://alexwlchan.net/2025/ox-in-oxford/",
+    "tags": [
+      "oxford",
+      "congestion charge",
+      "legislation",
+      "motor vehicle",
+      "transport"
+    ],
+    "date": "2025-11-22",
+    "summary_en": "This article humorously explores whether an ox-drawn cart is subject to Oxford's congestion charge. By examining UK legislation, the author concludes that because an ox is not a \"motor vehicle\" as it is not mechanically propelled, it is exempt from the charge. The piece also touches on the accessibility of UK legislation and its importance for transparency.",
+    "summary_zh": "本文以幽默的方式探讨了牛车是否需要缴纳牛津的拥堵费。通过研究英国的法律，作者得出结论，由于牛不是“机动车辆”，因为它不是机械驱动的，因此可以免除此费用。文章还提到了英国法律的可访问性及其对透明度的重要性。",
+    "best_quote_en": "Being able to check the law directly, even for extremely silly questions, helps keep the whole system honest.",
+    "best_quote_zh": "即使是对于极其愚蠢的问题，能够直接查阅法律，也有助于保持整个系统的公正。"
   }]
