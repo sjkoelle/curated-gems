@@ -7599,4 +7599,41 @@
     "summary_zh": "本文以幽默的方式探讨了牛车是否需要缴纳牛津的拥堵费。通过研究英国的法律，作者得出结论，由于牛不是“机动车辆”，因为它不是机械驱动的，因此可以免除此费用。文章还提到了英国法律的可访问性及其对透明度的重要性。",
     "best_quote_en": "Being able to check the law directly, even for extremely silly questions, helps keep the whole system honest.",
     "best_quote_zh": "即使是对于极其愚蠢的问题，能够直接查阅法律，也有助于保持整个系统的公正。"
+  },{
+    "id": 407,
+    "title": "Surprisingly, Emacs on Android is pretty good",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://kristofferbalintona.me/posts/202505291438/\">https://kristofferbalintona.me/posts/202505291438/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46021577\">https://news.ycombinator.com/item?id=46021577</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://kristofferbalintona.me/posts/202505291438/",
+    "tags": [
+      "emacs",
+      "android",
+      "termux",
+      "mobile editing",
+      "configuration"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "This article discusses using Emacs on Android, highlighting the surprisingly positive experience. It covers installation options, including using Termux for access to CLI tools. The author emphasizes configuring Emacs for Android, referencing the Emacs manual's Android section and recommending specific configurations for touchscreens and virtual keyboards. Despite some limitations, Emacs on Android offers a viable mobile editing solution.",
+    "summary_zh": "本文探讨了在安卓系统上使用Emacs的体验，强调了出人意料的积极性。文章涵盖了安装选项，包括使用Termux来访问CLI工具。作者强调了为安卓配置Emacs，参考了Emacs手册中的安卓部分，并推荐了针对触摸屏和虚拟键盘的特定配置。尽管存在一些限制，Emacs在安卓上提供了一个可行的移动编辑解决方案。",
+    "best_quote_en": "Moments like these are truly a testament to Emacs' dedication to an accessible editor.",
+    "best_quote_zh": "这样的时刻真正证明了Emacs致力于成为一个易于访问的编辑器。"
+  },
+  {
+    "id": 408,
+    "title": "Data breach in Iberia: 77GB of internal documents end up on the dark web",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.apolocybersecurity.com/en/blog-posts/filtracion-de-datos-en-iberia-documentos-internos-acaban-en-la-dark-web-tras-un-posible-ciberataque\">https://www.apolocybersecurity.com/en/blog-posts/filtracion-de-datos-en-iberia-documentos-internos-acaban-en-la-dark-web-tras-un-posible-ciberataque</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46021573\">https://news.ycombinator.com/item?id=46021573</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.apolocybersecurity.com/en/blog-posts/filtracion-de-datos-en-iberia-documentos-internos-acaban-en-la-dark-web-tras-un-posible-ciberataque",
+    "tags": [
+      "data breach",
+      "cybersecurity",
+      "dark web",
+      "internal documents",
+      "risk management"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "Iberia suffered a data breach with 77GB of internal documents leaked on the dark web. While customer data isn't confirmed compromised, operational and strategic information exposure can lead to sophisticated attacks and reputational damage. Experts recommend continuous dark web monitoring, network segmentation, security audits, employee training, and incident response plans to mitigate such risks.",
+    "summary_zh": "伊比利亚航空遭遇数据泄露，77GB内部文件在暗网泄露。虽然客户数据未确认泄露，但运营和战略信息的暴露可能导致复杂的攻击和声誉损害。专家建议持续监控暗网、进行网络分段、安全审计、员工培训和制定事件响应计划，以减轻此类风险。",
+    "best_quote_en": "Prevention and early visibility are essential to prevent an internal leak from becoming a bigger problem.",
+    "best_quote_zh": "预防和早期发现对于防止内部泄露演变成更大的问题至关重要。"
   }]
