@@ -7636,4 +7636,79 @@
     "summary_zh": "伊比利亚航空遭遇数据泄露，77GB内部文件在暗网泄露。虽然客户数据未确认泄露，但运营和战略信息的暴露可能导致复杂的攻击和声誉损害。专家建议持续监控暗网、进行网络分段、安全审计、员工培训和制定事件响应计划，以减轻此类风险。",
     "best_quote_en": "Prevention and early visibility are essential to prevent an internal leak from becoming a bigger problem.",
     "best_quote_zh": "预防和早期发现对于防止内部泄露演变成更大的问题至关重要。"
+  },{
+    "id": 409,
+    "title": "Cloudflare: Piracy Liability Ruling Has Global Implications; Publishers Disagree",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://torrentfreak.com/cloudflare-says-piracy-liability-ruling-sets-a-dangerous-precedent-the-publishers-disagree-251123/\">https://torrentfreak.com/cloudflare-says-piracy-liability-ruling-sets-a-dangerous-precedent-the-publishers-disagree-251123/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46031456\">https://news.ycombinator.com/item?id=46031456</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://torrentfreak.com/cloudflare-says-piracy-liability-ruling-sets-a-dangerous-precedent-the-publishers-disagree-251123/",
+    "tags": [
+      "cloudflare",
+      "piracy",
+      "liability",
+      "manga",
+      "cdn"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "A Tokyo court ruled Cloudflare liable for manga piracy, a decision Cloudflare says has global implications. The lawsuit, filed by manga publishers, claims Cloudflare enabled piracy by providing services to pirate sites. Cloudflare argues the ruling undermines fairness, while publishers disagree, stating it aligns with Cloudflare's anti-piracy pledge. Cloudflare plans to appeal, warning of the ruling's impact on the global internet and tech innovation in Japan.",
+    "summary_zh": "东京一家法院裁定Cloudflare对漫画盗版负有责任，Cloudflare表示该判决具有全球影响。漫画出版商提起的诉讼称，Cloudflare通过向盗版网站提供服务从而助长了盗版行为。Cloudflare认为该判决损害了公平性，而出版商则表示反对，认为这符合Cloudflare打击盗版的承诺。Cloudflare计划上诉，并警告该裁决将对全球互联网和日本的科技创新产生影响。",
+    "best_quote_en": "Holding CDNs like Cloudflare legally liable for content they do not host removes the limitations on liability that have underpinned the growth of the global internet.",
+    "best_quote_zh": "像Cloudflare这样的CDN对其未托管的内容承担法律责任，这将消除支撑全球互联网增长的责任限制。"
+  },
+  {
+    "id": 410,
+    "title": "Solar Superstorm Gannon crushed Earth's plasmasphere to a record low",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2025/11/251122234723.htm\">https://www.sciencedaily.com/releases/2025/11/251122234723.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46031392\">https://news.ycombinator.com/item?id=46031392</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251122234723.htm",
+    "tags": [
+      "solar storm",
+      "plasmasphere",
+      "ionosphere",
+      "space weather",
+      "arase satellite"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "A solar superstorm compressed Earth's plasmasphere to a record low, revealing its collapse and slow recovery mechanisms. The Arase satellite captured this rare event, showing the plasmasphere shrinking to one-fifth of its size and taking over four days to rebuild. A 'negative storm' in the ionosphere further slowed recovery, impacting GPS and satellite operations.",
+    "summary_zh": "一次太阳超级风暴将地球的等离子体层压缩至历史最低水平，揭示了其崩溃和缓慢恢复的机制。 Arase卫星捕捉到了这一罕见事件，显示等离子体层缩小到其五分之一，并花费了超过四天的时间重建。 离子层中的“负风暴”进一步减缓了恢复，影响了GPS和卫星运行。",
+    "best_quote_en": "\"We found that the storm first caused intense heating near the poles, but later this led to a big drop in charged particles across the ionosphere, which slowed recovery.",
+    "best_quote_zh": "“我们发现，最初风暴在两极附近引起强烈的加热，但后来这导致整个电离层带电粒子的急剧下降，从而减缓了恢复。"
+  },
+  {
+    "id": 411,
+    "title": "A tiny fantasy console inspired by early 90s handheld consoles",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/beep8/beep8-sdk\">https://github.com/beep8/beep8-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46031388\">https://news.ycombinator.com/item?id=46031388</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/beep8/beep8-sdk",
+    "tags": [
+      "retro gaming",
+      "game development",
+      "virtual console",
+      "c/c++",
+      "beep-8"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "BEEP-8 is a virtual retro game console designed for developing C/C++ applications, emulating an ARM v4 CPU. It supports multiple platforms, including web browsers, Windows, macOS, and Linux. Developers can access hardware directly or use a PICO-8-like library. Games can be shared instantly via the official portal without App Store review. The SDK is free and provides a retro gaming experience with modern touch interaction.",
+    "summary_zh": "BEEP-8是一个虚拟复古游戏机，设计用于开发C/C++应用程序，模拟ARM v4 CPU。它支持多种平台，包括网页浏览器、Windows、macOS和Linux。 开发者可以直接访问硬件，或者使用类似PICO-8的库。 游戏可以通过官方网站即时分享，无需经过App Store审核。SDK免费，提供具有现代触摸交互的复古游戏体验。",
+    "best_quote_en": "Even on iPhones, you can freely upload and share your self-made BEEP-8 apps with users around the world without going through Apple’s App Store review process, since the platform is entirely web-based.",
+    "best_quote_zh": "即使在iPhone上，您也可以自由地上传和分享您自己制作的BEEP-8应用程序，而无需经过Apple的App Store审核，因为该平台完全基于Web。"
+  },
+  {
+    "id": 412,
+    "title": "What is the most cramped memory card you own?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/microsd-cards/the-small-capacity-memory-card-championship-japan-results-are-in-a-0-5mb-smartmedia-card-won-but-a-2kb-casio-battery-backed-ram-card-lost-due-to-a-technicality\">https://www.tomshardware.com/pc-components/microsd-cards/the-small-capacity-memory-card-championship-japan-results-are-in-a-0-5mb-smartmedia-card-won-but-a-2kb-casio-battery-backed-ram-card-lost-due-to-a-technicality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46031376\">https://news.ycombinator.com/item?id=46031376</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.tomshardware.com/pc-components/microsd-cards/the-small-capacity-memory-card-championship-japan-results-are-in-a-0-5mb-smartmedia-card-won-but-a-2kb-casio-battery-backed-ram-card-lost-due-to-a-technicality",
+    "tags": [
+      "memory-card",
+      "storage",
+      "smartmedia",
+      "pcmcia",
+      "flash-memory"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "The Small Capacity Memory Card Championship (Japan) saw a 0.5MB SmartMedia card win. Entries like the 1.44MB Flash FDD and 2KB Casio RAM card didn't qualify. The competition highlighted various tiny storage formats, with some disqualified for not being general-purpose flash memory cards. A 2KB Casio Pokecon RAM card and a pre-standard 1MB PCMCIA card were notable rejects.",
+    "summary_zh": "日本举办的小容量存储卡锦标赛中，一张0.5MB的SmartMedia卡获胜。1.44MB的Flash FDD和2KB的Casio RAM卡等参赛作品未入选。比赛展示了各种微型存储格式，其中一些因不是通用闪存卡而被取消资格。2KB的Casio Pokecon RAM卡和pre-standard 1MB的PCMCIA卡是值得注意的未入选案例。",
+    "best_quote_en": "Probably the most remarkable small-capacity entry that didn’t make it was the Casio 2KB battery-backed RAM card.",
+    "best_quote_zh": "可能最引人注目的未入选的小容量参赛作品是Casio 2KB电池供电的RAM卡。"
   }]
