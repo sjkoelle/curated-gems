@@ -7711,4 +7711,60 @@
     "summary_zh": "日本举办的小容量存储卡锦标赛中，一张0.5MB的SmartMedia卡获胜。1.44MB的Flash FDD和2KB的Casio RAM卡等参赛作品未入选。比赛展示了各种微型存储格式，其中一些因不是通用闪存卡而被取消资格。2KB的Casio Pokecon RAM卡和pre-standard 1MB的PCMCIA卡是值得注意的未入选案例。",
     "best_quote_en": "Probably the most remarkable small-capacity entry that didn’t make it was the Casio 2KB battery-backed RAM card.",
     "best_quote_zh": "可能最引人注目的未入选的小容量参赛作品是Casio 2KB电池供电的RAM卡。"
+  },{
+    "id": 413,
+    "title": "Perplexity Comet UXSS",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/perplexity-comet-uxss\">https://www.hacktron.ai/blog/perplexity-comet-uxss</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46043402\">https://news.ycombinator.com/item?id=46043402</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.hacktron.ai/blog/perplexity-comet-uxss",
+    "tags": [
+      "uxss",
+      "perplexity",
+      "chrome extension",
+      "vulnerability",
+      "hacktron"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Hacktron researchers discovered a UXSS vulnerability in Perplexity Comet by exploiting a wildcard in the `externally_connectable` field of the Chrome extension's manifest. This allowed them to inject JavaScript on a subdomain and then use `chrome.runtime.sendMessage` to access sensitive APIs, ultimately gaining access to the full DOM tree via `DOMSnapshot.captureSnapshot`. They then used Hacktron AI to automate finding the vulnerability.",
+    "summary_zh": "Hacktron的研究人员通过利用Perplexity Comet Chrome扩展manifest文件中`externally_connectable`字段的通配符，发现了一个UXSS漏洞。这使他们能够在子域名上注入JavaScript，然后使用`chrome.runtime.sendMessage`访问敏感API，最终通过`DOMSnapshot.captureSnapshot`获取完整的DOM树。他们还使用Hacktron AI自动查找漏洞。",
+    "best_quote_en": "The beauty of composability is that it lets you build complex systems with speed and agility, but that same composability spawns weird state machines, aka “vulnerabilities”, that slip past developers’ cognitive load and only show up when an attacker deliberately assembles them.",
+    "best_quote_zh": "可组合性的优点在于它可以让你快速而敏捷地构建复杂的系统，但同样的组合性也会产生奇怪的状态机，也就是“漏洞”，这些漏洞会从开发人员的认知负荷中溜走，只有当攻击者故意将它们组合起来时才会显现。"
+  },
+  {
+    "id": 414,
+    "title": "Show HN: Scrape Baidu",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://apify.com/johnvc/baidu-search-scraper\">https://apify.com/johnvc/baidu-search-scraper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46043383\">https://news.ycombinator.com/item?id=46043383</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://apify.com/johnvc/baidu-search-scraper",
+    "tags": [
+      "baidu",
+      "scraper",
+      "search engine",
+      "automation",
+      "api"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "This is a cost-effective Baidu search scraper built for developers who need reliability. It features intelligent pagination, device targeting, localization, and time filtering and offers per-page billing without monthly rentals. It extracts structured data like organic results, answer boxes, related videos, and more.",
+    "summary_zh": "这是一个高性价比的百度搜索爬虫，专为需要可靠性的开发者设计。它具有智能分页、设备定位、本地化和时间过滤功能，并提供按页计费，没有月租。 它可以提取结构化数据，如自然搜索结果、答案框、相关视频等。",
+    "best_quote_en": "Built for developers who demand reliability without hidden fees.",
+    "best_quote_zh": "专为需要可靠性且没有隐藏费用的开发者而构建。"
+  },
+  {
+    "id": 415,
+    "title": "A Memo from the Future",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.freethink.com/artificial-intelligence/memo-from-the-future\">https://www.freethink.com/artificial-intelligence/memo-from-the-future</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46043373\">https://news.ycombinator.com/item?id=46043373</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.freethink.com/artificial-intelligence/memo-from-the-future",
+    "tags": [
+      "ai",
+      "future",
+      "technology",
+      "automation",
+      "intelligence"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The text envisions a future in 2069 where AI is integrated into daily life, enhancing human capabilities and transforming industries. Technologies such as neural laces, smart clothing, self-driving vehicles, and advanced healthcare solutions are commonplace, creating a world where everything is interconnected and intelligent. This future is characterized by increased efficiency, automation, and a deeper fusion of technology and humanity.",
+    "summary_zh": "文章设想了2069年的未来，人工智能融入日常生活，增强人类能力并改变各行各业。神经蕾丝、智能服装、自动驾驶车辆和先进的医疗保健解决方案等技术十分普及，创造了一个万物互联、智能化的世界。这个未来的特点是效率提高、自动化程度提高，以及技术与人类更深层次的融合。",
+    "best_quote_en": "Intelligence infuses everything, and once-dumb objects have woken up.",
+    "best_quote_zh": "智能融入万物，曾经愚笨的物体都已觉醒。"
   }]
