@@ -7767,4 +7767,60 @@
     "summary_zh": "文章设想了2069年的未来，人工智能融入日常生活，增强人类能力并改变各行各业。神经蕾丝、智能服装、自动驾驶车辆和先进的医疗保健解决方案等技术十分普及，创造了一个万物互联、智能化的世界。这个未来的特点是效率提高、自动化程度提高，以及技术与人类更深层次的融合。",
     "best_quote_en": "Intelligence infuses everything, and once-dumb objects have woken up.",
     "best_quote_zh": "智能融入万物，曾经愚笨的物体都已觉醒。"
+  },{
+    "id": 416,
+    "title": "Why AI Safety Won't Make America Lose the Race with China",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/why-ai-safety-wont-make-america-lose\">https://www.astralcodexten.com/p/why-ai-safety-wont-make-america-lose</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46055184\">https://news.ycombinator.com/item?id=46055184</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.astralcodexten.com/p/why-ai-safety-wont-make-america-lose",
+    "tags": [
+      "ai",
+      "ai safety",
+      "china",
+      "united states",
+      "technology"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "The US currently leads in AI compute and model development. China aims to dominate AI applications by leveraging its strengths in manufacturing and infrastructure. US AI safety regulations focus on transparency, safety policies, and evaluating potential risks. These regulations are unlikely to significantly hinder US progress in the AI race against China, as they involve relatively low costs and focus on essential safety measures.",
+    "summary_zh": "美国目前在AI计算和模型开发方面领先。中国计划通过利用其在制造和基础设施方面的优势来主导AI应用。美国的AI安全法规侧重于透明度、安全政策和评估潜在风险。这些法规不太可能显著阻碍美国在与中国的AI竞赛中的进展，因为它们涉及相对较低的成本并侧重于必要的安全措施。",
+    "best_quote_en": "If our smarter AI is still just sitting in a data center answering user queries - and their dumber AI is already integrated with tens of thousands of humanoid robots, automated drones, missile targeting systems, etc - then they still win.",
+    "best_quote_zh": "如果我们更智能的AI仍然只是坐在数据中心，回复用户查询，而他们较笨的AI已经与成千上万的人形机器人、自动化无人机、导弹瞄准系统等集成在一起，那么他们仍然会赢。"
+  },
+  {
+    "id": 417,
+    "title": "Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2511.19936\">https://arxiv.org/abs/2511.19936</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46055177\">https://news.ycombinator.com/item?id=46055177</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2511.19936",
+    "tags": [
+      "image diffusion models",
+      "video object tracking",
+      "temporal propagation",
+      "zero-shot learning",
+      "semantic segmentation"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "This paper explores emergent temporal propagation in image diffusion models for video object tracking. It shows self-attention maps can be reinterpreted as semantic label propagation kernels. The paper introduces DRIFT, a framework leveraging a pretrained image diffusion model with SAM-guided mask refinement, achieving state-of-the-art zero-shot performance on benchmarks.",
+    "summary_zh": "本文探讨了图像扩散模型中出现的用于视频对象跟踪的时间传播现象。研究表明，自注意力图可以被重新解释为语义标签传播核。论文介绍了一个名为DRIFT的框架，该框架利用预训练的图像扩散模型和SAM引导的掩码细化，在基准测试中实现了最先进的零样本性能。",
+    "best_quote_en": "Image diffusion models, though originally developed for image generation, implicitly capture rich semantic structures that enable various recognition and localization tasks beyond synthesis.",
+    "best_quote_zh": "图像扩散模型虽然最初是为图像生成而开发的，但它隐含地捕获了丰富的语义结构，从而能够实现超越合成的各种识别和定位任务。"
+  },
+  {
+    "id": 418,
+    "title": "How to Run Profitable Pricing Experiments?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://cleancommit.io/blog/pricing-experiments/\">https://cleancommit.io/blog/pricing-experiments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46055173\">https://news.ycombinator.com/item?id=46055173</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://cleancommit.io/blog/pricing-experiments/",
+    "tags": [
+      "pricing experiments",
+      "a/b testing",
+      "price elasticity",
+      "revenue optimization",
+      "unit economics"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "Pricing experiments differ significantly from standard A/B testing, focusing on value perception and unit economics rather than friction reduction. Successful experiments require a shift from conversion rate optimization to revenue optimization, considering price elasticity and substitutability. The article outlines strategic frameworks for pricing experiments, including when to test higher or lower prices based on product niche and economic models.",
+    "summary_zh": "定价实验与标准的A/B测试有很大不同，它侧重于价值感知和单位经济效益，而不是减少摩擦。成功的实验需要从转化率优化转变为收入优化，并考虑价格弹性和可替代性。文章概述了定价实验的战略框架，包括何时基于产品定位和经济模型来测试更高的或更低的价格。",
+    "best_quote_en": "Running pricing experiments is fundamentally different from standard A/B testing.",
+    "best_quote_zh": "运行定价实验从根本上不同于标准的A/B测试。"
   }]
