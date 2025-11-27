@@ -7823,4 +7823,60 @@
     "summary_zh": "定价实验与标准的A/B测试有很大不同，它侧重于价值感知和单位经济效益，而不是减少摩擦。成功的实验需要从转化率优化转变为收入优化，并考虑价格弹性和可替代性。文章概述了定价实验的战略框架，包括何时基于产品定位和经济模型来测试更高的或更低的价格。",
     "best_quote_en": "Running pricing experiments is fundamentally different from standard A/B testing.",
     "best_quote_zh": "运行定价实验从根本上不同于标准的A/B测试。"
+  },{
+    "id": 419,
+    "title": "URL in C Puzzle",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://susam.net/url-in-c.html\">https://susam.net/url-in-c.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46066764\">https://news.ycombinator.com/item?id=46066764</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://susam.net/url-in-c.html",
+    "tags": [
+      "c",
+      "programming",
+      "puzzle",
+      "comments",
+      "url"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "A C puzzle shows that a URL can appear in C code without causing errors. This is because 'https:' is interpreted as a label, and '//' initiates a comment, valid since C99. The comment extends to the end of the line, effectively ignoring the rest of the URL.",
+    "summary_zh": "一个C语言谜题展示了URL可以在C代码中出现且不报错。这是因为'https:'被解释为一个标签，而'//'开始一个注释，这在C99标准中是有效的。注释会延续到行尾，从而忽略URL的剩余部分。",
+    "best_quote_en": "Except within a character constant, a string literal, or a comment, the characters // introduce a comment that includes all multibyte characters up to, but not including, the next new-line character.",
+    "best_quote_zh": "除非在字符常量、字符串文字或注释中，否则字符//引入一个注释，该注释包含所有多字节字符，直到但不包括下一个换行符。"
+  },
+  {
+    "id": 420,
+    "title": "Finding the grain of sand in a heap of Salt",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/\">https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46066746\">https://news.ycombinator.com/item?id=46066746</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/",
+    "tags": [
+      "configuration management",
+      "salt",
+      "cloudflare",
+      "failure analysis",
+      "release management"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The article discusses how Cloudflare uses Salt for configuration management and addresses challenges in identifying the root cause of Salt failures. It explains Salt's architecture, failure modes, and the solutions implemented to reduce release delays by correlating failures with various triggers. The improvements led to a reduction in software release delays and less manual troubleshooting by SRE.",
+    "summary_zh": "本文讨论了Cloudflare如何使用Salt进行配置管理，并解决了识别Salt故障根本原因的挑战。文章介绍了Salt的架构、故障模式，以及通过将故障与各种触发因素相关联来减少发布延迟的解决方案。这些改进减少了软件发布延迟，并减少了SRE的手动故障排除工作。",
+    "best_quote_en": "This release design was intentional â we decided to âfail safeâ instead of failing hard.",
+    "best_quote_zh": "这种发布设计是故意的——我们决定“安全失败”而不是“硬失败”。"
+  },
+  {
+    "id": 421,
+    "title": "Is psql's scripting language Turing complete? Or: Fibonacci in psql",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.enterprisedb.com/blog/psqls-scripting-language-turing-complete-or-fibonacci-psql\">https://www.enterprisedb.com/blog/psqls-scripting-language-turing-complete-or-fibonacci-psql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46066745\">https://news.ycombinator.com/item?id=46066745</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.enterprisedb.com/blog/psqls-scripting-language-turing-complete-or-fibonacci-psql",
+    "tags": [
+      "psql",
+      "turing completeness",
+      "fibonacci",
+      "postgres",
+      "scripting"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The article explores the Turing completeness of psql's scripting language by implementing a Fibonacci sequence calculator. It demonstrates the use of variables, conditional execution, loops, and recursion in psql. The author shows how to write a recursive Fibonacci calculator in psql, overcoming integer overflow issues with BIGINT.",
+    "summary_zh": "本文通过实现斐波那契数列计算器，探讨了psql脚本语言的图灵完备性。文章演示了psql中变量、条件执行、循环和递归的使用。作者展示了如何在psql中编写递归斐波那契计算器，并通过BIGINT解决了整数溢出问题。",
+    "best_quote_en": "This post is for fun. Don't do this. But it happens to also be a nice introduction to some intermediate usage of psql itself.",
+    "best_quote_zh": "这篇文章只是为了好玩。不要真的这么做。但它也恰好很好地介绍了psql的一些中级用法。"
   }]
