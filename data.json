@@ -7879,4 +7879,79 @@
     "summary_zh": "本文通过实现斐波那契数列计算器，探讨了psql脚本语言的图灵完备性。文章演示了psql中变量、条件执行、循环和递归的使用。作者展示了如何在psql中编写递归斐波那契计算器，并通过BIGINT解决了整数溢出问题。",
     "best_quote_en": "This post is for fun. Don't do this. But it happens to also be a nice introduction to some intermediate usage of psql itself.",
     "best_quote_zh": "这篇文章只是为了好玩。不要真的这么做。但它也恰好很好地介绍了psql的一些中级用法。"
+  },{
+    "id": 422,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://aima.cs.berkeley.edu\">https://aima.cs.berkeley.edu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46076485\">https://news.ycombinator.com/item?id=46076485</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://aima.cs.berkeley.edu",
+    "tags": [
+      "artificial intelligence",
+      "textbook",
+      "machine learning",
+      "problem solving",
+      "knowledge representation"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "This is the table of contents for \"Artificial Intelligence: A Modern Approach\", a widely adopted AI textbook. It covers a broad range of AI topics, including problem-solving, knowledge representation, uncertain knowledge and reasoning, machine learning, and applications in natural language processing, computer vision, and robotics. It also discusses the ethics and future of AI.",
+    "summary_zh": "这是《人工智能：一种现代方法》的目录，这是一本被广泛采用的人工智能教科书。它涵盖了广泛的人工智能主题，包括问题解决、知识表示、不确定知识和推理、机器学习以及在自然语言处理、计算机视觉和机器人技术中的应用。它还讨论了人工智能的伦理和未来。",
+    "best_quote_en": "The authoritative, most-used AI textbook, adopted by over 1500 schools.",
+    "best_quote_zh": "权威且使用最广泛的人工智能教科书，已被超过1500所学校采用。"
+  },
+  {
+    "id": 423,
+    "title": "Show HN: Turn your site into a demo video with one URL",
+    "source": "Hackernews",
+    "desc": "<p>Tired of recording the same product demo 10 times and still not being happy with it?<p>That’s basically why I built AutoAds (autoads.pro).<p>The idea: you paste your site’s URL, and an AI pipeline does all the annoying stuff for you, fully automatic.<p>What it does<p>- You paste the URL of your site (SaaS, e-commerce, portfolio)\n- An AI pipeline visits the site and analyzes the content (sections, copy, visuals, CTAs, etc.)\n- It generates a screen-recording-style video of your site:\n  - scrolling and navigating\n  - focusing on the key sections\n- It then does an automatic edit:\n  - short cuts\n  - \"promo-style\" pacing\n  - wraps everything inside a Mac mockup so it looks like a product video\n- In parallel, the AI generates:\n  - a voiceover that explains your product\n  - subtitles synced with the voice<p>End result: you get a ready-to-use promo video (MP4) without opening Loom, without a mic, without a camera.<p>What it works for today<p>- SaaS products\n- E-commerce sites\n- Portfolios / personal sites<p>There’s a free plan so you can try it with your own site (no credit card).<p>Feedback I’m looking for<p>- Would you actually use this instead of recording a manual demo?\n- What would you want more control over: script, voice tone, mockup style, video length?\n- What’s missing for you to feel confident using it on your landing page or in paid ads?<p>Link: autoads.pro<p>If you try it and get a cool (or terrible) video, I’d love to see it and hear what feels off or missing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46076481\">https://news.ycombinator.com/item?id=46076481</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://autoads.pro",
+    "tags": [
+      "ai",
+      "video generation",
+      "demo video",
+      "automation",
+      "marketing"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "Autoads generates professional demo videos from a website URL using AI. It offers tailored templates for various industries like SaaS, eCommerce, and portfolios, aiming to provide fast, simple, and effective video creation for automating ads and showcasing products.",
+    "summary_zh": "Autoads使用AI，通过网站URL生成专业的演示视频。 它为SaaS、电子商务和作品集等各种行业提供量身定制的模板，旨在提供快速、简单、有效的视频创建方式，以实现广告自动化和产品展示。",
+    "best_quote_en": "Paste your Website link and our AI generates a professional video. Fast, simple and effective.",
+    "best_quote_zh": "粘贴您的网站链接，我们的AI将生成专业的视频。 快速、简单、有效。"
+  },
+  {
+    "id": 424,
+    "title": "A foundation for building tools on the AT Protocol using Unison",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://notes.kaushikc.org/3m6kc5nudgc2x?auth_completed=true\">https://notes.kaushikc.org/3m6kc5nudgc2x?auth_completed=true</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46076476\">https://news.ycombinator.com/item?id=46076476</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://notes.kaushikc.org/3m6kc5nudgc2x?auth_completed=true",
+    "tags": [
+      "at protocol",
+      "unison",
+      "distributed systems",
+      "functional programming",
+      "social media"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "This article discusses building tools on the AT Protocol using the Unison programming language. It highlights the use of Unison's cloud libraries like Volturno and Arcella for handling data streams and append-only data structures. The author demonstrates this by creating a tool that synchronizes Bluesky replies to Leaflet documents as comments, using Volturno pipelines and the ATProto ability for API calls.",
+    "summary_zh": "本文讨论了如何使用Unison编程语言在AT协议上构建工具。重点介绍了Unison的云库（如Volturno和Arcella）在处理数据流和仅追加数据结构方面的应用。作者通过创建一个将Bluesky回复同步到Leaflet文档作为评论的工具来演示这一点，该工具使用Volturno管道和ATProto能力进行API调用。",
+    "best_quote_en": "The nice thing about AT Protocol is that even though the development libraries and framework ecosystem is clustered mostly around TypeScript or Rust, I don't have to.",
+    "best_quote_zh": "AT协议的优点在于，即使开发库和框架生态系统主要集中在TypeScript或Rust周围，我也不必如此。"
+  },
+  {
+    "id": 425,
+    "title": "I took some random bets in life about what should I do and now I am stuck",
+    "source": "Hackernews",
+    "desc": "<p>I just found out about the power law from the veritasium video and found that I have been believing in it unknowingly, right now I am at the bad end of the curve and not able to make any sense of things happening to me, what should I do ? \nI think the only option I have is to take more bets in life but please share your wisdom, wizards of the internet...</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46076455\">https://news.ycombinator.com/item?id=46076455</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46076455",
+    "tags": [
+      "power law",
+      "life choices",
+      "advice",
+      "veritasium",
+      "stuck"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "The author feels stuck after making random life choices, realizing they are at the unfavorable end of a power law distribution. Inspired by a Veritasium video, they seek advice on how to improve their situation, suggesting taking more chances but requesting guidance from the internet community.",
+    "summary_zh": "作者在做出一些随机的人生选择后感到困惑，意识到自己正处于幂律分布的不利一端。受到 Veritasium 视频的启发，他们寻求关于如何改善现状的建议，并建议采取更多机会，但同时希望得到互联网社区的指导。",
+    "best_quote_en": "I think the only option I have is to take more bets in life but please share your wisdom, wizards of the internet...",
+    "best_quote_zh": "我认为我唯一的选择是在生活中下更多的赌注，但请分享你们的智慧，互联网的巫师们..."
   }]
