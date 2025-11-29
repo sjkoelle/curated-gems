@@ -7954,4 +7954,79 @@
     "summary_zh": "作者在做出一些随机的人生选择后感到困惑，意识到自己正处于幂律分布的不利一端。受到 Veritasium 视频的启发，他们寻求关于如何改善现状的建议，并建议采取更多机会，但同时希望得到互联网社区的指导。",
     "best_quote_en": "I think the only option I have is to take more bets in life but please share your wisdom, wizards of the internet...",
     "best_quote_zh": "我认为我唯一的选择是在生活中下更多的赌注，但请分享你们的智慧，互联网的巫师们..."
+  },{
+    "id": 426,
+    "title": "With Love to KDE: Take a Moment",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://korcenji.neocities.org/Writings/KDE-Take-A-Moment\">https://korcenji.neocities.org/Writings/KDE-Take-A-Moment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46085836\">https://news.ycombinator.com/item?id=46085836</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment",
+    "tags": [
+      "kde",
+      "llm",
+      "ai policy",
+      "open source",
+      "ethics"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "The author expresses concern over KDE's potential acceptance of LLM contributions, suggesting an \"AI\" policy similar to Servo's. They argue that LLMs lack provenance, lower code quality, exploit maintainers, and contribute to environmental issues and fascist ideologies. The author urges KDE to consider the negative impacts of LLMs and learn from other projects' policies.",
+    "summary_zh": "作者表达了对KDE可能接受LLM贡献的担忧，建议采用类似于Servo的“AI”政策。他们认为LLM缺乏溯源性，会降低代码质量，剥削维护者，并加剧环境问题和助长法西斯主义。作者敦促KDE考虑LLM的负面影响，并借鉴其他项目的政策。",
+    "best_quote_en": "LLMs bring downward pressure on code quality, lost productivity, and maintainer abuse.",
+    "best_quote_zh": "LLM会对代码质量造成下行压力，降低生产力，并导致维护者被滥用。"
+  },
+  {
+    "id": 427,
+    "title": "Ballerina.io",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ballerina.io/learn/by-example/\">https://ballerina.io/learn/by-example/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46085829\">https://news.ycombinator.com/item?id=46085829</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ballerina.io/learn/by-example/",
+    "tags": [
+      "ballerina",
+      "cloud-native",
+      "programming language",
+      "integration",
+      "concurrency"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "Ballerina.io is a cloud-native programming language designed for integration. It covers a wide range of topics including basic syntax like variables, types, operators, and control flow. It also details advanced concepts like concurrency, network interaction, error handling, and testing, providing a comprehensive overview of the Ballerina ecosystem.",
+    "summary_zh": "Ballerina.io 是一种为集成设计的云原生编程语言。它涵盖了广泛的主题，包括变量、类型、运算符和控制流等基本语法。它还详细介绍了并发、网络交互、错误处理和测试等高级概念，全面概述了 Ballerina 生态系统。",
+    "best_quote_en": "Ballerina.io is a cloud-native programming language designed for integration.",
+    "best_quote_zh": "Ballerina.io 是一种为集成设计的云原生编程语言。"
+  },
+  {
+    "id": 428,
+    "title": "Bank Street Writer on the Apple II",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://stonetools.ghost.io/bankstreetwriter-apple2/\">https://stonetools.ghost.io/bankstreetwriter-apple2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46085820\">https://news.ycombinator.com/item?id=46085820</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://stonetools.ghost.io/bankstreetwriter-apple2/",
+    "tags": [
+      "bank street writer",
+      "apple ii",
+      "word processor",
+      "broderbund",
+      "education"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "Bank Street Writer, a word processor developed for kids in the early days of classroom computers, emerged from a collaboration between Bank Street College, consultants, and software developers. Published by Scholastic and later Broderbund, it topped home software sales. Its user-friendly interface, featuring contextual prompts, contrasts with modern software. The article explores its historical context and lasting impact.",
+    "summary_zh": "Bank Street Writer是一款早期为课堂电脑开发的儿童文字处理软件，它是由Bank Street学院、顾问和软件开发人员合作开发的。由Scholastic公司发行，后来Broderbund公司也参与发行，并成为家庭软件销售的佼佼者。其用户友好的界面，具有上下文提示功能，与现代软件形成对比。文章探讨了它的历史背景和持久影响。",
+    "best_quote_en": "When in doubt, look for instructions in the prompt area.",
+    "best_quote_zh": "如有疑问，请查看提示区域中的说明。"
+  },
+  {
+    "id": 429,
+    "title": "GWR train fitted with F1 tech for two-month superfast WiFi trial",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2025/nov/17/gwr-train-f1-technology-superfast-wifi-trial-5g-satellites\">https://www.theguardian.com/business/2025/nov/17/gwr-train-f1-technology-superfast-wifi-trial-5g-satellites</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46085816\">https://news.ycombinator.com/item?id=46085816</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/business/2025/nov/17/gwr-train-f1-technology-superfast-wifi-trial-5g-satellites",
+    "tags": [
+      "wifi",
+      "train",
+      "5g",
+      "satellite",
+      "gwr"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "A two-month trial on a GWR train uses F1 technology to provide superfast WiFi by switching between 5G and satellite signals. Speeds reached 120+ Mbps, exceeding many home connections. The trial aims to assess wider implementation across the rail network, potentially enhancing productivity and passenger experience. The UK-made tech is also being rolled out in Germany and the US.",
+    "summary_zh": "英国GWR列车进行为期两个月的试验，利用F1技术通过在5G和卫星信号之间切换来提供超高速WiFi。下载速度达到每秒120兆以上，超过许多家庭连接。该试验旨在评估在铁路网络上的更广泛应用，从而潜在地提高生产力和乘客体验。这项英国技术也将在德国和美国推广。",
+    "best_quote_en": "Passenger experience is top of our agenda – and 21st-century experience ought to be seamless fast wifi … which will make the time spent travelling by train even more valuable.",
+    "best_quote_zh": "乘客体验是我们的首要议程——21世纪的体验应该是无缝的快速无线网络……这将使乘坐火车的时间更有价值。"
   }]
