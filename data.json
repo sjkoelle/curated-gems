@@ -8029,4 +8029,79 @@
     "summary_zh": "英国GWR列车进行为期两个月的试验，利用F1技术通过在5G和卫星信号之间切换来提供超高速WiFi。下载速度达到每秒120兆以上，超过许多家庭连接。该试验旨在评估在铁路网络上的更广泛应用，从而潜在地提高生产力和乘客体验。这项英国技术也将在德国和美国推广。",
     "best_quote_en": "Passenger experience is top of our agenda – and 21st-century experience ought to be seamless fast wifi … which will make the time spent travelling by train even more valuable.",
     "best_quote_zh": "乘客体验是我们的首要议程——21世纪的体验应该是无缝的快速无线网络……这将使乘坐火车的时间更有价值。"
+  },{
+    "id": 430,
+    "title": "Reddit Migrates Comment Back End from Python to Go Microservice to Halve Latency",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/AMP/2025/05/06/30_years_mysql/\">https://www.theregister.com/AMP/2025/05/06/30_years_mysql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46094739\">https://news.ycombinator.com/item?id=46094739</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/AMP/2025/05/06/30_years_mysql/",
+    "tags": [
+      "mysql",
+      "database",
+      "opensource",
+      "lamp",
+      "webdev"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "The article discusses the 30th anniversary of MySQL, highlighting its origins, adoption during the dotcom boom, and its continued relevance. It features insights from industry experts like Sam Lambert (PlanetScale) and Peter Zaitsev (Percona) on MySQL's early focus on simplicity, usability and replication, and its impact on web development.",
+    "summary_zh": "文章讨论了MySQL诞生30周年，强调了它的起源、在互联网泡沫时期的普及以及持续的相关性。文章还包含了来自行业专家（如PlanetScale的Sam Lambert和Percona的Peter Zaitsev）的见解，他们指出了MySQL早期对简单性、可用性和复制的关注，以及它对Web开发的影响。",
+    "best_quote_en": "\"Probably around 2004, I started playing with MySQL because it just became the default for when you're getting a website to do anything online: you're going to use MySQL, and the LAMP stack was just this kind of in-the-box, incredible tooling.\"",
+    "best_quote_zh": "“可能在2004年左右，我开始使用MySQL，因为它已经成为你在线建立网站时的默认选择：你将使用MySQL，LAMP堆栈就像是一个开箱即用的、令人难以置信的工具。”"
+  },
+  {
+    "id": 431,
+    "title": "MasonEffect update (1.0.30): faster particle morphing and improved stability",
+    "source": "Hackernews",
+    "desc": "<p>I’ve shipped a small performance update to MasonEffect, my lightweight particle-morphing text engine.\nThe focus was reducing Canvas readback overhead and improving frame stability across devices. Internal loop cleanup and better caching helped make morphing animations more consistent, especially at higher particle counts.<p>A simple performance log option is also available for anyone who wants to validate frame timing or inspect update costs.<p>Demo: https://masoneffect.com<p>npm: https://www.npmjs.com/package/masoneffect<p>GitHub: https://github.com/fe-hyunsu/masoneffect\n (a  would be greatly appreciated!)<p>Happy to hear feedback or further optimization ideas.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46094724\">https://news.ycombinator.com/item?id=46094724</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46094724",
+    "tags": [
+      "particle morphing",
+      "performance update",
+      "javascript",
+      "animation",
+      "masoneffect"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "MasonEffect 1.0.30 released with performance improvements for particle morphing. Focus on reducing Canvas readback overhead and improving frame stability, especially at higher particle counts. Includes performance log option for validation; feedback and optimization ideas are welcome.",
+    "summary_zh": "MasonEffect 1.0.30版本发布，提升了粒子变形的性能。重点是降低Canvas读取开销，并提高帧稳定性，尤其是在较高粒子数量的情况下。包含用于验证的性能日志选项；欢迎反馈和优化建议。",
+    "best_quote_en": "Internal loop cleanup and better caching helped make morphing animations more consistent, especially at higher particle counts.",
+    "best_quote_zh": "内部循环清理和更好的缓存有助于使变形动画更加一致，尤其是在较高的粒子数量下。"
+  },
+  {
+    "id": 432,
+    "title": "Building a Marketplace",
+    "source": "Hackernews",
+    "desc": "<p>Hello guys I am building a marketplace to connect muslim brands to muslim women and I wanted to get advice from other founders in e-commerce building marketplaces too and also would advice and support on networking with other founders</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46094721\">https://news.ycombinator.com/item?id=46094721</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46094721",
+    "tags": [
+      "marketplace",
+      "e-commerce",
+      "muslim",
+      "brands",
+      "women"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "The author is building a marketplace to connect Muslim brands with Muslim women. They are seeking advice and support from other e-commerce marketplace founders, including networking opportunities.",
+    "summary_zh": "作者正在建立一个连接穆斯林品牌和穆斯林女性的电商平台。他们正在寻求来自其他电商平台创始人的建议和支持，包括建立人脉网络的机会。",
+    "best_quote_en": "I am building a marketplace to connect muslim brands to muslim women and I wanted to get advice from other founders in e-commerce building marketplaces too and also would advice and support on networking with other founders",
+    "best_quote_zh": "我正在建立一个连接穆斯林品牌到穆斯林女性的平台，我想从其他也在建立平台的电商创始人那里获得建议，也希望在与其他创始人建立联系方面得到建议和支持。"
+  },
+  {
+    "id": 433,
+    "title": "Perplexity Comet vs Google Chrome – Should You Switch to an AI Browser?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.forbes.com/sites/zakdoffman/2025/10/09/perplexity-comet-vs-google-chrome---should-you-switch-to-an-ai-browser/\">https://www.forbes.com/sites/zakdoffman/2025/10/09/perplexity-comet-vs-google-chrome---should-you-switch-to-an-ai-browser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46094719\">https://news.ycombinator.com/item?id=46094719</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.forbes.com/sites/zakdoffman/2025/10/09/perplexity-comet-vs-google-chrome---should-you-switch-to-an-ai-browser/",
+    "tags": [
+      "ai browser",
+      "security",
+      "perplexity comet",
+      "google chrome",
+      "cybersecurity"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "The article discusses the security vulnerabilities of AI browsers, comparing Perplexity Comet to Google Chrome. Security firms have identified potential attacks, including OAuth exploits and malware distribution. While AI browsers offer productivity benefits, users should be aware of the security risks. The article argues that it's not *if* we switch to AI browsers, but *when*, highlighting the need for stronger security measures.",
+    "summary_zh": "本文讨论了人工智能浏览器的安全漏洞，并将Perplexity Comet与谷歌Chrome进行了比较。安全公司已经发现潜在的攻击，包括OAuth漏洞利用和恶意软件分发。虽然人工智能浏览器提供了生产力优势，但用户应注意安全风险。文章认为，我们转型到人工智能浏览器不是“是否”的问题，而是“何时”的问题，并强调需要更强大的安全措施。",
+    "best_quote_en": "\"Despite claims of being more secure, autonomous agents with full user privileges can now operate without human oversight, lacking the security awareness and common sense of even a minimally trained user.\"",
+    "best_quote_zh": "“尽管声称更加安全，但具有完整用户权限的自主代理现在可以在没有人工监督的情况下运行，缺乏即使是经过最少培训的用户的安全意识和常识。”"
   }]
