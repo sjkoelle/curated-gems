@@ -8104,4 +8104,79 @@
     "summary_zh": "本文讨论了人工智能浏览器的安全漏洞，并将Perplexity Comet与谷歌Chrome进行了比较。安全公司已经发现潜在的攻击，包括OAuth漏洞利用和恶意软件分发。虽然人工智能浏览器提供了生产力优势，但用户应注意安全风险。文章认为，我们转型到人工智能浏览器不是“是否”的问题，而是“何时”的问题，并强调需要更强大的安全措施。",
     "best_quote_en": "\"Despite claims of being more secure, autonomous agents with full user privileges can now operate without human oversight, lacking the security awareness and common sense of even a minimally trained user.\"",
     "best_quote_zh": "“尽管声称更加安全，但具有完整用户权限的自主代理现在可以在没有人工监督的情况下运行，缺乏即使是经过最少培训的用户的安全意识和常识。”"
+  },{
+    "id": 434,
+    "title": "The Case for AI Transpilation",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://yishus.dev/ai-transpilation/\">https://yishus.dev/ai-transpilation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46104643\">https://news.ycombinator.com/item?id=46104643</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://yishus.dev/ai-transpilation/",
+    "tags": [
+      "ai",
+      "transpilation",
+      "llm",
+      "workflow",
+      "intermediate representation"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "The author proposes an intermediate representation for AI workflows, where a high-performing LLM generates instructions for cheaper, specialized models. This allows for model swapping, accessing previous outputs, control flow, and code execution. Persisting these workflows enables collaboration, reuse, and version control. Explicit control over the process can lead to optimized outcomes, and control flow/code execution enhance context engineering. This calls for a new standard workflow syntax and language server.",
+    "summary_zh": "作者提出了AI工作流的中间表示，即高性能LLM生成指令，供更便宜、专业的模型执行。这样可以进行模型交换、访问先前输出、控制流程和代码执行。持久化这些工作流可以实现协作、重用和版本控制。对过程的显式控制可以带来优化的结果，并且控制流程/代码执行可以增强上下文工程。这需要一种新的标准工作流语法和语言服务器。",
+    "best_quote_en": "It's possible that LLM providers are already outsourcing parts of their workflows to specialized models, but having explicit control over this process can lead to more predictable and optimized outcomes.",
+    "best_quote_zh": "LLM提供商可能已经在将工作流的部分外包给专业模型，但对该过程的显式控制可以带来更可预测和优化的结果。"
+  },
+  {
+    "id": 435,
+    "title": "Virtual Brendans",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html\">https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46104593\">https://news.ycombinator.com/item?id=46104593</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html",
+    "tags": [
+      "ai",
+      "performance engineering",
+      "virtual brendan",
+      "flame graphs",
+      "ebpf"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "The author discusses the emergence of AI agents and \"Virtual Brendans\" trained on his work for performance engineering tasks. He distinguishes between AI agents that assist with tasks like flame graph interpretation and virtual Brendans that aim to replicate his expertise. He expresses concerns about pricing models, potential for over-promising, and the importance of AI in improving performance engineering, especially with the increasing complexity and cost of AI datacenters.",
+    "summary_zh": "作者讨论了AI助手和基于他的工作训练的“虚拟Brendan”的出现，这些工具用于性能工程任务。他区分了辅助火焰图分析等任务的AI助手，和旨在复制他的专业知识的虚拟Brendan。他表达了对定价模型、过度承诺的可能性的担忧，以及AI在提高性能工程水平方面的重要性，尤其是在AI数据中心日益复杂和成本不断上升的情况下。",
+    "best_quote_en": "Are people allowed to sell you, virtually? And am I the first individual engineer to be AI'd?",
+    "best_quote_zh": "人们可以虚拟地出售你吗？我是第一个被AI化的个人工程师吗？"
+  },
+  {
+    "id": 436,
+    "title": "Ask HN: Why isn't anyone using RethinkDB anymore?",
+    "source": "Hackernews",
+    "desc": "<p>Hey HN.<p>I came across RethinkDB lately and i'm curious why most startups, projects and folks don't use it?<p>https://rethinkdb.com/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46104571\">https://news.ycombinator.com/item?id=46104571</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46104571",
+    "tags": [
+      "rethinkdb",
+      "database",
+      "startup",
+      "hackernews",
+      "nosql"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "The author on Hacker News is asking why RethinkDB is not widely used by startups, projects, and individuals. They express curiosity about the lack of adoption despite the database's existence.",
+    "summary_zh": "作者在Hacker News上提问，为什么RethinkDB没有被创业公司、项目和个人广泛使用。他们对该数据库存在但缺乏采用表示好奇。",
+    "best_quote_en": "I came across RethinkDB lately and i'm curious why most startups, projects and folks don't use it?",
+    "best_quote_zh": "最近我遇到了RethinkDB，我很好奇为什么大多数创业公司、项目和个人都不使用它？"
+  },
+  {
+    "id": 437,
+    "title": "Panomicron Holmium – 6x7 Rangefinder",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.panomicron.com/holmium-1\">https://www.panomicron.com/holmium-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46104568\">https://news.ycombinator.com/item?id=46104568</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.panomicron.com/holmium-1",
+    "tags": [
+      "rangefinder",
+      "6x7",
+      "camera",
+      "diy",
+      "3d printing"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "The author planned and built a 6x7 rangefinder camera, aiming for a mechanical Mamiya 7 alternative. Challenges included designing an accurate rangefinder, integrated viewfinder, and film advance mechanism. Issues arose with the 3D-printed helicoid, top plate interference, and film spool handling. The author successfully adapted a 50mm f/2.8 Bronica lens, achieving impressive results despite some softness and character.",
+    "summary_zh": "作者计划并制作了一台6x7旁轴相机，目标是成为机械版玛米亚7的替代品。挑战包括设计精确的测距仪、集成取景器和胶片推进装置。3D打印的螺旋齿轮、顶板干涉和胶片轴处理都出现了问题。作者成功地改装了一个50mm f/2.8 Bronica镜头，尽管有一些柔和和特性，但仍取得了令人印象深刻的效果。",
+    "best_quote_en": "Even if the rangefinder would technically be accurate enough for a 80mm lens, I decided to start with something that would give me some more leeway.",
+    "best_quote_zh": "即使测距仪在技术上对于80mm镜头来说已经足够精确，我还是决定从一些能给我更多灵活性的东西开始。"
   }]
