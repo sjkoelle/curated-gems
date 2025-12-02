@@ -8179,4 +8179,98 @@
     "summary_zh": "作者计划并制作了一台6x7旁轴相机，目标是成为机械版玛米亚7的替代品。挑战包括设计精确的测距仪、集成取景器和胶片推进装置。3D打印的螺旋齿轮、顶板干涉和胶片轴处理都出现了问题。作者成功地改装了一个50mm f/2.8 Bronica镜头，尽管有一些柔和和特性，但仍取得了令人印象深刻的效果。",
     "best_quote_en": "Even if the rangefinder would technically be accurate enough for a 80mm lens, I decided to start with something that would give me some more leeway.",
     "best_quote_zh": "即使测距仪在技术上对于80mm镜头来说已经足够精确，我还是决定从一些能给我更多灵活性的东西开始。"
+  },{
+    "id": 438,
+    "title": "Now streaming: Collabora's XDC 2025 presentations",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/blog/2025/12/02/now-streaming-collabora-xdc-2025-presentation/\">https://www.collabora.com/news-and-blog/blog/2025/12/02/now-streaming-collabora-xdc-2025-presentation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46118768\">https://news.ycombinator.com/item?id=46118768</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.collabora.com/news-and-blog/blog/2025/12/02/now-streaming-collabora-xdc-2025-presentation/",
+    "tags": [
+      "graphics",
+      "open source",
+      "vulkan",
+      "mesa",
+      "driver"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "Collabora actively participated in XDC 2025, delivering talks, workshops, and contributing to the open graphics stack. Presentations covered topics like resource mapping, Rust GPU drivers, YUV formats in Mesa, PanVK advancements, Nouveau/NVK updates, and Mesa CI improvements. The event fostered community connections and collaboration within the freedesktop community.",
+    "summary_zh": "Collabora积极参与了XDC 2025，发表了演讲，组织了研讨会，并为开放图形堆栈做出了贡献。演讲内容涵盖了资源映射、Rust GPU驱动程序、Mesa中的YUV格式、PanVK的改进、Nouveau/NVK的更新以及Mesa CI的改进。此次活动促进了freedesktop社区内的社区联系与合作。",
+    "best_quote_en": "\"One of the chief challenges in modern graphics drivers is accessing resources that live outside the shader.\"",
+    "best_quote_zh": "“现代图形驱动程序面临的主要挑战之一是访问驻留在着色器之外的资源。”"
+  },
+  {
+    "id": 439,
+    "title": "Samsung reveals its tri-fold phone – and its desktop mode",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/12/02/samsung_galaxy_z_trifold/\">https://www.theregister.com/2025/12/02/samsung_galaxy_z_trifold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46118735\">https://news.ycombinator.com/item?id=46118735</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/12/02/samsung_galaxy_z_trifold/",
+    "tags": [
+      "samsung",
+      "trifold phone",
+      "dex",
+      "galaxy z trifold",
+      "smartphone"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "Samsung has unveiled its first tri-fold phone, the Galaxy Z TriFold, which features a 6.5-inch cover screen and a 10.0-inch main screen. It runs Samsung's DeX desktop environment, allowing users to access multiple workspaces and apps simultaneously. It will be first available in South Korea for around $2400, with plans for expansion to other markets.",
+    "summary_zh": "三星发布了其首款三折叠手机 Galaxy Z TriFold，配备 6.5 英寸外屏和 10.0 英寸主屏幕。它运行三星的 DeX 桌面环境，允许用户同时访问多个工作区和应用程序。该手机将首先在韩国上市，售价约为 2400 美元，并计划扩展到其他市场。",
+    "best_quote_en": "Buyers get a one-time discount on screen repairs, which hardly screams ‘we nailed this three-screen thing’",
+    "best_quote_zh": "购买者获得一次性屏幕维修折扣，这很难让人相信 '我们已经搞定了这个三屏设备'。"
+  },
+  {
+    "id": 440,
+    "title": "Command Line Programs for the Blind",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.eklhad.net/philosophy.html\">https://www.eklhad.net/philosophy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46118731\">https://news.ycombinator.com/item?id=46118731</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.eklhad.net/philosophy.html",
+    "tags": [
+      "accessibility",
+      "blindness",
+      "command line",
+      "user interface",
+      "edbrowse"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "The article discusses the challenges faced by blind users when interacting with standard computer interfaces and proposes text-based command line programs as a more accessible alternative. It highlights the efficiency of visual interfaces for sighted users but emphasizes the difficulties blind users experience due to the serial nature of screen readers.  The author advocates for separating data semantics from representation to allow personalized interfaces.",
+    "summary_zh": "本文讨论了盲人用户在使用标准计算机界面时面临的挑战，并提出了基于文本的命令行程序作为更易访问的替代方案。文章强调了视觉界面对于视力正常用户的效率，但强调了盲人用户由于屏幕阅读器的串行特性而遇到的困难。作者提倡将数据语义与表示分离，以实现个性化界面。",
+    "best_quote_en": "Edbrowse gives the blind user exactly what he asks for, and nothing more.",
+    "best_quote_zh": "Edbrowse 只给盲人用户他们所要求的，仅此而已。"
+  },
+  {
+    "id": 441,
+    "title": "Show HN: Dataframe-Expectations – Validation for Pandas and PySpark DataFrames",
+    "source": "Hackernews",
+    "desc": "<p>I built dataframe-expectations to solve a problem I kept running into: how to validate pandas and PySpark DataFrames without rewriting validation logic every time or wrestling with complex setup.<p>Key features:\n- Single API that works for both pandas and PySpark DataFrames\n- Minimal dependencies (won't bloat Docker images or slow builds)\n- Decorator-based validation for automatic function output checks\n- Tag-based filtering to run specific validations by environment or priority or any other criteria\n- Reusable expectation definitions across your codebase<p>The library is lightweight and integrates easily into existing CI/CD pipelines, helping you catch data quality issues before production.<p>Links:\n• PyPI: \n<a href=\"https://pypi.org/project/dataframe-expectations/\" rel=\"nofollow\">https://pypi.org/project/dataframe-expectations/</a><p>• GitHub: \n<a href=\"https://github.com/getyourguide/dataframe-expectations\" rel=\"nofollow\">https://github.com/getyourguide/dataframe-expectations</a><p>• Docs: \n<a href=\"https://code.getyourguide.com/dataframe-expectations/\" rel=\"nofollow\">https://code.getyourguide.com/dataframe-expectations/</a><p>The project is still in its early stages and I'd love to hear your feedback and answer any questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46118729\">https://news.ycombinator.com/item?id=46118729</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/getyourguide/dataframe-expectations",
+    "tags": [
+      "dataframe",
+      "validation",
+      "pandas",
+      "pyspark",
+      "testing"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "DataFrameExpectations is a Python library for validating Pandas and PySpark DataFrames. It offers a standardized framework with reusable expectations for simplifying testing in data pipelines. It supports manual and decorator-based validation and provides detailed output reports, making it easier to identify and address data quality issues.",
+    "summary_zh": "DataFrameExpectations是一个用于验证Pandas和PySpark DataFrames的Python库。它提供了一个标准化的框架，具有可重用的期望，从而简化了数据管道中的测试。它支持手动和基于装饰器的验证，并提供详细的输出报告，从而更容易识别和解决数据质量问题。",
+    "best_quote_en": "Instead of using different validation approaches for DataFrames, this library provides a standardized solution for this use case.",
+    "best_quote_zh": "该库没有采用不同的DataFrame验证方法，而是为此用例提供了一个标准化的解决方案。"
+  },
+  {
+    "id": 442,
+    "title": "Why Conventional Price Theory Fails",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal\">https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46118724\">https://news.ycombinator.com/item?id=46118724</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal",
+    "tags": [
+      "price theory",
+      "productive capacity",
+      "interest rates",
+      "monetary policy",
+      "liquidity"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "Conventional price theory fails because prices signal liquidity-to-capacity ratio, capacity allocation, and structural intermediation, not just quality or scarcity. Interest rates reflect capacity to support debt, asset prices reveal monetized capacity, and wages show capacity certification. This framework explains why policies like Japan's zero rates failed and US rate hikes worked.",
+    "summary_zh": "传统价格理论失效，因为价格反映的是流动性与产能之比、产能配置和结构性中介，而不仅仅是质量或稀缺性。利率反映了支持债务的产能，资产价格揭示了货币化的产能，工资显示了产能认证。这个框架解释了日本的零利率政策失败和美国加息政策成功的原因。",
+    "best_quote_en": "Prices also reflect allocation choices at two levels: productive capacity allocation (how workers, companies, and infrastructure get deployed, representing supply decisions) and liquidity allocation (how debt-backed purchasing power gets directed, representing demand decisions).",
+    "best_quote_zh": "价格也反映了两个层面的配置选择：生产能力配置（工人、公司和基础设施如何部署，代表供应决策）和流动性配置（债务支持的购买力如何导向，代表需求决策）。"
   }]
