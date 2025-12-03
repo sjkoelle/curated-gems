@@ -8273,4 +8273,98 @@
     "summary_zh": "传统价格理论失效，因为价格反映的是流动性与产能之比、产能配置和结构性中介，而不仅仅是质量或稀缺性。利率反映了支持债务的产能，资产价格揭示了货币化的产能，工资显示了产能认证。这个框架解释了日本的零利率政策失败和美国加息政策成功的原因。",
     "best_quote_en": "Prices also reflect allocation choices at two levels: productive capacity allocation (how workers, companies, and infrastructure get deployed, representing supply decisions) and liquidity allocation (how debt-backed purchasing power gets directed, representing demand decisions).",
     "best_quote_zh": "价格也反映了两个层面的配置选择：生产能力配置（工人、公司和基础设施如何部署，代表供应决策）和流动性配置（债务支持的购买力如何导向，代表需求决策）。"
+  },{
+    "id": 443,
+    "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/\">https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46131406\">https://news.ycombinator.com/item?id=46131406</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
+    "tags": [
+      "github",
+      "zig",
+      "ai",
+      "codeberg",
+      "developer"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "The Zig programming language project is moving to Codeberg due to concerns about GitHub's focus on AI and neglect of engineering excellence. Issues include unresolved bugs, inefficient CI systems, and a perceived decline in service quality. Other projects like Dillo browser are also leaving GitHub amid similar concerns.",
+    "summary_zh": "Zig编程语言项目因担忧 GitHub 过度关注 AI 并忽视工程质量而迁移至 Codeberg。问题包括未解决的 bug、低效的 CI 系统以及服务质量下降。Dillo 浏览器等其他项目也因类似担忧离开 GitHub。",
+    "best_quote_en": "\"Whilst one could say that this is just one isolated incident, I can't see how such an extraordinary collection of outright face-palming events could be made in any reasonably functioning organization,\"",
+    "best_quote_zh": "“虽然有人会说这只是一个孤立事件，但我无法想象在一个运作合理的组织中，怎么会出现如此一系列令人瞠目结舌的事件。”"
+  },
+  {
+    "id": 444,
+    "title": "Indian government reveals GPS spoofing at eight major airports",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/12/03/india_gps_spoofing/\">https://www.theregister.com/2025/12/03/india_gps_spoofing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46131404\">https://news.ycombinator.com/item?id=46131404</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/12/03/india_gps_spoofing/",
+    "tags": [
+      "gps spoofing",
+      "indian airports",
+      "cybersecurity",
+      "aviation security",
+      "gps jamming"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "The Indian government has reported GPS spoofing and jamming incidents at eight major airports since 2023, including Delhi. These attacks can disrupt satellite navigation, forcing pilots to use alternative methods. The Airports Authority of India is investigating the source and implementing cybersecurity measures to address these aviation sector threats.",
+    "summary_zh": "印度政府报告称，自2023年以来，包括德里在内的八个主要机场发生了GPS欺骗和干扰事件。这些攻击会扰乱卫星导航，迫使飞行员使用其他方法。印度机场管理局正在调查来源，并实施网络安全措施以应对航空领域的这些威胁。",
+    "best_quote_en": "Cyber security is ensured by continuous upgradation. As the nature and type of the threat changes, new protective measures are being taken.",
+    "best_quote_zh": "网络安全通过持续升级来保证。随着威胁的性质和类型发生变化，新的保护措施正在被采取。"
+  },
+  {
+    "id": 445,
+    "title": "San Francisco sues food giants over ultra-processed products",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/society/2025/dec/02/ultra-processed-foods-lawsuit-san-francisco\">https://www.theguardian.com/society/2025/dec/02/ultra-processed-foods-lawsuit-san-francisco</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46131395\">https://news.ycombinator.com/item?id=46131395</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.theguardian.com/society/2025/dec/02/ultra-processed-foods-lawsuit-san-francisco",
+    "tags": [
+      "san francisco",
+      "ultra-processed foods",
+      "lawsuit",
+      "food industry",
+      "public health"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "San Francisco is suing food giants over ultra-processed foods (UPFs), arguing that these companies profit while communities bear the costs of treating diseases linked to UPFs. The lawsuit targets companies producing popular foods and drinks, accusing them of deceptive marketing practices and knowingly selling unhealthy products. UPFs are linked to various health issues, and the city seeks damages for the healthcare costs incurred by residents harmed by these foods.",
+    "summary_zh": "旧金山起诉食品巨头，指控其超加工食品（UPFs）导致社区承担疾病治疗成本。诉讼针对生产畅销食品饮料的公司，指责其虚假营销并明知故卖不健康产品。UPFs与多种健康问题相关，旧金山寻求赔偿居民因食用这些食品而产生的医疗费用。",
+    "best_quote_en": "It makes me sick that generations of kids and parents are being deceived and buying food that’s not food.",
+    "best_quote_zh": "让我感到恶心的是，一代又一代的孩子和父母被欺骗，购买的食物根本不是食物。"
+  },
+  {
+    "id": 446,
+    "title": "General Parser Combinators in Racket (2012)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://epsil.github.io/gll/\">https://epsil.github.io/gll/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46131385\">https://news.ycombinator.com/item?id=46131385</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://epsil.github.io/gll/",
+    "tags": [
+      "parser combinators",
+      "racket",
+      "left-recursion",
+      "memoization",
+      "gll"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "This article explains how to implement a general parser combinator framework in Racket that handles left-recursive and ambiguous grammars. It introduces techniques like continuation-passing style, memoization, and trampolines to optimize parser performance. The code is freely available on GitHub, and the article aims to be an accessible introduction to the ideas in the mentioned papers.",
+    "summary_zh": "本文介绍了如何在Racket中实现通用的Parser Combinator框架，该框架可以处理左递归和有歧义的文法。文章引入了如Continuation-Passing Style、备忘录和Trampoline等技术来优化解析器的性能。代码在GitHub上免费提供，本文旨在对相关论文中的思想进行易于理解的介绍。",
+    "best_quote_en": "Traditional top-down parsers cannot handle all recursive grammars, even if recursion may be the most natural way to express the language.",
+    "best_quote_zh": "传统的自顶向下解析器无法处理所有的递归文法，即使递归可能是表达语言最自然的方式。"
+  },
+  {
+    "id": 447,
+    "title": "EngineAI T800: Born to Disrupt",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://twitter.com/engineairobot/status/1995801607481819518\">https://twitter.com/engineairobot/status/1995801607481819518</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46131384\">https://news.ycombinator.com/item?id=46131384</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://twitter.com/engineairobot/status/1995801607481819518",
+    "tags": [
+      "javascript",
+      "error",
+      "x corp",
+      "twitter",
+      "browser"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "The provided text is a JavaScript disabled error message from X Corp (formerly Twitter). It indicates that the user needs to enable JavaScript or switch to a supported browser to access the website. It also mentions privacy-related extensions potentially causing issues.",
+    "summary_zh": "提供的文本是来自X Corp（前身为Twitter）的JavaScript禁用错误消息。它表明用户需要启用JavaScript或切换到受支持的浏览器才能访问该网站。 它还提到与隐私相关的扩展程序可能会导致问题。",
+    "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
+    "best_quote_zh": "出了点问题，但别担心 - 让我们再试一次。"
   }]
