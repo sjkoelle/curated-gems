@@ -8367,4 +8367,41 @@
     "summary_zh": "提供的文本是来自X Corp（前身为Twitter）的JavaScript禁用错误消息。它表明用户需要启用JavaScript或切换到受支持的浏览器才能访问该网站。 它还提到与隐私相关的扩展程序可能会导致问题。",
     "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
     "best_quote_zh": "出了点问题，但别担心 - 让我们再试一次。"
+  },{
+    "id": 448,
+    "title": "Show HN: Crovia – offline-verifiable AI royalty evidence (CEP.v1)",
+    "source": "Hackernews",
+    "desc": "<p>Crovia generates a single ~8 KB file (CEP.v1) containing: \n• trust bundle (EU AI Act ready)\n• royalty receipts from real FAISS provenance \n• payouts summary + Gini coefficient • full hashchain \n• compliance metadata<p>Zero cloud, zero blockchain, fully offline-verifiable in seconds.<p><a href=\"https://github.com/croviatrust/crovia-core-engine\" rel=\"nofollow\">https://github.com/croviatrust/crovia-core-engine</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46144813\">https://news.ycombinator.com/item?id=46144813</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/croviatrust/crovia-core-engine",
+    "tags": [
+      "ai data attribution",
+      "open-core",
+      "settlement engine",
+      "trust metrics",
+      "evidence"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "CROVIA is a settlement and evidence engine for AI data attribution. This open-core demo shows how to turn attribution logs into trust metrics, monthly payouts, and a SHA-256 hash-chain. It includes documentation, validation, and compliance modules for auditors and researchers. The repository is demo-grade and evidence-first, built for transparency and auditability.",
+    "summary_zh": "CROVIA是一个用于AI数据归属的结算和证据引擎。这个开源核心演示展示了如何将归属日志转换为信任指标、每月付款和一个SHA-256哈希链。它包括审计和研究人员的文档、验证和合规模块。该存储库是演示级的，证据优先，旨在实现透明度和可审计性。",
+    "best_quote_en": "A Trust Bundle acts as a hash-addressable evidence pack for auditors, regulators and partners.",
+    "best_quote_zh": "信任包可以作为审计员、监管机构和合作伙伴的哈希寻址证据包。"
+  },
+  {
+    "id": 449,
+    "title": "Want This Hearing Aid? Well, Who Do You Know?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.wired.com/story/hearing-aid-startup-ai-fortell/\">https://www.wired.com/story/hearing-aid-startup-ai-fortell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46144808\">https://news.ycombinator.com/item?id=46144808</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.wired.com/story/hearing-aid-startup-ai-fortell/",
+    "tags": [
+      "hearing aids",
+      "ai",
+      "fortell",
+      "technology",
+      "accessibility"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "Fortell, an AI-powered hearing aid startup, has become a status symbol among the elite. Its beta testers, composed of billionaires and celebrities, praise its superior aural experience in noisy environments. Founded by Matt de Jonge, Fortell aims to solve the \"Cocktail Party Problem\" and combat the isolation caused by hearing loss, but it is currently exclusive with a high price tag.",
+    "summary_zh": "Fortell是一家人工智能驱动的助听器初创公司，已成为精英阶层的身份象征。其由亿万富翁和名人组成的测试者称赞其在嘈杂环境中卓越的听觉体验。Fortell由Matt de Jonge创立，旨在解决“鸡尾酒会问题”并对抗听力损失造成的孤立，但目前具有排他性且价格昂贵。",
+    "best_quote_en": "\"People with age-related hearing loss have lost some of the magic of focusing on the sounds that are important to them.\"",
+    "best_quote_zh": "“患有与年龄相关的听力损失的人已经失去了一些专注于对他们重要的声音的魔力。”"
   }]
