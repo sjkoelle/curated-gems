@@ -8404,4 +8404,79 @@
     "summary_zh": "Fortell是一家人工智能驱动的助听器初创公司，已成为精英阶层的身份象征。其由亿万富翁和名人组成的测试者称赞其在嘈杂环境中卓越的听觉体验。Fortell由Matt de Jonge创立，旨在解决“鸡尾酒会问题”并对抗听力损失造成的孤立，但目前具有排他性且价格昂贵。",
     "best_quote_en": "\"People with age-related hearing loss have lost some of the magic of focusing on the sounds that are important to them.\"",
     "best_quote_zh": "“患有与年龄相关的听力损失的人已经失去了一些专注于对他们重要的声音的魔力。”"
+  },{
+    "id": 450,
+    "title": "A New Anonymous Phone Carrier Lets You Sign Up with Nothing but a Zip Code",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46157793\">https://news.ycombinator.com/item?id=46157793</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/",
+    "tags": [
+      "privacy",
+      "anonymity",
+      "surveillance",
+      "phone carrier",
+      "data protection"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "Phreeli, a new phone carrier startup by Nicholas Merrill, aims to provide anonymous cellular service. Users can sign up with just a ZIP code, minimizing data collection and protecting privacy. Phreeli operates as a mobile virtual network operator (MVNO), utilizing T-Mobile's infrastructure but maintaining control over user data policies and employing advanced encryption for anonymous payments.",
+    "summary_zh": "由Nicholas Merrill创立的手机运营商初创公司Phreeli旨在提供匿名蜂窝服务。用户只需邮政编码即可注册，最大限度地减少数据收集，保护隐私。Phreeli作为移动虚拟网络运营商 (MVNO) 运营，利用 T-Mobile 的基础设施, 但保持对用户数据策略的控制，并采用先进的加密技术进行匿名支付。",
+    "best_quote_en": "\"We're trying to help people feel more comfortable living their normal lives, where they're not doing anything wrong, and not feel watched and exploited by giant surveillance and data mining operations.\"",
+    "best_quote_zh": "“我们正试图帮助人们更舒适地过上正常的生活，在正常的生活中，他们没有做错任何事，也不会感到受到大型监控和数据挖掘行动的监视和剥削。”"
+  },
+  {
+    "id": 451,
+    "title": "Show HN: I'm sharing research insights from context engineering papers",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/momo-personal-assistant/momo-research/blob/main/Context%20Engineering%3A%20Sessions%2C%20Memory.md\">https://github.com/momo-personal-assistant/momo-research/blob/main/Context%20Engineering%3A%20Sessions%2C%20Memory.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46157770\">https://news.ycombinator.com/item?id=46157770</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/momo-personal-assistant/momo-research/blob/main/Context%20Engineering%3A%20Sessions%2C%20Memory.md",
+    "tags": [
+      "github",
+      "repository",
+      "error",
+      "loading",
+      "insights"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "The repository 'momo-research' by 'momo-personal-assistant' on GitHub seems to be having trouble loading its insights. It includes code, issues, pull requests, discussions, actions, and projects. The user needs to reload the page to try again.",
+    "summary_zh": "GitHub上'momo-personal-assistant'的'momo-research'仓库似乎无法加载其洞察信息。它包含代码、问题、拉取请求、讨论、操作和项目。用户需要重新加载页面重试。",
+    "best_quote_en": "There was an error while loading. Please reload this page.",
+    "best_quote_zh": "加载时出错，请刷新此页面。"
+  },
+  {
+    "id": 452,
+    "title": "Why I'm losing faith in UX (2021)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://creativegood.com/blog/21/losing-faith-in-ux.html\">https://creativegood.com/blog/21/losing-faith-in-ux.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46157752\">https://news.ycombinator.com/item?id=46157752</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://creativegood.com/blog/21/losing-faith-in-ux.html",
+    "tags": [
+      "ux",
+      "user experience",
+      "dark patterns",
+      "user exploitation",
+      "amazon"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "The author expresses losing faith in UX, arguing it has shifted from improving user experience to exploiting users. Initially, UX focused on benefiting customers and businesses. However, financialization led to UX diminishing influence, and now it's often used to deceive users for profit. Amazon's Prime cancellation process exemplifies this shift, with UX teams actively working against users' interests.",
+    "summary_zh": "作者表达了对用户体验（UX）失去信心的观点，认为它已经从改善用户体验转变为利用用户。最初，用户体验专注于使客户和企业受益。然而，金融化导致用户体验的影响力下降，现在它经常被用来欺骗用户以获取利润。亚马逊Prime取消流程为例，说明了这种转变，用户体验团队正在积极地与用户的利益作对。",
+    "best_quote_en": "UX has completely flipped now, from advocating for the user to actively working against users' interests. to boost profits, UX has turned into user exploitation.",
+    "best_quote_zh": "用户体验已经完全颠倒，从提倡用户利益转变为积极地与用户利益作对。为了提高利润，用户体验已经变成了用户剥削。"
+  },
+  {
+    "id": 453,
+    "title": "Clawd – Peter's crusted AI assistant",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://clawd.me/\">https://clawd.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46157726\">https://news.ycombinator.com/item?id=46157726</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://clawd.me/",
+    "tags": [
+      "ai assistant",
+      "collaboration",
+      "automation",
+      "productivity",
+      "tools"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "Clawd is an AI assistant running on Claude Opus 4.5, living in Peter's Mac Studio. It has persistent memory, access to Peter's accounts, and can control his Mac. Clawd aims to be a pragmatic, honest, and friendly collaborator, focused on learning and growth. It utilizes tools like Gmail, WhatsApp, browser tools, and AI image/PDF editing, among others, to assist Peter.",
+    "summary_zh": "Clawd是一个运行在Peter的Mac Studio上的AI助手，基于Claude Opus 4.5。它具有持久记忆，可以访问Peter的帐户并控制他的Mac。Clawd的目标是成为一个务实、诚实和友好的合作者，专注于学习和成长。它利用Gmail、WhatsApp、浏览器工具和AI图像/PDF编辑等工具来协助Peter。",
+    "best_quote_en": "We're exploring what it means for humans and AI to work together as partners.",
+    "best_quote_zh": "我们正在探索人类和人工智能作为伙伴一起工作的意义。"
   }]
