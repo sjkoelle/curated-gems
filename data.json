@@ -8479,4 +8479,60 @@
     "summary_zh": "Clawd是一个运行在Peter的Mac Studio上的AI助手，基于Claude Opus 4.5。它具有持久记忆，可以访问Peter的帐户并控制他的Mac。Clawd的目标是成为一个务实、诚实和友好的合作者，专注于学习和成长。它利用Gmail、WhatsApp、浏览器工具和AI图像/PDF编辑等工具来协助Peter。",
     "best_quote_en": "We're exploring what it means for humans and AI to work together as partners.",
     "best_quote_zh": "我们正在探索人类和人工智能作为伙伴一起工作的意义。"
+  },{
+    "id": 454,
+    "title": "Maher Arar",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Maher_Arar\">https://en.wikipedia.org/wiki/Maher_Arar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46171479\">https://news.ycombinator.com/item?id=46171479</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Maher_Arar",
+    "tags": [
+      "maher arar",
+      "extraordinary rendition",
+      "canada",
+      "syria",
+      "torture"
+    ],
+    "date": "2025-12-06",
+    "summary_en": "Maher Arar, a Syrian-Canadian telecommunications engineer, was detained in 2002 in the U.S. and deported to Syria, where he was tortured. A Canadian inquiry cleared him of terrorism links, and he received compensation and an apology from the Canadian government. His case is known as 'extraordinary rendition'.",
+    "summary_zh": "马赫·阿拉尔是一位叙利亚裔加拿大的电信工程师，2002年在美国被拘留并被驱逐到叙利亚，在那里他遭受了酷刑。一项加拿大调查证实他与恐怖主义无关，加拿大政府向他提供了赔偿和道歉。他的案件被称为“特别引渡”。",
+    "best_quote_en": "The Syrian government later stated that Arar was 'completely innocent.'",
+    "best_quote_zh": "叙利亚政府后来声明阿拉尔是“完全无辜的”。"
+  },
+  {
+    "id": 455,
+    "title": "Why Theme Parks Keep Getting More Extreme",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theatlantic.com/culture/archive/2025/09/universal-epic-universe-disney-theme-park-attention/683999/\">https://www.theatlantic.com/culture/archive/2025/09/universal-epic-universe-disney-theme-park-attention/683999/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46171451\">https://news.ycombinator.com/item?id=46171451</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theatlantic.com/culture/archive/2025/09/universal-epic-universe-disney-theme-park-attention/683999/",
+    "tags": [
+      "theme parks",
+      "roller coasters",
+      "entertainment",
+      "immersive experience",
+      "technology"
+    ],
+    "date": "2025-12-06",
+    "summary_en": "Theme parks are evolving to provide more extreme and immersive experiences to attract visitors. Parks are pushing the limits of technology and physics with increasingly thrilling rides and detailed recreations of fictional worlds from movies and video games. This aims to overwhelm and delight visitors, compensating for the readily available entertainment of modern technology.",
+    "summary_zh": "主题公园正不断发展，以提供更刺激和沉浸式的体验来吸引游客。通过越来越刺激的游乐设施和对电影、游戏中虚构世界的细致重现，公园正突破技术和物理的极限。这旨在让游客感到震撼和愉悦，以弥补现代科技带来的娱乐便利性。",
+    "best_quote_en": "A theme park without rides is still a theme park. An amusement park without rides is a parking lot with popcorn.",
+    "best_quote_zh": "没有游乐设施的主题公园仍然是主题公园。没有游乐设施的游乐园就是一个卖爆米花的停车场。"
+  },
+  {
+    "id": 456,
+    "title": "Rnj-1: Building Instruments of Intelligence",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://essential.ai/research/rnj-1\">https://essential.ai/research/rnj-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46171445\">https://news.ycombinator.com/item?id=46171445</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://essential.ai/research/rnj-1",
+    "tags": [
+      "rnj-1",
+      "open-source ai",
+      "large language model",
+      "code generation",
+      "tool use"
+    ],
+    "date": "2025-12-06",
+    "summary_en": "Rnj-1 is an 8B open-source language model, inspired by Gemma 3, featuring extended context and strong coding and mathematical reasoning abilities. It excels in agentic coding, tool use, and outperforms comparably sized models on benchmarks like SWE-bench and Berkeley Function Calling Leaderboard. Essential decided to focus on pre-training based on the logic that compression is a necessary component for simulating intelligence.",
+    "summary_zh": "Rnj-1是一个80亿参数的开源语言模型，灵感来自Gemma 3，具有扩展的上下文和强大的编码和数学推理能力。它在Agentic编码、工具使用方面表现出色，并在SWE-bench和Berkeley Function Calling Leaderboard等基准测试中优于同等规模的模型。Essential决定专注于预训练，因为压缩是模拟智能的必要组成部分。",
+    "best_quote_en": "Our long-term view is that mastery over the technological machine from which capabilities emerge is a viable path to useful and enduring AI companies.",
+    "best_quote_zh": "我们的长期观点是，掌握产生能力的技术机器是从根本上打造有用且持久的AI公司的可行之路。"
   }]
