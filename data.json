@@ -8535,4 +8535,79 @@
     "summary_zh": "Rnj-1是一个80亿参数的开源语言模型，灵感来自Gemma 3，具有扩展的上下文和强大的编码和数学推理能力。它在Agentic编码、工具使用方面表现出色，并在SWE-bench和Berkeley Function Calling Leaderboard等基准测试中优于同等规模的模型。Essential决定专注于预训练，因为压缩是模拟智能的必要组成部分。",
     "best_quote_en": "Our long-term view is that mastery over the technological machine from which capabilities emerge is a viable path to useful and enduring AI companies.",
     "best_quote_zh": "我们的长期观点是，掌握产生能力的技术机器是从根本上打造有用且持久的AI公司的可行之路。"
+  },{
+    "id": 457,
+    "title": "Russia's Africa Corps fights in Mali, witnesses describe beheadings, rapes",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2\">https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46180022\">https://news.ycombinator.com/item?id=46180022</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2",
+    "tags": [
+      "africa corps",
+      "mali",
+      "wagner group",
+      "human rights",
+      "sahel"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "Russia's Africa Corps, which replaced the Wagner group in Mali, is accused of committing atrocities against civilians in collaboration with Malian forces. Refugees report beheadings, rapes, and indiscriminate killings. The Africa Corps employs scorched-earth tactics and targets anyone they encounter, exacerbating the already dire situation in the Sahel region. The Malian authorities have not acknowledged the presence of these groups.",
+    "summary_zh": "俄罗斯“非洲军团”取代瓦格纳集团后，被指控与马里军队合作，对平民犯下暴行。难民报告了斩首、强奸和滥杀无辜等事件。“非洲军团”采取焦土政策，袭击他们遇到的任何人，加剧了萨赫勒地区本已严峻的局势。马里当局尚未承认这些团体的存在。",
+    "best_quote_en": "“It’s a scorched-earth policy,” said a Malian village chief who fled. “The soldiers speak to no one. Anyone they see, they shoot. No questions, no warning. People don’t even know why they are being killed.”",
+    "best_quote_zh": "一位逃离的马里村长说：“这是一种焦土政策。士兵们不和任何人说话。他们看到谁就射杀谁。没有问题，没有警告。人们甚至不知道自己为何被杀。”"
+  },
+  {
+    "id": 458,
+    "title": "My Thoughts on Claude Opus 4.5",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.mckaywrigley.com/posts/opus-4.5\">https://www.mckaywrigley.com/posts/opus-4.5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46179981\">https://news.ycombinator.com/item?id=46179981</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.mckaywrigley.com/posts/opus-4.5",
+    "tags": [
+      "claude opus 4.5",
+      "ai agents",
+      "anthropic",
+      "agent sdk",
+      "automation"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "The author discusses Claude Opus 4.5 as a major unlock for AI agents, comparing it to previous breakthroughs like GPT-4 and Sonnet 3.5. Paired with the Claude Agent SDK, Opus 4.5 enables agents to reliably perform real-world tasks, marking 2025 as the year of agents. The author expresses strong confidence in Anthropic's future success and recommends trusting and collaborating with Opus 4.5.",
+    "summary_zh": "作者讨论了Claude Opus 4.5作为AI代理的重大突破，将其与之前的GPT-4和Sonnet 3.5相提并论。与Claude Agent SDK结合使用，Opus 4.5使代理能够可靠地执行实际任务，标志着2025年为代理之年。作者对Anthropic的未来成功表示强烈信心，并建议信任并与Opus 4.5合作。",
+    "best_quote_en": "Every few generations we get a major model unlock - a moment that unlocks a new way of working.",
+    "best_quote_zh": "每隔几代，我们都会获得一个主要的模型解锁——这是一个开启全新工作方式的时刻。"
+  },
+  {
+    "id": 459,
+    "title": "Compressed view of current events – video blog",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.thelastpaideia.com/view\">https://www.thelastpaideia.com/view</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46179965\">https://news.ycombinator.com/item?id=46179965</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.thelastpaideia.com/view",
+    "tags": [
+      "governance",
+      "technology",
+      "motivation",
+      "speculative vision",
+      "renaissance magic"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "This video blog, \"The Last Paideia,\" presents a speculative vision of governance, technology, and motivation. It features fictional characters and events, emphasizing that resemblance to real persons is coincidental. The content explores themes related to renaissance planetary magic and the 'Regime of Quiet Hands'.",
+    "summary_zh": "这个视频博客“最后的派迪亚”呈现了一个关于治理、技术和动机的推测性愿景。它以虚构的人物和事件为特色，强调与现实人物的相似之处纯属巧合。内容探索了与文艺复兴行星魔法和“安静之手政权”相关的主题。",
+    "best_quote_en": "A speculative vision of governance, technology, and the quiet mechanisms of motivation.",
+    "best_quote_zh": "一个关于治理、技术和动机的推测性愿景。"
+  },
+  {
+    "id": 460,
+    "title": "Full Haskell-Like Type Class Resolution in Java",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://garciat.com/posts/java-type-classes/\">https://garciat.com/posts/java-type-classes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46179961\">https://news.ycombinator.com/item?id=46179961</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://garciat.com/posts/java-type-classes/",
+    "tags": [
+      "java",
+      "haskell",
+      "type classes",
+      "reflection",
+      "generics"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "This article explores building a Haskell-style type class instance resolution engine in Java using reflection and generic type metadata. It demonstrates automatic resolution of type class instances, including higher-kinded ones, and support for overlapping instances. The experiment reveals Java's runtime structure and its proximity to type-level programming without language changes.",
+    "summary_zh": "本文探讨了如何使用反射和泛型类型元数据在 Java 中构建 Haskell 风格的类型类实例解析引擎。它演示了类型类实例的自动解析，包括高阶类型类，并支持重叠实例。该实验揭示了 Java 的运行时结构及其在没有语言变更的情况下与类型级编程的接近程度。",
+    "best_quote_en": "This post explores how far Java’s type system can be pushed by building a small Haskell-style type class instance resolution engine entirely in plain Java.",
+    "best_quote_zh": "这篇文章探讨了通过完全使用纯 Java 构建一个小型 Haskell 风格的类型类实例解析引擎，Java 的类型系统可以被推进到什么程度。"
   }]
