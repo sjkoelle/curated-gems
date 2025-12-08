@@ -8610,4 +8610,41 @@
     "summary_zh": "本文探讨了如何使用反射和泛型类型元数据在 Java 中构建 Haskell 风格的类型类实例解析引擎。它演示了类型类实例的自动解析，包括高阶类型类，并支持重叠实例。该实验揭示了 Java 的运行时结构及其在没有语言变更的情况下与类型级编程的接近程度。",
     "best_quote_en": "This post explores how far Java’s type system can be pushed by building a small Haskell-style type class instance resolution engine entirely in plain Java.",
     "best_quote_zh": "这篇文章探讨了通过完全使用纯 Java 构建一个小型 Haskell 风格的类型类实例解析引擎，Java 的类型系统可以被推进到什么程度。"
+  },{
+    "id": 461,
+    "title": "Show HN: Pocket PMO – Quick free PMO oversight",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pocketpmo.com/\">https://pocketpmo.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46189571\">https://news.ycombinator.com/item?id=46189571</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://pocketpmo.com/",
+    "tags": [
+      "project management",
+      "forecasting",
+      "critical path",
+      "monte carlo",
+      "pmo"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Pocket PMO is a project management tool that helps users quickly estimate project size and cost, forecast with 95% confidence, and instantly find the critical path. It simplifies advanced project management techniques for immediate results, replacing guesswork with data-driven insights and probabilistic forecasting, even without formal training.",
+    "summary_zh": "Pocket PMO是一款项目管理工具，帮助用户快速评估项目规模和成本，以95%的置信度进行预测，并立即找到关键路径。它简化了高级项目管理技术，即使没有经过正式培训，也能立即得出结果，用数据驱动的洞察力和概率预测取代猜测。",
+    "best_quote_en": "Replace anxiety with statistical certainty.",
+    "best_quote_zh": "用统计确定性代替焦虑。"
+  },
+  {
+    "id": 462,
+    "title": "Drunk Driving – Grand Rapids Dip",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Drunk_driving\">https://en.wikipedia.org/wiki/Drunk_driving</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46189563\">https://news.ycombinator.com/item?id=46189563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Drunk_driving",
+    "tags": [
+      "drunk driving",
+      "dui",
+      "alcohol",
+      "law",
+      "intoxication"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Drunk driving is operating a vehicle under the influence of alcohol, significantly increasing crash risk. Laws vary globally, with the US using DUI statutes and the UK having specific alcohol-related driving offenses. Intoxication is measured via blood, breath, or urine, and a specific BAC level defines the offense. Alcohol impairs cognitive functions and weakens driving skills.",
+    "summary_zh": "酒后驾车是指在酒精影响下驾驶车辆，显著增加事故风险。 各国法律不同，美国使用DUI法规，英国有特定的酒精相关驾驶犯罪。 醉酒程度通过血液、呼吸或尿液测量，特定的BAC水平定义了犯罪。 酒精会损害认知功能并削弱驾驶技能。",
+    "best_quote_en": "Alcohol is a depressant, which mainly affects the function of the brain.",
+    "best_quote_zh": "酒精是一种镇静剂，主要影响大脑的功能。"
   }]
