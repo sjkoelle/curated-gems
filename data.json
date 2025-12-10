@@ -8684,4 +8684,60 @@
     "summary_zh": "Nimble Commander 是一款免费的macOS双窗格文件管理器，注重速度、键盘导航和灵活性。它融合了经典文件管理器的用户体验和现代Mac风格。可以通过GitHub Actions、直接下载、Mac App Store或Homebrew下载。欢迎在GNU GPL v3下做出贡献。",
     "best_quote_en": "The project's aim is to blend the user experience of classic file managers from the '80s-'90s with the modern look and feel of Mac computers.",
     "best_quote_zh": "该项目的目标是将 80 年代至 90 年代经典文件管理器的用户体验与现代 Mac 电脑的外观和感觉融为一体。"
+  },{
+    "id": 465,
+    "title": "StillMe – an open-source \"transparent RAG\" framework",
+    "source": "Hackernews",
+    "desc": "<p>I'm building *StillMe*, an open-source \"transparent RAG\" framework that tries very hard to <i>not</i> pretend it knows everything.<p>Instead of just prompting an LLM and hoping for the best, StillMe:<p>- Runs all answers through a *multi-layer validator chain* (6 core validators + conditional validators, up to 13 total depending on context)\n- Auto-fixes missing citations and hallucinated \"experience\"\n- Logs *system-level steps* (RAG retrieval, validators, timing breakdown)\n- Treats \"I don't know\" as a <i>first-class, honest state</i> with explicit epistemic tracking<p>---<p>## What StillMe actually does<p>For each user query, StillMe:<p>1. Detects intent (philosophical vs. technical vs. factual)\n2. Routes and filters RAG context accordingly\n3. Builds a safe prompt (token-aware, language-aware)\n4. Calls the underlying LLM (local or cloud)\n5. Runs a *ValidatorChain*:\n   - `CitationRequired` → adds `[foundational knowledge]` or real web/RAG citations\n   - `EvidenceOverlap` → checks answer vs. retrieved context (only when context available)\n   - `Ego-Neutrality` → removes anthropomorphic language (\"I feel\", \"my experience\", etc.)\n   - `SourceConsensus` → detects contradictions between multiple sources (only when 2+ sources available)\n   - `EthicsAdapter` → avoids unsafe suggestions while staying honest\n6. Logs structured timing:\n   - RAG retrieval latency\n   - LLM inference latency\n   - Validation & post-processing<p>---<p>## A real log excerpt (single philosophical question)<p>```log\nStillMe philosophical query trace (real backend log excerpt)<p>[INFO] Philosophical question detected — filtering out technical RAG docs\n[INFO] Retrieved 3 foundational knowledge documents (RAG cache HIT)\n[WARNING] Estimated tokens exceed safe limit — switching to minimal philosophical prompt\n[WARNING] Missing citation detected — auto-patched with [foundational knowledge]\n[WARNING] Ego-Neutrality Validator removed anthropomorphic term: ['trải nghiệm']\n--- LATENCY --- RAG: 3.30s | LLM: 5.41s | Total: 12.04s\n```<p>---<p>## Why I'm building this<p>Most LLM systems today:<p>- Hide their reasoning\n- Hand-wave citations\n- Overstate confidence\n- Treat \"I don't know\" as a failure<p>StillMe goes the other way:<p>- *Transparency-first*: every major decision is logged\n- *Epistemic honesty*: it's allowed (and encouraged) to say \"I don't know\"\n- *Model-agnostic*: works with local and cloud LLMs (DeepSeek, OpenAI, Ollama)\n- *No fine-tuning required*: all behavior is enforced at the framework layer<p>---<p>## Looking for feedback & contributors<p>I'm a solo builder from Vietnam. StillMe is already:<p>- Running as a backend + dashboard\n- Integrated with a real learning pipeline (RSS, arXiv, Wikipedia - updates every 4 hours)\n- Using a live RAG system with foundational docs<p>Repo: https://github.com/anhmtk/StillMe-Learning-AI-System-RAG-Foundation<p>I would love feedback on:<p>- The validator architecture\n- Better ways to structure logs & observability\n- Making the project more contributor-friendly\n- Any ideas to stress-test the \"honesty / transparency\" claims<p>Thanks for reading — happy to answer questions and share more logs, diagrams, or internals if anyone's curious.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46215213\">https://news.ycombinator.com/item?id=46215213</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46215213",
+    "tags": [
+      "rag",
+      "open-source",
+      "transparency",
+      "llm",
+      "validation"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "StillMe is an open-source 'transparent RAG' framework emphasizing transparency and epistemic honesty. It uses a multi-layer validator chain to ensure answer quality, auto-fixes citations, logs system-level steps, and treats 'I don't know' as a valid response. The framework is model-agnostic and doesn't require fine-tuning, aiming to provide a more honest and transparent LLM experience.",
+    "summary_zh": "StillMe是一个开源的“透明RAG”框架，强调透明度和认知诚实。 它使用多层验证器链来确保答案质量，自动修复引文，记录系统级步骤，并将“我不知道”视为有效响应。 该框架与模型无关，不需要进行微调，旨在提供更诚实和透明的LLM体验。",
+    "best_quote_en": "Transparency-first: every major decision is logged.",
+    "best_quote_zh": "透明度优先：每一个重要决策都会被记录。"
+  },
+  {
+    "id": 466,
+    "title": "The Social Radars: Blake Scholl, Founder and CEO of Boom Supersonic",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://shortcast.me/i90blCKNjeKM9PPj6gQT\">https://shortcast.me/i90blCKNjeKM9PPj6gQT</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46215194\">https://news.ycombinator.com/item?id=46215194</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://shortcast.me/i90blCKNjeKM9PPj6gQT",
+    "tags": [
+      "podcast",
+      "shortcast",
+      "ai",
+      "summary",
+      "time-saving"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "The provided text is a brief advertisement for a podcast player called Shortcast. It highlights the ability to save time with short podcasts and includes legal disclaimers regarding affiliation and the nature of the summaries provided.",
+    "summary_zh": "提供的文本是一个名为Shortcast的播客播放器的简短广告。 它强调了通过短播客节省时间的能力，并包括有关隶属关系和所提供摘要性质的法律免责声明。",
+    "best_quote_en": "Ready to save time?",
+    "best_quote_zh": "准备好节省时间了吗？"
+  },
+  {
+    "id": 467,
+    "title": "Taming the CI Monster: How I Slashed Our Monorepo Build Times by over 66%",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://kmaliszewski9.github.io/ci/2025/02/22/sbt-monorepo.html\">https://kmaliszewski9.github.io/ci/2025/02/22/sbt-monorepo.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46215178\">https://news.ycombinator.com/item?id=46215178</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://kmaliszewski9.github.io/ci/2025/02/22/sbt-monorepo.html",
+    "tags": [
+      "ci/cd",
+      "gitlab ci",
+      "build optimization",
+      "sbt",
+      "caching"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "The author reduced CI pipeline execution time by over 66% by optimizing job granularity, implementing strategic caching, build parallelization, and smart dependency management. Key strategies included consolidating dependent tasks, splitting independent tasks for parallelization, and selective execution based on code changes. The author also highlights the importance of balancing job granularity to avoid excessive overhead.",
+    "summary_zh": "作者通过优化任务粒度、实施策略性缓存、构建并行化和智能依赖管理，将CI流水线的执行时间缩短了66%以上。关键策略包括合并依赖任务、拆分独立任务以实现并行化，以及基于代码更改的选择性执行。作者还强调了平衡任务粒度以避免过度开销的重要性。",
+    "best_quote_en": "That’s like spending an hour preheating the oven to cook a 5-minute microwave dinner.",
+    "best_quote_zh": "这就好比花一个小时预热烤箱，只为了做一份5分钟的微波炉晚餐。"
   }]
