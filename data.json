@@ -8740,4 +8740,60 @@
     "summary_zh": "作者通过优化任务粒度、实施策略性缓存、构建并行化和智能依赖管理，将CI流水线的执行时间缩短了66%以上。关键策略包括合并依赖任务、拆分独立任务以实现并行化，以及基于代码更改的选择性执行。作者还强调了平衡任务粒度以避免过度开销的重要性。",
     "best_quote_en": "That’s like spending an hour preheating the oven to cook a 5-minute microwave dinner.",
     "best_quote_zh": "这就好比花一个小时预热烤箱，只为了做一份5分钟的微波炉晚餐。"
+  },{
+    "id": 468,
+    "title": "Show HN: OgBlocks – UI Library for Non-CSS Developers",
+    "source": "Hackernews",
+    "desc": "<p>Hey HN! I’m Karan — a frontend dev who loves crafting UI. I noticed many developers hate writing CSS, even though they still want premium designs and smooth animations.<p>So I built ogBlocks — an Animated UI Library for React with ready-made, premium components like navbars, modals, text animations, carousels, and more.<p>I hope you'll like it<p>Best\nKaran</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46228778\">https://news.ycombinator.com/item?id=46228778</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ogblocks.dev/",
+    "tags": [
+      "ui library",
+      "react",
+      "tailwind css",
+      "components",
+      "no css"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "OgBlocks is a UI library for non-CSS developers, featuring 50+ animated components built with React, Motion, and Tailwind CSS. It offers 100% customization, TSX and JSX compatibility, and requires no installation. It provides unique, practical components, responsive designs, and lifetime access with future additions. A free 107-page ebook is also included.",
+    "summary_zh": "OgBlocks是一个面向非CSS开发者的UI库，包含50多个用React、Motion和Tailwind CSS构建的动画组件。它提供100％的定制性，TSX和JSX兼容性，并且无需安装。它提供独特的、实用的组件、响应式设计以及包含未来新增功能的终身访问权。还包含一本免费的107页电子书。",
+    "best_quote_en": "Not just Fancy Animations, You'll Actually Use All of the Components in your Projects",
+    "best_quote_zh": "不仅仅是花哨的动画，你实际上会在你的项目中使用所有组件。"
+  },
+  {
+    "id": 469,
+    "title": "How do salespeople use AI?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://twitter.com/bayka/status/1998650248051523846\">https://twitter.com/bayka/status/1998650248051523846</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46228763\">https://news.ycombinator.com/item?id=46228763</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://twitter.com/bayka/status/1998650248051523846",
+    "tags": [
+      "javascript",
+      "error",
+      "x corp",
+      "browser",
+      "privacy"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "The provided content appears to be an error message from X Corp (formerly Twitter) indicating that JavaScript is disabled in the browser. It suggests enabling JavaScript or switching to a supported browser. It also mentions potential issues with privacy extensions.",
+    "summary_zh": "提供的内容似乎是来自 X Corp (前身为 Twitter) 的错误消息，表明浏览器中禁用了 JavaScript。 它建议启用 JavaScript 或切换到受支持的浏览器。 它还提到了隐私扩展程序可能导致的问题。",
+    "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
+    "best_quote_zh": "出了点问题，但别担心——让我们再试一次。"
+  },
+  {
+    "id": 470,
+    "title": "German government US authorities have access to EU cloud data (heise.de)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.heise.de/news/Gutachten-US-Behoerden-haben-weitreichenden-Zugriff-auf-europaeische-Cloud-Daten-11111043.html\">https://www.heise.de/news/Gutachten-US-Behoerden-haben-weitreichenden-Zugriff-auf-europaeische-Cloud-Daten-11111043.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46228726\">https://news.ycombinator.com/item?id=46228726</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.heise.de/news/Gutachten-US-Behoerden-haben-weitreichenden-Zugriff-auf-europaeische-Cloud-Daten-11111043.html",
+    "tags": [
+      "data privacy",
+      "cloud act",
+      "fisa",
+      "data sovereignty",
+      "us jurisdiction"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "A legal opinion commissioned by the German government reveals that US authorities have extensive access to data stored in European data centers due to laws like the Stored Communications Act (SCA) and FISA. This jurisdiction extends even to European companies with US business connections, raising concerns about digital sovereignty and the need for European alternatives.",
+    "summary_zh": "德国政府委托的法律意见书显示，由于《存储通信法》(SCA)和《外国情报监视法》(FISA)等法律，美国当局可以广泛访问存储在欧洲数据中心的数据。 这种管辖权甚至延伸到与美国有业务联系的欧洲公司，从而引发了对数字主权的担忧以及对欧洲替代方案的需求。",
+    "best_quote_en": "Decisive is not the physical storage location of the information, but the control over it by the affected company.",
+    "best_quote_zh": "决定性的不是信息的物理存储位置，而是受影响公司对其的控制。"
   }]
