@@ -8796,4 +8796,98 @@
     "summary_zh": "德国政府委托的法律意见书显示，由于《存储通信法》(SCA)和《外国情报监视法》(FISA)等法律，美国当局可以广泛访问存储在欧洲数据中心的数据。 这种管辖权甚至延伸到与美国有业务联系的欧洲公司，从而引发了对数字主权的担忧以及对欧洲替代方案的需求。",
     "best_quote_en": "Decisive is not the physical storage location of the information, but the control over it by the affected company.",
     "best_quote_zh": "决定性的不是信息的物理存储位置，而是受影响公司对其的控制。"
+  },{
+    "id": 471,
+    "title": "Guarding My Git Forge Against AI Scrapers",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/\">https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241849\">https://news.ycombinator.com/item?id=46241849</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
+    "tags": [
+      "git forge",
+      "scrapers",
+      "reverse-proxy",
+      "rate-limiting",
+      "bots"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "This article discusses the problem of AI scrapers targeting Git forges and the measures taken to protect against them. The author details the costs associated with scraping, including electricity consumption and server resource usage. They implemented reverse-proxy caching, rate-limiting, and bot classification to mitigate the impact of scrapers.",
+    "summary_zh": "本文讨论了AI爬虫针对Git代码仓库的问题，以及为防止它们而采取的措施。作者详细介绍了与爬取相关的成本，包括电力消耗和服务器资源使用情况。他们实施了反向代理缓存、速率限制和机器人分类，以减轻爬虫的影响。",
+    "best_quote_en": "In the year 2025, on the web, everything is worth being scraped. Everything that came out of the mind of a human is susceptible to be snatched under the vastest labor theft scheme in the history of mankind.",
+    "best_quote_zh": "在2025年，在网络上，一切都值得被抓取。任何出自人类思想的东西都容易在人类历史上规模最大的劳动盗窃计划中被攫取。"
+  },
+  {
+    "id": 472,
+    "title": "Let's Embed a Go Program into the Linux Kernel",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://sigma-star.at/blog/2023/07/embedded-go-prog/\">https://sigma-star.at/blog/2023/07/embedded-go-prog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241848\">https://news.ycombinator.com/item?id=46241848</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://sigma-star.at/blog/2023/07/embedded-go-prog/",
+    "tags": [
+      "linux kernel",
+      "go program",
+      "embedded systems",
+      "user mode driver",
+      "kernel image"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "This article explores embedding a Go program directly into the Linux kernel image, bypassing the need for a file system. It discusses scenarios where this is useful, such as when the root file system is unavailable or when you want to run secure programs. The article also presents methods for embedding and executing the program using the User Mode Driver API.",
+    "summary_zh": "本文探讨了将Go程序直接嵌入到Linux内核镜像中的方法，从而避免了对文件系统的依赖。文章讨论了这种方法的使用场景，例如当根文件系统不可用或想要运行安全程序时。文章还介绍了使用用户模式驱动程序 API 嵌入和执行程序的方法。",
+    "best_quote_en": "Instead of launching a program from a file system, regardless of whether it’s virtual or not, it is also possible to embed a user-space program directly into the kernel image itself and start it from there.",
+    "best_quote_zh": "除了从文件系统启动程序（无论是虚拟的还是真实的）之外，还可以将用户空间程序直接嵌入到内核镜像中，并从那里启动它。"
+  },
+  {
+    "id": 473,
+    "title": "People power: How LLMs invert tech diffusion",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://karpathy.bearblog.dev/power-to-the-people/\">https://karpathy.bearblog.dev/power-to-the-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241842\">https://news.ycombinator.com/item?id=46241842</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://karpathy.bearblog.dev/power-to-the-people/",
+    "tags": [
+      "llms",
+      "technology diffusion",
+      "ai",
+      "chatgpt",
+      "individuals"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "LLMs have surprisingly benefited individuals more than corporations or governments, reversing the typical tech diffusion pattern. The low barrier to entry and broad applicability empower individuals significantly. However, corporations face complexities like integrating with legacy systems and regulatory compliance, limiting the impact of LLMs. This unique situation may shift as superior LLMs become accessible only through significant investment.",
+    "summary_zh": "大型语言模型（LLM）出乎意料地使个人受益超过企业或政府，颠覆了典型的技术扩散模式。低门槛和广泛适用性极大地增强了个人的能力。然而，公司面临着诸如与遗留系统集成和法规遵从性等复杂性，限制了LLM的影响。随着只有通过大量投资才能获得卓越的LLM，这种独特的局面可能会发生改变。",
+    "best_quote_en": "Surprise - the future is already here, and it is shockingly distributed.",
+    "best_quote_zh": "惊喜——未来已经到来，而且令人震惊地分散。"
+  },
+  {
+    "id": 474,
+    "title": "System76 Launches Pop _OS 24.04 LTS with Cosmic Desktop",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.phoronix.com/news/System76-Ships-Pop-OS-24.04\">https://www.phoronix.com/news/System76-Ships-Pop-OS-24.04</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241823\">https://news.ycombinator.com/item?id=46241823</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.phoronix.com/news/System76-Ships-Pop-OS-24.04",
+    "tags": [
+      "pop!_os",
+      "system76",
+      "linux",
+      "cosmic desktop",
+      "ubuntu 24.04"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "System76 has released Pop!_OS 24.04 LTS with the COSMIC desktop, based on Ubuntu 24.04 LTS. It features a Rust-based COSMIC desktop environment, Linux Kernel 6.17.9, Mesa 25.1 graphics drivers, and NVIDIA 580 driver option. This enthusiast-oriented Linux distribution is available for download. The COSMIC desktop environment is now in good shape for end-users.",
+    "summary_zh": "System76发布了基于Ubuntu 24.04 LTS的Pop!_OS 24.04 LTS，并搭载了COSMIC桌面环境。它具有基于Rust的COSMIC桌面环境、Linux Kernel 6.17.9、Mesa 25.1图形驱动程序和NVIDIA 580驱动程序选项。这个面向爱好者的Linux发行版可供下载。COSMIC桌面环境现在对最终用户来说状况良好。",
+    "best_quote_en": "It's taken much longer than anticipated and now less than a half-year away until the Ubuntu 26.04 LTS release, but today System76 released the stable Pop!_OS 24.04 along with their COSMIC desktop environment now being in good shape for end-users from Linux gamers to enthusiasts.",
+    "best_quote_zh": "尽管花费的时间比预期的要长得多，而且距离Ubuntu 26.04 LTS的发布不到半年，但今天System76发布了稳定的Pop!_OS 24.04以及他们的COSMIC桌面环境，该环境现在对从Linux游戏玩家到爱好者的最终用户来说都处于良好状态。"
+  },
+  {
+    "id": 475,
+    "title": "Show HN: Toqen – privacy-first authentication flow with QR and TOTP",
+    "source": "Hackernews",
+    "desc": "<p>I have been working on a lightweight authentication flow designed for SaaS apps, courses, and small platforms that do not want to deal with complex identity systems or collect personal data.<p>Toqen provides QR-based login, temporary access passes, and TOTP verification without storing user information. The goal is to create a simple, privacy-first alternative to email login and passwords.<p>It uses Cloudflare Turnstile for anti-bot protection and runs on an edge-first stack. I would appreciate feedback from the community on the architecture, security considerations, and potential pitfalls.<p>Demo: <a href=\"https://www.toqen.app/demo\" rel=\"nofollow\">https://www.toqen.app/demo</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241816\">https://news.ycombinator.com/item?id=46241816</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.toqen.app/",
+    "tags": [
+      "authentication",
+      "privacy",
+      "passwordless",
+      "security",
+      "qr code"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "Toqen offers a privacy-focused, passwordless authentication flow using QR codes and TOTP. It eliminates the need for accounts, passwords, and stored data, providing a secure and user-controlled access solution. Integration is quick, delivering a verified userId to the backend. It emphasizes user privacy, modern encryption, and edge technology for fast and reliable authentication.",
+    "summary_zh": "Toqen 提供了一种以隐私为先的、无密码认证流程，该流程使用二维码和 TOTP。 它无需帐户、密码和存储数据，从而提供安全且用户可控的访问解决方案。集成速度很快，可向后端提供经过验证的用户 ID。它强调用户隐私、现代加密技术和边缘技术，以实现快速可靠的身份验证。",
+    "best_quote_en": "Personal data is personal. It stays with you. Toqen is built so there’s nothing to leak.",
+    "best_quote_zh": "个人数据是个人的。它与你同在。Toqen 的构建保证了不会泄露任何信息。"
   }]
