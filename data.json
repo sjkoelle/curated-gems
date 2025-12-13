@@ -8890,4 +8890,79 @@
     "summary_zh": "Toqen 提供了一种以隐私为先的、无密码认证流程，该流程使用二维码和 TOTP。 它无需帐户、密码和存储数据，从而提供安全且用户可控的访问解决方案。集成速度很快，可向后端提供经过验证的用户 ID。它强调用户隐私、现代加密技术和边缘技术，以实现快速可靠的身份验证。",
     "best_quote_en": "Personal data is personal. It stays with you. Toqen is built so there’s nothing to leak.",
     "best_quote_zh": "个人数据是个人的。它与你同在。Toqen 的构建保证了不会泄露任何信息。"
+  },{
+    "id": 476,
+    "title": "Conscious of the Effects of Structural Racism",
+    "source": "Hackernews",
+    "desc": "<p>The origins of Wokeness Paul Graham</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252896\">https://news.ycombinator.com/item?id=46252896</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46252896",
+    "tags": [
+      "hacker news",
+      "structural racism",
+      "wokeness",
+      "paul graham",
+      "discussion"
+    ],
+    "date": "2025-12-13",
+    "summary_en": "The article mentions 'Conscious of the Effects of Structural Racism' and links to a discussion about the origins of 'Wokeness' by Paul Graham. It appears on Hacker News with options to submit, login, and navigate the site's various sections.",
+    "summary_zh": "文章提到了“意识到结构性种族主义的影响”，并链接到 Paul Graham 关于“觉醒”起源的讨论。它出现在 Hacker News 上，提供提交、登录以及导航网站各个部分的功能。",
+    "best_quote_en": "Conscious of the Effects of Structural Racism",
+    "best_quote_zh": "意识到结构性种族主义的影响"
+  },
+  {
+    "id": 477,
+    "title": "At the Cafe – or the online \"playground\" for Caffeine",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://caffeine-lang.run/blog/at-the-cafe\">https://caffeine-lang.run/blog/at-the-cafe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252876\">https://news.ycombinator.com/item?id=46252876</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://caffeine-lang.run/blog/at-the-cafe",
+    "tags": [
+      "caffeine",
+      "compiler",
+      "playground",
+      "web development",
+      "gleam"
+    ],
+    "date": "2025-12-13",
+    "summary_en": "The author describes the development of an online playground environment, called \"Cafe\", for experimenting with Caffeine, a compiler. The playground allows users to edit code and see compilation results in real-time within their browser. It utilizes a static site generator and overcomes challenges like browser-incompatible file I/O by using shims. The goal is to provide an accessible way to learn and use Caffeine.",
+    "summary_zh": "作者介绍了为编译器Caffeine开发的在线实验环境“Cafe”。该实验环境允许用户在浏览器中实时编辑代码并查看编译结果。它利用静态站点生成器并克服了诸如浏览器不兼容文件I/O等挑战，通过使用垫片（shims）解决。目标是提供一种便捷的方式来学习和使用Caffeine。",
+    "best_quote_en": "There's really nothing like a cafe to inspire. Experimentation, creativity, focus, engaging discussions.",
+    "best_quote_zh": "没有什么地方能像咖啡馆一样激发灵感。实验、创造力、专注、引人入胜的讨论。"
+  },
+  {
+    "id": 478,
+    "title": "Agentic AI in Retail: How Autonomous Shopping Is Redefining the Customer Journey",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bain.com/insights/agentic-ai-in-retail-how-autonomous-shopping-redefining-customer-journey/\">https://www.bain.com/insights/agentic-ai-in-retail-how-autonomous-shopping-redefining-customer-journey/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252864\">https://news.ycombinator.com/item?id=46252864</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bain.com/insights/agentic-ai-in-retail-how-autonomous-shopping-redefining-customer-journey/",
+    "tags": [
+      "agentic ai",
+      "retail",
+      "autonomous shopping",
+      "artificial intelligence",
+      "e-commerce"
+    ],
+    "date": "2025-12-13",
+    "summary_en": "Agentic AI is reshaping retail, impacting advertising, personalization, and fulfillment. Three types of AI agents are emerging: third-party, on-site retailer, and off-site retailer agents. Retailers need to participate on every front, building unique capabilities where they have expertise and data to attract customers.",
+    "summary_zh": "代理人工智能正在重塑零售业，影响广告、个性化和履单环节。三种类型的人工智能代理正在涌现：第三方代理、现场零售商代理和场外零售商代理。零售商需要在各个方面参与，在他们拥有专业知识和数据的领域建立独特的能力，以吸引客户。",
+    "best_quote_en": "The choices retailers make now will determine whether they shape the future or are sidelined by it.",
+    "best_quote_zh": "零售商现在做出的选择将决定他们是塑造未来还是被未来边缘化。"
+  },
+  {
+    "id": 479,
+    "title": "From Hand-Signed Forms to LLM's: The Evolution of Order Submission",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.everstrike.io/evolution-of-order-submission/\">https://blog.everstrike.io/evolution-of-order-submission/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252843\">https://news.ycombinator.com/item?id=46252843</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.everstrike.io/evolution-of-order-submission/",
+    "tags": [
+      "order submission",
+      "large language models",
+      "prompt trading",
+      "algorithmic trading",
+      "market microstructure"
+    ],
+    "date": "2025-12-13",
+    "summary_en": "This article discusses the evolution of order submission in trading, from hand-signed forms to the emergence of prompt trading powered by large language models (LLMs). LLMs can understand abstract instructions and automate order generation. Experts predict that LLMs will handle over 50% of retail trading orders by 2030 due to decreasing LLM inference costs and increasing viability of prompt trading platforms.",
+    "summary_zh": "本文讨论了交易中订单提交的演变，从手写签名表格到由大型语言模型（LLM）驱动的提示交易的出现。LLM 可以理解抽象指令并自动生成订单。专家预测，由于 LLM 推理成本的降低和提示交易平台可行性的提高，到 2030 年 LLM 将处理超过 50% 的零售交易订单。",
+    "best_quote_en": "LLM-assisted order submission can be thought of as a superset of manual order submission.",
+    "best_quote_zh": "LLM辅助的订单提交可以被认为是手动订单提交的超集。"
   }]
