@@ -8965,4 +8965,79 @@
     "summary_zh": "本文讨论了交易中订单提交的演变，从手写签名表格到由大型语言模型（LLM）驱动的提示交易的出现。LLM 可以理解抽象指令并自动生成订单。专家预测，由于 LLM 推理成本的降低和提示交易平台可行性的提高，到 2030 年 LLM 将处理超过 50% 的零售交易订单。",
     "best_quote_en": "LLM-assisted order submission can be thought of as a superset of manual order submission.",
     "best_quote_zh": "LLM辅助的订单提交可以被认为是手动订单提交的超集。"
+  },{
+    "id": 480,
+    "title": "Redk: Redis Re-Implemented with SQL",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/nalgeon/redka\">https://github.com/nalgeon/redka</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46261488\">https://news.ycombinator.com/item?id=46261488</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/nalgeon/redka",
+    "tags": [
+      "redis",
+      "sql",
+      "database",
+      "go",
+      "sqlite"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "Redka reimplements Redis with SQL, offering Redis API compatibility, ACID transactions, and SQL views. It supports SQLite or PostgreSQL as a backend and can run in-process or as a standalone server. Use cases include embedded cache for Go apps, lightweight testing environments, and Postgres-first data structures. It is functionally ready for version 1.0.",
+    "summary_zh": "Redka使用SQL重新实现了Redis的核心部分，提供Redis API兼容性、ACID事务和SQL视图。它支持SQLite或PostgreSQL作为后端，并且可以进程内运行或作为独立服务器运行。用例包括Go应用程序的嵌入式缓存、轻量级测试环境和Postgres优先的数据结构。Redka的功能已准备好用于1.0版本。",
+    "best_quote_en": "It's such an amazing idea to go beyond the get-set paradigm and provide a convenient API for more complex data structures.",
+    "best_quote_zh": "超越简单的get-set模式，为更复杂的数据结构提供便捷的API，这是一个非常棒的想法。"
+  },
+  {
+    "id": 481,
+    "title": "Show HN: I scraped Zed's docs into a single PDF so I could read them on my iPad",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/dohyeondk/zed-doc-to-pdf\">https://github.com/dohyeondk/zed-doc-to-pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46261484\">https://news.ycombinator.com/item?id=46261484</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/dohyeondk/zed-doc-to-pdf",
+    "tags": [
+      "python",
+      "pdf",
+      "documentation",
+      "zed editor",
+      "script"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "This Python script downloads the entire Zed editor documentation and merges it into a single PDF file with a working table of contents. It features downloading documentation pages as individual PDFs, merging them into a single PDF, preserving document structure, and custom CSS styling. Requirements include Python 3.10+ and uv or pip.",
+    "summary_zh": "这个Python脚本下载整个Zed编辑器的文档，并将其合并为一个包含工作目录的PDF文件。其特性包括将文档页面下载为单独的PDF，将它们合并为一个PDF，保持文档结构，以及自定义CSS样式。要求包括Python 3.10+ 和 uv 或 pip。",
+    "best_quote_en": "Merges them into a single PDF file with clickable bookmarks.",
+    "best_quote_zh": "将它们合并为一个带有可点击书签的PDF文件。"
+  },
+  {
+    "id": 482,
+    "title": "Compiler Engineering in Practice",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html\">https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46261452\">https://news.ycombinator.com/item?id=46261452</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html",
+    "tags": [
+      "compiler",
+      "engineering",
+      "reliability",
+      "miscompile",
+      "debugging"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "This article introduces compiler engineering, defining a compiler as a translator between languages. It emphasizes the importance of reliability to avoid miscompiles, which can have severe consequences like data loss and security vulnerabilities. The article also touches upon the complexity of compilers.",
+    "summary_zh": "本文介绍了编译器工程，将编译器定义为语言之间的翻译器。它强调了可靠性的重要性，以避免可能导致严重后果（如数据丢失和安全漏洞）的错误编译。文章还谈到了编译器的复杂性。",
+    "best_quote_en": "A miscompile is a fundamental failure of the compiler’s contract with its user.",
+    "best_quote_zh": "误编译是编译器与其用户之间合约的根本性失败。"
+  },
+  {
+    "id": 483,
+    "title": "Journaling and Prompting",
+    "source": "Hackernews",
+    "desc": "<p>I used Notion for several years for journaling, but I found the cognitive cost of switching into its DSL wasn’t worth it for me. Notion is built on blocks, things like databases built on top. Even when I exported my notes to Markdown, it still reflected Notion’s internal data structure instead of giving me something clean and portable.<p>For example, the inline database ends up as a table with href links to other parts of the document - nice, but not very useful when I want plain text I can actually work with.<p>Meanwhile, I have been doing a lot of prompting, and Markdown makes more sense for my workflow. It is not a journaling tool but it is simple and widely supported - GitHub, VSCode, etc and it eliminated a lot of the context switching that came with using dedicated note-taking apps.<p>What I would miss probably is the inline database, and other rich content which I have learned to stop using. But, I have optimized my journalling workflows to a lot of my prompting techniques. I use regular tables and split documents more deliberately. I reference them across journals when needed, kind of like having dedicated prompts for each part of a workflow.<p>I use the a lot of the prompting techniques in journalling as well - instead of creating inline database, I use the regular tables (more flattened and un-linked), and started splitting documents more, and referencing them in my journals.<p>I also sometimes put YAML frontmatter at the top for metadata and descriptions. That way, if I ever want to run an LLM over my journals - for summarizing the year or building a semantic search - I am already set up. (Might even turn that into a feature for https://gpt.qalam.dev)<p>I have realised the tool must matter less than how I structure my thoughts.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46261443\">https://news.ycombinator.com/item?id=46261443</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46261443",
+    "tags": [
+      "journaling",
+      "markdown",
+      "notion",
+      "prompting",
+      "workflow"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "The author transitioned from Notion to Markdown for journaling due to Notion's complex DSL and data structure. Markdown is simpler, portable, and better integrates with prompting workflows and tools like GitHub and VSCode. The author opts for regular tables instead of inline databases and uses YAML frontmatter for future LLM integration, realizing that thought structure matters more than the tool itself.",
+    "summary_zh": "作者放弃了使用Notion进行日记，转而使用Markdown，因为Notion的DSL和数据结构过于复杂。Markdown更简单，更易于移植，并且更好地与提示工作流程和GitHub、VSCode等工具集成。作者选择使用常规表格而不是嵌入式数据库，并使用YAML frontmatter以便将来与LLM集成，意识到思想结构比工具本身更重要。",
+    "best_quote_en": "I have realised the tool must matter less than how I structure my thoughts.",
+    "best_quote_zh": "我已经意识到工具的重要性不如我组织思想的方式。"
   }]
