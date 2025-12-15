@@ -9040,4 +9040,98 @@
     "summary_zh": "作者放弃了使用Notion进行日记，转而使用Markdown，因为Notion的DSL和数据结构过于复杂。Markdown更简单，更易于移植，并且更好地与提示工作流程和GitHub、VSCode等工具集成。作者选择使用常规表格而不是嵌入式数据库，并使用YAML frontmatter以便将来与LLM集成，意识到思想结构比工具本身更重要。",
     "best_quote_en": "I have realised the tool must matter less than how I structure my thoughts.",
     "best_quote_zh": "我已经意识到工具的重要性不如我组织思想的方式。"
+  },{
+    "id": 484,
+    "title": "Intel, AMD Accused of Allowing Chips in Russian Missiles",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2025-12-10/intel-amd-accused-of-failing-to-block-chips-in-russian-missiles\">https://www.bloomberg.com/news/articles/2025-12-10/intel-amd-accused-of-failing-to-block-chips-in-russian-missiles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46271553\">https://news.ycombinator.com/item?id=46271553</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bloomberg.com/news/articles/2025-12-10/intel-amd-accused-of-failing-to-block-chips-in-russian-missiles",
+    "tags": [
+      "intel",
+      "amd",
+      "russia",
+      "sanctions",
+      "microchips"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "Intel, AMD, and Texas Instruments are facing lawsuits for allegedly allowing their microchips to end up in Russian missiles used in Ukraine. The lawsuits claim the companies showed \"willful ignorance\" as third parties resold restricted chips to Russia, violating US sanctions.",
+    "summary_zh": "英特尔、AMD和德州仪器因涉嫌允许其微芯片最终出现在乌克兰战争中使用的俄罗斯导弹中而面临诉讼。诉讼声称，这些公司对第三方将受限芯片转售给俄罗斯表现出“故意无视”，从而违反了美国制裁。",
+    "best_quote_en": "Those companies – along with a company owned by Warren Buffett’s Berkshire Hathaway Inc. – demonstrated “willful ignorance” as third parties resold restricted chips to Russia to power drones and missiles in violation of US sanctions.",
+    "best_quote_zh": "这些公司——以及沃伦·巴菲特的伯克希尔·哈撒韦公司拥有的一家公司——表现出“故意无视”，因为第三方将受限制的芯片转售给俄罗斯，为无人机和导弹提供动力，违反了美国制裁。"
+  },
+  {
+    "id": 485,
+    "title": "AI and Gnome Shell Extensions",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/\">https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46271552\">https://news.ycombinator.com/item?id=46271552</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/",
+    "tags": [
+      "gnome shell",
+      "extensions",
+      "ai",
+      "code review",
+      "ego"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The author discusses the growth of the GNOME Shell extension community and the increasing use of AI in extension development. While AI can be helpful, some developers are using it to generate code without understanding it, leading to unnecessary code and bad practices. A new rule is being added to the EGO review guidelines to reject packages with AI-generated unnecessary code. AI can used for learning and fixing issues, not for generating entire extensions.",
+    "summary_zh": "作者讨论了GNOME Shell扩展社区的增长以及AI在扩展开发中日益增长的使用。虽然AI有所帮助，但一些开发人员在不理解代码的情况下使用它来生成代码，导致不必要的代码和不良实践。EGO审核指南中将添加一项新规则，以拒绝包含AI生成的，不必要的代码的软件包。AI可用于学习和修复问题，而不能用于生成整个扩展。",
+    "best_quote_en": "AI is a fantastic tool for learning and helping find and fix issues. Use it for that, not for generating the entire extension.",
+    "best_quote_zh": "人工智能是学习、帮助查找和修复问题的绝佳工具。用它来做这些，而不是用来生成整个扩展。"
+  },
+  {
+    "id": 486,
+    "title": "Understanding Mathematics Through Lean",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://bytesauna.com/post/proofs-as-types?source=email\">https://bytesauna.com/post/proofs-as-types?source=email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46271547\">https://news.ycombinator.com/item?id=46271547</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://bytesauna.com/post/proofs-as-types?source=email",
+    "tags": [
+      "lean",
+      "mathematics",
+      "proof",
+      "theorem prover",
+      "types"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The author discusses understanding mathematics through Lean, a theorem prover. Lean treats logical statements as types, allowing proofs to be verified by computers. The author argues that learning Lean led to a deeper understanding of mathematical proofs by focusing on building types that correspond to true propositions, ensuring correctness.",
+    "summary_zh": "作者讨论了通过Lean（一个定理证明器）来理解数学。Lean将逻辑语句视为类型，从而允许计算机验证证明。作者认为，学习Lean通过专注于构建与真命题相对应的类型，确保了正确性，从而对数学证明有了更深入的理解。",
+    "best_quote_en": "If the first turning point of my mathematical education was to become fluent in proofs, the second one was actually understanding them through Lean.",
+    "best_quote_zh": "如果说我数学教育的第一个转折点是能够流利地进行证明，那么第二个转折点实际上是通过Lean来理解它们。"
+  },
+  {
+    "id": 487,
+    "title": "AudioMuse-AI: Local Sonic Analysis for Auto-Playlists on Jellyfin and Navidrome",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/NeptuneHub/AudioMuse-AI\">https://github.com/NeptuneHub/AudioMuse-AI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46271534\">https://news.ycombinator.com/item?id=46271534</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/NeptuneHub/AudioMuse-AI",
+    "tags": [
+      "audio analysis",
+      "playlist generation",
+      "docker",
+      "jellyfin",
+      "navidrome"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "AudioMuse-AI is an open-source, Dockerized application that generates automatic playlists for self-hosted music libraries. It uses sonic analysis on audio files to curate playlists based on mood, tempo, and similarity, integrating with Jellyfin, Navidrome, and other music servers. It features clustering, instant playlists, a music map, and more innovative ways to explore music.",
+    "summary_zh": "AudioMuse-AI是一个开源的、Docker化的应用程序，为自托管音乐库生成自动播放列表。它使用声音分析来生成基于情绪、节奏和相似性的播放列表，并与Jellyfin、Navidrome等音乐服务器集成。它具有聚类、即时播放列表、音乐地图等创新功能，用于探索音乐。",
+    "best_quote_en": "AudioMuse-AI lets you explore your music library in innovative ways, just start with an initial analysis, and you’ll unlock features like...",
+    "best_quote_zh": "AudioMuse-AI让你以创新的方式探索你的音乐库，只需从初始分析开始，你就能解锁诸如…之类的功能"
+  },
+  {
+    "id": 488,
+    "title": "Possible platform/arch names in Deno.build and node:process",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://jcbhmr.com/2025/12/14/deno-build-possible-values/\">https://jcbhmr.com/2025/12/14/deno-build-possible-values/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46271530\">https://news.ycombinator.com/item?id=46271530</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://jcbhmr.com/2025/12/14/deno-build-possible-values/",
+    "tags": [
+      "deno",
+      "nodejs",
+      "platform",
+      "architecture",
+      "polyfills"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "This article explores the possible values for platform and architecture names in Deno's `Deno.build` and `node:process`, focusing on Deno's Node.js API polyfills. It details how `Deno.build.os`, `Deno.build.arch`, `Deno.build.target`, `process.platform`, `process.arch`, and `os.machine()` are defined and used within Deno's runtime environment. The target string comes from SnapshotOptions.",
+    "summary_zh": "本文探讨了Deno的`Deno.build`和`node:process`中平台和架构名称的可能值，重点关注Deno的Node.js API polyfills。它详细介绍了`Deno.build.os`、`Deno.build.arch`、`Deno.build.target`、`process.platform`、`process.arch`和`os.machine()`如何在Deno的运行时环境中定义和使用。目标字符串来自SnapshotOptions。",
+    "best_quote_en": "These are the possible values for Deno's Node.js node: polyfills, not for Node.js' own implementation.",
+    "best_quote_zh": "这些是Deno的Node.js node: polyfills的可能值，而不是Node.js本身的实现。"
   }]
