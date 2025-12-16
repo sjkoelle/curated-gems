@@ -9134,4 +9134,79 @@
     "summary_zh": "本文探讨了Deno的`Deno.build`和`node:process`中平台和架构名称的可能值，重点关注Deno的Node.js API polyfills。它详细介绍了`Deno.build.os`、`Deno.build.arch`、`Deno.build.target`、`process.platform`、`process.arch`和`os.machine()`如何在Deno的运行时环境中定义和使用。目标字符串来自SnapshotOptions。",
     "best_quote_en": "These are the possible values for Deno's Node.js node: polyfills, not for Node.js' own implementation.",
     "best_quote_zh": "这些是Deno的Node.js node: polyfills的可能值，而不是Node.js本身的实现。"
+  },{
+    "id": 489,
+    "title": "Trump files $5B defamation lawsuit against BBC over Panorama speech edit",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cpvd81470v1o\">https://www.bbc.co.uk/news/articles/cpvd81470v1o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46285887\">https://news.ycombinator.com/item?id=46285887</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bbc.co.uk/news/articles/cpvd81470v1o",
+    "tags": [
+      "donald trump",
+      "bbc",
+      "defamation lawsuit",
+      "panorama",
+      "speech edit"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "Donald Trump has filed a $5 billion defamation lawsuit against the BBC over an edit of his 6 January 2021 speech in a Panorama documentary. He accuses the BBC of defamation and violating trade practices. The BBC apologized but rejected compensation demands. The lawsuit claims the edit intentionally and maliciously doctored his speech. The BBC argues there was no malice and Trump was not harmed. The suit also suggests Florida residents may have accessed the program via VPNs.",
+    "summary_zh": "唐纳德·特朗普就BBC的一部纪录片中对其2021年1月6日演讲的剪辑提起了一项50亿美元的诽谤诉讼。他指控BBC诽谤并违反贸易惯例。BBC已道歉但拒绝赔偿要求。诉讼声称该剪辑故意恶意篡改了他的演讲。BBC辩称不存在恶意且特朗普未受损害。诉讼还暗示佛罗里达州居民可能通过VPN访问了该节目。",
+    "best_quote_en": "\"They cheated. They changed the words coming out of my mouth.\"",
+    "best_quote_zh": "“他们作弊了。他们改变了我口中说出的话。”"
+  },
+  {
+    "id": 490,
+    "title": "New Jolla phone and Sailfish 5 offer a break from iOS-Android monotony",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2025/12/15/jolla_sailfish_5_hands_on/\">https://www.theregister.com/2025/12/15/jolla_sailfish_5_hands_on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46285884\">https://news.ycombinator.com/item?id=46285884</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2025/12/15/jolla_sailfish_5_hands_on/",
+    "tags": [
+      "sailfish os",
+      "jolla phone",
+      "mobile linux",
+      "privacy",
+      "open source"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "The new Jolla phone and Sailfish OS 5 offer an alternative to the iOS-Android duopoly. The phone features a user-replaceable battery, privacy switch, and specs crowdsourced. Sailfish OS, with roots in Nokia's Maemo, provides a break from mainstream mobile OS design, emphasizing privacy and open-source principles.",
+    "summary_zh": "新款Jolla手机和Sailfish OS 5提供了iOS-Android双寡头垄断之外的选择。该手机具有用户可更换电池、隐私开关，以及通过众包确定的规格。Sailfish OS起源于诺基亚的Maemo，打破了主流移动操作系统的设计，强调隐私和开源原则。",
+    "best_quote_en": "Sailfish is distinct from any other mobile OS today.",
+    "best_quote_zh": "Sailfish与当今任何其他移动操作系统都截然不同。"
+  },
+  {
+    "id": 491,
+    "title": "Banana Prompts – Share and Discover AI Image Prompts",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://banana-prompts.com\">https://banana-prompts.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46285866\">https://news.ycombinator.com/item?id=46285866</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://banana-prompts.com",
+    "tags": [
+      "ai image generation",
+      "prompts",
+      "community",
+      "creative",
+      "banana prompts"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "Banana Prompts is a community-driven platform for AI image generation. Users can browse, share, and discover creative prompts. It offers a curated library of tested and refined prompts, allowing users to learn techniques and contribute their own creations. The platform is free to browse and share prompts.",
+    "summary_zh": "Banana Prompts 是一个社区驱动的人工智能图像生成平台。用户可以浏览、分享和发现创意提示。它提供了一个经过测试和改进的提示库，允许用户学习技术并贡献自己的作品。该平台可以免费浏览和分享提示。",
+    "best_quote_en": "Each banana prompt is tested and refined for best results.",
+    "best_quote_zh": "每个 Banana Prompts 都经过测试和改进，以获得最佳效果。"
+  },
+  {
+    "id": 492,
+    "title": "Git Branching Explained",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.git-tower.com/blog/base-topic-parent-branches\">https://www.git-tower.com/blog/base-topic-parent-branches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46285846\">https://news.ycombinator.com/item?id=46285846</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.git-tower.com/blog/base-topic-parent-branches",
+    "tags": [
+      "git",
+      "branching",
+      "base branch",
+      "topic branch",
+      "version control"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "This article explains Git branching concepts, including base branches (long-lived branches like 'main'), topic branches (short-lived branches for features or bug fixes), and parent branches (the origin of a branch). Using branches allows developers to work on new features or fix bugs without disrupting the main codebase. It is essential for team collaboration and maintain a clean project history.",
+    "summary_zh": "本文解释了Git分支的概念，包括基础分支（如'main'的长期分支）、主题分支（用于特性或bug修复的短期分支）和父分支（分支的起源）。 使用分支允许开发人员在不中断主代码库的情况下处理新特性或修复bug。 这对于团队协作和维护清晰的项目历史至关重要。",
+    "best_quote_en": "Within Git's powerful arsenal, branches are its absolute superpower. They let you, and your team, work on new ideas, fix bugs, and experiment without causing chaos in your main codebase.",
+    "best_quote_zh": "在Git强大的武器库中，分支是其绝对的超能力。 它们让您和您的团队可以处理新的想法、修复bug和进行实验，而不会在您的主代码库中造成混乱。"
   }]
