@@ -9209,4 +9209,98 @@
     "summary_zh": "本文解释了Git分支的概念，包括基础分支（如'main'的长期分支）、主题分支（用于特性或bug修复的短期分支）和父分支（分支的起源）。 使用分支允许开发人员在不中断主代码库的情况下处理新特性或修复bug。 这对于团队协作和维护清晰的项目历史至关重要。",
     "best_quote_en": "Within Git's powerful arsenal, branches are its absolute superpower. They let you, and your team, work on new ideas, fix bugs, and experiment without causing chaos in your main codebase.",
     "best_quote_zh": "在Git强大的武器库中，分支是其绝对的超能力。 它们让您和您的团队可以处理新的想法、修复bug和进行实验，而不会在您的主代码库中造成混乱。"
+  },{
+    "id": 493,
+    "title": "20k Issues on GitHub",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://daniel.haxx.se/blog/2025/12/16/20000-issues-on-github/\">https://daniel.haxx.se/blog/2025/12/16/20000-issues-on-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46299339\">https://news.ycombinator.com/item?id=46299339</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://daniel.haxx.se/blog/2025/12/16/20000-issues-on-github/",
+    "tags": [
+      "curl",
+      "github",
+      "issue tracking",
+      "pull requests",
+      "software development"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The curl project migrated to GitHub and fully adopted its issue tracker in 2015. It reached its 20,000th issue/pull request on December 16, 2025. The pace of new pull requests has increased over recent years with a high rate of issue closure. The growth remains human-driven.",
+    "summary_zh": "curl项目于2015年迁移至GitHub并全面采用其问题跟踪器。于2025年12月16日达到了第20,000个issue/pull request。 近年来，新的pull request的提交速度有所提高，问题关闭率也很高。 增长仍然由人工驱动。",
+    "best_quote_en": "We work hard in the project to keep the number of open issues and pull requests low even when the frequency rises.",
+    "best_quote_zh": "我们在项目中努力保持未解决的 issue 和 pull request 的数量较低，即使频率上升也是如此。"
+  },
+  {
+    "id": 494,
+    "title": "Show HN: Shipped Wan 2.6 (Image-to-Video and Text-to-Video) on FreyaVideo",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN, we just launched Wan 2.6 on FreyaVideo.<p>Wan 2.6 adds two workflows:<p>Image-to-Video (I2V): upload an image, describe the motion, generate an MP4.\nText-to-Video (T2V): generate video directly from a prompt.\nWhat’s included:<p>Duration options: 5 / 10 / 15 seconds\nMultiple output sizes (e.g. 720p/1080p, portrait/landscape depending on mode)\nOptional prompt expansion + multi-shot segmentation\nOutput as MP4\nIf you try it, I’d love feedback on:<p>Prompting: what kinds of prompts produce the most consistent motion for you?\nQuality vs speed tradeoffs: which presets/sizes feel best?\nUI/controls: anything confusing between T2V and I2V?\nLink: <a href=\"https://freyavideo.com/\" rel=\"nofollow\">https://freyavideo.com/</a> (Wan 2.6 page: <a href=\"https://freyavideo.com/video-models/wan-2-6\" rel=\"nofollow\">https://freyavideo.com/video-models/wan-2-6</a>)<p>Happy to answer any questions about the implementation, pricing/credits, or the model settings.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46299329\">https://news.ycombinator.com/item?id=46299329</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://freyavideo.com/",
+    "tags": [
+      "ai video generator",
+      "text to video",
+      "image to video",
+      "video creation",
+      "freyavideo"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "FreyaVideo is an AI video generator that turns text, images, and clips into videos. It offers features like image-to-video, text-to-video, and text-to-image generation. It allows users to create high-quality videos quickly without editing skills and supports various aspect ratios for different platforms.",
+    "summary_zh": "FreyaVideo 是一款AI视频生成器，可以将文本、图像和片段转换为视频。它提供图像转视频、文本转视频和文本转图像等功能。用户无需编辑技能即可快速创建高质量视频，并支持各种宽高比以适应不同平台。",
+    "best_quote_en": "Just your idea, AI-powered cinematics, and export-ready videos without the wait.",
+    "best_quote_zh": "只需您的想法，AI驱动的电影效果，以及无需等待的导出就绪视频。"
+  },
+  {
+    "id": 495,
+    "title": "U.S. Military Willing to Attack \"Designated Terrorist Organizations\" in America",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://theintercept.com/2025/12/16/trump-domestic-attack-dtos/\">https://theintercept.com/2025/12/16/trump-domestic-attack-dtos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46299312\">https://news.ycombinator.com/item?id=46299312</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://theintercept.com/2025/12/16/trump-domestic-attack-dtos/",
+    "tags": [
+      "military",
+      "terrorism",
+      "trump",
+      "legality",
+      "executions"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The commander of U.S. Northern Command is willing to attack designated terrorist organizations within the U.S., raising concerns about the legality of military actions. This follows extrajudicial killings of alleged members of DTOs near Venezuela. The White House refuses to rule out summary executions of Americans on a secret enemies list. The military has carried out attacks, killing civilians claimed to be associated with DTOs. Concerns are raised about potential abuse of power.",
+    "summary_zh": "美国北方司令部指挥官表示愿意攻击美国境内指定的恐怖组织，引发了对军事行动合法性的担忧。此前，委内瑞拉附近发生了对所谓恐怖组织成员的法外处决。白宫拒不排除对秘密敌人名单上的美国人进行即决处决的可能性。军方已发动袭击，造成平民死亡，声称他们与恐怖组织有关。人们对权力滥用表示担忧。",
+    "best_quote_en": "\"The founders designed our government to be a system of checks and balances. Defendants, however, make clear that the only check they want is a blank one.\"",
+    "best_quote_zh": "“建国者们将我们的政府设计成一个制衡系统。 然而，被告明确表示，他们想要的唯一支票是一张空白支票。”"
+  },
+  {
+    "id": 496,
+    "title": "Extending ts-Wolfram: dropping OOP, kernel/userspace interop, better printing",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.spakhm.com/ts-wolfram-ext\">https://www.spakhm.com/ts-wolfram-ext</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46299288\">https://news.ycombinator.com/item?id=46299288</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.spakhm.com/ts-wolfram-ext",
+    "tags": [
+      "ts-wolfram",
+      "interpreter",
+      "oop",
+      "kernel",
+      "printing"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The author describes recent updates to ts-wolfram, including dropping OOP in favor of algebraic data types for cleaner code, enabling kernel/userspace interop to allow mixed definitions in expression evaluation, and improving printing functionality with shorthand support. While progress was made, further work is needed for better pretty printing.",
+    "summary_zh": "作者介绍了ts-wolfram的最新更新，包括用代数数据类型代替OOP以简化代码，启用内核/用户空间互操作以允许在表达式评估中混合定义，以及改进了对简写的打印功能。尽管取得了进展，但仍需要进一步的工作以实现更好的美观打印。",
+    "best_quote_en": "Once it works a little, it’s so much fun to keep adding functionality you end up working on it despite yourself.",
+    "best_quote_zh": "一旦它开始工作，不断添加功能就变得非常有趣，以至于你会不由自主地继续开发它。"
+  },
+  {
+    "id": 497,
+    "title": "P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/p-org/P\">https://github.com/p-org/P</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46299257\">https://news.ycombinator.com/item?id=46299257</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/p-org/P",
+    "tags": [
+      "formal methods",
+      "distributed systems",
+      "programming language",
+      "aws",
+      "model checking"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "P is a state machine based programming language for modeling distributed systems. It allows programmers to model their system as communicating state machines. P supports backend analysis engines to verify correctness. AWS uses P to ensure service correctness. P helps developers think rigorously, find bugs, and increase development speed.",
+    "summary_zh": "P是一种基于状态机的编程语言，用于建模分布式系统。它允许程序员将系统建模为通信状态机。P支持后端分析引擎来验证正确性。AWS使用P来确保服务的正确性。P帮助开发者严谨地思考，发现bug，并提高开发速度。",
+    "best_quote_en": "Programming concurrent, distributed systems is fun but challenging, however, a pinch of programming language design with a dash of automated reasoning can go a long way in addressing the challenge and amplify the fun!",
+    "best_quote_zh": "并发分布式系统编程既有趣又具有挑战性，然而，一小部分编程语言设计加上少量的自动化推理可以大大帮助解决这一挑战，并扩大乐趣！"
   }]
