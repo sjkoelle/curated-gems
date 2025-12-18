@@ -9303,4 +9303,79 @@
     "summary_zh": "P是一种基于状态机的编程语言，用于建模分布式系统。它允许程序员将系统建模为通信状态机。P支持后端分析引擎来验证正确性。AWS使用P来确保服务的正确性。P帮助开发者严谨地思考，发现bug，并提高开发速度。",
     "best_quote_en": "Programming concurrent, distributed systems is fun but challenging, however, a pinch of programming language design with a dash of automated reasoning can go a long way in addressing the challenge and amplify the fun!",
     "best_quote_zh": "并发分布式系统编程既有趣又具有挑战性，然而，一小部分编程语言设计加上少量的自动化推理可以大大帮助解决这一挑战，并扩大乐趣！"
+  },{
+    "id": 498,
+    "title": "\"You Just Need Better Prompts\" Is Cope",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://x.com/fullstacktard/article/2001556688441348325\">https://x.com/fullstacktard/article/2001556688441348325</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46310019\">https://news.ycombinator.com/item?id=46310019</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://x.com/fullstacktard/article/2001556688441348325",
+    "tags": [
+      "error",
+      "javascript",
+      "browser",
+      "privacy",
+      "x.com"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The content encountered an error on x.com, suggesting users enable JavaScript or switch browsers. Privacy extensions may also be problematic. Repeated attempts are advised.",
+    "summary_zh": "该内容在x.com上遇到错误，建议用户启用JavaScript或更换浏览器。隐私扩展程序也可能导致问题。建议重复尝试。",
+    "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
+    "best_quote_zh": "出错了，但别担心 - 让我们再试一次。"
+  },
+  {
+    "id": 499,
+    "title": "A2UI: An open project for agent-driven interfaces",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/\">https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46310014\">https://news.ycombinator.com/item?id=46310014</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
+    "tags": [
+      "a2ui",
+      "agent-driven interfaces",
+      "user interface",
+      "open source",
+      "generative ai"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "A2UI is an open-source project designed to enable agents to generate contextually relevant user interfaces. It addresses challenges in interoperable, cross-platform UI responses from agents. A2UI allows agents to generate interfaces best suited for the current conversation and sends it to a front end application. It prioritizes security and offers a declarative data format for generating UIs.",
+    "summary_zh": "A2UI是一个开源项目，旨在使代理能够生成与上下文相关的用户界面。它解决了来自代理的互操作、跨平台UI响应的挑战。A2UI允许代理生成最适合当前对话的接口，并将其发送到前端应用程序。它优先考虑安全性，并提供声明式数据格式来生成UI。",
+    "best_quote_en": "We needed a way to transmit UI that is safe like data, but expressive like code.",
+    "best_quote_zh": "我们需要一种传输UI的方式，它既要像数据一样安全，又要像代码一样具有表现力。"
+  },
+  {
+    "id": 500,
+    "title": "Show HN: DocsRouter – The OpenRouter for OCR and Vision Models",
+    "source": "Hackernews",
+    "desc": "<p>Most products that touch PDFs or images quietly rebuild the same thing: a hacked-together “router” that picks which OCR/vision API to call, normalizes the responses, and prays the bill is sane at the end of the month.<p>DocsRouter is that layer as a product: one stable API that talks to multiple OCR engines and vision LLMs, lets you route per document based on cost/quality/latency, and gives you normalized outputs (text, tables, fields) so your app doesn’t care which provider was used.<p>It’s meant for teams doing serious stuff with documents: invoices/receipts, contracts, payroll, medical/admin forms, logistics docs, etc., who are either stuck on “the OCR we picked years ago” or are overwhelmed by the churn of new vision models.<p>Right now you get a REST API, simple SDKs (coming soon), a few pluggable backends (classic OCR + newer vision models), some basic routing policies, and a playground where you can upload a doc and compare outputs side by side.<p>I’d love feedback from HN on two things:<p>1- If you already juggle multiple OCR/vision providers, what does your homegrown router look like, and what would you need to trust an external one?<p>2 - Would you prefer this or use the LLM/OCR providers directly, with the possibility of changing the provider every so often?<p>Demo and docs are here: <a href=\"https://docsrouter.com\" rel=\"nofollow\">https://docsrouter.com</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46310013\">https://news.ycombinator.com/item?id=46310013</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://docsrouter.com",
+    "tags": [
+      "ocr",
+      "api",
+      "document processing",
+      "vision models",
+      "automation"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "DocsRouter is a platform that streamlines OCR processes by providing a single API key to access over 100 OCR providers. It intelligently routes documents based on quality, speed, and cost. It is easily integrated with a few lines of code and is compatible with OpenAI, aiming to simplify OCR provider management.",
+    "summary_zh": "DocsRouter是一个简化OCR流程的平台，通过单个API密钥访问100多个OCR提供商。它根据质量、速度和成本智能地路由文档。它可以通过几行代码轻松集成，并且与OpenAI兼容，旨在简化OCR提供商的管理。",
+    "best_quote_en": "Focus on building your product. We handle the complexity of OCR provider management, routing logic, and cost optimization.",
+    "best_quote_zh": "专注于构建你的产品。我们处理OCR供应商管理、路由逻辑和成本优化的复杂性。"
+  },
+  {
+    "id": 501,
+    "title": "Ask HN: How did you learn to debug production incidents?",
+    "source": "Hackernews",
+    "desc": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46310002\">https://news.ycombinator.com/item?id=46310002</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46310002",
+    "tags": [
+      "debugging",
+      "production",
+      "hacker news",
+      "incident",
+      "ask hn"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This is a Hacker News post asking the community how they learned to debug production incidents. The post itself is very short and doesn't contain any specific debugging strategies or advice.",
+    "summary_zh": "这是一篇 Hacker News 帖子，询问社区成员是如何学习调试生产环境问题的。帖子本身非常简短，没有包含任何具体的调试策略或建议。",
+    "best_quote_en": "N/A (No quote available in the provided text)",
+    "best_quote_zh": "N/A (提供的文本中没有可用的引言)"
   }]
