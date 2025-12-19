@@ -9378,4 +9378,41 @@
     "summary_zh": "这是一篇 Hacker News 帖子，询问社区成员是如何学习调试生产环境问题的。帖子本身非常简短，没有包含任何具体的调试策略或建议。",
     "best_quote_en": "N/A (No quote available in the provided text)",
     "best_quote_zh": "N/A (提供的文本中没有可用的引言)"
+  },{
+    "id": 502,
+    "title": "Apple is forcing iPhones to update to iOS 26 to patch security holes",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://sixcolors.com/post/2025/12/apple-is-forcing-iphones-to-update-to-ios-26-to-patch-security-holes/\">https://sixcolors.com/post/2025/12/apple-is-forcing-iphones-to-update-to-ios-26-to-patch-security-holes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46323246\">https://news.ycombinator.com/item?id=46323246</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "link": "https://sixcolors.com/post/2025/12/apple-is-forcing-iphones-to-update-to-ios-26-to-patch-security-holes/",
+    "tags": [
+      "apple",
+      "ios",
+      "security",
+      "update",
+      "iphone"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "Apple is forcing iPhone users capable of running iOS 26 to update to it for security patches, withholding iOS 18.7.3. This affects users who prefer not to upgrade due to dislike of features or software compatibility. A workaround involves joining the public beta program. Apple's forcing updates is a concern as users shouldn't have to choose between security and OS preference.",
+    "summary_zh": "苹果正在强制能够运行 iOS 26 的 iPhone 用户更新到该版本以获得安全补丁，并停止提供 iOS 18.7.3。这影响了那些因不喜欢新功能或软件兼容性问题而不愿升级的用户。一个可行的解决方案是加入公共测试计划。苹果强制更新的做法令人担忧，因为用户不应被迫在安全性和操作系统偏好之间做出选择。",
+    "best_quote_en": "But in cases like this, users should never be forced to choose between ignoring a security update and updating to an OS version they’re not ready for.",
+    "best_quote_zh": "但在这种情况下，用户不应被迫在忽略安全更新和更新到他们尚未准备好的操作系统版本之间做出选择。"
+  },
+  {
+    "id": 503,
+    "title": "Claude Code Session Viewer",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/d-kimuson/claude-code-viewer\">https://github.com/d-kimuson/claude-code-viewer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46323244\">https://news.ycombinator.com/item?id=46323244</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/d-kimuson/claude-code-viewer",
+    "tags": [
+      "claude code",
+      "web client",
+      "session management",
+      "log analysis",
+      "git integration"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "Claude Code Viewer is a web-based client for managing Claude Code projects, offering real-time monitoring, session resuming, and conversation history browsing. It features comprehensive session log analysis, full-text search, file upload/preview, browser preview, message scheduling, Git integration, and MCP server viewing. The app supports macOS and Linux and requires Node.js and a minimum Claude Code version. It can be deployed via npm or Docker.",
+    "summary_zh": "Claude Code Viewer是一个基于Web的客户端，用于管理Claude Code项目。它提供实时监控、会话恢复和对话历史浏览等功能。具有全面的会话日志分析、全文搜索、文件上传/预览、浏览器预览、消息调度、Git集成和MCP服务器查看功能。该应用支持macOS和Linux系统，需要Node.js以及最低版本的Claude Code。可以通过npm或Docker进行部署。",
+    "best_quote_en": "Zero data loss + Effective organization + Remote-friendly design",
+    "best_quote_zh": "零数据丢失 + 有效组织 + 远程友好的设计"
   }]
