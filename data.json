@@ -9415,4 +9415,98 @@
     "summary_zh": "Claude Code Viewer是一个基于Web的客户端，用于管理Claude Code项目。它提供实时监控、会话恢复和对话历史浏览等功能。具有全面的会话日志分析、全文搜索、文件上传/预览、浏览器预览、消息调度、Git集成和MCP服务器查看功能。该应用支持macOS和Linux系统，需要Node.js以及最低版本的Claude Code。可以通过npm或Docker进行部署。",
     "best_quote_en": "Zero data loss + Effective organization + Remote-friendly design",
     "best_quote_zh": "零数据丢失 + 有效组织 + 远程友好的设计"
+  },{
+    "id": 504,
+    "title": "Understanding Conversational AI: Philosophy, Ethics, and Social Impact of LLMs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.ubiquitypress.com/books/m/10.5334/bde\">https://www.ubiquitypress.com/books/m/10.5334/bde</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46334365\">https://news.ycombinator.com/item?id=46334365</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.ubiquitypress.com/books/m/10.5334/bde",
+    "tags": [
+      "llms",
+      "ethics",
+      "social impact",
+      "ai",
+      "philosophy"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "This book explores the philosophical, ethical, and social impacts of large language models (LLMs). It examines how LLMs reshape language, cognition, and society, addressing their limitations, biases, and role in misinformation. It prompts critical thinking about understanding, creativity, agency, and trust in synthetic language, aiming to guide readers through the era of generative AI and its challenges.",
+    "summary_zh": "本书探讨了大型语言模型（LLM）的哲学、伦理和社会影响。它考察了LLM如何重塑语言、认知和社会，讨论了其局限性、偏见以及在错误信息中的作用。本书旨在引导读者批判性地思考理解、创造力、自主性以及对合成语言的信任，从而帮助读者了解生成式人工智能时代及其挑战。",
+    "best_quote_en": "What do large language models really know—and what does it mean to live alongside them?",
+    "best_quote_zh": "大型语言模型究竟知道什么——与它们共存意味着什么？"
+  },
+  {
+    "id": 505,
+    "title": "The night everything at DCA went wrong",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://theaircurrent.com/aviation-safety/dca-crash-jan-29-special-report/\">https://theaircurrent.com/aviation-safety/dca-crash-jan-29-special-report/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46334364\">https://news.ycombinator.com/item?id=46334364</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://theaircurrent.com/aviation-safety/dca-crash-jan-29-special-report/",
+    "tags": [
+      "dca",
+      "air safety",
+      "ntsb",
+      "faa",
+      "helicopter"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "A near-miss in 2013 at DCA involving a regional jet and a helicopter, due to flawed airspace design and controller error, foreshadowed a fatal collision in 2025 in the exact same location. The NTSB identified numerous near misses between helicopters and airplanes at DCA and that key FAA safety data was not shared. The root cause was identified as a deteriorating system and institutional failures, not isolated incidents.",
+    "summary_zh": "2013年，DCA发生了一起区域喷气机和直升机的险些相撞事件，原因是空域设计存在缺陷和管制员失误。这预示着2025年同一地点发生了一起致命撞机事故。 NTSB发现DCA上空直升机和飞机曾多次险些相撞，关键的FAA安全数据未被共享。 根本原因被确定为一个不断恶化的系统和机构失灵，而不是孤立事件。",
+    "best_quote_en": "Rather, it was the predictable outcome of a deteriorating system that had been flashing warning signs for years.",
+    "best_quote_zh": "但它是一个持续恶化的系统多年来闪烁警告信号的可预测结果。"
+  },
+  {
+    "id": 506,
+    "title": "Show HN: ZDS – Zig Data Structures",
+    "source": "Hackernews",
+    "desc": "<p>A collection of high-performance data structures for Zig.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46334350\">https://news.ycombinator.com/item?id=46334350</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/asheshvidyut/zds",
+    "tags": [
+      "zig",
+      "data structures",
+      "swissmap",
+      "rbtree",
+      "radix tree"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "ZDS (Zig Data Structures) is a collection of high-performance, thread-unsafe data structures for Zig. It includes SwissMap, RBTree, RadixTree, BTree, and LRUCache. Usage examples and benchmarks are available. The data structures offer features like SIMD optimization, order statistics, range queries, and memory reuse.",
+    "summary_zh": "ZDS（Zig数据结构）是一个为Zig设计的高性能、非线程安全的数据结构集合。它包括SwissMap、RBTree、RadixTree、BTree和LRUCache。提供了使用示例和基准测试。这些数据结构提供SIMD优化、顺序统计、范围查询和内存重用等特性。",
+    "best_quote_en": "A collection of high-performance data structures for Zig.",
+    "best_quote_zh": "为Zig设计的高性能数据结构集合。"
+  },
+  {
+    "id": 507,
+    "title": "Debian adds LoongArch as officially supported architecture",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html\">https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46334333\">https://news.ycombinator.com/item?id=46334333</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html",
+    "tags": [
+      "debian",
+      "loongarch",
+      "architecture",
+      "loong64",
+      "debian 14"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "Loong64 has become an official architecture in Debian after two years of bootstrapping in Debian Ports. It will be part of the Debian 14 (\"forky\") release. An initial set of 112 packages have been built, and the first buildd built and uploaded 300 new packages overnight. The bootstrap is expected to take about a week.",
+    "summary_zh": "Loong64在Debian Ports中经过两年的引导后，已成为Debian的官方架构。 它将成为Debian 14（\"forky\"）版本的一部分。 最初构建了一组112个软件包，并且第一个buildd在一夜之间构建并上传了300个新软件包。 预计引导启动大约需要一周的时间。",
+    "best_quote_en": "loong64 has become an official architecture in Debian and will therefore be part of the upcoming Debian 14 (\"forky\") release if everything goes along as planned.",
+    "best_quote_zh": "Loong64已成为Debian的官方架构，因此，如果一切按计划进行，它将成为即将发布的Debian 14 (\"forky\")版本的一部分。"
+  },
+  {
+    "id": 508,
+    "title": "NTP at NIST Boulder Has Lost Power",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/\">https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46334299\">https://news.ycombinator.com/item?id=46334299</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+    "tags": [
+      "nist",
+      "ntp",
+      "power outage",
+      "time service",
+      "atomic clock"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "The NIST Boulder campus atomic ensemble time scale failed due to a prolonged power outage. Boulder Internet Time Services are inaccurate. Servers time-a-b.nist.gov to ntp-b.nist.gov are affected. No repair estimate is available, efforts focus on alternate power for hydrogen maser clocks. The outage was caused by utility power line damage and preemptive shutdowns due to high winds for wildfire prevention.",
+    "summary_zh": "由于长时间停电，NIST博尔德园区的原子钟时间尺度出现故障。博尔德互联网时间服务不再准确。服务器time-a-b.nist.gov到ntp-b.nist.gov受到影响。目前没有维修时间表，工作重点是为氢原子钟寻找备用电源。停电是由于公用电缆损坏和为防止野火而采取的先发制人关闭造成的。",
+    "best_quote_en": "One impact is that the Boulder Internet Time Services no longer have an accurate time reference.",
+    "best_quote_zh": "其中一个影响是博尔德互联网时间服务不再具有准确的时间参考。"
   }]
