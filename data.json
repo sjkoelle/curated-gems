@@ -9509,4 +9509,79 @@
     "summary_zh": "由于长时间停电，NIST博尔德园区的原子钟时间尺度出现故障。博尔德互联网时间服务不再准确。服务器time-a-b.nist.gov到ntp-b.nist.gov受到影响。目前没有维修时间表，工作重点是为氢原子钟寻找备用电源。停电是由于公用电缆损坏和为防止野火而采取的先发制人关闭造成的。",
     "best_quote_en": "One impact is that the Boulder Internet Time Services no longer have an accurate time reference.",
     "best_quote_zh": "其中一个影响是博尔德互联网时间服务不再具有准确的时间参考。"
+  },{
+    "id": 509,
+    "title": "Starlink satellite just exploded and left 'trackable' debris",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.engadget.com/science/space/a-starlink-satellite-just-exploded-and-left-trackable-debris-120002814.html\">https://www.engadget.com/science/space/a-starlink-satellite-just-exploded-and-left-trackable-debris-120002814.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46343063\">https://news.ycombinator.com/item?id=46343063</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.engadget.com/science/space/a-starlink-satellite-just-exploded-and-left-trackable-debris-120002814.html",
+    "tags": [
+      "starlink",
+      "satellite",
+      "space",
+      "explosion",
+      "debris"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "A Starlink satellite experienced an anomaly, likely a small explosion, leading to debris. SpaceX is tracking the remains with NASA and the US Space Force. The satellite will reenter Earth's atmosphere soon and poses no risk to the ISS. This occurred after a near-collision with a Chinese satellite, highlighting coordination issues.",
+    "summary_zh": "一颗星链卫星发生异常，可能是一次小型爆炸，导致产生碎片。SpaceX正与NASA和美国太空部队合作追踪这些碎片。该卫星将很快重返地球大气层，对国际空间站不构成风险。此前不久，该卫星还险些与一颗中国卫星相撞，突显了协调问题。",
+    "best_quote_en": "When satellite operators do not share emphemeris for their satellites, dangerously close approaches can occur in space.",
+    "best_quote_zh": "当卫星运营商不共享其卫星的星历时，太空中可能会发生危险的接近事件。"
+  },
+  {
+    "id": 510,
+    "title": "Trump Media and TAE Technologies unite in a high-stakes mega fusion deal",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://comuniq.xyz/post?t=635\">https://comuniq.xyz/post?t=635</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46343043\">https://news.ycombinator.com/item?id=46343043</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://comuniq.xyz/post?t=635",
+    "tags": [
+      "trump media",
+      "tae technologies",
+      "fusion energy",
+      "merger",
+      "clean energy"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "Trump Media and TAE Technologies announced a merger valued at over $6 billion, aiming to create a publicly traded fusion company. This deal merges media presence with nuclear fusion technology, seeking to commercialize fusion energy. Challenges remain in technology, finance, and governance, despite investor enthusiasm.",
+    "summary_zh": "特朗普媒体与TAE科技宣布了一项价值超过60亿美元的合并案，旨在创建一家上市的核聚变公司。此交易将媒体影响力与核聚变技术结合，寻求将聚变能源商业化。尽管投资者热情高涨，技术、财务和治理方面仍存在挑战。",
+    "best_quote_en": "Fusion power’s promise—virtually unlimited, climate-neutral energy—has long eluded commercialization.",
+    "best_quote_zh": "聚变能源的承诺——几乎无限的、气候中和的能源——长期以来未能实现商业化。"
+  },
+  {
+    "id": 511,
+    "title": "Show HN: Contextual Engineering – Patterns for Building Offline-First AI Agents",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/tflux2011/contextual-engineering-patterns\">https://github.com/tflux2011/contextual-engineering-patterns</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46343037\">https://news.ycombinator.com/item?id=46343037</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/tflux2011/contextual-engineering-patterns",
+    "tags": [
+      "ai agents",
+      "offline-first",
+      "contextual engineering",
+      "adaptation layers",
+      "global south"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "This repository offers Python implementations for Contextual Engineering patterns, vital for building adaptable AI agents, especially in environments with limited resources. It addresses the 'Agentic Gap' by providing Infrastructure, Cultural, and Safety Adapters to handle offline states, semantic drift, and safety guardrails. The code is structured by adapter layer corresponding to the book's chapters.",
+    "summary_zh": "该存储库为上下文工程模式提供Python实现，这对于构建适应性强的人工智能代理至关重要，尤其是在资源有限的环境中。它通过提供基础设施、文化和安全适配器来解决“代理差距”，以处理离线状态、语义漂移和安全保障。代码按照适配器层进行组织，对应于书中的章节。",
+    "best_quote_en": "Standard AI agents are designed for the 'Abundance Baseline' of Silicon Valley—perfect internet, unlimited power, and institutional trust. When deployed in the Global South, these agents fail due to the 'Agentic Gap' between their reasoning capabilities and environmental realities.",
+    "best_quote_zh": "标准人工智能代理是为硅谷的“丰富基线”而设计的——完美的互联网、无限的电力和机构信任。当部署在全球南方时，这些代理由于其推理能力与环境现实之间的“代理差距”而失败。"
+  },
+  {
+    "id": 512,
+    "title": "Girl Names That Were Originally More Popular for Boys (2021)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.scarymommy.com/girl-names-formerly-boy-names\">https://www.scarymommy.com/girl-names-formerly-boy-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46343034\">https://news.ycombinator.com/item?id=46343034</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.scarymommy.com/girl-names-formerly-boy-names",
+    "tags": [
+      "names",
+      "gender",
+      "popularity",
+      "trends",
+      "history"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "The article discusses girl names that were originally more popular for boys, citing examples like Stacy, Cameron, Allison, and Ashley. It explores how some names transition from being predominantly male to female over time, often influenced by popular culture and trends. The author provides a list of such names and notable men who have carried them.",
+    "summary_zh": "文章探讨了最初更受男性欢迎的女孩名字，例如 Stacy、Cameron、Allison 和 Ashley。它探讨了一些名字如何随着时间的推移从主要为男性使用转变为女性使用，通常受到流行文化和趋势的影响。作者列出了此类名称以及使用这些名称的著名男性。",
+    "best_quote_en": "In my mind, Stacy was a girls’ name. Period.",
+    "best_quote_zh": "在我的观念里，Stacy 就是一个女孩的名字。句号。"
   }]
