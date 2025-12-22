@@ -9584,4 +9584,98 @@
     "summary_zh": "文章探讨了最初更受男性欢迎的女孩名字，例如 Stacy、Cameron、Allison 和 Ashley。它探讨了一些名字如何随着时间的推移从主要为男性使用转变为女性使用，通常受到流行文化和趋势的影响。作者列出了此类名称以及使用这些名称的著名男性。",
     "best_quote_en": "In my mind, Stacy was a girls’ name. Period.",
     "best_quote_zh": "在我的观念里，Stacy 就是一个女孩的名字。句号。"
+  },{
+    "id": 513,
+    "title": "Show HN: Quick scrolling text for banners and tickers, built as a browser tool",
+    "source": "Hackernews",
+    "desc": "<p>I wanted the classic tilted crawl effect for intros, plus a clean credits roll for outros. The annoying part was always the same: getting a readable look, a controllable speed, and an output that overlays cleanly.<p>So I built a browser-first scrolling text generator that runs locally. It focuses on three use cases: a tilted perspective crawl, vertical end credits, and a horizontal ticker.<p>You can control fonts, size, colors, line height, alignment, and background mode (including transparent). The preview is real-time so you can iterate quickly without re-rendering in a heavy tool.<p>When it looks right, you export animated images or video files for editing, or copy an embed snippet for web and streaming overlays.<p><a href=\"https://scrollingtextgenerator.space\" rel=\"nofollow\">https://scrollingtextgenerator.space</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46352107\">https://news.ycombinator.com/item?id=46352107</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://scrollingtextgenerator.space",
+    "tags": [
+      "scrolling text",
+      "ticker",
+      "marquee",
+      "browser tool",
+      "animation"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "This browser tool generates smooth scrolling text for tickers, credits, marquees, and announcements. Users can customize direction, mode, fonts, colors, and backgrounds. It supports horizontal, vertical, and tilted modes. The tool allows previewing and exporting as GIF, WebM, or web embed code.",
+    "summary_zh": "这款浏览器工具可以为跑马灯、字幕、公告等生成平滑滚动的文本。用户可以自定义方向、模式、字体、颜色和背景，支持水平、垂直和倾斜模式。该工具允许预览并导出为 GIF、WebM 或 Web 嵌入代码。",
+    "best_quote_en": "Adjust speed to hit a target duration—looping previews help match video intros or outros.",
+    "best_quote_zh": "调整速度以达到目标时长——循环预览有助于匹配视频开头或结尾。"
+  },
+  {
+    "id": 514,
+    "title": "The Copyrightability of Fonts Revisited",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://matthewbutterick.com/chron/the-copyrightability-of-fonts-revisited.html\">https://matthewbutterick.com/chron/the-copyrightability-of-fonts-revisited.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46352101\">https://news.ycombinator.com/item?id=46352101</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://matthewbutterick.com/chron/the-copyrightability-of-fonts-revisited.html",
+    "tags": [
+      "copyright",
+      "fonts",
+      "typeface",
+      "law",
+      "software"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "The article discusses the copyrightability of digital fonts in the U.S., arguing that they are likely not protected by copyright based on historical legal precedents and US Copyright Office regulations. It also addresses the practice of registering fonts as software programs and explains that such registrations do not confer copyright protection to the font itself.",
+    "summary_zh": "本文探讨了美国数字字体的版权问题，基于历史法律先例和美国版权局的规定，认为字体可能不受版权保护。文章还讨论了将字体注册为软件程序的做法，并解释说这种注册并不能赋予字体本身版权保护。",
+    "best_quote_en": "Digital fonts (probably) aren’t protected by copyright, so the whole premise of the effort seemed fatally flawed.",
+    "best_quote_zh": "数字字体（可能）不受版权保护，因此整个努力的前提似乎存在致命缺陷。"
+  },
+  {
+    "id": 515,
+    "title": "Hema Sane, botanist who lived without electricity, died on September 19th",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://news.mongabay.com/short-article/2025/09/hema-sane-botanist-who-lived-without-electricity-died-on-september-19th/\">https://news.mongabay.com/short-article/2025/09/hema-sane-botanist-who-lived-without-electricity-died-on-september-19th/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46352094\">https://news.ycombinator.com/item?id=46352094</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.mongabay.com/short-article/2025/09/hema-sane-botanist-who-lived-without-electricity-died-on-september-19th/",
+    "tags": [
+      "botany",
+      "environment",
+      "india",
+      "obituary",
+      "green"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "Hema Sane, a botanist who lived without electricity for decades, passed away at 85. She taught botany, wrote over 30 books on Indian plants, and lived an ecologically consistent life, rejecting modern conveniences and advocating for environmental awareness. She believed in simple living and caring for nature.",
+    "summary_zh": "植物学家Hema Sane去世，享年85岁。她数十年来坚持不使用电力的生活方式。她教授植物学，撰写了30多本关于印度植物的书籍，过着生态一致的生活，拒绝现代便利设施，并倡导环保意识。 她坚信简单的生活和关爱自然。",
+    "best_quote_en": "Yet her example offered one nonetheless: that living gently on the earth is possible and even joyful in the heart of a modern metropolis.",
+    "best_quote_zh": "然而，她的榜样仍然提供了一个启示：在现代大都市的中心，温柔地生活在这片土地上是可能的，甚至是快乐的。"
+  },
+  {
+    "id": 516,
+    "title": "Moore, Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut\">https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46352088\">https://news.ycombinator.com/item?id=46352088</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut",
+    "tags": [
+      "ai",
+      "chips",
+      "nvidia",
+      "china",
+      "ipo"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "Moore Threads, led by ex-Nvidia executive Zhang Jianzhong, launched new AI chips after a successful China IPO. These chips aim to reduce developers' reliance on Nvidia's hardware and provide faster computing speed for Chinese developers.",
+    "summary_zh": "前英伟达高管张建中领导的摩尔线程在成功完成中国首次公开募股后，发布了新的人工智能芯片。这些芯片旨在减少开发者对英伟达硬件的依赖，并为中国开发者提供更快的计算速度。",
+    "best_quote_en": "“These products will significantly enhance world-class computing speed and capabilities that all developers aspire to,”",
+    "best_quote_zh": "“这些产品将显著提高所有开发者都渴望的世界一流的计算速度和能力”"
+  },
+  {
+    "id": 517,
+    "title": "A Global Forum Built for Real, Unfiltered Conversations",
+    "source": "Hackernews",
+    "desc": "<p>Hey HN,\nI’ve been heads-down building a Global social forum, a new global discussion platform designed for people who actually want to talk — not just scroll. No algorithmic chaos, no dopamine traps, no corporate varnish. Just conversations, communities, and clarity.<p>It’s still early days. I’m a solo builder trying to create a space that isn’t pretending to “disrupt” anything — it’s just trying to do the basics right: meaningful threads, respectful debates, and a community culture that doesn’t collapse into noise.<p>Why I built this<p>Every platform is trying to be everything. Forums became outdated, social media became polluted, and long-form conversations started disappearing. GeneralGiist is my attempt to bring back that clean, old-school discussion energy, but with a modern, global flavor.<p>What’s already live<p>A working forum with categories across lifestyle, politics, tech, entertainment, and more<p>User accounts, posting, profiles — the essentials<p>Fast, distraction-free UI<p>Early community structure and seeded discussions<p>A long-term plan to evolve this into a flagship platform under my “Space Platform” umbrella<p>What I’m looking for<p>Feedback. Brutal honesty. Tell me:<p>What feels off<p>What’s clunky<p>What’s confusing<p>What’s boring<p>What’s surprisingly good<p>I’m not pitching perfection — I’m pitching potential.<p>Link<p>https://generalgiist.com<p>Thanks for reading, and thanks even more if you poke around and tell me where the cracks are. I’ll be in the thread replying to everything — even the spicy takes.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46352076\">https://news.ycombinator.com/item?id=46352076</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46352076",
+    "tags": [
+      "forum",
+      "social media",
+      "discussion",
+      "community",
+      "feedback"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "A solo builder created GeneralGiist, a global discussion forum aiming for real, unfiltered conversations without algorithmic distractions. It features categories like lifestyle, politics, and tech. The builder seeks honest feedback on what feels off, clunky, confusing, boring, or surprisingly good to iterate and improve the platform's potential.",
+    "summary_zh": "一个独立开发者创建了 GeneralGiist，一个全球讨论论坛，旨在进行真实的、无过滤的对话，没有算法干扰。它包含生活方式、政治和科技等类别。开发者寻求关于哪些方面感觉不对、笨拙、令人困惑、无聊或出乎意料地好的诚实反馈，以迭代和改进平台的潜力。",
+    "best_quote_en": "Every platform is trying to be everything. Forums became outdated, social media became polluted, and long-form conversations started disappearing.",
+    "best_quote_zh": "每个平台都试图成为一切。论坛已经过时，社交媒体受到污染，长篇对话开始消失。"
   }]
