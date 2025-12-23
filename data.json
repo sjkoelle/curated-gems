@@ -9678,4 +9678,41 @@
     "summary_zh": "一个独立开发者创建了 GeneralGiist，一个全球讨论论坛，旨在进行真实的、无过滤的对话，没有算法干扰。它包含生活方式、政治和科技等类别。开发者寻求关于哪些方面感觉不对、笨拙、令人困惑、无聊或出乎意料地好的诚实反馈，以迭代和改进平台的潜力。",
     "best_quote_en": "Every platform is trying to be everything. Forums became outdated, social media became polluted, and long-form conversations started disappearing.",
     "best_quote_zh": "每个平台都试图成为一切。论坛已经过时，社交媒体受到污染，长篇对话开始消失。"
+  },{
+    "id": 518,
+    "title": "Self-Hosted GenesisDB: Deploy GenesisDB on your infrastructure at minimal cost",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.genesisdb.io/blog/posts/2025-12-23/self-hosted-genesisdb\">https://www.genesisdb.io/blog/posts/2025-12-23/self-hosted-genesisdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46363322\">https://news.ycombinator.com/item?id=46363322</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://www.genesisdb.io/blog/posts/2025-12-23/self-hosted-genesisdb",
+    "tags": [
+      "genesisdb",
+      "self-hosted",
+      "event store",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "GenesisDB offers a self-hosted event store solution designed to run with minimal resources, costing under €20/month. It provides complete control over data, deployment, and costs. Deployment options include Docker, Kubernetes, and pre-built binaries, supporting various environments like AWS, Google Cloud, Azure, and on-premises setups. Flexible licensing options are available, including a free Community Edition. A fully managed platform, GenesisDB Velora, is launching in 2026.",
+    "summary_zh": "GenesisDB提供了一个自托管的事件存储解决方案，旨在以最少的资源运行，每月成本低于20欧元。它可以完全控制数据、部署和成本。部署选项包括Docker、Kubernetes和预构建的二进制文件，支持AWS、Google Cloud、Azure和本地设置等各种环境。提供灵活的许可选项，包括免费的社区版。一个完全托管的平台GenesisDB Velora将于2026年推出。",
+    "best_quote_en": "GenesisDB was designed from the ground up to be self-hosted with minimal resource requirements, giving you complete control over your data, your deployment, and your costs without breaking the bank.",
+    "best_quote_zh": "GenesisDB从一开始就被设计为自托管，资源需求极低，让您完全控制您的数据、部署和成本，而无需花费太多。"
+  },
+  {
+    "id": 519,
+    "title": "The Dark Data Tax: How Hoarding is Poisoning Your AI",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.dataengineeringweekly.com/p/the-dark-data-tax-how-hoarding-is\">https://www.dataengineeringweekly.com/p/the-dark-data-tax-how-hoarding-is</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46363278\">https://news.ycombinator.com/item?id=46363278</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.dataengineeringweekly.com/p/the-dark-data-tax-how-hoarding-is",
+    "tags": [
+      "dark data",
+      "data obesity",
+      "ai",
+      "llm",
+      "data poisoning"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The article discusses the problem of data obesity in enterprises, where the amount of stored data grows faster than the ability to derive value from it. It argues that dark data not only wastes storage but also actively degrades AI performance by introducing noise and conflicting information, leading to hallucinations and cognitive debt. The author suggests managing data metabolism rather than just accumulating data.",
+    "summary_zh": "文章讨论了企业中日益严重的数据肥胖问题，即数据存储量增长速度超过了从中获取价值的能力。文章认为，暗数据不仅浪费存储空间，还会通过引入噪声和冲突信息来降低人工智能的性能，导致幻觉和认知负担。作者建议管理数据代谢，而不仅仅是积累数据。",
+    "best_quote_en": "Dark data doesn’t just waste storage; it actively sabotages the insights derived from your good data.",
+    "best_quote_zh": "暗数据不仅仅浪费存储空间；它还会积极破坏从你的优质数据中获得的洞察力。"
   }]
