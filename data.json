@@ -9715,4 +9715,60 @@
     "summary_zh": "文章讨论了企业中日益严重的数据肥胖问题，即数据存储量增长速度超过了从中获取价值的能力。文章认为，暗数据不仅浪费存储空间，还会通过引入噪声和冲突信息来降低人工智能的性能，导致幻觉和认知负担。作者建议管理数据代谢，而不仅仅是积累数据。",
     "best_quote_en": "Dark data doesn’t just waste storage; it actively sabotages the insights derived from your good data.",
     "best_quote_zh": "暗数据不仅仅浪费存储空间；它还会积极破坏从你的优质数据中获得的洞察力。"
+  },{
+    "id": 520,
+    "title": "How to Create Luck",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.swyx.io/create-luck\">https://www.swyx.io/create-luck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46373440\">https://news.ycombinator.com/item?id=46373440</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.swyx.io/create-luck",
+    "tags": [
+      "luck",
+      "opportunity",
+      "success",
+      "mindset",
+      "strategy"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "The article discusses creating luck by optimizing conditions for it to happen. It reviews the concept of \"Luck Surface Area,\" which involves doing more and telling more people about it. It also explores four kinds of luck: accidental, active, prepared, and magnetic, emphasizing the power to influence luck through action and individual uniqueness.",
+    "summary_zh": "本文讨论了如何通过优化条件来创造运气。文章回顾了“运气表面积”的概念，即多做多说。它还探讨了四种运气：偶然的、主动的、准备好的和磁性的，强调了通过行动和个人独特性来影响运气的力量。",
+    "best_quote_en": "\"Luck is what happens when preparation meets opportunity.\"",
+    "best_quote_zh": "“运气是当准备遇到机会时发生的事情。”"
+  },
+  {
+    "id": 521,
+    "title": "How Washington exports its ideology via tech dominance",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ioplus.nl/en/posts/how-washington-exports-its-ideology-via-tech-dominance\">https://ioplus.nl/en/posts/how-washington-exports-its-ideology-via-tech-dominance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46373431\">https://news.ycombinator.com/item?id=46373431</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ioplus.nl/en/posts/how-washington-exports-its-ideology-via-tech-dominance",
+    "tags": [
+      "tech dominance",
+      "ideology",
+      "sanctions",
+      "cloud act",
+      "digital sovereignty"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "The U.S. is using its tech dominance to enforce its ideology on Europe, imposing sanctions on European policymakers critical of Big Tech. This is seen as a declaration of war on Brussels' regulatory zeal and an export of the MAGA doctrine. The reliance on American cloud infrastructure and the CLOUD Act give the U.S. legal leverage over European data, threatening journalistic freedom and democratic rule of law.",
+    "summary_zh": "美国正在利用其技术主导地位向欧洲强加意识形态，对批评大型科技公司的欧洲政策制定者实施制裁。这被视为对布鲁塞尔监管热情的宣战，也是MAGA主义的输出。对美国云基础设施的依赖以及CLOUD法案赋予了美国对欧洲数据的法律杠杆，威胁着新闻自由和民主法治。",
+    "best_quote_en": "When a foreign power can determine who may or may not travel based on legitimate political activities or journalistic work, there is a direct infringement on our sovereignty.",
+    "best_quote_zh": "当一个外国势力可以根据合法的政治活动或新闻工作来决定谁可以或不可以旅行时，那就是对我们主权的直接侵犯。"
+  },
+  {
+    "id": 522,
+    "title": "Ask HN: What are your AI predictions for 2026?",
+    "source": "Hackernews",
+    "desc": "<p>We've seen Gemini 3 Pro, Claude 4.5 Opus, Nano Banana, Sora 2 and a flood of AI apps. But lately, I’ve found myself feeling more pessimistic than excited. While the capabilities are scaling, the operational costs remain brutal.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46373402\">https://news.ycombinator.com/item?id=46373402</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46373402",
+    "tags": [
+      "ai",
+      "predictions",
+      "operational costs",
+      "gemini",
+      "claude"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "The author reflects on the rapid advancements in AI, including Gemini 3 Pro, Claude 4.5 Opus, Sora 2, and numerous AI applications. However, the author expresses growing pessimism due to the high operational costs associated with these AI technologies, despite their increasing capabilities.",
+    "summary_zh": "作者反思了AI的快速发展，包括Gemini 3 Pro、Claude 4.5 Opus、Sora 2和众多AI应用。 但作者表示越来越悲观，因为尽管这些AI技术能力不断提高，但其运营成本仍然很高。",
+    "best_quote_en": "While the capabilities are scaling, the operational costs remain brutal.",
+    "best_quote_zh": "尽管能力在扩展，但运营成本仍然很高。"
   }]
