@@ -9771,4 +9771,79 @@
     "summary_zh": "作者反思了AI的快速发展，包括Gemini 3 Pro、Claude 4.5 Opus、Sora 2和众多AI应用。 但作者表示越来越悲观，因为尽管这些AI技术能力不断提高，但其运营成本仍然很高。",
     "best_quote_en": "While the capabilities are scaling, the operational costs remain brutal.",
     "best_quote_zh": "尽管能力在扩展，但运营成本仍然很高。"
+  },{
+    "id": 523,
+    "title": "(My) Second Year of the Linux Desktop (For Gaming)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/\">https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382905\">https://news.ycombinator.com/item?id=46382905</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/",
+    "tags": [
+      "linux",
+      "gaming",
+      "steam",
+      "foss",
+      "nixos"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "The author reflects on their journey to 100% Linux playtime on Steam in 2025, driven by Valve and the FOSS community. They recount their long history with Linux, from early experiments to overcoming challenges like Citrix. The Steam Deck and advancements in Linux support for games like FFXIV and Overwatch 2 were key to reducing Windows usage.",
+    "summary_zh": "作者回顾了在2025年实现Steam游戏时间100% Linux化的历程，这得益于Valve和FOSS社区的贡献。文章讲述了作者使用Linux的悠久历史，从早期尝试到克服Citrix等挑战。Steam Deck以及FFXIV和Overwatch 2等游戏对Linux的支持是减少Windows使用的关键。",
+    "best_quote_en": "As much as we joke about the phrase, I don't think there will ever be a true Year of the Linux Desktop.",
+    "best_quote_zh": "尽管我们经常拿这句话开玩笑，但我认为永远不会有真正意义上的 Linux 桌面元年。"
+  },
+  {
+    "id": 524,
+    "title": "No pain, no game: how South Korea turned itself into a gaming powerhouse",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2025/dec/25/south-korea-video-game-powerhouse\">https://www.theguardian.com/world/2025/dec/25/south-korea-video-game-powerhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382904\">https://news.ycombinator.com/item?id=46382904</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/world/2025/dec/25/south-korea-video-game-powerhouse",
+    "tags": [
+      "south korea",
+      "gaming",
+      "esports",
+      "league of legends",
+      "technology"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "South Korea has transformed from a country that viewed gaming as an addiction to a gaming powerhouse. This shift involved heavy investment in broadband infrastructure and the rise of esports. Gaming is now considered legitimate work, with the domestic gaming market expanding significantly and esports gaining recognition. However, only a small percentage of trainees become professional players, and careers are often short.",
+    "summary_zh": "韩国已从一个将游戏视为成瘾品的国家转型为游戏强国。这一转变包括对宽带基础设施的大量投资和电子竞技的兴起。游戏现在被认为是合法的职业，国内游戏市场显着扩张，电子竞技也获得了认可。然而，只有一小部分学员成为职业选手，而且职业生涯通常很短。",
+    "best_quote_en": "\"If you’re not good enough, you have to give up quickly. It’s that kind of market.\"",
+    "best_quote_zh": "“如果你不够优秀，就必须迅速放弃。这就是这个市场的本质。”"
+  },
+  {
+    "id": 525,
+    "title": "OpenTinker",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://open-tinker.github.io/opentinker-page/\">https://open-tinker.github.io/opentinker-page/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382886\">https://news.ycombinator.com/item?id=46382886</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://open-tinker.github.io/opentinker-page/",
+    "tags": [
+      "reinforcement learning",
+      "distributed system",
+      "agentic learning",
+      "gpu",
+      "machine learning"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "OpenTinker is a distributed architecture that democratizes agentic reinforcement learning as a service. It allows users to perform RL training and inference without local GPU resources. The system disaggregates programming/execution and environment/training, seamlessly connecting training to inference. It includes a client, scheduler & worker pool, and training server, using a three-phase communication protocol.",
+    "summary_zh": "OpenTinker 是一种分布式架构，旨在将代理强化学习民主化为一种服务。它允许用户在没有本地 GPU 资源的情况下执行 RL 训练和推理。该系统分离了编程/执行和环境/训练，无缝连接训练到推理。它包含客户端、调度器和工作池以及训练服务器，并使用三阶段通信协议。",
+    "best_quote_en": "OpenTinker empowers users to perform RL training and inference without local GPU resources through a seamless, distributed architecture.",
+    "best_quote_zh": "OpenTinker 通过无缝的分布式架构，使⽆需本地 GPU 资源即可执⾏ RL 训练和推理成为可能。"
+  },
+  {
+    "id": 526,
+    "title": "The context window ate your instructions",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://laulau.land/context-window-ate-your-instructions/\">https://laulau.land/context-window-ate-your-instructions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382850\">https://news.ycombinator.com/item?id=46382850</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://laulau.land/context-window-ate-your-instructions/",
+    "tags": [
+      "linting",
+      "ai agents",
+      "code quality",
+      "react",
+      "biome"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "The article discusses how large context windows in AI models can lead to instructions being forgotten. The solution proposed is to use linters to enforce desired code patterns, providing immediate feedback to the agent. Examples using Biome's GritQL and ast-grep are provided for React development.",
+    "summary_zh": "文章讨论了AI模型中过大的上下文窗口可能导致指令被遗忘的问题。提出的解决方案是使用linter来强制执行所需的代码模式，从而为代理提供即时反馈。文中提供了使用Biome的GritQL和ast-grep进行React开发的示例。",
+    "best_quote_en": "React is where agents go wrong most often—too many valid ways to do things, and they’ll pick whichever they saw most in training.",
+    "best_quote_zh": "React是代理最容易出错的地方——做事的方法太多了，它们会选择在训练中看到最多的方法。"
   }]
