@@ -9846,4 +9846,79 @@
     "summary_zh": "文章讨论了AI模型中过大的上下文窗口可能导致指令被遗忘的问题。提出的解决方案是使用linter来强制执行所需的代码模式，从而为代理提供即时反馈。文中提供了使用Biome的GritQL和ast-grep进行React开发的示例。",
     "best_quote_en": "React is where agents go wrong most often—too many valid ways to do things, and they’ll pick whichever they saw most in training.",
     "best_quote_zh": "React是代理最容易出错的地方——做事的方法太多了，它们会选择在训练中看到最多的方法。"
+  },{
+    "id": 527,
+    "title": "Our king, our priest, our feudal lord – how AI is taking us back to dark ages",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment\">https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46390126\">https://news.ycombinator.com/item?id=46390126</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment",
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "kant",
+      "critical thinking",
+      "enlightenment"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "AI is becoming a new authority, influencing our decisions and actions. People are increasingly relying on AI for advice on personal matters. A study showed that AI users exhibited lower cognitive activity and became lazier in their work. This dependence threatens our ability to think for ourselves, echoing a return to a state of immaturity where external forces guide us.",
+    "summary_zh": "人工智能正成为一种新的权威，影响着我们的决策和行动。人们越来越依赖人工智能来获取关于个人事务的建议。一项研究表明，人工智能使用者表现出较低的认知活动，并且在工作中变得更加懒惰。这种依赖威胁着我们独立思考的能力，预示着我们正在倒退回一种由外部力量引导的不成熟状态。",
+    "best_quote_en": "We are in danger of ceding the hard-won courage to think for ourselves – and this time, not to gods or kings, but to code.",
+    "best_quote_zh": "我们正处于将之不易的独立思考的勇气让渡出去的危险之中——而这一次，不是让渡给神或国王，而是让渡给代码。"
+  },
+  {
+    "id": 528,
+    "title": "The AI Noise",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/\">https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46390123\">https://news.ycombinator.com/item?id=46390123</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/",
+    "tags": [
+      "artificial intelligence",
+      "ai tools",
+      "cognitive offloading",
+      "productivity",
+      "time intelligence economy"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "The article discusses the overwhelming number of AI tools and how this noise can lead to unproductive cognitive offloading. It emphasizes the importance of choosing AI tools based on real needs and a clear understanding of their value. The author introduces the TIE (Time Intelligence Economy) framework as a way to manage AI effectively and focus on signal over noise.",
+    "summary_zh": "文章讨论了当前AI工具过多的现象，以及这种“噪音”如何导致无效率的认知卸载。文章强调，选择AI工具应基于实际需求，并清楚理解其价值。作者提出了“时间智能经济”（TIE）框架，以有效管理AI并专注于信号而非噪音。",
+    "best_quote_en": "I truly believe AI augments us rather than replaces us, if we learn to use it well.",
+    "best_quote_zh": "我坚信，如果我们学会好好利用AI，它会增强我们而不是取代我们。"
+  },
+  {
+    "id": 529,
+    "title": "The Optimal Architecture for Small Language Models",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://huggingface.co/blog/codelion/optimal-model-architecture\">https://huggingface.co/blog/codelion/optimal-model-architecture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46390114\">https://news.ycombinator.com/item?id=46390114</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://huggingface.co/blog/codelion/optimal-model-architecture",
+    "tags": [
+      "small language models",
+      "architecture",
+      "diffusion models",
+      "deep learning",
+      "performance"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "This article explores the optimal architecture for small language models (70M parameters). It reveals a two-tier performance pattern, a hidden dimension threshold of 512, and identifies 32 layers as a Goldilocks depth. A diffusion model, Dhara-70M, is presented as a faster and more factual alternative.",
+    "summary_zh": "本文探讨了小型语言模型（70M参数）的最佳架构。 研究揭示了一个两层性能模式，一个512的隐藏维度阈值，并将32层确定为最佳深度。 扩散模型Dhara-70M被提出作为更快、更真实的替代方案。",
+    "best_quote_en": "Models cluster into exactly two performance tiers ~38% vs ~32%—with almost nothing in between",
+    "best_quote_zh": "模型聚集为两个性能层，~38% vs ~32%，几乎没有中间值。"
+  },
+  {
+    "id": 530,
+    "title": "Building an AI agent inside a 7-year-old Rails monolith",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/\">https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46390055\">https://news.ycombinator.com/item?id=46390055</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+    "tags": [
+      "ai agent",
+      "ruby on rails",
+      "rubyllm",
+      "pundit",
+      "algolia"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "This article describes how to build an AI agent within a 7-year-old Rails application using RubyLLM, Pundit policies, and Algolia search. It focuses on integrating AI without compromising data security or existing authorization rules, and details the implementation of a function call to search for clients while enforcing access control.",
+    "summary_zh": "本文介绍了如何在一个7年的Rails应用程序中使用RubyLLM，Pundit策略和Algolia搜索构建AI代理。重点是在不损害数据安全或现有授权规则的前提下集成AI，并详细介绍了如何通过函数调用搜索客户端并执行访问控制。",
+    "best_quote_en": "I could encode my complicated access logic into a specific function call and ensure the LLM gets access to some of our data without having to give it unrestricted access.",
+    "best_quote_zh": "我可以将复杂的访问逻辑编码到特定的函数调用中，并确保LLM可以访问我们的一些数据，而无需授予其不受限制的访问权限。"
   }]
