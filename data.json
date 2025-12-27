@@ -9921,4 +9921,79 @@
     "summary_zh": "本文介绍了如何在一个7年的Rails应用程序中使用RubyLLM，Pundit策略和Algolia搜索构建AI代理。重点是在不损害数据安全或现有授权规则的前提下集成AI，并详细介绍了如何通过函数调用搜索客户端并执行访问控制。",
     "best_quote_en": "I could encode my complicated access logic into a specific function call and ensure the LLM gets access to some of our data without having to give it unrestricted access.",
     "best_quote_zh": "我可以将复杂的访问逻辑编码到特定的函数调用中，并确保LLM可以访问我们的一些数据，而无需授予其不受限制的访问权限。"
+  },{
+    "id": 531,
+    "title": "Nopin – I made iOS Screen Time limits harder to bypass",
+    "source": "Hackernews",
+    "desc": "<p>nopin is a small web tool that works alongside iOS Screen Time / App Limits.<p>It increases the friction of bypassing limits by turning a 4-digit PIN into a hard-to-memorize, reusable input sequence. You simply follow on-screen prompts to enter the PIN step by step. The sequence can be saved and replayed when needed.<p>I built this because I wanted something like Cold Turkey on desktop, but for iOS.<p>https://nopin.org</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46400024\">https://news.ycombinator.com/item?id=46400024</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46400024",
+    "tags": [
+      "ios",
+      "screen time",
+      "app limits",
+      "nopin",
+      "productivity"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "Nopin is a web tool designed to enhance iOS Screen Time limits by making it harder to bypass them. It turns a 4-digit PIN into a complex, reusable sequence, increasing the friction for circumventing app limits. The creator aimed to replicate Cold Turkey functionality for iOS.",
+    "summary_zh": "Nopin是一个旨在加强iOS屏幕使用时间限制的Web工具，通过将四位PIN码转换为难以记忆的可重复使用序列，增加了绕过应用程序限制的难度。创建者的目标是在iOS上复制类似桌面端Cold Turkey的功能。",
+    "best_quote_en": "It increases the friction of bypassing limits by turning a 4-digit PIN into a hard-to-memorize, reusable input sequence.",
+    "best_quote_zh": "它通过将四位PIN码转换为难以记忆的可重复使用序列，增加了绕过限制的难度。"
+  },
+  {
+    "id": 532,
+    "title": "Building for the Future",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://anirudh.fi/future\">https://anirudh.fi/future</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46400023\">https://news.ycombinator.com/item?id=46400023</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://anirudh.fi/future",
+    "tags": [
+      "decentralization",
+      "go",
+      "at protocol",
+      "htmx",
+      "tailwind"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "Tangled aims to build a decentralized code forge using the AT Protocol, allowing users to own their data while maintaining a centralized user experience. It utilizes Go for backend simplicity, htmx and Tailwind for the frontend, and SQLite for service data storage. The project emphasizes future-proof technology choices and composable distributed systems.",
+    "summary_zh": "Tangled 旨在利用 AT 协议构建一个去中心化的代码平台，允许用户拥有自己的数据，同时保持中心化的用户体验。它使用 Go 作为后端，htmx 和 Tailwind 作为前端，SQLite 用于服务数据存储。该项目强调面向未来的技术选择和可组合的分布式系统。",
+    "best_quote_en": "I consider Go not to be a systems programming language—a title much better earned by languages like C and Rust. Rather, Go is the best-in-class for a new breed of software: an Internet programming language.",
+    "best_quote_zh": "我认为 Go 不是一种系统编程语言 —— 这个头衔更适合 C 和 Rust 这样的语言。相反，Go 是一类新型软件的最佳选择：一种互联网编程语言。"
+  },
+  {
+    "id": 533,
+    "title": "H-1B visa fee upheld by federal judge",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.latimes.com/business/story/2025-12-24/h-1b-visa-fee-upheld-by-federal-judge\">https://www.latimes.com/business/story/2025-12-24/h-1b-visa-fee-upheld-by-federal-judge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46399983\">https://news.ycombinator.com/item?id=46399983</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://www.latimes.com/business/story/2025-12-24/h-1b-visa-fee-upheld-by-federal-judge",
+    "tags": [
+      "h-1b visa",
+      "immigration",
+      "tech industry",
+      "trump administration",
+      "legal"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "A federal judge upheld the Trump administration's $100,000 fee on new H-1B visa applications, a setback for US tech companies. The US Chamber of Commerce, which sued to block the fee, argued it overrides federal immigration law. The judge ruled that the president’s move is lawful. H-1B visas allow US companies to hire skilled foreign workers.",
+    "summary_zh": "一位联邦法官支持了川普政府对新的H-1B签证申请征收10万美元费用的规定，这对美国科技公司来说是一个挫折。美国商会起诉阻止该费用，认为其凌驾于联邦移民法之上。法官裁定总统的举动是合法的。H-1B签证允许美国公司雇用技术娴熟的外国工人。",
+    "best_quote_en": "Here, Congress has granted the president broad statutory authority, which he has used to issue the proclamation addressing, in the manner he sees fit, a problem he perceives to be a matter of economic and national security.",
+    "best_quote_zh": "在此，国会赋予了总统广泛的法定权力，总统以他认为合适的方式发布公告，以解决他认为属于经济和国家安全的问题。"
+  },
+  {
+    "id": 534,
+    "title": "Slack <> Spotify Integration",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/darshdeeph/slack-spotify-playlift\">https://github.com/darshdeeph/slack-spotify-playlift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46399935\">https://news.ycombinator.com/item?id=46399935</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/darshdeeph/slack-spotify-playlift",
+    "tags": [
+      "slack",
+      "spotify",
+      "integration",
+      "music",
+      "collaboration"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "Slack Playlift is a Slack + Spotify integration that allows teams to collaboratively control music playback. It connects Slack channels to Spotify, enables adding songs via slash commands, and supports voting to skip tracks using emoji reactions. It utilizes technologies such as Node.js, Express, Slack API, Spotify Web API, Redis, QStash, and Vercel.",
+    "summary_zh": "Slack Playlift是一个Slack + Spotify集成工具，允许团队协作控制音乐播放。它将Slack频道连接到Spotify，支持通过斜杠命令添加歌曲，并支持使用表情符号反应投票跳过曲目。它利用了Node.js, Express, Slack API, Spotify Web API, Redis, QStash和Vercel等技术。",
+    "best_quote_en": "A Slack + Spotify integration that lets teams collaboratively control music playback.",
+    "best_quote_zh": "一个 Slack + Spotify 集成工具，允许团队协作控制音乐播放。"
   }]
