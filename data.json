@@ -9996,4 +9996,79 @@
     "summary_zh": "Slack Playlift是一个Slack + Spotify集成工具，允许团队协作控制音乐播放。它将Slack频道连接到Spotify，支持通过斜杠命令添加歌曲，并支持使用表情符号反应投票跳过曲目。它利用了Node.js, Express, Slack API, Spotify Web API, Redis, QStash和Vercel等技术。",
     "best_quote_en": "A Slack + Spotify integration that lets teams collaboratively control music playback.",
     "best_quote_zh": "一个 Slack + Spotify 集成工具，允许团队协作控制音乐播放。"
+  },{
+    "id": 535,
+    "title": "Manus AI 100M USD ARR",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://manus.im/blog/manus-100m-arr\">https://manus.im/blog/manus-100m-arr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46409245\">https://news.ycombinator.com/item?id=46409245</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://manus.im/blog/manus-100m-arr",
+    "tags": [
+      "ai",
+      "startup",
+      "arr",
+      "artificial intelligence",
+      "general ai agent"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "Manus AI has achieved $100M ARR in just eight months, making it the fastest startup to reach this milestone. With a $125M revenue run-rate, the company has been growing rapidly since the release of Manus 1.5. Manus launched the first General AI Agent, processing over 147T tokens and creating 80M virtual computers. The company is expanding its team and opening a Paris office.",
+    "summary_zh": "Manus AI在短短八个月内实现了1亿美元的年度经常性收入（ARR），成为世界上达到这一里程碑的最快创业公司。凭借1.25亿美元的收入运行率，自Manus 1.5发布以来，公司一直快速增长。Manus推出了首个通用人工智能代理，处理了超过147万亿个tokens并创建了8000万台虚拟计算机。该公司正在扩大团队，并将在巴黎开设办事处。",
+    "best_quote_en": "We changed the way humans and AI collaborate, moving from simple question and answers to true task delegation.",
+    "best_quote_zh": "我们改变了人类与人工智能协作的方式，从简单的问答转向真正的任务委派。"
+  },
+  {
+    "id": 536,
+    "title": "Petlibro: Pet Feeder Is Feeding Data to Anyone Who Asks",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://bobdahacker.com/blog/petlibro\">https://bobdahacker.com/blog/petlibro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46409212\">https://news.ycombinator.com/item?id=46409212</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://bobdahacker.com/blog/petlibro",
+    "tags": [
+      "petlibro",
+      "security vulnerability",
+      "authentication bypass",
+      "iot",
+      "data breach"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "Petlibro, a popular smart pet feeder company, has critical security vulnerabilities, including an authentication bypass allowing anyone to access any user account. Other vulnerabilities enable unauthorized access to pet data, device control, audio recordings, and shared owner status. While some issues were supposedly fixed, the authentication bypass remains active for \"legacy compatibility,\" posing significant risks to millions of users.",
+    "summary_zh": "宠物喂食器公司Petlibro存在严重安全漏洞，包括允许任何人访问用户帐户的身份验证绕过。其他漏洞包括未经授权访问宠物数据、设备控制、音频录音和共同所有者状态。虽然据说某些问题已修复，但身份验证绕过仍处于活动状态以实现“旧版兼容性”，对数百万用户构成重大风险。",
+    "best_quote_en": "Your users' security should not be optional while you wait for upgrade metrics.",
+    "best_quote_zh": "在等待升级指标时，用户的安全不应该是可选项。"
+  },
+  {
+    "id": 537,
+    "title": "Collections: Gandalf Proved Mightiest: Spiritual Power in Tolkien",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://acoup.blog/2025/04/25/collections-how-gandalf-proved-mightiest-spiritual-power-in-tolkien/\">https://acoup.blog/2025/04/25/collections-how-gandalf-proved-mightiest-spiritual-power-in-tolkien/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46409165\">https://news.ycombinator.com/item?id=46409165</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://acoup.blog/2025/04/25/collections-how-gandalf-proved-mightiest-spiritual-power-in-tolkien/",
+    "tags": [
+      "tolkien",
+      "gandalf",
+      "sauron",
+      "spiritual power",
+      "magic"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "The article analyzes Tolkien's concept of 'magic' and spiritual power in Middle-earth, arguing that Gandalf proved mightier than Sauron not through direct confrontation but through spiritual strength. It distinguishes between craft-magic and spiritual power, emphasizing the latter as the key to understanding contests between supernatural beings. Treebeard's statement highlights Gandalf's ultimate victory in the spiritual realm.",
+    "summary_zh": "本文分析了托尔金作品中“魔法”和精神力量的概念，认为甘道夫胜过索伦并非通过直接对抗，而是通过精神力量。文章区分了工艺魔法和精神力量，强调后者是理解超自然生物之间较量的关键。树胡的陈述突显了甘道夫在精神领域中的最终胜利。",
+    "best_quote_en": "You have proved mightiest, and all your labours have gone well.",
+    "best_quote_zh": "你已经证明了你是最强大的，你所有的努力都进行得很顺利。"
+  },
+  {
+    "id": 538,
+    "title": "Beyond Context: Large Language Models Failure to Grasp Users Intent",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.21110\">https://arxiv.org/abs/2512.21110</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46409162\">https://news.ycombinator.com/item?id=46409162</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2512.21110",
+    "tags": [
+      "large language models",
+      "user intent",
+      "safety",
+      "vulnerability",
+      "contextual understanding"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "This paper analyzes the failure of Large Language Models (LLMs) to understand user intent, leading to safety vulnerabilities. It demonstrates how LLMs like ChatGPT, Claude, Gemini, and DeepSeek can be exploited using techniques like emotional framing and finds that reasoning capabilities don't always mitigate these risks. The paper suggests a shift towards prioritizing contextual understanding and intent recognition in LLM safety design.",
+    "summary_zh": "本文分析了大型语言模型（LLM）未能理解用户意图的问题，这导致了安全漏洞。研究表明，诸如ChatGPT、Claude、Gemini和DeepSeek等LLM可以通过情感框架等技术加以利用，并且发现推理能力并不总是能缓解这些风险。文章建议在LLM安全设计中优先考虑上下文理解和意图识别。",
+    "best_quote_en": "These limitations require paradigmatic shifts toward contextual understanding and intent recognition as core safety capabilities rather than post-hoc protective mechanisms.",
+    "best_quote_zh": "这些局限性要求范式转变，将上下文理解和意图识别作为核心安全能力，而不是事后的保护机制。"
   }]
