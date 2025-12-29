@@ -10071,4 +10071,79 @@
     "summary_zh": "本文分析了大型语言模型（LLM）未能理解用户意图的问题，这导致了安全漏洞。研究表明，诸如ChatGPT、Claude、Gemini和DeepSeek等LLM可以通过情感框架等技术加以利用，并且发现推理能力并不总是能缓解这些风险。文章建议在LLM安全设计中优先考虑上下文理解和意图识别。",
     "best_quote_en": "These limitations require paradigmatic shifts toward contextual understanding and intent recognition as core safety capabilities rather than post-hoc protective mechanisms.",
     "best_quote_zh": "这些局限性要求范式转变，将上下文理解和意图识别作为核心安全能力，而不是事后的保护机制。"
+  },{
+    "id": 539,
+    "title": "Modders Are Slapping 32GB of VRAM on Nvidia's RTX 5080 GPUs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/gpus/modders-have-figured-out-how-to-slap-32gb-of-vram-on-the-rtx-5080-as-memory-shortage-intensifies\">https://www.tomshardware.com/pc-components/gpus/modders-have-figured-out-how-to-slap-32gb-of-vram-on-the-rtx-5080-as-memory-shortage-intensifies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46418427\">https://news.ycombinator.com/item?id=46418427</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modders-have-figured-out-how-to-slap-32gb-of-vram-on-the-rtx-5080-as-memory-shortage-intensifies",
+    "tags": [
+      "rtx 5080",
+      "vram",
+      "gpu",
+      "modding",
+      "ai"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "Modders are modifying Nvidia's RTX 5080 GPUs to have 32GB of VRAM for AI workloads. This could lead to supply issues as AI-focused buyers snap up available cards. The mod, however, could be limited by the availability and rising prices of GDDR7 memory.",
+    "summary_zh": "改装者正在修改英伟达RTX 5080 GPU，使其拥有32GB的显存，以用于AI工作负载。这可能会导致供应问题，因为专注于AI的买家会抢购现有的显卡。然而，这种改装可能会受到GDDR7内存的可用性和价格上涨的限制。",
+    "best_quote_en": "If this mod becomes popular, RTX 5080 supply could dwindle quickly as AI-minded buyers sweep up existing inventory, as happened with RTX 5090 sales.",
+    "best_quote_zh": "如果这种改装变得流行，RTX 5080的供应可能会迅速减少，因为像RTX 5090的销售一样，有AI想法的买家会抢购现有库存。"
+  },
+  {
+    "id": 540,
+    "title": "You can't design software you don't work on",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/\">https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46418415\">https://news.ycombinator.com/item?id=46418415</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+    "tags": [
+      "software design",
+      "codebase",
+      "consistency",
+      "generic advice",
+      "concrete details"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "Meaningful software design requires intimate knowledge of the system's concrete details, rendering generic advice often useless. Consistency trumps 'good design' in large codebases. Concrete factors dominate generic ones in real work. Generic advice suits new projects or tie-breaking decisions, ensuring consistency across codebases. Avoid generic design driven by non-engineers; effective architectural work needs hands-on understanding.",
+    "summary_zh": "有意义的软件设计需要深入了解系统的具体细节，这使得通用的建议通常是无用的。在大型代码库中，一致性胜过“好的设计”。在实际工作中，具体因素胜过通用因素。通用建议适用于新项目或打破僵局的决策，从而确保代码库之间的一致性。避免由非工程师驱动的通用设计；有效的架构工作需要实践理解。",
+    "best_quote_en": "In large codebases, consistency is more important than “good design”.",
+    "best_quote_zh": "在大型代码库中，一致性比“好的设计”更重要。"
+  },
+  {
+    "id": 541,
+    "title": "Show HN: Proof-of-work presentation for back end (OR pure-code) devs",
+    "source": "Hackernews",
+    "desc": "<p>A light UI interface that is helpful to visualize code and flow of a project with no front-end. Also, included are AI features for checking code quality based on industry standards.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46418408\">https://news.ycombinator.com/item?id=46418408</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/Parthajeet-Sarmah/showcode",
+    "tags": [
+      "showcode",
+      "pure-code",
+      "ai",
+      "visualization",
+      "recruitment"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "Showcode is a project aimed to create better visualizations for pure-code projects. It offers features like Overview for segregating code, Flow for visualizing data flow, and Alignment to assess code against industry standards using AI. The project uses locally hosted AI models like Qwen2.5-Coder:3B and 7B. It helps recruiters understand code more easily than browsing a GitHub repo.",
+    "summary_zh": "Showcode旨在为纯代码项目创建更好的可视化效果。它提供诸如Overview（用于分离代码）、Flow（用于可视化数据流）和Alignment（使用AI评估代码是否符合行业标准）等功能。该项目使用本地托管的AI模型，例如Qwen2.5-Coder:3B和7B。它可以帮助招聘人员比浏览GitHub存储库更容易地理解代码。",
+    "best_quote_en": "Recruiters are treated to a friendly UI to understand the underlying code rather than a bland Github repo, along with AI integration for recruiters to consult and understand every line of code.",
+    "best_quote_zh": "招聘人员可以通过友好的用户界面来理解底层代码，而不是浏览乏味的Github存储库，并且可以利用AI集成来咨询和理解每一行代码。"
+  },
+  {
+    "id": 542,
+    "title": "Kiorg v1.4.1 – A modern battery included file manager with Vim inspired keybind",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/houqp/kiorg/releases/tag/v1.4.1\">https://github.com/houqp/kiorg/releases/tag/v1.4.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46418401\">https://news.ycombinator.com/item?id=46418401</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/houqp/kiorg/releases/tag/v1.4.1",
+    "tags": [
+      "file-manager",
+      "vim",
+      "plugin",
+      "navigation",
+      "ux"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "Kiorg v1.4.1 is a modern file manager with Vim-inspired keybindings. It includes features like PDF and EPUB support, syntax highlighting, a plugin system, enhanced navigation, and UX improvements such as fuzzy teleport and undo/redo. It also offers OTA updates and supports Linux ARM64.",
+    "summary_zh": "Kiorg v1.4.1 是一款现代文件管理器，具有 Vim 风格的键盘绑定。它包括 PDF 和 EPUB 支持、语法高亮、插件系统、增强的导航以及用户体验改进，如模糊传送和撤销/重做。它还提供 OTA 更新并支持 Linux ARM64。",
+    "best_quote_en": "You can now undo and redo particular file operations just like how you would undo/redo edits in Vim!",
+    "best_quote_zh": "现在您可以撤销和重做特定的文件操作，就像在 Vim 中撤销/重做编辑一样！"
   }]
