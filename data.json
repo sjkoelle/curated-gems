@@ -10146,4 +10146,41 @@
     "summary_zh": "Kiorg v1.4.1 是一款现代文件管理器，具有 Vim 风格的键盘绑定。它包括 PDF 和 EPUB 支持、语法高亮、插件系统、增强的导航以及用户体验改进，如模糊传送和撤销/重做。它还提供 OTA 更新并支持 Linux ARM64。",
     "best_quote_en": "You can now undo and redo particular file operations just like how you would undo/redo edits in Vim!",
     "best_quote_zh": "现在您可以撤销和重做特定的文件操作，就像在 Vim 中撤销/重做编辑一样！"
+  },{
+    "id": 543,
+    "title": "Ask HN: How to improve AI coding/debugging in large codebases",
+    "source": "Hackernews",
+    "desc": "<p>I mostly use Github Copilot(paid by the company). Are there any particular techniques that are helpful in debugging large codebases?\nSo far I just have a MD file, with some general details about our codebase, and then I just ask it to search for a particular function/file and start from there. \nAre there other ideas that are particularly helpful for larger codebases, especially since this area seems to be changing rapidly?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46430599\">https://news.ycombinator.com/item?id=46430599</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46430599",
+    "tags": [
+      "ai",
+      "coding",
+      "debugging",
+      "github copilot",
+      "large codebase"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "The author is seeking advice on using AI tools like GitHub Copilot for coding and debugging in large codebases. They currently maintain a document with codebase details and ask for searches. They are looking for effective techniques for navigating and debugging in large codebases, considering the rapid advancements in AI.",
+    "summary_zh": "作者正在寻求关于在大型代码库中使用像GitHub Copilot这样的人工智能工具进行编码和调试的建议。他们目前维护着一个包含代码库详细信息的文档，并通过搜索来使用。鉴于人工智能的快速发展，他们正在寻找在大型代码库中导航和调试的有效技术。",
+    "best_quote_en": "Are there other ideas that are particularly helpful for larger codebases, especially since this area seems to be changing rapidly?",
+    "best_quote_zh": "有没有其他对大型代码库特别有用的想法，尤其是在这个领域变化如此迅速的情况下？"
+  },
+  {
+    "id": 544,
+    "title": "Corroded: Illegal Rust",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/buyukakyuz/corroded\">https://github.com/buyukakyuz/corroded</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46430598\">https://news.ycombinator.com/item?id=46430598</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/buyukakyuz/corroded",
+    "tags": [
+      "rust",
+      "memory safety",
+      "unsafe",
+      "aliasing",
+      "concurrency"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "Corroded is a Rust library that subverts Rust's safety features, providing tools to bypass ownership, lifetimes, and memory safety. It offers modules such as Null, transmute, immortalize, clone_mut, Dangling, CursedVec, garbage, RacyCell, and GlobalCell to allow for potentially dangerous operations like dereferencing null pointers, aliasing mutable references, accessing out-of-bounds memory, and creating data races.",
+    "summary_zh": "Corroded 是一个 Rust 库，它颠覆了 Rust 的安全特性，提供绕过所有权、生命周期和内存安全的工具。它提供了 Null、transmute、immortalize、clone_mut、Dangling、CursedVec、garbage、RacyCell 和 GlobalCell 等模块，允许执行潜在的危险操作，如解引用空指针、别名可变引用、访问越界内存和创建数据竞争。",
+    "best_quote_en": "\"Rust's 'aliasing XOR mutability' rule assumes you can't handle two mutable pointers to the same data. 'What if they both write?' Then they both write.The last one wins. That's how memory should work.\"",
+    "best_quote_zh": "Rust 的“别名异或可变性”规则假定你无法处理指向同一数据的两个可变指针。“如果它们都写呢？” 那么它们都写。最后一个获胜。这就是内存应该工作的方式。"
   }]
