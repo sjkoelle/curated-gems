@@ -10183,4 +10183,41 @@
     "summary_zh": "Corroded 是一个 Rust 库，它颠覆了 Rust 的安全特性，提供绕过所有权、生命周期和内存安全的工具。它提供了 Null、transmute、immortalize、clone_mut、Dangling、CursedVec、garbage、RacyCell 和 GlobalCell 等模块，允许执行潜在的危险操作，如解引用空指针、别名可变引用、访问越界内存和创建数据竞争。",
     "best_quote_en": "\"Rust's 'aliasing XOR mutability' rule assumes you can't handle two mutable pointers to the same data. 'What if they both write?' Then they both write.The last one wins. That's how memory should work.\"",
     "best_quote_zh": "Rust 的“别名异或可变性”规则假定你无法处理指向同一数据的两个可变指针。“如果它们都写呢？” 那么它们都写。最后一个获胜。这就是内存应该工作的方式。"
+  },{
+    "id": 545,
+    "title": "AI as a Post-Market Safety Channel: Pharmacovigilance Failure",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://zenodo.org/records/18105073\">https://zenodo.org/records/18105073</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46442242\">https://news.ycombinator.com/item?id=46442242</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://zenodo.org/records/18105073",
+    "tags": [
+      "ai",
+      "pharmacovigilance",
+      "post-market safety",
+      "contraindications",
+      "reasoning claim tokens"
+    ],
+    "date": "2025-12-31",
+    "summary_en": "This paper discusses how AI assistants providing medication guidance may omit safety-critical information. The author argues that such omissions represent a post-market safety risk under-monitored by pharmaceutical manufacturers. It demonstrates how Reasoning Claim Tokens (RCTs) can detect and audit these omissions without requiring access to AI model internals and clarifies the governance implications.",
+    "summary_zh": "本文讨论了提供药物指导的AI助手可能遗漏关键安全信息的问题。作者认为，这种遗漏代表了一种药物生产商监控不足的上市后安全风险。文章展示了推理声明令牌(RCTs)如何在不需要访问AI模型内部的情况下检测和审计这些遗漏，并阐明了治理影响。",
+    "best_quote_en": "AI-mediated omission of contraindications constitutes a post-market safety risk that is currently under-monitored by pharmaceutical manufacturers.",
+    "best_quote_zh": "人工智能介导的禁忌症遗漏构成了一种上市后安全风险，目前制药厂商对此的监测不足。"
+  },
+  {
+    "id": 546,
+    "title": "Show HN: VividManga – AI-based manga coloring focused on line art consistency",
+    "source": "Hackernews",
+    "desc": "<p>Show HN: VividManga – AI-based manga coloring focused on line art consistency<p>Hi HN,<p>I built VividManga because most general image colorization models perform poorly on manga-style black-and-white line art — they often blur lines or destroy panel structure.<p>VividManga focuses specifically on manga coloring, using an image-to-image workflow tuned for clean line preservation, flat color regions, and consistent shading.<p>The core idea is to treat manga pages differently from natural images:\n- prioritize line preservation over texture realism\n- bias the model toward flat colors and controlled gradients\n- keep prompts minimal to reduce style drift<p>Currently it supports coloring single panels or full pages, with simple tag-based control.<p>This is still early and opinionated, and I’d really appreciate feedback from people who work with manga/comics or have experience with diffusion models and line art preservation.<p><a href=\"https://vividmanga.com\" rel=\"nofollow\">https://vividmanga.com</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46442230\">https://news.ycombinator.com/item?id=46442230</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://vividmanga.com",
+    "tags": [
+      "ai",
+      "manga",
+      "colorization",
+      "machine learning",
+      "image processing"
+    ],
+    "date": "2025-12-31",
+    "summary_en": "VividManga is an AI-powered manga colorization engine that transforms B&W manga into 4K color. It offers features like character color consistency, batch volume processing, intelligent text isolation, and production-ready 4K export. It caters to content creators, manga archivists, and modern readers, providing a professional and efficient colorization workflow.",
+    "summary_zh": "VividManga 是一款基于AI的漫画着色引擎，可以将黑白漫画转换为4K彩色。它提供诸如角色颜色一致性、批量处理、智能文本隔离和生产就绪的4K导出等功能。适用于内容创作者，漫画收藏家和现代读者，提供专业高效的着色工作流程。",
+    "best_quote_en": "VividManga is the only AI colorizer specifically designed for manga—truly understanding narrative continuity.",
+    "best_quote_zh": "VividManga是唯一一款专为漫画设计的AI着色器——真正理解叙事连续性。"
   }]
