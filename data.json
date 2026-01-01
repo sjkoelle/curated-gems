@@ -10220,4 +10220,98 @@
     "summary_zh": "VividManga 是一款基于AI的漫画着色引擎，可以将黑白漫画转换为4K彩色。它提供诸如角色颜色一致性、批量处理、智能文本隔离和生产就绪的4K导出等功能。适用于内容创作者，漫画收藏家和现代读者，提供专业高效的着色工作流程。",
     "best_quote_en": "VividManga is the only AI colorizer specifically designed for manga—truly understanding narrative continuity.",
     "best_quote_zh": "VividManga是唯一一款专为漫画设计的AI着色器——真正理解叙事连续性。"
+  },{
+    "id": 547,
+    "title": "Ask HN: How did you learn to code?",
+    "source": "Hackernews",
+    "desc": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46452146\">https://news.ycombinator.com/item?id=46452146</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46452146",
+    "tags": [
+      "coding",
+      "learning",
+      "hackernews",
+      "programming",
+      "education"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "This is a Hacker News post titled \"Ask HN: How did you learn to code?\". The post is recent and invites users to share their experiences and methods of learning to code.",
+    "summary_zh": "这是一篇 Hacker News 帖子，标题为“Ask HN：你是如何学习编码的？”。 该帖子是最近发布的，邀请用户分享他们的学习编码经验和方法。",
+    "best_quote_en": "Ask HN: How did you learn to code?",
+    "best_quote_zh": "Ask HN：你是如何学习编码的？"
+  },
+  {
+    "id": 548,
+    "title": "The State of OSS Funding data [pdf]",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/andrew/state-of-oss-funding/blob/032d4b6134b36ea3c0aa378ee946ad4f77a2ac79/slides.pdf\">https://github.com/andrew/state-of-oss-funding/blob/032d4b6134b36ea3c0aa378ee946ad4f77a2ac79/slides.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46452136\">https://news.ycombinator.com/item?id=46452136</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/andrew/state-of-oss-funding/blob/032d4b6134b36ea3c0aa378ee946ad4f77a2ac79/slides.pdf",
+    "tags": [
+      "error",
+      "repository",
+      "oss",
+      "loading",
+      "andrew"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "The document seems to be a placeholder or error page from a repository named 'state-of-oss-funding' by 'andrew'. It encountered errors while loading content related to code, issues, pull requests, actions, projects, security, and insights. There is no actual content about OSS funding.",
+    "summary_zh": "该文档似乎是'andrew'的名为'state-of-oss-funding'的存储库中的占位符或错误页面。在加载与代码、问题、拉取请求、操作、项目、安全性和见解相关的内容时遇到错误。没有关于OSS资金的实际内容。",
+    "best_quote_en": "There was an error while loading.",
+    "best_quote_zh": "加载时出错。"
+  },
+  {
+    "id": 549,
+    "title": "Bulgaria and the Euro",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Bulgaria_and_the_euro\">https://en.wikipedia.org/wiki/Bulgaria_and_the_euro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46452130\">https://news.ycombinator.com/item?id=46452130</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Bulgaria_and_the_euro",
+    "tags": [
+      "bulgaria",
+      "euro",
+      "eurozone",
+      "currency",
+      "european union"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "Bulgaria is set to adopt the Euro on January 1, 2026, becoming the 21st Eurozone member. Despite earlier delays and political crises, Bulgaria met the convergence criteria and received endorsements from European bodies. The Bulgarian Lev has been pegged to the Euro since 1999. The country committed to joining the Eurozone upon joining the EU in 2007. Bulgarian euro coins will feature the Madara Rider and two Bulgarian saints.",
+    "summary_zh": "保加利亚将于2026年1月1日采用欧元，成为欧元区的第21个成员国。尽管之前曾出现延误和政治危机，但保加利亚符合趋同标准，并获得了欧洲机构的认可。保加利亚列弗自1999年以来一直与欧元挂钩。该国承诺在2007年加入欧盟后加入欧元区。保加利亚欧元硬币将以马达拉骑士和两位保加利亚圣徒为特色。",
+    "best_quote_en": "The Maastricht Treaty, which Bulgaria acceded to by way of its EU accession treaty, requires that all European Union member states, except Denmark, join the euro once certain economic criteria are met.",
+    "best_quote_zh": "保加利亚通过其欧盟入盟条约加入的《马斯特里赫特条约》规定，除丹麦外，所有欧盟成员国一旦满足某些经济标准，就必须加入欧元区。"
+  },
+  {
+    "id": 550,
+    "title": "Why many projects fail before execution begins",
+    "source": "Hackernews",
+    "desc": "<p>Across different types of projects — infrastructure, digital systems, organisational change — I’ve noticed a recurring pattern: by the time execution starts, the outcome is often already constrained.<p>Not because of incompetence or bad intent, but because early decisions tend to harden faster than understanding does.<p>A few observations that seem to repeat:<p>Early schedules become social facts\nInitial timelines are usually created with limited information, but once shared upward they quickly stop being provisional. They become anchors for funding, reputation, and confidence. Later evidence is forced to fit the date, rather than the date adjusting to evidence.<p>Risk is recorded instead of managed\nRisk registers are often thorough and sincere, but the act of documenting risk can substitute for actually changing decisions. Addressing certain risks would require revisiting scope, sequence, or assumptions — which is often seen as destabilising rather than responsible.<p>Governance filters reality\nReporting structures tend to optimise for reassurance. Bad news is delayed or softened, not out of malice, but because it feels unconstructive without a solution. By the time issues surface clearly, the remaining options are usually expensive or binary.<p>Complexity is deferred, not reduced\nEarly approvals tend to reward simplicity. Interfaces, dependencies, and operational constraints are minimised to get things moving. The complexity doesn’t disappear — it just shows up later, when flexibility is lowest.<p>What’s struck me is that many projects don’t so much “go wrong” as proceed logically from the assumptions they were built on - which were often incorrect from the outset.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46452128\">https://news.ycombinator.com/item?id=46452128</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46452128",
+    "tags": [
+      "project management",
+      "risk management",
+      "decision making",
+      "complexity",
+      "planning"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "Many projects fail before execution due to flawed initial assumptions and decisions. Early schedules become inflexible, risk management is superficial, governance filters reality, and complexity is deferred. Incorrect initial assumptions lead to logical but ultimately unsuccessful project progressions.",
+    "summary_zh": "许多项目在执行前就已失败，这是由于最初的假设和决策存在缺陷。早期的时间表变得僵化，风险管理流于表面，管理层过滤了现实，复杂性被推迟。不正确的初始假设导致项目在逻辑上推进，但最终失败。",
+    "best_quote_en": "What’s struck me is that many projects don’t so much “go wrong” as proceed logically from the assumptions they were built on - which were often incorrect from the outset.",
+    "best_quote_zh": "让我震惊的是，许多项目与其说是“出错”，不如说是从它们所建立的假设中合乎逻辑地推进——而这些假设通常从一开始就是不正确的。"
+  },
+  {
+    "id": 551,
+    "title": "AI Disclosure Under U.S. Securities Law",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://zenodo.org/records/18113674\">https://zenodo.org/records/18113674</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46452121\">https://news.ycombinator.com/item?id=46452121</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://zenodo.org/records/18113674",
+    "tags": [
+      "ai disclosure",
+      "securities law",
+      "reasoning claim tokens",
+      "rcts",
+      "sec investor advisory committee"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "This paper discusses AI disclosure under U.S. securities law, focusing on a structural challenge: assessing and disclosing material effects from AI-mediated representations. It introduces Reasoning Claim Tokens (RCTs) as a governance-oriented evidence layer to support issuer disclosure judgments, board oversight, and post-incident scrutiny in response to SEC recommendations.",
+    "summary_zh": "本文探讨了美国证券法下的AI披露问题，重点在于评估和披露来自AI介导表征的重大影响这一结构性挑战。文章提出了推理声明令牌（RCTs）作为一种面向治理的证据层，以支持发行人的披露判断、董事会监督和事后审查，以响应SEC的建议。",
+    "best_quote_en": "AI disclosure under U.S. securities law presents a structural challenge: issuers are asked to assess and disclose material effects arising from AI-mediated representations that are probabilistic, time-variant, and often generated by systems the issuer does not operate or control.",
+    "best_quote_zh": "美国证券法下的AI披露提出了一个结构性挑战：发行人被要求评估和披露由AI介导的表征所产生的重大影响，这些表征是概率性的、时变的，并且通常由发行人未运营或控制的系统生成。"
   }]
