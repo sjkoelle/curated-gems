@@ -10408,4 +10408,60 @@
     "summary_zh": "Qwen-Image-Edit-2512是一款功能强大的图像编辑工具，拥有众多用户。它可以将低质量图像转换为清晰照片，增强人像效果，并改善产品摄影。用户称赞其保留面部特征、提升图像质量和恢复旧照片的能力，从而提高参与度和销售额。",
     "best_quote_en": "The best photo enhancer I've tried. Face preservation is incredible - people still look like themselves, just sharper.",
     "best_quote_zh": "我试过的最好的照片增强工具。面部保留令人难以置信——人们看起来仍然像他们自己，只是更清晰了。"
+  },{
+    "id": 557,
+    "title": "Building Production-Ready Voice Agents",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://shekhargulati.com/2026/01/03/building-production-ready-voice-agents/\">https://shekhargulati.com/2026/01/03/building-production-ready-voice-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46473730\">https://news.ycombinator.com/item?id=46473730</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://shekhargulati.com/2026/01/03/building-production-ready-voice-agents/",
+    "tags": [
+      "voice agents",
+      "state machines",
+      "llm",
+      "speech-to-text",
+      "conversation management"
+    ],
+    "date": "2026-01-03",
+    "summary_en": "This article shares experiences from building a voice agent platform for IT support in higher education. Key takeaways include using state machines for conversation management, avoiding drag-and-drop flow builders initially in favor of code-defined flows for testability and flexibility, and always confirming data with users due to the error-prone nature of speech-to-text and user input. The platform utilizes Python, FastAPI, OpenAI LLMs, and other technologies.",
+    "summary_zh": "本文分享了为高等教育机构构建IT支持语音代理平台的经验。主要经验包括使用状态机进行对话管理，最初避免使用拖放式流程构建器，而选择代码定义的流程以提高可测试性和灵活性，并且由于语音转文本和用户输入容易出错，因此始终需要与用户确认数据。该平台使用Python，FastAPI，OpenAI LLM和其他技术。",
+    "best_quote_en": "The key insight is that the LLM doesn’t inherently “remember” where it is in a conversation. You have to explicitly tell it what state it’s in and which functions are available.",
+    "best_quote_zh": "关键的见解是，LLM 本身并不“记住”它在对话中的位置。你必须明确告诉它它处于什么状态以及哪些功能可用。"
+  },
+  {
+    "id": 558,
+    "title": "Native Amiga Filesystems on macOS / Linux / Windows with FUSE",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/reinauer/amifuse\">https://github.com/reinauer/amifuse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46473726\">https://news.ycombinator.com/item?id=46473726</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/reinauer/amifuse",
+    "tags": [
+      "amiga",
+      "filesystem",
+      "fuse",
+      "emulator",
+      "m68k"
+    ],
+    "date": "2026-01-03",
+    "summary_en": "Amifuse allows mounting Amiga filesystem images on macOS, Linux, and Windows using native AmigaOS filesystem handlers via FUSE. It runs Amiga filesystem drivers through m68k CPU emulation, enabling reading Amiga hard disk images without reverse-engineered implementations. It supports formats like HDF/RDB, Emu68-style MBR images, and ADF, with tested filesystems including PFS3, SFS, FFS/OFS, and BFFS.",
+    "summary_zh": "Amifuse 允许在 macOS、Linux 和 Windows 上使用 FUSE 通过原生 AmigaOS 文件系统处理程序挂载 Amiga 文件系统镜像。它通过 m68k CPU 模拟运行 Amiga 文件系统驱动程序，无需反向工程实现即可读取 Amiga 硬盘镜像。它支持 HDF/RDB、Emu68 风格 MBR 镜像和 ADF 等格式，并测试了包括 PFS3、SFS、FFS/OFS 和 BFFS 在内的文件系统。",
+    "best_quote_en": "amifuse runs actual Amiga filesystem drivers (like PFS3) through m68k CPU emulation, allowing you to read Amiga hard disk images without relying on reverse-engineered implementations.",
+    "best_quote_zh": "amifuse 通过 m68k CPU 模拟运行实际的 Amiga 文件系统驱动程序（如 PFS3），无需依赖反向工程实现即可读取 Amiga 硬盘镜像。"
+  },
+  {
+    "id": 559,
+    "title": "Show HN: AI Coding Tools Benchmark – What Developers Experience",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/murataslan1/ai-agent-benchmark\">https://github.com/murataslan1/ai-agent-benchmark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46473721\">https://news.ycombinator.com/item?id=46473721</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/murataslan1/ai-agent-benchmark",
+    "tags": [
+      "ai coding",
+      "benchmark",
+      "engineering rigor",
+      "byok",
+      "security"
+    ],
+    "date": "2026-01-03",
+    "summary_en": "This benchmark compares AI coding agents, highlighting their performance, cost, and critical issues. It contrasts 'Vibe Coding' with 'Engineering Rigor,' recommending a two-tier workflow using expensive models for planning and cheaper ones for code generation. Security is a concern, emphasizing manual dependency verification. BYOK migration is also a trend.",
+    "summary_zh": "该基准测试比较了AI编码工具，着重强调了它们的性能、成本和关键问题。它对比了“氛围编码”与“工程严谨”，并推荐了一种双层工作流程，即使用昂贵的模型进行规划，而使用便宜的模型进行代码生成。安全是一个问题，强调手动依赖验证。BYOK迁移也是一个趋势。",
+    "best_quote_en": "The era of 'magic' AI coding is over. The era of managed, verified, and economically rational AI engineering has begun.",
+    "best_quote_zh": "“魔法”AI编码时代已经结束。受管理、可验证且经济合理的AI工程时代已经开始。"
   }]
