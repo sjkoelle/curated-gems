@@ -10464,4 +10464,98 @@
     "summary_zh": "该基准测试比较了AI编码工具，着重强调了它们的性能、成本和关键问题。它对比了“氛围编码”与“工程严谨”，并推荐了一种双层工作流程，即使用昂贵的模型进行规划，而使用便宜的模型进行代码生成。安全是一个问题，强调手动依赖验证。BYOK迁移也是一个趋势。",
     "best_quote_en": "The era of 'magic' AI coding is over. The era of managed, verified, and economically rational AI engineering has begun.",
     "best_quote_zh": "“魔法”AI编码时代已经结束。受管理、可验证且经济合理的AI工程时代已经开始。"
+  },{
+    "id": 560,
+    "title": "Recursive Language Models: the paradigm of 2026",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/rlm\">https://www.primeintellect.ai/blog/rlm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46485905\">https://news.ycombinator.com/item?id=46485905</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.primeintellect.ai/blog/rlm",
+    "tags": [
+      "llm",
+      "recursive language model",
+      "context folding",
+      "agent",
+      "prime intellect"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "The article introduces Recursive Language Models (RLM) as a solution to manage extremely long contexts in LLMs. RLM allows models to use Python scripts and sub-LLMs to inspect and transform input data, avoiding context rot and enabling complex reasoning. Prime Intellect is actively researching and implementing RLM, believing it will lead to a major breakthrough in long-horizon task solving.",
+    "summary_zh": "文章介绍了递归语言模型（RLM），作为解决LLM中管理超长上下文问题的方案。 RLM允许模型使用Python脚本和子LLM来检查和转换输入数据，避免上下文腐烂，并实现复杂的推理。 Prime Intellect 正在积极研究和实施 RLM，认为它将成为解决长期任务的重大突破。",
+    "best_quote_en": "We believe that teaching models to manage their own context end-to-end through reinforcement learning will be the next major breakthrough, enabling agents to solve long-horizon tasks spanning weeks to months.",
+    "best_quote_zh": "我们认为，通过强化学习教会模型端到端地管理自己的上下文将是下一个重大突破，使智能体能够解决跨越数周至数月的长期任务。"
+  },
+  {
+    "id": 561,
+    "title": "AI Terminology",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/piotr-liszka/ai-terminology\">https://github.com/piotr-liszka/ai-terminology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46485903\">https://news.ycombinator.com/item?id=46485903</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/piotr-liszka/ai-terminology",
+    "tags": [
+      "ai terminology",
+      "prompt engineering",
+      "context engineering",
+      "large language model",
+      "prompting techniques"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "This document provides a concise AI terminology guide, listing key terms and common alternatives for prompt engineering and context engineering. It focuses on quickly identifying prevalent AI concepts, helping users discover new terms and understand the foundations, basic interactions, and prompting techniques in AI.",
+    "summary_zh": "本文档提供了一份简明的AI术语指南，列出了提示工程和上下文工程的关键术语和常见替代方案。它侧重于快速识别流行的AI概念，帮助用户发现新术语，并理解AI中的基础、基本交互和提示技巧。",
+    "best_quote_en": "Art of crafting effective instructions to guide AI models toward desired outputs",
+    "best_quote_zh": "精心设计有效的指令，以引导人工智能模型实现期望的输出"
+  },
+  {
+    "id": 562,
+    "title": "Show HN: Skill-Add – Share and Install Claude Code Skills from GitHub",
+    "source": "Hackernews",
+    "desc": "<p>I built a small CLI to make it easy to share and reuse Claude Code skills.<p>skill-add solves this: create an agent-skills repo on GitHub with your skills, and anyone can install them with:<p>skill-add yourname/skill-name<p>It downloads the skill from github.com/yourname/agent-skills and copies it to .claude/skills/ in your current project.<p>That's it. No registry, no auth, just GitHub repos.<p>Built with Python/Typer. ~100 lines of code.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46485892\">https://news.ycombinator.com/item?id=46485892</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/kasperjunge/skill-add",
+    "tags": [
+      "claude",
+      "skills",
+      "github",
+      "skill-add",
+      "code"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "Skill-Add lets you add Claude Code skills from GitHub to your project. It fetches skills from a user's agent-skills repository and copies them to the .claude/skills/ directory. Skills are stored in directories containing a SKILL.md file.",
+    "summary_zh": "Skill-Add允许你从GitHub向你的项目添加Claude代码技能。它从用户的agent-skills仓库中获取技能，并将它们复制到.claude/skills/目录。技能存储于包含SKILL.md文件的目录中。",
+    "best_quote_en": "Each skill is a directory containing at minimum a SKILL.md file.",
+    "best_quote_zh": "每个技能都是一个目录，其中至少包含一个SKILL.md文件。"
+  },
+  {
+    "id": 563,
+    "title": "Forbidden Search Detected (Animation)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.forbiddensearchdetected.com/\">https://www.forbiddensearchdetected.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46485888\">https://news.ycombinator.com/item?id=46485888</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.forbiddensearchdetected.com/",
+    "tags": [
+      "forbidden search",
+      "joke",
+      "animation",
+      "prank",
+      "url generation"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "The content describes a 'Forbidden Search Detected' animation or joke, where users are prevented from searching specific terms. It includes elements like search text input, warning messages, URL generation, and options for sharing. It appears to be a lighthearted prank.",
+    "summary_zh": "内容描述了一个“禁止搜索检测到”的动画或玩笑，其中用户无法搜索特定术语。 它包括搜索文本输入、警告消息、URL生成和共享选项等元素。 这似乎是一个轻松的恶作剧。",
+    "best_quote_en": "Don't worry its just a joke... for now",
+    "best_quote_zh": "别担心，这只是个玩笑……目前是。"
+  },
+  {
+    "id": 564,
+    "title": "2025 Orbital Launch Stats",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://spacestatsonline.com/launches/year/2025/\">https://spacestatsonline.com/launches/year/2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46485872\">https://news.ycombinator.com/item?id=46485872</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://spacestatsonline.com/launches/year/2025/",
+    "tags": [
+      "orbital launches",
+      "falcon 9",
+      "space exploration",
+      "launch statistics",
+      "2025"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "In 2025, there were 324 orbital launches, with 315 successes and 9 failures. The United States led with 193 launches, followed by China with 93. Falcon 9 was the most used rocket with 165 launches. Cape Canaveral was the busiest launch site with 109 launches.",
+    "summary_zh": "2025年共有324次轨道发射，其中315次成功，9次失败。美国以193次发射居首，中国以93次紧随其后。猎鹰9号是最常用的火箭，发射次数达165次。卡纳维拉尔角是最繁忙的发射场，共有109次发射。",
+    "best_quote_en": "Booster successfully returned for a tower catch. Starship upper stage failed late in the ascent burn, and was destroyed over the Bahamas.",
+    "best_quote_zh": "助推器成功返回塔架抓取。星舰上级在上升段末期发生故障，并在巴哈马群岛上空被摧毁。"
   }]
