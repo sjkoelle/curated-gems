@@ -10558,4 +10558,98 @@
     "summary_zh": "2025年共有324次轨道发射，其中315次成功，9次失败。美国以193次发射居首，中国以93次紧随其后。猎鹰9号是最常用的火箭，发射次数达165次。卡纳维拉尔角是最繁忙的发射场，共有109次发射。",
     "best_quote_en": "Booster successfully returned for a tower catch. Starship upper stage failed late in the ascent burn, and was destroyed over the Bahamas.",
     "best_quote_zh": "助推器成功返回塔架抓取。星舰上级在上升段末期发生故障，并在巴哈马群岛上空被摧毁。"
+  },{
+    "id": 565,
+    "title": "Show HN: Formfactor – A MIDI Modulation Workbench",
+    "source": "Hackernews",
+    "desc": "<p>I'm releasing Formfactor, a utility plugin that observes timing, activity, and intensity from incoming MIDI. In addition to passing the original MIDI pattern through unchanged, it allows you to multiplex up to eight additional lanes of shaped, independently sequenced MIDI CC output to modulate external hardware or software instruments.<p>I built it for myself and enjoy it as a fun place to shape and route Eurorack modulation musically.<p>Formfactor is free. CLAP/VST3/AUv2</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46496321\">https://news.ycombinator.com/item?id=46496321</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://aftertone.co/formfactor/",
+    "tags": [
+      "midi",
+      "modulation",
+      "plugin",
+      "eurorack",
+      "formfactor"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "Formfactor is a MIDI modulation workbench plugin by Aftertone & Signal. It observes timing, activity, and intensity from MIDI input, allowing users to multiplex up to eight lanes of shaped CC output. It is designed for modular-influenced musicians, generative composers, sound designers, and experienced producers. Available in CLAP, VST3, and AU formats.",
+    "summary_zh": "Formfactor是由Aftertone & Signal开发的MIDI调制工作台插件。它可以观察MIDI输入的时序、活动和强度，允许用户复用多达八个通道的CC输出。 专为模块化音乐家、生成音乐作曲家、声音设计师和经验丰富的制作人设计。 提供CLAP、VST3和AU格式。",
+    "best_quote_en": "Formfactor is a utility plugin that observes timing, activity, and intensity from MIDI input.",
+    "best_quote_zh": "Formfactor 是一种实用插件，可以观察 MIDI 输入的时序、活动和强度。"
+  },
+  {
+    "id": 566,
+    "title": "Building a TLS 1.3 Implementation in Pure Common Lisp",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://atgreen.github.io/repl-yell/posts/pure-tls/\">https://atgreen.github.io/repl-yell/posts/pure-tls/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46496308\">https://news.ycombinator.com/item?id=46496308</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://atgreen.github.io/repl-yell/posts/pure-tls/",
+    "tags": [
+      "common lisp",
+      "tls 1.3",
+      "cryptography",
+      "pure-tls",
+      "ironclad"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "pure-tls is a new TLS 1.3 implementation in pure Common Lisp with no C dependencies. It leverages Ironclad for cryptographic primitives and Gray Streams for seamless I/O integration. It features native trust store integration for Windows and macOS and provides a cl+ssl compatibility layer for easy adoption.",
+    "summary_zh": "pure-tls 是一个使用纯 Common Lisp 实现的 TLS 1.3，不依赖任何 C 语言库。它利用 Ironclad 提供加密原语，Gray Streams 提供无缝的 I/O 集成。它还具有针对 Windows 和 macOS 的本机信任存储集成，并提供 cl+ssl 兼容层，方便用户采用。",
+    "best_quote_en": "Implementing only TLS 1.3 means pure-tls can connect to most of the web while keeping the codebase minimal.",
+    "best_quote_zh": "仅实现 TLS 1.3 意味着 pure-tls 可以在保持代码库最小的同时连接到网络上的大多数站点。"
+  },
+  {
+    "id": 567,
+    "title": "Show HN: MockBlast – Local-first mock data generator (SQL, Mongo, JSON)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mockblast.com\">https://mockblast.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46496290\">https://news.ycombinator.com/item?id=46496290</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://mockblast.com",
+    "tags": [
+      "mock data",
+      "data generation",
+      "sql",
+      "nosql",
+      "testing"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "MockBlast is a local-first mock data generator that supports SQL (PostgreSQL, MySQL, SQLite), MongoDB, JSON, and CSV. It allows users to generate millions of rows of test data instantly without writing custom scripts. Key features include SQL schema import, multi-table generation, foreign key support, live preview, and privacy-first data handling.",
+    "summary_zh": "MockBlast是一个本地优先的模拟数据生成器，支持SQL（PostgreSQL、MySQL、SQLite）、MongoDB、JSON和CSV。它允许用户立即生成数百万行测试数据，而无需编写自定义脚本。主要功能包括SQL模式导入、多表生成、外键支持、实时预览和隐私优先的数据处理。",
+    "best_quote_en": "Unlike Mockaroo or ChatGPT, we don't train AI models on your schema. Your table structure is parsed locally in your browser (or ephemeral server memory) and discarded instantly.",
+    "best_quote_zh": "与Mockaroo或ChatGPT不同，我们不会根据您的模式训练AI模型。您的表结构在本地浏览器（或临时服务器内存）中进行解析，并立即丢弃。"
+  },
+  {
+    "id": 568,
+    "title": "Asmotor: Powerful macro (cross) assembler package for several CPUs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/asmotor/asmotor\">https://github.com/asmotor/asmotor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46496268\">https://news.ycombinator.com/item?id=46496268</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/asmotor/asmotor",
+    "tags": [
+      "assembler",
+      "cross-assembler",
+      "toolchain",
+      "macro",
+      "cpu"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "ASMotor is a portable assembler package for CPUs like 680x0, 6502, Z80, and MIPS32, written in ANSI C99. It includes an assembler, librarian, and linker and supports cross or native development. Based on Motorola syntax, it offers features like flexible expressions, string interpolation, and a complete macro language, enhancing code readability and interoperability. It supports various target binaries and can be integrated into other toolchains.",
+    "summary_zh": "ASMotor是一个可移植的汇编器包，支持包括680x0、6502、Z80和MIPS32在内的多种CPU，使用ANSI C99编写。它包含汇编器、库管理器和链接器，并支持交叉或本地开发。基于摩托罗拉语法，它提供了灵活的表达式、字符串插值和完整的宏语言等功能，从而提高了代码的可读性和互操作性。它支持各种目标二进制文件，并且可以集成到其他工具链中。",
+    "best_quote_en": "ASMotor aims to be a friendly assembler and toolchain, well-suited to projects that incorporate a large body of hand crafted assembly code.",
+    "best_quote_zh": "ASMotor的目标是成为一个友好的汇编器和工具链，非常适合包含大量手工编写的汇编代码的项目。"
+  },
+  {
+    "id": 569,
+    "title": "Zed extension that automatically inserts customizable file headers",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/MrAMS/zed-auto-file-header\">https://github.com/MrAMS/zed-auto-file-header</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46496265\">https://news.ycombinator.com/item?id=46496265</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/MrAMS/zed-auto-file-header",
+    "tags": [
+      "zed extension",
+      "file header",
+      "auto-header",
+      "configuration",
+      "templates"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "Auto File Header is a zero-dependency Zed extension that automatically inserts customizable file headers into new files. It supports multiple platforms, auto-detects over 50 programming languages, and allows fully customizable templates. The configuration can be project-specific or user-global, and changes take effect immediately without restarting.",
+    "summary_zh": "Auto File Header 是一个零依赖的 Zed 扩展，可以在创建新文件时自动插入可自定义的文件头。它支持多个平台，自动检测 50 多种编程语言，并允许完全自定义模板。配置可以是项目特定的或用户全局的，并且更改会立即生效，无需重新启动。",
+    "best_quote_en": "Simply write your template content once without any comment syntax. The extension intelligently wraps it with the correct format for each language.",
+    "best_quote_zh": "只需编写一次模板内容，无需任何注释语法。该扩展会自动用适用于每种语言的正确格式进行包装。"
   }]
