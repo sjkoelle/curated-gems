@@ -10652,4 +10652,79 @@
     "summary_zh": "Auto File Header 是一个零依赖的 Zed 扩展，可以在创建新文件时自动插入可自定义的文件头。它支持多个平台，自动检测 50 多种编程语言，并允许完全自定义模板。配置可以是项目特定的或用户全局的，并且更改会立即生效，无需重新启动。",
     "best_quote_en": "Simply write your template content once without any comment syntax. The extension intelligently wraps it with the correct format for each language.",
     "best_quote_zh": "只需编写一次模板内容，无需任何注释语法。该扩展会自动用适用于每种语言的正确格式进行包装。"
+  },{
+    "id": 570,
+    "title": "Hot object discovered 1.4B years after the Big Bang",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.sciencealert.com/an-impossibly-hot-object-discovered-1-4-billion-years-after-the-big-bang\">https://www.sciencealert.com/an-impossibly-hot-object-discovered-1-4-billion-years-after-the-big-bang</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46509755\">https://news.ycombinator.com/item?id=46509755</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.sciencealert.com/an-impossibly-hot-object-discovered-1-4-billion-years-after-the-big-bang",
+    "tags": [
+      "galaxy cluster",
+      "early universe",
+      "supermassive black holes",
+      "spt2349-56",
+      "cosmic microwave background"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "A galaxy cluster named SPT2349-56, observed 1.4 billion years after the Big Bang, exhibits unexpectedly high gas temperatures. The gas is at least five times hotter than predicted by standard models. Researchers suggest energy injection from supermassive black holes may be responsible, indicating that galaxy cluster evolution models need revision. This discovery challenges our understanding of the early Universe.",
+    "summary_zh": "一个名为SPT2349-56的星系团，在大爆炸后14亿年被观测到，表现出异常高的气体温度。气体温度至少比标准模型预测的高五倍，研究人员认为超大质量黑洞注入的能量可能是原因，这表明星系团演化模型需要修正。这一发现挑战了我们对早期宇宙的理解。",
+    "best_quote_en": "\"We didn't expect to see such a hot cluster atmosphere so early in cosmic history,\" says astrophysics doctoral student Dazhi Zhou of the University of British Columbia in Canada.",
+    "best_quote_zh": "“我们没想到会在如此早期的宇宙历史中看到如此热的星系团大气，”加拿大不列颠哥伦比亚大学的天体物理学博士生周大智说。"
+  },
+  {
+    "id": 571,
+    "title": "Poetry HTML Typesetting",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://gwern.net/poetry-html\">https://gwern.net/poetry-html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46509754\">https://news.ycombinator.com/item?id=46509754</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://gwern.net/poetry-html",
+    "tags": [
+      "html",
+      "poetry",
+      "typesetting",
+      "css",
+      "javascript"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This article discusses methods for typesetting poetry in HTML, addressing the challenges of whitespace and layout control. It evaluates various solutions, including PDF plugins, PNG screenshots, and semantic classes, before settling on a hybrid approach that utilizes JavaScript interpretation of semantic classes and `<pre>` tags with a monospace serif font for precise authoring and display.",
+    "summary_zh": "本文讨论了在HTML中排版诗歌的方法，解决了空格和布局控制的挑战。它评估了各种解决方案，包括PDF插件、PNG截图和语义类，最终采用了一种混合方法，该方法利用JavaScript解释语义类和带有monospace serif字体的`<pre>`标签，以实现精确的创作和显示。",
+    "best_quote_en": "Poetry is surprisingly difficult to typeset in HTML because poems sometimes require precise control over whitespace & layout, while HTML (and most formats compiling to HTML, like Markdown) by default collapses whitespace and doesn’t allow easy control of indentation.",
+    "best_quote_zh": "在HTML中排版诗歌出人意料地困难，因为诗歌有时需要对空格和布局进行精确控制，而HTML（以及大多数编译成HTML的格式，如Markdown）默认情况下会折叠空格，并且不允许轻松控制缩进。"
+  },
+  {
+    "id": 572,
+    "title": "Finding Urgent Loan in Nigeria",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.finaresource.top/\">https://www.finaresource.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46509744\">https://news.ycombinator.com/item?id=46509744</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.finaresource.top/",
+    "tags": [
+      "loan",
+      "nigeria",
+      "lender",
+      "fast cash",
+      "financial service"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This platform connects users with lenders in Nigeria and other countries, promising fast loan approval. Users provide their information, and the service matches them with suitable loan options. Requirements vary by lender, but generally include ID, proof of income, and a bank account. The service emphasizes security and customer satisfaction.",
+    "summary_zh": "该平台将用户与尼日利亚和其他国家的贷款人联系起来，承诺快速批准贷款。用户提供个人信息，该服务会将他们与合适的贷款选项进行匹配。要求因贷款人而异，但通常包括身份证明、收入证明和银行账户。该服务强调安全性和客户满意度。",
+    "best_quote_en": "The process was straightforward and stress-free. I'd highly recommend it to anyone in need of quick cash.",
+    "best_quote_zh": "这个过程很简单，没有压力。我强烈推荐给任何需要快速现金的人。"
+  },
+  {
+    "id": 573,
+    "title": "Bundle doubling in seven years: macOS is getting bigger",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Bundle-doubling-in-seven-years-macOS-is-getting-bigger-11129804.html\">https://www.heise.de/en/news/Bundle-doubling-in-seven-years-macOS-is-getting-bigger-11129804.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46509742\">https://news.ycombinator.com/item?id=46509742</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.heise.de/en/news/Bundle-doubling-in-seven-years-macOS-is-getting-bigger-11129804.html",
+    "tags": [
+      "macos",
+      "apple",
+      "frameworks",
+      "developers",
+      "private frameworks"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "macOS is growing in complexity, with a significant increase in the number of bundles, especially private frameworks, from 4800 in macOS Mojave (2018) to over 9800 in macOS 26.2. This \"bloat\" is partially attributed to adaptations for different chips (M1, M3, M4). Apple restricts developer access to private frameworks, potentially causing issues if developers rely on undocumented changes.",
+    "summary_zh": "macOS 的复杂性日益增加，捆绑包的数量显著增加，尤其是私有框架，从 macOS Mojave (2018) 的 4800 个增加到 macOS 26.2 的 9800 多个。 这种“膨胀”部分归因于对不同芯片（M1、M3、M4）的适配。 苹果限制开发者访问私有框架，如果开发者依赖未记录的更改，可能会导致问题。",
+    "best_quote_en": "Apple is now making it more difficult for developers and their apps to directly read the contents of private frameworks.",
+    "best_quote_zh": "苹果现在正使开发者及其应用程序更难直接读取私有框架的内容。"
   }]
