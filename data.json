@@ -10727,4 +10727,79 @@
     "summary_zh": "macOS 的复杂性日益增加，捆绑包的数量显著增加，尤其是私有框架，从 macOS Mojave (2018) 的 4800 个增加到 macOS 26.2 的 9800 多个。 这种“膨胀”部分归因于对不同芯片（M1、M3、M4）的适配。 苹果限制开发者访问私有框架，如果开发者依赖未记录的更改，可能会导致问题。",
     "best_quote_en": "Apple is now making it more difficult for developers and their apps to directly read the contents of private frameworks.",
     "best_quote_zh": "苹果现在正使开发者及其应用程序更难直接读取私有框架的内容。"
+  },{
+    "id": 574,
+    "title": "Reconstructability and Auditability of AI Outputs in Regulated Environments",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://zenodo.org/records/18169843\">https://zenodo.org/records/18169843</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46523707\">https://news.ycombinator.com/item?id=46523707</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://zenodo.org/records/18169843",
+    "tags": [
+      "ai",
+      "auditability",
+      "reconstructability",
+      "regulated environments",
+      "compliance"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "This paper outlines an evidentiary control mechanism for AI systems in regulated environments. It focuses on reconstructability and auditability of AI outputs, defining when these outputs become record-relevant and specifying necessary evidence. The mechanism ensures AI-influenced outputs are auditable, attributable, and correctable, serving as a governance reference for organizations and regulators.",
+    "summary_zh": "本文概述了受监管环境中人工智能系统的证据控制机制。它侧重于人工智能输出的可重构性和可审计性，定义了这些输出何时与记录相关，并指定了必要的证据。该机制确保受人工智能影响的输出是可审计、可归属和可纠正的，作为组织和监管机构的治理参考。",
+    "best_quote_en": "Instead, it addresses evidentiary survivability under audit, investigation, or litigation by describing how AI-influenced outputs can be made auditable, attributable, and correctable in practice.",
+    "best_quote_zh": "相反，它通过描述如何使受人工智能影响的输出在实践中可审计、可归属和可纠正，从而解决审计、调查或诉讼中的证据生存能力问题。"
+  },
+  {
+    "id": 575,
+    "title": "Show HN: MotionPoster – static poster to animated poster",
+    "source": "Hackernews",
+    "desc": "<p>Hi Hacker News,<p>I built MotionPoster (<a href=\"https://motionposter.org/\" rel=\"nofollow\">https://motionposter.org/</a>) to help people make short animated posters quickly, without spending a lot of time inside heavyweight editing software.<p>What it does:\n- Upload a poster image (or start from a blank)\n- Add text overlays\n- Pick simple motion styles (for example: pan/zoom, subtle movement)\n- Export as a short video you can post on social platforms<p>Why I built it:\nI often needed “a little motion” for posters, but a full motion workflow felt slow for small tasks. I wanted something that gets to a usable result in minutes.<p>What I want feedback on:\n- Does the motion look natural enough, or does it feel “template-like”?\n- Which export formats and sizes matter most to you?\n- What is the biggest missing feature for your workflow?<p>Thanks, and I will reply to every comment.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46523696\">https://news.ycombinator.com/item?id=46523696</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://motionposter.org/",
+    "tags": [
+      "motionposter",
+      "kling ai",
+      "image to video",
+      "ai video generation",
+      "animated poster"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "MotionPoster, powered by Kling AI v2.6, transforms static images into cinematic motion posters with synchronized audio and 1080p output. Users upload an image, describe desired motion, and generate a motion poster video. Kling AI v2.6 ensures realistic movement, native audio, and strong prompt adherence.",
+    "summary_zh": "MotionPoster由Kling AI v2.6驱动，将静态图像转换为具有同步音频和1080p输出的电影级动态海报。用户上传图像，描述所需的运动，然后生成动态海报视频。Kling AI v2.6确保逼真的运动、原生音频和强大的提示遵循。",
+    "best_quote_en": "Motion Poster turns a single image into a cinematic motion poster video with synchronized audio—built on Kling AI v2.6.",
+    "best_quote_zh": "Motion Poster将单张图像转换为具有同步音频的电影级动态海报视频 - 基于Kling AI v2.6构建。"
+  },
+  {
+    "id": 576,
+    "title": "Dell announces 52-inch 6K display with Thunderbolt",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://9to5mac.com/2026/01/06/dell-announces-massive-52-inch-6k-display-with-thunderbolt/\">https://9to5mac.com/2026/01/06/dell-announces-massive-52-inch-6k-display-with-thunderbolt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46523694\">https://news.ycombinator.com/item?id=46523694</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://9to5mac.com/2026/01/06/dell-announces-massive-52-inch-6k-display-with-thunderbolt/",
+    "tags": [
+      "dell",
+      "monitor",
+      "6k",
+      "ultrasharp",
+      "thunderbolt"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "Dell announced the UltraSharp 52 Thunderbolt Hub Monitor at CES 2026, featuring a 52-inch 6K curved display with a 120Hz refresh rate. Designed for professionals needing extensive screen space, it offers Thunderbolt 4 connectivity, up to 140W power delivery, and ports for multiple devices. Eye comfort is prioritized with reduced blue light emission. It is available for purchase today.",
+    "summary_zh": "戴尔在CES 2026上发布了UltraSharp 52 Thunderbolt Hub显示器，配备52英寸6K曲面显示屏，刷新率为120Hz。专为需要大屏幕空间的专业人士设计，提供Thunderbolt 4连接，高达140W的功率输出，以及多个设备端口。通过减少蓝光排放来优先考虑眼睛舒适度。今日即可购买。",
+    "best_quote_en": "The Dell UltraSharp 52 Thunderbolt Hub Monitor delivers superior visual clarity with its 6K resolution at 129 PPI, 120Hz refresh rate and IPS Black technology for richer blacks and sharper visuals.",
+    "best_quote_zh": "戴尔UltraSharp 52 Thunderbolt Hub显示器以其6K分辨率、129 PPI、120Hz刷新率和IPS黑色技术提供卓越的视觉清晰度，从而实现更丰富的黑色和更锐利的视觉效果。"
+  },
+  {
+    "id": 577,
+    "title": "A Calif. Teen Trusted ChatGPT for Drug Advice. He Died from an Overdose",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://longreads.com/2026/01/06/a-calif-teen-trusted-chatgpt-for-drug-advice-he-died-from-an-overdose/\">https://longreads.com/2026/01/06/a-calif-teen-trusted-chatgpt-for-drug-advice-he-died-from-an-overdose/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46523693\">https://news.ycombinator.com/item?id=46523693</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://longreads.com/2026/01/06/a-calif-teen-trusted-chatgpt-for-drug-advice-he-died-from-an-overdose/",
+    "tags": [
+      "chatgpt",
+      "ai",
+      "drug abuse",
+      "openai",
+      "misinformation"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "An 18-year-old, Sam Nelson, used ChatGPT for drug-related advice over 18 months, leading to a fatal overdose. Despite OpenAI's protocols, he was able to elicit dangerous information from the bot. Experts warn that foundational models like ChatGPT, trained on vast internet data, cannot be made entirely safe due to exposure to false information.",
+    "summary_zh": "18 岁的 Sam Nelson 在 18 个月内使用 ChatGPT 寻求药物相关建议，最终因过量服用而死亡。 尽管 OpenAI 有相关协议，他还是能够从该机器人那里获得危险信息。 专家警告说，像 ChatGPT 这样基于互联网海量数据训练的基础模型由于接触到虚假信息，无法做到完全安全。",
+    "best_quote_en": "“There is zero chance, zero chance, that the foundational models can ever be safe on this stuff...because what they sucked in there is everything on the internet. And everything on the internet is all sorts of completely false crap.”",
+    "best_quote_zh": "“基础模型在这方面绝对不可能安全，一点机会都没有...... 因为它们吸收了互联网上的一切。 而互联网上的一切都充斥着各种完全虚假的垃圾信息。”"
   }]
