@@ -10802,4 +10802,60 @@
     "summary_zh": "18 岁的 Sam Nelson 在 18 个月内使用 ChatGPT 寻求药物相关建议，最终因过量服用而死亡。 尽管 OpenAI 有相关协议，他还是能够从该机器人那里获得危险信息。 专家警告说，像 ChatGPT 这样基于互联网海量数据训练的基础模型由于接触到虚假信息，无法做到完全安全。",
     "best_quote_en": "“There is zero chance, zero chance, that the foundational models can ever be safe on this stuff...because what they sucked in there is everything on the internet. And everything on the internet is all sorts of completely false crap.”",
     "best_quote_zh": "“基础模型在这方面绝对不可能安全，一点机会都没有...... 因为它们吸收了互联网上的一切。 而互联网上的一切都充斥着各种完全虚假的垃圾信息。”"
+  },{
+    "id": 578,
+    "title": "BdayCanvas – Happy Birthday Images AI Generator",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://bdaycanvas.com/\">https://bdaycanvas.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46538421\">https://news.ycombinator.com/item?id=46538421</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://bdaycanvas.com/",
+    "tags": [
+      "ai",
+      "image generation",
+      "birthday",
+      "templates",
+      "personalized"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "BdayCanvas is an AI-powered generator for creating unique happy birthday images instantly. It integrates multiple AI models and offers various templates and scenarios. Users can generate high-quality, personalized images quickly by inputting prompts and setting image parameters without needing design skills.",
+    "summary_zh": "BdayCanvas是一款AI驱动的生日图片生成器，可以立即创建独特的生日快乐图片。它集成了多种AI模型，并提供各种模板和场景。用户只需输入提示词并设置图像参数即可快速生成高质量的个性化图像，无需设计技能。",
+    "best_quote_en": "Use AI to generate various scenes and get the unique happy birthday images you want.",
+    "best_quote_zh": "使用人工智能生成各种场景，并获得你想要的独特的生日快乐图片。"
+  },
+  {
+    "id": 579,
+    "title": "Woman in Minnesota fatally shot by ICE agent during raid, video shows",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jan/07/minneapolis-shooting-immigration-crackdown\">https://www.theguardian.com/us-news/2026/jan/07/minneapolis-shooting-immigration-crackdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46538420\">https://news.ycombinator.com/item?id=46538420</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/us-news/2026/jan/07/minneapolis-shooting-immigration-crackdown",
+    "tags": [
+      "ice",
+      "minneapolis",
+      "shooting",
+      "immigration",
+      "raid"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "An ICE agent fatally shot a woman in Minneapolis during an immigration raid. Witnesses and videos contradict DHS claims of self-defense, showing the woman's car moving away from officers. The mayor of Minneapolis has demanded that ICE leave the city, stating their presence is causing harm and terrorizing residents.",
+    "summary_zh": "在明尼阿波利斯的一次移民突袭行动中，一名 ICE 探员致命枪击了一名妇女。目击者和视频与 DHS 的自卫声明相矛盾，显示该妇女的汽车正在远离警官。明尼阿波利斯市长已要求 ICE 离开该市，称其存在正在造成伤害和恐吓居民。",
+    "best_quote_en": "To ICE, get the fuck out of Minneapolis. We do not want you here.",
+    "best_quote_zh": "对 ICE 来说，滚出明尼阿波利斯。我们不欢迎你。"
+  },
+  {
+    "id": 580,
+    "title": "Open source project chatbox is under attack",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/chatboxai/chatbox/issues\">https://github.com/chatboxai/chatbox/issues</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46538394\">https://news.ycombinator.com/item?id=46538394</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/chatboxai/chatbox/issues",
+    "tags": [
+      "chatbox",
+      "open-source",
+      "github",
+      "issues",
+      "airline"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "The Chatbox project on GitHub is experiencing a surge in activity, particularly in its \"Issues\" section. Many recently opened issues involve questions and concerns related to contacting airline customer service and managing flight bookings in various languages. The repository has a significant number of stars and forks, indicating its popularity in the open-source community.",
+    "summary_zh": "GitHub上的Chatbox项目活跃度激增，尤其是在“Issues”部分。最近许多已开启的问题涉及联系航空公司客服和管理不同语言的航班预订的问题。该存储库拥有大量的Star和Fork，表明其在开源社区中很受欢迎。",
+    "best_quote_en": "Chatbox is going open-source Again!",
+    "best_quote_zh": "Chatbox再次开源！"
   }]
