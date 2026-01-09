@@ -10858,4 +10858,79 @@
     "summary_zh": "GitHub上的Chatbox项目活跃度激增，尤其是在“Issues”部分。最近许多已开启的问题涉及联系航空公司客服和管理不同语言的航班预订的问题。该存储库拥有大量的Star和Fork，表明其在开源社区中很受欢迎。",
     "best_quote_en": "Chatbox is going open-source Again!",
     "best_quote_zh": "Chatbox再次开源！"
+  },{
+    "id": 581,
+    "title": "Dialogue Between a Developer and a Kid",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://riggraz.dev/dialogue-developer.html\">https://riggraz.dev/dialogue-developer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46551080\">https://news.ycombinator.com/item?id=46551080</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://riggraz.dev/dialogue-developer.html",
+    "tags": [
+      "developer",
+      "kid",
+      "programming",
+      "videogame",
+      "sand"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "A developer encounters a kid developing a video game with sand and code blocks. They discuss programming languages, libraries, and the importance of finishing projects. The developer becomes increasingly frustrated and yells at the kid, who starts to cry, causing a flood of tears that engulfs the developer.",
+    "summary_zh": "一位开发者遇到一个正在用沙子和代码块开发视频游戏的孩子。他们讨论了编程语言、库以及完成项目的重要性。开发者变得越来越沮丧，并对孩子大喊大叫，孩子开始哭泣，引发了一场泪水洪水，淹没了开发者。",
+    "best_quote_en": "You should strive to create something new and unique, something that others will truly enjoy!",
+    "best_quote_zh": "你应该努力创造一些新的和独特的东西，一些其他人会真正喜欢的东西！"
+  },
+  {
+    "id": 582,
+    "title": "Show HN: LTXMac a native Mac app to do text to video generation",
+    "source": "Hackernews",
+    "desc": "<p>LTX Video Generator is a beautiful, native macOS application built with SwiftUI. It harnesses the power of Apple Silicon to generate AI videos directly on your Mac using the LTX-Video model from Lightricks.<p>Key Features\nApple Silicon Optimized - Leverages Metal Performance Shaders (MPS) for fast GPU-accelerated generation\nIntuitive Interface - Clean, native macOS design that feels right at home\nGeneration Queue - Queue multiple videos and track progress in real-time\nSmart History - Browse, preview, and manage all your generated videos with thumbnails\nFlexible Presets - Quick access to common configurations or customize every parameter</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46551078\">https://news.ycombinator.com/item?id=46551078</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://james-see.github.io/ltx-video-mac/",
+    "tags": [
+      "macos",
+      "ai video generation",
+      "apple silicon",
+      "swiftui",
+      "open source"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "LTXMac is a native macOS application that uses Apple Silicon to generate AI videos directly on your Mac using the LTX-Video model. It features Apple Silicon optimization, an intuitive interface, a generation queue, smart history, and flexible presets. The application is open source and welcomes contributions.",
+    "summary_zh": "LTXMac 是一款原生的 macOS 应用程序，它使用 Apple Silicon 在您的 Mac 上直接生成 AI 视频，使用的模型是 LTX-Video。它具有 Apple Silicon 优化、直观的界面、生成队列、智能历史记录和灵活的预设。该应用程序是开源的，欢迎大家贡献。",
+    "best_quote_en": "Transform text into stunning AI-generated videos on your Mac.",
+    "best_quote_zh": "在你的 Mac 上将文本转化为惊艳的 AI 生成视频。"
+  },
+  {
+    "id": 583,
+    "title": "Show HN: Ever wanted to look at yourself in Braille?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/NishantJoshi00/dith\">https://github.com/NishantJoshi00/dith</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46551065\">https://news.ycombinator.com/item?id=46551065</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/NishantJoshi00/dith",
+    "tags": [
+      "dithering",
+      "image processing",
+      "zig",
+      "terminal",
+      "macos"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "Dith is a Zig-built tool that renders images and live webcam feeds in your terminal using classic dithering algorithms like Atkinson and Floyd-Steinberg. It supports various options for fine-tuning the output, such as adjusting sensitivity and inverting colors. It requires Zig 0.15.1+ and macOS for camera support.",
+    "summary_zh": "Dith是一个使用Zig构建的工具，它使用经典的抖动算法（如Atkinson和Floyd-Steinberg）在终端中渲染图像和实时摄像头画面。它支持各种微调输出的选项，例如调整灵敏度和反转颜色。它需要Zig 0.15.1+和macOS才能支持摄像头。",
+    "best_quote_en": "No dependencies, just vibes.",
+    "best_quote_zh": "没有依赖，只有氛围。"
+  },
+  {
+    "id": 584,
+    "title": "How to Choose CD/DVD Archival Media (2013)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://adterrasperaspera.com/blog/2006/10/30/how-to-choose-cddvd-archival-media/\">https://adterrasperaspera.com/blog/2006/10/30/how-to-choose-cddvd-archival-media/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46551045\">https://news.ycombinator.com/item?id=46551045</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://adterrasperaspera.com/blog/2006/10/30/how-to-choose-cddvd-archival-media/",
+    "tags": [
+      "cd",
+      "dvd",
+      "archival media",
+      "dvd+r",
+      "dvd-r"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This article discusses how to choose archival quality CD/DVD media, focusing on the history of compact discs and DVDs. It highlights the importance of media quality, including sealing method, reflective layer, and organic dye makeup. DVD+R is presented as superior to DVD-R due to better error correction and laser tracking. Proper storage practices are essential for extending the lifespan of media.",
+    "summary_zh": "本文讨论了如何选择高质量的CD/DVD光盘作为存档媒介，重点介绍了CD和DVD的历史。文章强调了光盘质量的重要性，包括密封方法、反射层和有机染料的成分。DVD+R由于其更好的纠错能力和激光跟踪系统，被认为是优于DVD-R的选择。适当的存储方式对于延长光盘的寿命至关重要。",
+    "best_quote_en": "Unlike pressed CDs/DVDs, ‘burnt’ CDs/DVDs can eventually ‘fade’, due to five things that effect the quality of CD media: Sealing method, reflective layer, organic dye makeup, where it was manufactured, and your storage practices.",
+    "best_quote_zh": "与压制的CD/DVD不同，刻录的CD/DVD最终会“褪色”，这归因于影响CD质量的五个因素：密封方法、反射层、有机染料成分、生产地以及你的存储方式。"
   }]
