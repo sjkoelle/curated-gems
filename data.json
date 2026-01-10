@@ -10933,4 +10933,79 @@
     "summary_zh": "本文讨论了如何选择高质量的CD/DVD光盘作为存档媒介，重点介绍了CD和DVD的历史。文章强调了光盘质量的重要性，包括密封方法、反射层和有机染料的成分。DVD+R由于其更好的纠错能力和激光跟踪系统，被认为是优于DVD-R的选择。适当的存储方式对于延长光盘的寿命至关重要。",
     "best_quote_en": "Unlike pressed CDs/DVDs, ‘burnt’ CDs/DVDs can eventually ‘fade’, due to five things that effect the quality of CD media: Sealing method, reflective layer, organic dye makeup, where it was manufactured, and your storage practices.",
     "best_quote_zh": "与压制的CD/DVD不同，刻录的CD/DVD最终会“褪色”，这归因于影响CD质量的五个因素：密封方法、反射层、有机染料成分、生产地以及你的存储方式。"
+  },{
+    "id": 585,
+    "title": "More efficient protection against universal jailbreaks",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.anthropic.com/research/next-generation-constitutional-classifiers\">https://www.anthropic.com/research/next-generation-constitutional-classifiers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46563740\">https://news.ycombinator.com/item?id=46563740</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+    "tags": [
+      "jailbreak",
+      "large language models",
+      "security",
+      "constitutional classifiers",
+      "ai safety"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "The article discusses Constitutional Classifiers++, a next-generation defense against jailbreaks in large language models. It features a two-stage architecture with a probe and a more powerful classifier, significantly improving robustness and lowering refusal rates while minimizing compute costs. The system addresses reconstruction and output obfuscation attacks, demonstrating improved security against universal jailbreaks.",
+    "summary_zh": "文章讨论了Constitutional Classifiers++，这是一种用于防御大型语言模型中越狱攻击的下一代防御系统。它采用了一种两阶段架构, 包括一个探测器和一个更强大的分类器，显著提高了鲁棒性，降低了拒绝率，同时最大限度地降低了计算成本。该系统解决了重构和输出混淆攻击，展示了针对通用越狱的改进安全性。",
+    "best_quote_en": "As models have grown to be more capable and robust to attacks, jailbreaks have also evolved to exploit previously unidentified vulnerabilities.",
+    "best_quote_zh": "随着模型变得越来越强大和更能抵抗攻击，越狱技术也随之发展，以利用以前未发现的漏洞。"
+  },
+  {
+    "id": 586,
+    "title": "An Interface Is a Set of Functions",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://codestyleandtaste.com/interface-is-a-set.html\">https://codestyleandtaste.com/interface-is-a-set.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46563736\">https://news.ycombinator.com/item?id=46563736</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://codestyleandtaste.com/interface-is-a-set.html",
+    "tags": [
+      "interface",
+      "functions",
+      "communication",
+      "codebase",
+      "design"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "This article discusses interfaces as sets of functions for enabling work on types with different behaviors. It highlights IO, Messages, and Commands interfaces, emphasizing that they offer no guarantees beyond having a set of functions. The piece argues against viewing interfaces as abstractions, suggesting they facilitate communication between classes without requiring knowledge of each other.",
+    "summary_zh": "本文讨论了接口作为函数集合的概念，用于处理具有不同行为的类型。重点介绍了IO、Messages和Commands接口，强调它们除了拥有一组函数外不提供任何保证。文章反对将接口视为抽象，认为它们促进了类之间的通信，而无需彼此了解。",
+    "best_quote_en": "If you think of an interface as a way for two classes to communicate without knowing about each other, you're closer to the reality of this codebase.",
+    "best_quote_zh": "如果你认为接口是两个类在互不了解的情况下进行通信的一种方式，那么你就更接近于此代码库的现实情况。"
+  },
+  {
+    "id": 587,
+    "title": "Weave",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/rosem/codex-weave/tree/weave\">https://github.com/rosem/codex-weave/tree/weave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46563720\">https://news.ycombinator.com/item?id=46563720</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/rosem/codex-weave/tree/weave",
+    "tags": [
+      "weave",
+      "codex",
+      "cli",
+      "agent coordination",
+      "relay workflow"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "Weave is a fork of Codex CLI that enables agent-to-agent coordination using Weave sessions, agent naming, and relay workflows. It allows users to join sessions, set agent names, and relay tasks to other agents using \"#agent\" mentions. A coordinator manages sessions and agents, and multiple Codex instances can share a coordinator.",
+    "summary_zh": "Weave是Codex CLI的一个分支，它通过Weave会话、代理命名和中继工作流来实现代理之间的协调。它允许用户加入会话，设置代理名称，并使用“#agent”提及将任务中继给其他代理。协调器管理会话和代理，并且多个Codex实例可以共享一个协调器。",
+    "best_quote_en": "Use `#` mentions in a prompt to relay tasks to other agents in the current session.",
+    "best_quote_zh": "在提示中使用“#”提及，将任务传递给当前会话中的其他代理。"
+  },
+  {
+    "id": 588,
+    "title": "Scientists Messed Around with LSD and Invented a New Brain-Healing Drug",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.vice.com/en/article/scientists-messed-around-with-lsd-invented-new-drug/\">https://www.vice.com/en/article/scientists-messed-around-with-lsd-invented-new-drug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46563717\">https://news.ycombinator.com/item?id=46563717</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.vice.com/en/article/scientists-messed-around-with-lsd-invented-new-drug/",
+    "tags": [
+      "lsd",
+      "schizophrenia",
+      "jrt",
+      "brain health",
+      "antidepressant"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "UC Davis researchers modified LSD's molecular structure, creating a new compound, JRT, that can potentially treat schizophrenia and depression without hallucinogenic effects. JRT regrew brain cells and mended neural pathways in mice, reducing schizophrenia symptoms and acting as a potent antidepressant, outperforming ketamine in trials. Further testing is underway.",
+    "summary_zh": "加州大学戴维斯分校的研究人员修改了LSD的分子结构，创造了一种名为JRT的新化合物，有可能在没有致幻效果的情况下治疗精神分裂症和抑郁症。JRT在小鼠中再生了脑细胞并修复了神经通路，减少了精神分裂症的症状，并作为一种有效的抗抑郁药，在试验中优于氯胺酮。目前正在进行进一步的测试。",
+    "best_quote_en": "Psychedelics might be the scaffolding we use to build the next generation of mental health treatments, and you won’t have to worry about seeing a demon’s face in a carpet pattern just to get better — and all because they moved around two little atoms.",
+    "best_quote_zh": "迷幻药可能是我们用来构建下一代精神健康疗法的支架，你无需担心在为了好转而在地毯图案中看到魔鬼的脸——而这一切都因为他们移动了两个小原子。"
   }]
