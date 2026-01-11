@@ -11008,4 +11008,79 @@
     "summary_zh": "加州大学戴维斯分校的研究人员修改了LSD的分子结构，创造了一种名为JRT的新化合物，有可能在没有致幻效果的情况下治疗精神分裂症和抑郁症。JRT在小鼠中再生了脑细胞并修复了神经通路，减少了精神分裂症的症状，并作为一种有效的抗抑郁药，在试验中优于氯胺酮。目前正在进行进一步的测试。",
     "best_quote_en": "Psychedelics might be the scaffolding we use to build the next generation of mental health treatments, and you won’t have to worry about seeing a demon’s face in a carpet pattern just to get better — and all because they moved around two little atoms.",
     "best_quote_zh": "迷幻药可能是我们用来构建下一代精神健康疗法的支架，你无需担心在为了好转而在地毯图案中看到魔鬼的脸——而这一切都因为他们移动了两个小原子。"
+  },{
+    "id": 589,
+    "title": "I hope to help you evaluate your GenAI App",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/shihongDev/evalyn\">https://github.com/shihongDev/evalyn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46573522\">https://news.ycombinator.com/item?id=46573522</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/shihongDev/evalyn",
+    "tags": [
+      "genai",
+      "evaluation",
+      "calibration",
+      "llm",
+      "metrics"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "Evalyn is a local-first framework for evaluating and calibrating GenAI applications. It offers features like lightweight tracing, human annotation, metric suggestion, and auto calibration to help developers improve their applications. It supports a full evaluation pipeline, from data collection to evaluation and expansion, with easy onboarding and fully local data storage.",
+    "summary_zh": "Evalyn是一个本地优先的框架，用于评估和校准GenAI应用程序。它提供轻量级追踪、人工标注、指标建议和自动校准等功能，以帮助开发者改进他们的应用程序。它支持从数据收集到评估和扩展的完整评估流程，具有简单的上手操作和完全本地的数据存储。",
+    "best_quote_en": "Align LLM judges with human feedback through automatic prompt optimization such as GEPA.",
+    "best_quote_zh": "通过自动提示优化（例如GEPA）将LLM判断与人工反馈对齐。"
+  },
+  {
+    "id": 590,
+    "title": "What do you think about a \"linter\" for code logic?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://commitguard.ai\">https://commitguard.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46573513\">https://news.ycombinator.com/item?id=46573513</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://commitguard.ai",
+    "tags": [
+      "linter",
+      "code quality",
+      "bug detection",
+      "security",
+      "performance"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "CommitGuard is a tool that acts as a linter for code logic, catching bugs and anti-patterns before they are pushed. It offers features like security, architecture, code quality, and performance checks, all while prioritizing user privacy. Customizable rules and developer-friendly overrides are also provided.",
+    "summary_zh": "CommitGuard 是一款代码逻辑检查工具，可以在推送之前捕获错误和反模式。它提供安全性、架构、代码质量和性能检查等功能，同时优先考虑用户隐私。还提供可自定义的规则和对开发者友好的覆盖选项。",
+    "best_quote_en": "Commit-based reviews give precise, actionable insights that actually help developers improve.",
+    "best_quote_zh": "基于提交的审查可以提供精确、可操作的见解，从而真正帮助开发人员改进。"
+  },
+  {
+    "id": 591,
+    "title": "Removing Tahoe's Unwanted Menu Icons",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/\">https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46573509\">https://news.ycombinator.com/item?id=46573509</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/",
+    "tags": [
+      "macos",
+      "menu icons",
+      "user interface",
+      "apple",
+      "rogue amoeba"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "The article discusses the issue of unwanted menu icons in MacOS Tahoe and how Apple's implementation has made menus cluttered and less usable. Rogue Amoeba found a way to remove these forced icons, restoring clean menus to their apps, and encourages other developers to follow suit.",
+    "summary_zh": "本文讨论了MacOS Tahoe中不需要的菜单图标的问题，以及苹果的实现如何使菜单变得混乱且难以使用。Rogue Amoeba找到了一种删除这些强制图标的方法，从而恢复了其应用程序的简洁菜单，并鼓励其他开发人员也这样做。",
+    "best_quote_en": "We can’t fix the entire OS, but we don’t have to perpetuate its problems within our own products.",
+    "best_quote_zh": "我们无法修复整个操作系统，但我们不必在我们自己的产品中延续它的问题。"
+  },
+  {
+    "id": 592,
+    "title": "Gixy-Next: Nginx Configuration Security and Hardening Scanner",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://gixy.io/\">https://gixy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46573492\">https://news.ycombinator.com/item?id=46573492</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://gixy.io/",
+    "tags": [
+      "nginx",
+      "security scanner",
+      "configuration",
+      "gixy-next",
+      "open-source"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "Gixy-Next is an open-source NGINX configuration security scanner for detecting security misconfigurations and performance pitfalls. It can be run locally or in-browser, analyzing nginx.conf files. It identifies issues like HTTP splitting, SSRF, and version disclosure, offering automated security reviews and compliance checks.",
+    "summary_zh": "Gixy-Next是一个开源的NGINX配置安全扫描器，用于检测安全错误配置和性能缺陷。它可以本地或在浏览器中运行，分析nginx.conf文件。它能识别如HTTP分割、SSRF和版本泄露等问题，提供自动化的安全审查和合规性检查。",
+    "best_quote_en": "With Gixy-Next, you can perform an automated NGINX configuration security review that can run locally on every change, whether for auditing, compliance, or general testing, helping produce actionable findings that help prevent unstable/slow NGINX servers, and reduce risk from unsafe directives and insecure defaults.",
+    "best_quote_zh": "通过Gixy-Next，您可以执行自动化的NGINX配置安全审查，该审查可以在每次更改时本地运行，无论是用于审计、合规性还是通用测试，从而帮助生成可操作的发现，这些发现有助于防止不稳定的/缓慢的NGINX服务器，并降低不安全指令和不安全默认设置带来的风险。"
   }]
