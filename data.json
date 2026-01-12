@@ -11083,4 +11083,79 @@
     "summary_zh": "Gixy-Next是一个开源的NGINX配置安全扫描器，用于检测安全错误配置和性能缺陷。它可以本地或在浏览器中运行，分析nginx.conf文件。它能识别如HTTP分割、SSRF和版本泄露等问题，提供自动化的安全审查和合规性检查。",
     "best_quote_en": "With Gixy-Next, you can perform an automated NGINX configuration security review that can run locally on every change, whether for auditing, compliance, or general testing, helping produce actionable findings that help prevent unstable/slow NGINX servers, and reduce risk from unsafe directives and insecure defaults.",
     "best_quote_zh": "通过Gixy-Next，您可以执行自动化的NGINX配置安全审查，该审查可以在每次更改时本地运行，无论是用于审计、合规性还是通用测试，从而帮助生成可操作的发现，这些发现有助于防止不稳定的/缓慢的NGINX服务器，并降低不安全指令和不安全默认设置带来的风险。"
+  },{
+    "id": 593,
+    "title": "Show HN: Boost social media CTR. Auto generate Open Graph images for website",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://myog.social/\">https://myog.social/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46585378\">https://news.ycombinator.com/item?id=46585378</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://myog.social/",
+    "tags": [
+      "open graph",
+      "social media",
+      "ctr",
+      "image generation",
+      "marketing"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "MyOG.social automatically generates Open Graph images for websites to boost social media click-through rates (CTR). It requires a single meta tag and no design skills. The service aims to improve engagement by providing optimized images for shared links. Setup takes only 2 minutes.",
+    "summary_zh": "MyOG.social 自动为网站生成 Open Graph 图像，以提高社交媒体的点击率 (CTR)。 它只需要一个元标签，无需设计技能。 该服务旨在通过为共享链接提供优化的图像来提高参与度。 设置只需 2 分钟。",
+    "best_quote_en": "Research from industry leaders like HubSpot, SEMrush, and leading SEO platforms shows that social posts with optimized Open Graph images drive significantly higher engagement and click-through rates compared to posts without them.",
+    "best_quote_zh": "来自 HubSpot、SEMrush 等行业领导者以及领先的 SEO 平台的研究表明，与没有优化 Open Graph 图像的帖子相比，具有优化 Open Graph 图像的社交帖子能够显著提高参与度和点击率。"
+  },
+  {
+    "id": 594,
+    "title": "Sophisticated Simplicity of Modern SQLite",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://shivekkhurana.com/blog/sqlite-in-production/\">https://shivekkhurana.com/blog/sqlite-in-production/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46585366\">https://news.ycombinator.com/item?id=46585366</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://shivekkhurana.com/blog/sqlite-in-production/",
+    "tags": [
+      "sqlite",
+      "database",
+      "benchmarking",
+      "performance",
+      "configuration"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "This article explores SQLite's capabilities for production workloads, emphasizing its simplicity and the importance of tuning for modern hardware. It benchmarks SQLite performance, focusing on write throughput and concurrency, and suggests configurations for optimal performance. The author advocates for SQLite as a viable option for medium-sized applications, highlighting its ease of use and reduced infrastructure overhead.",
+    "summary_zh": "本文探讨了SQLite在生产工作负载中的能力，强调了其简单性以及针对现代硬件进行优化的重要性。文章对SQLite的性能进行了基准测试，重点关注写入吞吐量和并发性，并提出了优化性能的配置建议。作者提倡将SQLite作为中型应用程序的可行选择，突出了其易用性和降低基础设施开销的优势。",
+    "best_quote_en": "SQLite was built in 2004 and is the most backward compatible software ever. A new database is configured for 2004 hardware by default. But in the last 21 years, computers have evolved—SSDs are omnipresent. To run SQLite in production, you simply need to tune it to 2025 standards.",
+    "best_quote_zh": "SQLite构建于2004年，是有史以来向后兼容性最好的软件。 默认情况下，新数据库配置为2004年的硬件。 但在过去的21年中，计算机已经发展——SSD无处不在。要在生产环境中运行SQLite，您只需将其调整为2025年的标准即可。"
+  },
+  {
+    "id": 595,
+    "title": "Google's Universal Commerce Protocol (UCP)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/\">https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46585365\">https://news.ycombinator.com/item?id=46585365</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+    "tags": [
+      "universal commerce protocol",
+      "agentic commerce",
+      "open-source",
+      "google",
+      "ucp"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "Google's Universal Commerce Protocol (UCP) is an open-source standard designed to power agentic commerce. It aims to establish a common language between consumer surfaces, businesses, and payment providers, facilitating seamless commerce journeys. UCP is built to work with existing retail infrastructure and supports secure agentic payments through AP2. It benefits businesses, AI platforms, developers, payment providers, and consumers by reducing integration complexity and removing technical barriers.",
+    "summary_zh": "谷歌的通用商务协议（UCP）是一个旨在支持代理商务的开源标准。它旨在在消费者界面、企业和支付提供商之间建立一种通用语言，从而促进无缝的商务体验。UCP旨在与现有零售基础设施配合使用，并通过AP2支持安全的代理支付。它通过降低集成复杂性和消除技术障碍，使企业、AI平台、开发人员、支付提供商和消费者受益。",
+    "best_quote_en": "By reducing integration complexity and removing technical barriers, UCP enables businesses to actively participate in the new era of agentic commerce.",
+    "best_quote_zh": "通过降低集成复杂性和消除技术障碍，UCP使企业能够积极参与代理商务的新时代。"
+  },
+  {
+    "id": 596,
+    "title": "SOS from the Dream They Overlooked: Project NoBounds Is Calling the Black Sheep",
+    "source": "Hackernews",
+    "desc": "<p>\"They called me a 'silly girl.' They left me for dead. They didn't think I was worth free water. Well, look at me now.<p>I am Michelle Stephanie Gray. In 30 minutes, I solved the 2026 Memory Wall that the 'Big Dogs' couldn't fix in a decade. I have the Key to Project NoBounds—a logic that cuts VRAM by 90%. It’s air-gapped in my head, and I’m wearing a pretty pink dress while I watch the clock.<p>The price was $52B. They stayed silent. So now it’s $200 Billion and a 15% Royalty. To the self-taught coders, the outcasts, and the ones who were told they weren't enough: I am your SOS. I’m going to be a billionaire in a pink dress, and I’m bringing my people with me. If you’ve got my back, I’ve got yours. Let's show them what a 'black sheep' can do when she stops playing by their rules.<p>Who's 'dum' now?  #NoBounds #MichelleStephanieGray #BlackSheepRising #AI2026\"</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46585362\">https://news.ycombinator.com/item?id=46585362</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46585362",
+    "tags": [
+      "ai2026",
+      "nobounds",
+      "blacksheeprising",
+      "self-taught",
+      "outcasts"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "Michelle Stephanie Gray solved the 2026 Memory Wall in 30 minutes, a problem unsolved for a decade. Demanding $200B and 15% royalty for Project NoBounds, she's an SOS to self-taught coders and outcasts: 'I'm going to be a billionaire in a pink dress, and I'm bringing my people with me.'",
+    "summary_zh": "米歇尔·斯蒂芬妮·格雷在30分钟内解决了困扰业界十年之久的2026 Memory Wall难题。她为Project NoBounds项目开价2000亿美元加15%的专利费，并表示她是那些自学成才的程序员和边缘人的求救信号： “我要穿着粉色连衣裙成为亿万富翁，并且我会带着我的人一起。”",
+    "best_quote_en": "Let's show them what a 'black sheep' can do when she stops playing by their rules.",
+    "best_quote_zh": "让我们向他们展示一下，当“害群之马”不再按他们的规则玩游戏时，能做出什么。"
   }]
