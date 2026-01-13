@@ -11158,4 +11158,60 @@
     "summary_zh": "米歇尔·斯蒂芬妮·格雷在30分钟内解决了困扰业界十年之久的2026 Memory Wall难题。她为Project NoBounds项目开价2000亿美元加15%的专利费，并表示她是那些自学成才的程序员和边缘人的求救信号： “我要穿着粉色连衣裙成为亿万富翁，并且我会带着我的人一起。”",
     "best_quote_en": "Let's show them what a 'black sheep' can do when she stops playing by their rules.",
     "best_quote_zh": "让我们向他们展示一下，当“害群之马”不再按他们的规则玩游戏时，能做出什么。"
+  },{
+    "id": 597,
+    "title": "Show HN: HN Print – turn Hacker News stories into a printable newspaper",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://hn-print.ahmeto.com/\">https://hn-print.ahmeto.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46598301\">https://news.ycombinator.com/item?id=46598301</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://hn-print.ahmeto.com/",
+    "tags": [
+      "hacker news",
+      "print",
+      "newspaper",
+      "pdf",
+      "web app"
+    ],
+    "date": "2026-01-13",
+    "summary_en": "HN Print is a project that turns Hacker News stories into a printable newspaper format, inspired by The Substack Print. It allows users to fetch, print, or save as PDF the current Hacker News stories. The project is not affiliated with HN or Y Combinator.",
+    "summary_zh": "HN Print是一个将Hacker News上的故事转化为可打印报纸格式的项目，其灵感来源于The Substack Print。它允许用户获取、打印或保存当前Hacker News的故事为PDF格式。该项目与HN或Y Combinator无关。",
+    "best_quote_en": "turn hacker news stories into a printable newspaper",
+    "best_quote_zh": "将Hacker News的故事转化为可打印的报纸"
+  },
+  {
+    "id": 598,
+    "title": "Ask HN: What's your opinion on a VR/XR business?",
+    "source": "Hackernews",
+    "desc": "<p>A friend suggested that I join them in a VR/XR business, It’s not actually a formal business yet, the company hasn’t even been legally established, but they have developed a solution. He told me that three people have contacted him about buying the solution, and one wanted a partnership (though they didn’t want to pay all the fees). They haven’t done any marketing yet, but users are finding the website online.<p>I’ll join anyway, but I want to know what the market value is and what really makes a VR/XR business successful, one that could allow me to quit my job.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46598293\">https://news.ycombinator.com/item?id=46598293</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46598293",
+    "tags": [
+      "vr",
+      "xr",
+      "business",
+      "market value",
+      "partnership"
+    ],
+    "date": "2026-01-13",
+    "summary_en": "A person is considering joining a friend's VR/XR business that has developed a solution with potential buyers and partnership interests, even before formal establishment or marketing. They seek insights on the market value and success factors for a VR/XR business to determine if it's viable enough to leave their current job.",
+    "summary_zh": "有人正在考虑加入朋友的VR/XR业务，该业务已经开发出解决方案，并且在正式成立或营销之前就具有潜在的买家和合作意向。他们正在寻求关于VR/XR业务市场价值和成功因素的见解，以确定它是否可行到足以离开他们目前的工作。",
+    "best_quote_en": "I want to know what the market value is and what really makes a VR/XR business successful, one that could allow me to quit my job.",
+    "best_quote_zh": "我想知道市场价值是什么，以及是什么真正使VR/XR业务成功，一个能够让我辞掉现在的工作的业务。"
+  },
+  {
+    "id": 599,
+    "title": "Havana Syndrome Device Purchased",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi\">https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46598284\">https://news.ycombinator.com/item?id=46598284</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi",
+    "tags": [
+      "havana syndrome",
+      "device",
+      "intelligence",
+      "russia",
+      "health incidents"
+    ],
+    "date": "2026-01-13",
+    "summary_en": "The US Defense Department has been testing a device potentially linked to Havana Syndrome, purchased for millions by Homeland Security. The device emits pulsed radio waves and contains Russian components. Its acquisition has reignited debate about the cause of the mysterious illness affecting US personnel, with victims seeking acknowledgment and apologies.",
+    "summary_zh": "美国国防部一直在测试一种可能与哈瓦那综合征有关的设备，该设备由国土安全部花费数百万美元购买。该设备发射脉冲无线电波，并包含俄罗斯组件。它的获得重新引发了关于影响美国人员的神秘疾病原因的辩论，受害者正在寻求承认和道歉。",
+    "best_quote_en": "If the [US government] has indeed uncovered such devices, then the CIA owes all the victims a f**king major and public apology for how we have been treated as pariahs.",
+    "best_quote_zh": "如果[美国政府]确实发现了这样的设备，那么中央情报局应该向所有受害者公开道歉，因为我们一直被当作贱民对待。"
   }]
