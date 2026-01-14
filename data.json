@@ -11214,4 +11214,98 @@
     "summary_zh": "美国国防部一直在测试一种可能与哈瓦那综合征有关的设备，该设备由国土安全部花费数百万美元购买。该设备发射脉冲无线电波，并包含俄罗斯组件。它的获得重新引发了关于影响美国人员的神秘疾病原因的辩论，受害者正在寻求承认和道歉。",
     "best_quote_en": "If the [US government] has indeed uncovered such devices, then the CIA owes all the victims a f**king major and public apology for how we have been treated as pariahs.",
     "best_quote_zh": "如果[美国政府]确实发现了这样的设备，那么中央情报局应该向所有受害者公开道歉，因为我们一直被当作贱民对待。"
+  },{
+    "id": 600,
+    "title": "Patches Popular Python Libraries Used in Hugging Face Models",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2026/01/13/ai_python_library_bugs_allow/\">https://www.theregister.com/2026/01/13/ai_python_library_bugs_allow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46613451\">https://news.ycombinator.com/item?id=46613451</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
+    "tags": [
+      "hugging face",
+      "python libraries",
+      "vulnerabilities",
+      "metadata",
+      "hydra"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "Vulnerabilities in Python libraries used in Hugging Face models allow attackers to inject malicious code via metadata. The flaws, found in libraries from Nvidia, Salesforce, and Apple, use Hydra's instantiate() function. Patches and fixes have been released, but the threat remains if models with poisoned metadata are loaded. Hugging Face has been notified.",
+    "summary_zh": "Hugging Face模型中使用的Python库存在漏洞，攻击者可以通过元数据注入恶意代码。这些漏洞存在于Nvidia、Salesforce和Apple的库中，利用了Hydra的instantiate()函数。已经发布了补丁和修复程序，但如果加载含有恶意元数据的模型，威胁仍然存在。Hugging Face已被告知此事。",
+    "best_quote_en": "\"It is common for developers to create their own variations of state-of-the-art models with different fine-tunings and quantizations, often from researchers unaffiliated with any reputable institution,\" Unit 42 malware research engineer Curtis Carmony wrote in a Tuesday analysis.",
+    "best_quote_zh": "Unit 42的恶意软件研究工程师Curtis Carmony在周二的分析中写道：“开发者们通常会创建他们自己版本的最先进模型，进行不同的微调和量化，而且通常来自与任何信誉良好的机构无关的研究人员。”"
+  },
+  {
+    "id": 601,
+    "title": "I Manage My Personal Infrastructure in 2026",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://taoofmac.com/space/blog/2026/01/09/1900\">https://taoofmac.com/space/blog/2026/01/09/1900</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46613447\">https://news.ycombinator.com/item?id=46613447</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://taoofmac.com/space/blog/2026/01/09/1900",
+    "tags": [
+      "homelab",
+      "docker",
+      "cloudflare",
+      "tailscale",
+      "sqlite"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "The author manages personal infrastructure in 2026 with a focus on simplicity and security. Key strategies include zero exposed endpoints using Cloudflare and Tailscale, static site generation, and containerized deployments with Docker Compose. They prioritize cost-effectiveness and ease of maintenance, favoring SQLite for data storage and avoiding Kubernetes for its complexity.",
+    "summary_zh": "作者分享了在2026年如何管理个人基础设施，重点关注简单性和安全性。关键策略包括使用Cloudflare和Tailscale实现零暴露端点，静态站点生成，以及使用Docker Compose进行的容器化部署。他们优先考虑成本效益和易于维护，倾向于使用SQLite进行数据存储，并避免使用Kubernetes，因为它过于复杂。",
+    "best_quote_en": "If it’s not exposed to the Internet, then it’s not something I ever need to worry about.",
+    "best_quote_zh": "如果它没有暴露在互联网上，那么我就永远不需要担心它。"
+  },
+  {
+    "id": 602,
+    "title": "AI as Entertainment",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2601.08768\">https://arxiv.org/abs/2601.08768</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46613446\">https://news.ycombinator.com/item?id=46613446</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2601.08768",
+    "tags": [
+      "artificial intelligence",
+      "entertainment",
+      "generative ai",
+      "cultural impact",
+      "thick entertainment"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "This paper argues that AI is increasingly used for entertainment, especially by young people, and this trend will significantly influence AI development. Current AI evaluation focuses heavily on cultural harms but lacks frameworks for assessing entertainment's benefits. The authors propose 'thick entertainment' as a framework to evaluate AI-generated cultural content, considering its role in meaning-making, identity formation, and social connection.",
+    "summary_zh": "本文认为人工智能越来越多地被用于娱乐，尤其是在年轻人中，这种趋势将显著影响人工智能的发展。 目前的人工智能评估侧重于衡量文化危害，但缺乏评估娱乐益处的框架。作者提出了“厚娱乐”作为一个框架，用于评估人工智能生成的文化内容，考虑其在意义创造、身份形成和社会联系中的作用。",
+    "best_quote_en": "While AI is often touted for its potential to revolutionize productivity, in the long run we may find that AI turns out to be as much about \"intelligence\" as social media is about social connection.",
+    "best_quote_zh": "虽然人工智能经常被吹捧为具有彻底改变生产力的潜力，但从长远来看，我们可能会发现人工智能与“智能”的关系，就像社交媒体与社会连接的关系一样。"
+  },
+  {
+    "id": 603,
+    "title": "Sargasso Sea",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Sargasso_Sea\">https://en.wikipedia.org/wiki/Sargasso_Sea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46613434\">https://news.ycombinator.com/item?id=46613434</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Sargasso_Sea",
+    "tags": [
+      "sargasso sea",
+      "atlantic ocean",
+      "sargassum",
+      "ocean currents",
+      "marine ecology"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "The Sargasso Sea is a region in the North Atlantic Ocean, uniquely bounded by ocean currents rather than land. Known for its Sargassum seaweed and clear, deep blue waters, it plays a vital role in marine ecology and has a rich history of exploration and scientific research.",
+    "summary_zh": "萨加索海是北大西洋的一个区域，独特之处在于它由洋流而非陆地边界所环绕。以其马尾藻海藻和清澈深蓝的海水而闻名，它在海洋生态中起着至关重要的作用，并拥有丰富的勘探和科学研究历史。",
+    "best_quote_en": "It is the only named sea without land boundaries.",
+    "best_quote_zh": "它是唯一一个没有陆地边界的被命名的海。"
+  },
+  {
+    "id": 604,
+    "title": "Better `pre-commit`, re-engineered in Rust",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/j178/prek\">https://github.com/j178/prek</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46613433\">https://news.ycombinator.com/item?id=46613433</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/j178/prek",
+    "tags": [
+      "pre-commit",
+      "prek",
+      "rust",
+      "hooks",
+      "automation"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "prek is a faster, Rust-based reimplementation of pre-commit, designed as a dependency-free, drop-in replacement. It's compatible with existing configurations and features monorepo support, uv integration, and improved toolchain management. Prek offers a better user experience and improved hook management compared to pre-commit.",
+    "summary_zh": "prek 是 pre-commit 的一个更快、基于 Rust 的重新实现，旨在作为一个无需依赖的、直接替换方案。它与现有配置兼容，并具有 monorepo 支持、uv 集成和改进的工具链管理。与 pre-commit 相比，Prek 提供了更好的用户体验和改进的钩子管理。",
+    "best_quote_en": "No need to install Python or any other runtime, just download a single binary.",
+    "best_quote_zh": "无需安装 Python 或任何其他运行时，只需下载一个单独的二进制文件即可。"
   }]
