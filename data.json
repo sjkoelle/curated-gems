@@ -11308,4 +11308,79 @@
     "summary_zh": "prek 是 pre-commit 的一个更快、基于 Rust 的重新实现，旨在作为一个无需依赖的、直接替换方案。它与现有配置兼容，并具有 monorepo 支持、uv 集成和改进的工具链管理。与 pre-commit 相比，Prek 提供了更好的用户体验和改进的钩子管理。",
     "best_quote_en": "No need to install Python or any other runtime, just download a single binary.",
     "best_quote_zh": "无需安装 Python 或任何其他运行时，只需下载一个单独的二进制文件即可。"
+  },{
+    "id": 605,
+    "title": "A letter to those who fired tech writers because of AI",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://passo.uno/letter-those-who-fired-tech-writers-ai/\">https://passo.uno/letter-those-who-fired-tech-writers-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46629474\">https://news.ycombinator.com/item?id=46629474</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
+    "tags": [
+      "technical writing",
+      "ai",
+      "documentation",
+      "llm",
+      "augmentation"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "The article argues against replacing tech writers with AI, stating it's a mistake. AI-generated documentation lacks intelligence, empathy, and accountability. The author advocates for augmenting tech writers with AI tools, enabling them to create better documentation and a more effective product. Technical writers translate complex information into something usable, and their value shouldn't be underestimated.",
+    "summary_zh": "本文反对用AI取代技术文档编写人员，认为这是一个错误。AI生成的文档缺乏智能、理解力和责任。作者提倡使用AI工具来增强技术文档编写人员的能力，从而创造更好的文档和更有效的产品。技术文档编写人员将复杂信息转化为可用的东西，他们的价值不容低估。",
+    "best_quote_en": "Technical writers aren’t a luxury. They are the people who translate what you’ve built into something others can use.",
+    "best_quote_zh": "技术文档编写人员不是奢侈品，他们是将您构建的产品转化为其他人可以使用的东西的人。"
+  },
+  {
+    "id": 606,
+    "title": "AI tools boost individual scientists but could limit research as a whole",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-025-04092-3\">https://www.nature.com/articles/d41586-025-04092-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46629436\">https://news.ycombinator.com/item?id=46629436</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.nature.com/articles/d41586-025-04092-3",
+    "tags": [
+      "artificial intelligence",
+      "scientific research",
+      "machine learning",
+      "publishing",
+      "automation"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "A study of over 41 million papers reveals that AI tools boost individual scientists' research output, citations, and career progression. However, AI focuses on established fields rather than exploring new ones, raising concerns about its overall impact on scientific exploration and discovery.",
+    "summary_zh": "一项对超过4100万篇论文的研究表明，人工智能工具提高了单个科学家的研究产量、引用量和职业发展。然而，人工智能侧重于已建立的领域，而不是探索新的领域，这引发了对其对科学探索和发现的整体影响的担忧。",
+    "best_quote_en": "The adoption of AI tools in the natural sciences expands scientists’ impact but narrows the set of domains that research is carried out in.",
+    "best_quote_zh": "在自然科学中采用人工智能工具扩大了科学家们的影响，但也缩小了研究进行的领域范围。"
+  },
+  {
+    "id": 607,
+    "title": "Increasing the performance of WebAssembly Text Format parser by 350%",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.gplane.win/posts/improve-wat-parser-perf.html\">https://blog.gplane.win/posts/improve-wat-parser-perf.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46629399\">https://news.ycombinator.com/item?id=46629399</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.gplane.win/posts/improve-wat-parser-perf.html",
+    "tags": [
+      "webassembly",
+      "wat",
+      "parser",
+      "performance",
+      "optimization"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "The author rewrote the WebAssembly Text Format (WAT) parser, achieving a 350% performance increase. Optimizations included using a hand-written parser instead of a parser combinator library, cloning green tokens and nodes, efficient keyword matching, using `get_unchecked` for token creation, using a custom `Token` type, and employing a shared `Vec` to minimize allocations. The result is a significantly faster parser.",
+    "summary_zh": "作者重写了WebAssembly文本格式（WAT）的解析器，性能提高了350%。优化措施包括使用手写解析器代替解析器组合库，克隆绿色token和节点，高效的关键字匹配，使用`get_unchecked`创建token，使用自定义的`Token`类型，以及采用共享的`Vec`来减少内存分配。最终实现了一个速度明显更快的解析器。",
+    "best_quote_en": "While it’s easy to create a parser with parser combinators, it’s generally slower than a hand-written parser, so the first step is to write the parser by hands.",
+    "best_quote_zh": "虽然使用解析器组合器可以很容易地创建一个解析器，但它通常比手写解析器慢，所以第一步就是手写解析器。"
+  },
+  {
+    "id": 608,
+    "title": "Built a CLI package to create and maintain project structures",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pypi.org/project/seed-cli/1.0.0/\">https://pypi.org/project/seed-cli/1.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46629395\">https://news.ycombinator.com/item?id=46629395</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://pypi.org/project/seed-cli/1.0.0/",
+    "tags": [
+      "javascript",
+      "browser",
+      "error",
+      "network",
+      "website"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "The provided text indicates an error message regarding JavaScript being disabled in the browser. It suggests enabling JavaScript and checking for browser extensions, network issues, or browser settings that might be preventing a required part of the site from loading.",
+    "summary_zh": "提供的文本显示一条错误消息，指出浏览器中禁用了 JavaScript。建议启用 JavaScript，并检查浏览器扩展、网络问题或可能阻止网站所需部分加载的浏览器设置。",
+    "best_quote_en": "Please enable JavaScript to proceed.",
+    "best_quote_zh": "请启用 JavaScript 以继续。"
   }]
