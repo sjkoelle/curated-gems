@@ -11477,4 +11477,79 @@
     "summary_zh": "本文讨论了如何优化Kattis问题，重点在于常数因子优化。文章首先使用Dijkstra算法建立了一个基准解决方案，并选定了冰岛高中奥林匹克竞赛中的Reiknivel问题。然后，文章讨论了本地测试和评分系统性能之间的差异，并提出了利用Dijkstra算法特征的改进方案。",
     "best_quote_en": "This does immediately showcase one of the annoying parts about optimization in competitive programming; the hardware you run matters.",
     "best_quote_zh": "这立即展示了竞争性编程中优化令人恼火的部分之一；你运行的硬件很重要。"
+  },{
+    "id": 614,
+    "title": "Iran plans permanent break from global internet, say activists",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/jan/17/iran-plans-permanent-break-from-global-internet-say-activists\">https://www.theguardian.com/world/2026/jan/17/iran-plans-permanent-break-from-global-internet-say-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46656119\">https://news.ycombinator.com/item?id=46656119</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/world/2026/jan/17/iran-plans-permanent-break-from-global-internet-say-activists",
+    "tags": [
+      "iran",
+      "internet censorship",
+      "digital rights",
+      "national internet",
+      "filterwatch"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "Iran plans a permanent split from the global internet, restricting access to vetted individuals. A Filterwatch report indicates unrestricted access will become a \"governmental privilege.\" Following recent internet shutdowns during anti-regime protests, Iran is advancing its national internet, monitored and separate from the global network, a project underway since 2009.",
+    "summary_zh": "伊朗计划永久脱离全球互联网，限制访问权限给经过审查的个人。一份Filterwatch的报告表明，不受限制的访问将成为一种“政府特权”。在最近反政府抗议期间的互联网关闭后，伊朗正在推进其国家互联网，该网络受到监控并与全球网络分离，该项目自2009年以来一直在进行。",
+    "best_quote_en": "It’s not out of the question that they’re going to do it, but seeing these situations unfold, the economic impact and the cultural impact will be really massive. And they may overplay their hand.",
+    "best_quote_zh": "他们要这么做并非没有可能，但看到这些情况的发生，经济和文化影响将非常巨大。他们可能会玩过火。"
+  },
+  {
+    "id": 615,
+    "title": "Show HN: A smart camera that detects eye movements during REM sleep",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/lucidcode/Halovision-INSPEC\">https://github.com/lucidcode/Halovision-INSPEC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46656111\">https://news.ycombinator.com/item?id=46656111</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/lucidcode/Halovision-INSPEC",
+    "tags": [
+      "lucid dreaming",
+      "sleep tech",
+      "smart camera",
+      "eye tracking",
+      "rem sleep"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "Halovision-INSPEC is a lucid dreaming device using a night-vision smart camera to detect eye movements during REM sleep. It triggers audio and visual alerts to promote lucidity, acting like a personal sleep lab technician. It includes software, documentation, API, accessories and instructions to build custom firmware.",
+    "summary_zh": "Halovision-INSPEC是一款清醒梦设备，它利用夜视智能相机检测REM睡眠期间的眼球运动。它会触发声音和视觉警报以促进清醒梦，就像一个私人睡眠实验室技术员一样。它包括软件、文档、API、配件和构建自定义固件的说明。",
+    "best_quote_en": "Like having your own private sleep lab technician that watches you sleep and alerts you when you are dreaming.",
+    "best_quote_zh": "就像拥有你自己的私人睡眠实验室技术员，看着你睡觉并在你做梦时提醒你。"
+  },
+  {
+    "id": 616,
+    "title": "The Misogyny Myth",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.city-journal.org/article/the-misogyny-myth\">https://www.city-journal.org/article/the-misogyny-myth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46656108\">https://news.ycombinator.com/item?id=46656108</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.city-journal.org/article/the-misogyny-myth",
+    "tags": [
+      "misogyny",
+      "misandry",
+      "gender bias",
+      "discrimination",
+      "gender studies"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "The article argues that misogyny is not as prevalent as often claimed in modern society and suggests that misandry, or bias against men, is more evident. It cites studies and examples in education, media, and the legal system to support the claim that men face disadvantages and discrimination in various aspects of life.",
+    "summary_zh": "文章认为，在现代社会，厌女现象并不像人们常说的那样普遍，反而厌男，即对男性的偏见，更加明显。文章引用了在教育、媒体和法律体系中的研究和例子，来支持男性在生活的各个方面面临劣势和歧视的观点。",
+    "best_quote_en": "Participants in every category—men and women of all races, ages, and social classes—were quicker to associate positive attributes with women and negative attributes with men.",
+    "best_quote_zh": "每个类别的参与者——所有种族、年龄和社会阶层的男性和女性——都更容易将积极的属性与女性联系起来，而将消极的属性与男性联系起来。"
+  },
+  {
+    "id": 617,
+    "title": "Every data centre is a U.S. military base",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/\">https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46656100\">https://news.ycombinator.com/item?id=46656100</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/",
+    "tags": [
+      "tech regulation",
+      "us influence",
+      "data sovereignty",
+      "international relations",
+      "digital policy"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "The article discusses how the U.S. government leverages its tech companies to exert influence over other countries, citing instances where U.S. actions affected international organizations and European lawmakers. It highlights concerns about dependence on U.S. tech and the erosion of Canadian tech regulations under pressure from the U.S.",
+    "summary_zh": "文章讨论了美国政府如何利用其科技公司来影响其他国家，引用了美国行为影响国际组织和欧洲立法者的例子。文章强调了对依赖美国科技的担忧，以及在来自美国的压力下，加拿大科技法规的逐渐瓦解。",
+    "best_quote_en": "The U.S. government has long recognized how much it benefits from ensuring other countries are dependent on products and services made by companies in its jurisdiction.",
+    "best_quote_zh": "美国政府长期以来都认识到，确保其他国家依赖其管辖公司生产的产品和服务对其自身是多么有利。"
   }]
