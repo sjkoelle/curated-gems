@@ -11552,4 +11552,22 @@
     "summary_zh": "文章讨论了美国政府如何利用其科技公司来影响其他国家，引用了美国行为影响国际组织和欧洲立法者的例子。文章强调了对依赖美国科技的担忧，以及在来自美国的压力下，加拿大科技法规的逐渐瓦解。",
     "best_quote_en": "The U.S. government has long recognized how much it benefits from ensuring other countries are dependent on products and services made by companies in its jurisdiction.",
     "best_quote_zh": "美国政府长期以来都认识到，确保其他国家依赖其管辖公司生产的产品和服务对其自身是多么有利。"
+  },{
+    "id": 618,
+    "title": "Demystifying Evals for AI Agents",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents\">https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46665724\">https://news.ycombinator.com/item?id=46665724</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+    "tags": [
+      "ai agents",
+      "evaluations",
+      "testing",
+      "grading",
+      "agent lifecycle"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "Evals are crucial for AI agent development, ensuring problems are visible before user impact. Multi-turn evaluations are common, but complex due to agent autonomy. Key definitions include tasks, trials, graders, transcripts, and outcomes. Evals help teams specify success, maintain quality, and avoid reactive debugging as agents scale. Writing evals is useful at any stage of agent lifecycle.",
+    "summary_zh": "评估对于AI agent的开发至关重要，确保问题在影响用户之前显现。由于agent的自主性，多轮评估很常见但也很复杂。关键定义包括任务、试验、评分器、记录和结果。评估帮助团队明确成功标准、保持质量，并避免随着agent规模扩大而进行被动调试。评估的编写在代理生命周期的任何阶段都非常有用。",
+    "best_quote_en": "Evals make problems and behavioral changes visible before they affect users, and their value compounds over the lifecycle of an agent.",
+    "best_quote_zh": "评估可以在问题和行为变更影响用户之前使其可见，并且它们的价值在代理的整个生命周期中都会得到累积。"
   }]
