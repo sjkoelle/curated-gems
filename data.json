@@ -11570,4 +11570,60 @@
     "summary_zh": "评估对于AI agent的开发至关重要，确保问题在影响用户之前显现。由于agent的自主性，多轮评估很常见但也很复杂。关键定义包括任务、试验、评分器、记录和结果。评估帮助团队明确成功标准、保持质量，并避免随着agent规模扩大而进行被动调试。评估的编写在代理生命周期的任何阶段都非常有用。",
     "best_quote_en": "Evals make problems and behavioral changes visible before they affect users, and their value compounds over the lifecycle of an agent.",
     "best_quote_zh": "评估可以在问题和行为变更影响用户之前使其可见，并且它们的价值在代理的整个生命周期中都会得到累积。"
+  },{
+    "id": 619,
+    "title": "Traintrackr – Live LED Maps",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.traintrackr.co.uk/\">https://www.traintrackr.co.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46676061\">https://news.ycombinator.com/item?id=46676061</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.traintrackr.co.uk/",
+    "tags": [
+      "traintrackr",
+      "led maps",
+      "transit networks",
+      "live data",
+      "visualization"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "Traintrackr offers visually stunning LED maps showing the live movement of trains on transit networks. It allows users to quickly check line status. The company is passionate about visualizing data and is expanding its network coverage. Customer testimonials express awe and love for the product.",
+    "summary_zh": "Traintrackr提供令人惊艳的LED地图，实时显示交通网络上列车的运行情况。用户可以快速查看线路状态。该公司热衷于数据可视化，并正在扩展其网络覆盖范围。客户评价表达了对该产品的敬畏和喜爱之情。",
+    "best_quote_en": "This thing puts me in awe every time I look at it.",
+    "best_quote_zh": "每次看到这东西，我都感到敬畏。"
+  },
+  {
+    "id": 620,
+    "title": "Ed Zitron on big tech, backlash, boom and bust",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings\">https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46676016\">https://news.ycombinator.com/item?id=46676016</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings",
+    "tags": [
+      "ai",
+      "technology",
+      "artificial intelligence",
+      "llm",
+      "economics"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "Ed Zitron, a tech critic, questions the efficacy and financial viability of generative AI. He argues that LLMs have not improved significantly and lack true intelligence. He also points out the lack of return on investment for most companies integrating AI. Zitron's skepticism has gained him a following.",
+    "summary_zh": "科技评论家Ed Zitron质疑生成式AI的有效性和财务可行性。他认为，大型语言模型(LLM)没有显著改进，缺乏真正的智能。他还指出，大多数公司在整合AI方面的投资回报不足。 Zitron的怀疑态度为他赢得了一批追随者。",
+    "best_quote_en": "\"It's intelligent in the same way a pair of dice are intelligent.\"",
+    "best_quote_zh": "“它的智能程度就像一对骰子的智能程度一样。”"
+  },
+  {
+    "id": 621,
+    "title": "Show HN: Compare Data Between Two Stacks of Documents Using Regex",
+    "source": "Hackernews",
+    "desc": "<p>This PDF Pattern Matcher is a local web app that allows you to compare Regex matches in two stacks of documents. This is useful for e.g. document reconciliation.<p>I initially created a Python NiceGUI app for my parent's small business so that they can verify that all delivery notes are included in a freight credit note.<p>I re-implemented it as a browser-based Nuxt app.<p>I use PDF.js to extract text from PDFs and also experiment with Tesseract.js for OCR. Papaparse is used to generate simple CVS reports of the results.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675975\">https://news.ycombinator.com/item?id=46675975</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://patterns.voidrab.com/",
+    "tags": [
+      "pdf",
+      "regex",
+      "data comparison",
+      "ocr",
+      "document processing"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "This tool compares data between two sets of PDF documents using regular expressions. It offers preset patterns like UUID, email addresses, and date formats, as well as custom regex input. Users upload reference and comparison PDFs, and the tool identifies matches based on the specified patterns. OCR functionality is available for scanned documents.",
+    "summary_zh": "此工具使用正则表达式比较两组PDF文档之间的数据。 它提供预设模式，如UUID、电子邮件地址和日期格式，以及自定义正则表达式输入。 用户上传参考PDF和比较PDF，工具根据指定的模式识别匹配项。 OCR功能可用于扫描文档。",
+    "best_quote_en": "Compare Data Between Two Stacks of PDF Documents Using Regex",
+    "best_quote_zh": "使用正则表达式比较两组PDF文档之间的数据"
   }]
