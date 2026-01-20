@@ -11626,4 +11626,98 @@
     "summary_zh": "此工具使用正则表达式比较两组PDF文档之间的数据。 它提供预设模式，如UUID、电子邮件地址和日期格式，以及自定义正则表达式输入。 用户上传参考PDF和比较PDF，工具根据指定的模式识别匹配项。 OCR功能可用于扫描文档。",
     "best_quote_en": "Compare Data Between Two Stacks of PDF Documents Using Regex",
     "best_quote_zh": "使用正则表达式比较两组PDF文档之间的数据"
+  },{
+    "id": 622,
+    "title": "Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)",
+    "source": "Hackernews",
+    "desc": "<p>I kept hitting the same wall with LangGraph: tutorials show you how to build a graph, not how to maintain one when you have 8 nodes, 3 agents, and shared state across subgraphs.<p>So I built a reference architecture with:\n- Platform layer separation (framework-independent core)\n- Contract validation on every state mutation  \n- 110 tests including architecture boundary enforcement\n- Patterns that AI coding agents can't accidentally break<p>Repo: <a href=\"https://github.com/cleverhoods/sagecompass\" rel=\"nofollow\">https://github.com/cleverhoods/sagecompass</a>\nWrote about the patterns: <a href=\"https://dev.to/cleverhoods/from-prompt-to-platform-architecture-rules-i-use-59gp\" rel=\"nofollow\">https://dev.to/cleverhoods/from-prompt-to-platform-architect...</a><p>It's MIT licensed. Would love feedback on the approach - especially from anyone who's scaled LangGraph past the tutorial stage.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46689093\">https://news.ycombinator.com/item?id=46689093</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/cleverhoods/sagecompass",
+    "tags": [
+      "langgraph",
+      "ai",
+      "decision system",
+      "agents",
+      "automation"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "SageCompass is an augmented decision system that assesses if a business idea requires AI before investment. It uses agents to perform problem framing, goal setting, feasibility analysis, and decision synthesis. The structure includes documentation, Drupal integration, a Gradio UI, and the LangGraph backend. Installation involves setting up DDEV, uv, and Python, then running tests.",
+    "summary_zh": "SageCompass 是一个增强的决策系统，用于评估商业想法是否需要AI再进行投资。它使用代理执行问题框架、目标设定、可行性分析和决策综合。结构包括文档、Drupal集成、Gradio UI和LangGraph后端。安装包括设置DDEV、uv和Python，然后运行测试。",
+    "best_quote_en": "“It's a virtual consultant that applies consistent logic to every AI idea and tells you - with numbers - if it’s worth doing or not.”",
+    "best_quote_zh": "“它是一个虚拟顾问，将一致的逻辑应用于每个AI想法，并通过数字告诉你是否值得做。”"
+  },
+  {
+    "id": 623,
+    "title": "Show HN: IncidentFox – open-source AI SRE with log sampling and RAPTOR retrieval",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN, I’m Jimmy.<p>We open-sourced the core of IncidentFox, an AI SRE / on-call agent.<p>The main thing we’re working on is handling context for incident investigation. Logs, metrics, traces, runbooks, prior incidents — this data is large, fragmented, and doesn’t fit cleanly into an LLM context window.<p>For logs, we don’t fetch everything. We start with stats (counts, severity distribution, common patterns) and then sample intentionally (errors-only, around-anomaly, stratified). Most investigations end up with tens of logs instead of millions.<p>For long documents like runbooks or postmortems, flat chunk-based RAG wasn’t working well, so we implemented a RAPTOR-style hierarchical retrieval to preserve higher-level context while still allowing drill-down.<p>The open-source core is a tool-based agent runtime with integrations. You can run it locally via CLI (or Slack/ GitHub), which is effectively on-prem on your laptop.<p>We’re very early and trying to find our first users / customers.\nIf you’ve been on call before, I’m curious:<p>- does “AI SRE” feel useful, or mostly hype?<p>- where would something like this actually help, if at all?<p>- what would you want it to do before you’d trust it?<p>If you try it and it’s not useful, that’s still helpful feedback. I’ll be around in the comments!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46689078\">https://news.ycombinator.com/item?id=46689078</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/incidentfox/incidentfox",
+    "tags": [
+      "ai sre",
+      "incident investigation",
+      "automation",
+      "observability",
+      "open-source"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "IncidentFox is an open-source AI SRE that automates incident investigation, root cause analysis, and suggests fixes. It integrates with observability, infrastructure, and collaboration tools. Key features include RAPTOR knowledge base, alert correlation, dependency discovery, and smart log sampling. It supports multiple integrations like Slack, GitHub, and PagerDuty.",
+    "summary_zh": "IncidentFox是一个开源AI SRE，可以自动执行事件调查、根本原因分析并提出修复建议。它与可观察性、基础设施和协作工具集成。 主要功能包括RAPTOR知识库、警报关联、依赖关系发现和智能日志采样。它支持Slack、GitHub和PagerDuty等多种集成。",
+    "best_quote_en": "Build the world's best AI SRE.",
+    "best_quote_zh": "构建世界上最好的AI SRE。"
+  },
+  {
+    "id": 624,
+    "title": "Linux kernel framework for PCIe device emulation, in userspace",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/cakehonolulu/pciem\">https://github.com/cakehonolulu/pciem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46689065\">https://news.ycombinator.com/item?id=46689065</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/cakehonolulu/pciem",
+    "tags": [
+      "linux kernel",
+      "pcie",
+      "emulation",
+      "userspace",
+      "device driver"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "PCIem is a Linux kernel framework for PCIe device emulation in userspace, allowing development and testing of PCIe device drivers without real hardware. It features BAR support, watchpoints, interrupt handling, DMA, and P2P DMA. An example ProtoPCIem card is programmed in QEMU, running software-rendered DOOM and OpenGL games.",
+    "summary_zh": "PCIem是一个Linux内核框架，用于在用户空间进行PCIe设备仿真，允许在没有实际硬件的情况下开发和测试PCIe设备驱动程序。它具有BAR支持、监视点、中断处理、DMA和P2P DMA等功能。一个ProtoPCIem卡的例子是在QEMU中编程的，运行软件渲染的DOOM和OpenGL游戏。",
+    "best_quote_en": "PCIem is: a framework for developing and testing PCIe device drivers without requiring actual hardware.",
+    "best_quote_zh": "PCIem是一个无需实际硬件即可开发和测试PCIe设备驱动程序的框架。"
+  },
+  {
+    "id": 625,
+    "title": "Counterproductive Communication Patterns Holding Back Security Researchers",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://discernibleinc.com/blog/3-counterproductive-communication-patterns-holding-back-security-researchers\">https://discernibleinc.com/blog/3-counterproductive-communication-patterns-holding-back-security-researchers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46689044\">https://news.ycombinator.com/item?id=46689044</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://discernibleinc.com/blog/3-counterproductive-communication-patterns-holding-back-security-researchers",
+    "tags": [
+      "security research",
+      "vulnerability disclosure",
+      "communication",
+      "bug bounty",
+      "risk management"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "The article discusses three common communication mistakes security researchers make during vulnerability disclosure: misaligned expectations about urgency, failing to understand the audience and process, and letting emotions damage professional relationships. Addressing these issues can lead to better outcomes for everyone involved by fostering collaboration and trust.",
+    "summary_zh": "文章讨论了安全研究人员在漏洞披露过程中常犯的三个沟通错误：对紧急程度的预期不一致，未能理解受众和流程，以及让情绪破坏专业关系。解决这些问题可以通过培养协作和信任，为所有相关人员带来更好的结果。",
+    "best_quote_en": "Uncertainty breeds resentment, not urgency, so even if you’re right, you’ve just decreased your chances of success.",
+    "best_quote_zh": "不确定性滋生怨恨，而非紧迫感，所以即使你是对的，你也降低了成功的机会。"
+  },
+  {
+    "id": 626,
+    "title": "An Unofficial Guide to Prepare for a Research Position Application at Sakana AI",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://pub.sakana.ai/Unofficial_Guide/\">https://pub.sakana.ai/Unofficial_Guide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46689027\">https://news.ycombinator.com/item?id=46689027</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://pub.sakana.ai/Unofficial_Guide/",
+    "tags": [
+      "research",
+      "application",
+      "interview",
+      "sakana ai",
+      "ai research"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This guide offers advice for research position applications at Sakana AI, emphasizing understanding over implementation. It highlights the importance of asking insightful questions, prototyping to test risky assumptions, explaining reasoning, communicating clearly, exploring interesting rabbit holes, balancing technical skills with creative ideas, and focusing on depth over breadth.",
+    "summary_zh": "本指南为Sakana AI的研究职位申请提供建议，强调理解重于实现。它强调了提出深刻问题、原型设计以测试风险假设、解释推理、清晰沟通、探索有趣的延伸、平衡技术技能和创造性想法以及关注深度而非广度的重要性。",
+    "best_quote_en": "The single biggest differentiator between successful and unsuccessful candidates isn't whether they completed the technical assessment, it's whether they understand what they built, and are able to clearly explain their understanding.",
+    "best_quote_zh": "成功和不成功的候选人之间最大的区别不是他们是否完成了技术评估，而是他们是否理解他们所构建的内容，并且能够清楚地解释他们的理解。"
   }]
