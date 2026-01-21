@@ -11720,4 +11720,60 @@
     "summary_zh": "本指南为Sakana AI的研究职位申请提供建议，强调理解重于实现。它强调了提出深刻问题、原型设计以测试风险假设、解释推理、清晰沟通、探索有趣的延伸、平衡技术技能和创造性想法以及关注深度而非广度的重要性。",
     "best_quote_en": "The single biggest differentiator between successful and unsuccessful candidates isn't whether they completed the technical assessment, it's whether they understand what they built, and are able to clearly explain their understanding.",
     "best_quote_zh": "成功和不成功的候选人之间最大的区别不是他们是否完成了技术评估，而是他们是否理解他们所构建的内容，并且能够清楚地解释他们的理解。"
+  },{
+    "id": 627,
+    "title": "Show HN: BSS Blue Hive Guide",
+    "source": "Hackernews",
+    "desc": "<p>a website for bee swarm simulator blue hive guide</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46702494\">https://news.ycombinator.com/item?id=46702494</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.bluehiveguide.com/index.html",
+    "tags": [
+      "bee swarm simulator",
+      "blue hive",
+      "macroing",
+      "buoyant bee",
+      "tadpole bee"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "The Meta Blue Hive Guide (2026) focuses on maximizing honey per hour using the optimal Buoyant & Tadpole bee ratio for macroing in Bee Swarm Simulator. It provides the best hive composition, Natro Macro settings, SSA amulet stats, transition guide and Blue vs Red hive comparison.",
+    "summary_zh": "Meta Blue Hive Guide (2026) 专注于使用最佳的漂浮蜂和蝌蚪蜂比例来最大化每小时的蜂蜜产量，以在蜜蜂群模拟器中进行宏操作。 它提供了最佳的蜂巢组成，Natro宏设置，SSA护身符统计信息，过渡指南以及蓝色与红色蜂巢的比较。",
+    "best_quote_en": "This setup maximizes bubble bloat for the \"Pop Star\" passive.",
+    "best_quote_zh": "此设置可最大程度地提高“流行歌星”被动技能的气泡膨胀。"
+  },
+  {
+    "id": 628,
+    "title": "Show HN: LLM fine-tuning without infra or ML expertise",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.tinytune.xyz/\">https://www.tinytune.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46702477\">https://news.ycombinator.com/item?id=46702477</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.tinytune.xyz/",
+    "tags": [
+      "fine-tuning",
+      "llm",
+      "ai model",
+      "custom ai",
+      "no code"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "TinyTune allows users to fine-tune AI models quickly without ML expertise or infrastructure management. Users can upload data, select a model (Gemma, Qwen, Mistral, etc.), and download a custom AI. It emphasizes data privacy, full ownership, and transparent pricing. It supports customer support, content generation, and domain expertise use cases.",
+    "summary_zh": "TinyTune允许用户快速微调AI模型，无需机器学习专业知识或基础设施管理。用户可以上传数据，选择模型（如Gemma、Qwen、Mistral等），并下载自定义AI。它强调数据隐私、完全所有权和透明的定价，支持客户支持、内容生成和领域专家等用例。",
+    "best_quote_en": "Fine-tune AI models in minutes, not months.",
+    "best_quote_zh": "在几分钟内微调AI模型，而不是几个月。"
+  },
+  {
+    "id": 629,
+    "title": "Ask HN: How do you manage your morning catch-up routine?",
+    "source": "Hackernews",
+    "desc": "<p>Every day I spend 20-40 minutes just to check dozens of apps. Github commits, Discord community, insta cofounder messages, Stripe payments, and so on...<p>It's not hard work, but it's friction before the real work starts.<p>Curious how others handle this.\nDo you have a system? An app? Or just accept the tax :(</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46702458\">https://news.ycombinator.com/item?id=46702458</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46702458",
+    "tags": [
+      "morning routine",
+      "productivity",
+      "time management",
+      "workflows",
+      "efficiency"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "The author, Peterz_shu, inquires about strategies for managing the morning catch-up routine of checking various apps (Github, Discord, Instagram, Stripe, etc.).  The process takes 20-40 minutes and creates friction before starting real work.  He seeks advice on systems or apps to streamline this process or if others simply accept it as a necessary tax.",
+    "summary_zh": "作者Peterz_shu询问如何管理每天早上查看各种应用（Github, Discord, Instagram, Stripe等）的例行事务。这个过程需要20-40分钟，并在开始真正的工作之前产生阻力。他寻求关于系统或应用程序的建议，以简化此过程，或者其他人是否只是将其视为必要的负担。",
+    "best_quote_en": "It's not hard work, but it's friction before the real work starts.",
+    "best_quote_zh": "这不是困难的工作，但这是开始真正工作之前的阻力。"
   }]
