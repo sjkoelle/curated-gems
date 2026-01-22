@@ -11776,4 +11776,41 @@
     "summary_zh": "作者Peterz_shu询问如何管理每天早上查看各种应用（Github, Discord, Instagram, Stripe等）的例行事务。这个过程需要20-40分钟，并在开始真正的工作之前产生阻力。他寻求关于系统或应用程序的建议，以简化此过程，或者其他人是否只是将其视为必要的负担。",
     "best_quote_en": "It's not hard work, but it's friction before the real work starts.",
     "best_quote_zh": "这不是困难的工作，但这是开始真正工作之前的阻力。"
+  },{
+    "id": 630,
+    "title": "New chip speeds up computing and reduces energy consumption",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.polimi.it/en/the-politecnico/news/news-detail/titolo-chip-del-politecnico-accelera-il-calcolo-e-riduce-drasticamente-i-consumi\">https://www.polimi.it/en/the-politecnico/news/news-detail/titolo-chip-del-politecnico-accelera-il-calcolo-e-riduce-drasticamente-i-consumi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46716305\">https://news.ycombinator.com/item?id=46716305</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.polimi.it/en/the-politecnico/news/news-detail/titolo-chip-del-politecnico-accelera-il-calcolo-e-riduce-drasticamente-i-consumi",
+    "tags": [
+      "in-memory computing",
+      "energy efficiency",
+      "chip",
+      "data processing",
+      "analogue accelerator"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "Researchers at Politecnico di Milano developed a new chip that dramatically reduces energy consumption and accelerates data processing by using in-memory computing. The chip integrates analogue accelerators and resistive memories, enabling complex calculations directly in memory, reducing latency and power consumption while maintaining accuracy.",
+    "summary_zh": "米兰理工大学的研究人员开发出一种新型芯片，该芯片通过使用内存计算显著降低能耗并加速数据处理。该芯片集成了模拟加速器和电阻存储器，可以直接在内存中进行复杂计算，从而在保持准确性的同时，减少延迟和功耗。",
+    "best_quote_en": "By eliminating this internal 'traffic', the systems become faster and more energy efficient.",
+    "best_quote_zh": "通过消除这种内部“交通”，系统变得更快、更节能。"
+  },
+  {
+    "id": 631,
+    "title": "Can you still run old App Store apps?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://eclecticlight.co/2026/01/22/can-you-still-run-old-app-store-apps/\">https://eclecticlight.co/2026/01/22/can-you-still-run-old-app-store-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46716292\">https://news.ycombinator.com/item?id=46716292</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://eclecticlight.co/2026/01/22/can-you-still-run-old-app-store-apps/",
+    "tags": [
+      "app store",
+      "certificates",
+      "macos",
+      "intel",
+      "rosetta 2"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "macOS ignores the expiry of certificates for App Store apps, allowing them to run. Many App Store apps have expired certificates. Intel Macs are not immediately affected, but support for Intel-only apps may end with macOS 28. Some Intel-only apps may not run in VMs with Rosetta 2.",
+    "summary_zh": "macOS会忽略App Store应用证书的过期，允许它们运行。许多App Store应用的证书已过期。Intel Mac目前不受影响，但对Intel应用的支持可能会在macOS 28停止。部分Intel应用可能无法在带有Rosetta 2支持的虚拟机中运行。",
+    "best_quote_en": "macOS security checks ignore the expiry of certificates (including intermediates) used to sign App Store apps, and allow the app to run regardless.",
+    "best_quote_zh": "macOS安全检查会忽略用于签署App Store应用的证书（包括中间证书）的过期时间，并允许该应用运行。"
   }]
