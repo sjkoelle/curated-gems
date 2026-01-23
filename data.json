@@ -11813,4 +11813,79 @@
     "summary_zh": "macOS会忽略App Store应用证书的过期，允许它们运行。许多App Store应用的证书已过期。Intel Mac目前不受影响，但对Intel应用的支持可能会在macOS 28停止。部分Intel应用可能无法在带有Rosetta 2支持的虚拟机中运行。",
     "best_quote_en": "macOS security checks ignore the expiry of certificates (including intermediates) used to sign App Store apps, and allow the app to run regardless.",
     "best_quote_zh": "macOS安全检查会忽略用于签署App Store应用的证书（包括中间证书）的过期时间，并允许该应用运行。"
+  },{
+    "id": 632,
+    "title": "Implementation of the Apollo Guidance Computer in an FPGA",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/mikeakohn/apollo11_fpga\">https://github.com/mikeakohn/apollo11_fpga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46729755\">https://news.ycombinator.com/item?id=46729755</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/mikeakohn/apollo11_fpga",
+    "tags": [
+      "apollo guidance computer",
+      "fpga",
+      "agc",
+      "apollo 11",
+      "hardware implementation"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This document describes an FPGA implementation of the Apollo Guidance Computer (AGC) used in Apollo missions. The implementation focuses on the CPU and replaces or omits some peripherals. It runs on a Lattice iCE40 HX8K FPGA at 6 MHz, with some differences in memory handling and instruction timings compared to the original AGC.",
+    "summary_zh": "本文档描述了在FPGA上实现的阿波罗制导计算机(AGC)，该计算机曾用于阿波罗任务。该实现主要集中在CPU上，并替换或省略了一些外围设备。它在6兆赫的Lattice iCE40 HX8K FPGA上运行，与原始AGC相比，在内存处理和指令时序上存在一些差异。",
+    "best_quote_en": "Since this will probably never run the original software, nor will it land on the moon, it didn't seem that important.",
+    "best_quote_zh": "既然这个实现可能永远不会运行原始软件，也不会登陆月球，那么这些细节似乎并不重要。"
+  },
+  {
+    "id": 633,
+    "title": "Building Real Web Apps with AI: From Idea to Production – A Systematic Approach",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://makershub.dev/learn/guides/building-real-web-apps-with-ai\">https://makershub.dev/learn/guides/building-real-web-apps-with-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46729745\">https://news.ycombinator.com/item?id=46729745</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://makershub.dev/learn/guides/building-real-web-apps-with-ai",
+    "tags": [
+      "ai",
+      "web development",
+      "next.js",
+      "supabase",
+      "systematic approach"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This article outlines a systematic 5-step approach to building real web applications with AI, covering idea refinement, environment setup, foundation building, feature development, and launch/monitoring. It emphasizes the importance of a well-defined tech stack (Next.js, Supabase, TypeScript, Tailwind CSS, Shadcn/ui) and AI coding tools like Cursor and Claude Code for efficient development. The process prioritizes building one well-tested feature at a time.",
+    "summary_zh": "本文概述了使用AI构建真实Web应用程序的系统化五步方法，涵盖想法提炼、环境设置、基础构建、特性开发和启动/监控。 它强调了一个定义良好的技术栈（Next.js、Supabase、TypeScript、Tailwind CSS、Shadcn/ui）和AI编码工具（如Cursor和Claude Code）对于高效开发的重要性。该过程优先构建一个经过良好测试的特性。",
+    "best_quote_en": "The process matters more than the code.",
+    "best_quote_zh": "过程比代码更重要。"
+  },
+  {
+    "id": 634,
+    "title": "Iran internet ban: How your life can be dictated by where you are born",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://mateenbagheri.github.io/posts/internet-ban-iran/\">https://mateenbagheri.github.io/posts/internet-ban-iran/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46729736\">https://news.ycombinator.com/item?id=46729736</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://mateenbagheri.github.io/posts/internet-ban-iran/",
+    "tags": [
+      "iran",
+      "internet-ban",
+      "censorship",
+      "internet",
+      "oppression"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "The author reflects on the impact of internet shutdowns in Iran on their life and career. Despite hard work and knowledge, opportunities are diminishing due to political circumstances and loss of basic human rights. They express frustration and hopelessness, feeling excluded and limited by their birthplace, while also highlighting the importance of cherishing access and opportunity.",
+    "summary_zh": "作者反思了伊朗互联网封锁对其生活和职业的影响。尽管努力工作和学习知识，但由于政治环境和基本人权的丧失，机会正在减少。作者表达了沮丧和绝望，感到被自己的出生地排斥和限制。同时也强调了珍惜机会和自由的重要性。",
+    "best_quote_en": "Talent is everywhere but opportunity is not.",
+    "best_quote_zh": "天赋无处不在，但机会并非如此。"
+  },
+  {
+    "id": 635,
+    "title": "I built a CLI to make spec-driven development usable",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN ,<p>I built SpecPilot to solve a problem I kept running into:\nspec-first development sounds great, but most tools are either too heavy or too rigid for day-to-day dev work.<p>SpecPilot is a small, open-source CLI that helps you:\n- define specs first (Markdown-based)\n- keep them versioned alongside code\n- scaffold projects and workflows from those specs<p>I built it for myself and my team, and decided to open-source it.<p>Website: https://specpilot.dev\nGitHub: https://github.com/girishr/SpecPilot<p>Would really appreciate feedback on:\n- whether this fits into your workflow\n- what feels unnecessary\n- what’s missing for real-world use<p>Happy to answer any questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46729734\">https://news.ycombinator.com/item?id=46729734</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://news.ycombinator.com/item?id=46729734",
+    "tags": [
+      "cli",
+      "spec-driven development",
+      "markdown",
+      "open-source",
+      "scaffolding"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "Girish_r built SpecPilot, an open-source CLI, to make spec-driven development usable. It uses Markdown-based specs, versioned alongside the code, to scaffold projects and workflows. The goal is a lightweight, flexible, and easy-to-diff approach suitable for developers and non-API workflows.",
+    "summary_zh": "Girish_r 构建了一个名为 SpecPilot 的开源 CLI 工具，旨在提高规范驱动开发（spec-driven development）的可用性。它使用基于 Markdown 的规范，与代码一起进行版本控制，从而搭建项目和工作流程。目标是实现一种轻量级、灵活且易于区分的方法，适用于开发者和非 API 工作流程。",
+    "best_quote_en": "spec-first development sounds great, but most tools are either too heavy or too rigid for day-to-day dev work.",
+    "best_quote_zh": "规范优先的开发听起来很棒，但大多数工具要么过于笨重，要么过于僵化，不适合日常开发工作。"
   }]
