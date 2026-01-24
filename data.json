@@ -11888,4 +11888,79 @@
     "summary_zh": "Girish_r 构建了一个名为 SpecPilot 的开源 CLI 工具，旨在提高规范驱动开发（spec-driven development）的可用性。它使用基于 Markdown 的规范，与代码一起进行版本控制，从而搭建项目和工作流程。目标是实现一种轻量级、灵活且易于区分的方法，适用于开发者和非 API 工作流程。",
     "best_quote_en": "spec-first development sounds great, but most tools are either too heavy or too rigid for day-to-day dev work.",
     "best_quote_zh": "规范优先的开发听起来很棒，但大多数工具要么过于笨重，要么过于僵化，不适合日常开发工作。"
+  },{
+    "id": 636,
+    "title": "Stop using JSON for LLM structured output",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://nehmeailabs.com/post/structured-output-overhead\">https://nehmeailabs.com/post/structured-output-overhead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46741819\">https://news.ycombinator.com/item?id=46741819</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://nehmeailabs.com/post/structured-output-overhead",
+    "tags": [
+      "json",
+      "llm",
+      "tokens",
+      "optimization",
+      "delimiter"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "JSON is widely used for structured output from LLMs, but it adds significant token overhead. Delimiter-separated formats can reduce token usage and improve latency and cost efficiency, especially for simple extraction tasks with fixed schemas and high volume. Consider JSON when schema is dynamic or for interoperability.",
+    "summary_zh": "JSON被广泛用于LLM的结构化输出，但会增加显著的token开销。分隔符格式可以减少token使用，提高延迟和成本效率，尤其适用于具有固定模式和高吞吐量的简单提取任务。当模式是动态的或为了互操作性时，可以考虑JSON。",
+    "best_quote_en": "Optimizing for developer convenience without considering token efficiency leaves significant performance and cost on the table.",
+    "best_quote_zh": "在不考虑token效率的情况下，为了开发者方便而进行的优化，会牺牲大量的性能和成本。"
+  },
+  {
+    "id": 637,
+    "title": "Speaker Johnson Backs Efforts to Impeach Judges over Rulings",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://news.bloomberglaw.com/us-law-week/speaker-johnson-backs-efforts-to-impeach-judges-over-rulings\">https://news.bloomberglaw.com/us-law-week/speaker-johnson-backs-efforts-to-impeach-judges-over-rulings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46741808\">https://news.ycombinator.com/item?id=46741808</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.bloomberglaw.com/us-law-week/speaker-johnson-backs-efforts-to-impeach-judges-over-rulings",
+    "tags": [
+      "impeachment",
+      "judges",
+      "republicans",
+      "johnson",
+      "courts"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "House Speaker Mike Johnson supports impeaching federal judges whose rulings angered Republicans, citing 'egregious abuses.' This comes after Senate Republicans called for impeachment of two judges over rulings related to Trump's cases and sentencing. Impeaching judges is rare, but Johnson sees it as a necessary measure in extreme times.",
+    "summary_zh": "众议院议长迈克·约翰逊支持弹劾因裁决激怒共和党人的联邦法官，理由是“严重滥用职权”。此前，参议院共和党人呼吁弹劾两名法官，原因是他们对涉及特朗普案件和判决的裁决。弹劾法官的情况很少见，但约翰逊认为这是非常时期必要的措施。",
+    "best_quote_en": "\"Impeachment as we have discussed all together many, many times is an extreme measure, but extreme times call for extreme measures.\"",
+    "best_quote_zh": "“正如我们多次讨论的那样，弹劾是一种极端措施，但非常时期需要采取极端措施。”"
+  },
+  {
+    "id": 638,
+    "title": "Mappa Mundi",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.herefordcathedral.org/mappa-mundi\">https://www.herefordcathedral.org/mappa-mundi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46741791\">https://news.ycombinator.com/item?id=46741791</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.herefordcathedral.org/mappa-mundi",
+    "tags": [
+      "mappa mundi",
+      "hereford cathedral",
+      "medieval map",
+      "13th century",
+      "manuscript"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "The Hereford Mappa Mundi, created around 1300, is a unique medieval map that depicts the world in both spiritual and geographical terms. It showcases historical events, natural marvels, cities, towns, and mythological figures. Considered a significant artifact, this map is available for study and purchase from the cathedral shop.",
+    "summary_zh": "赫里福德地图（Mappa Mundi）大约创建于1300年，是一幅独特的中世纪地图，以精神和地理的角度描绘了世界。它展示了历史事件、自然奇观、城镇和神话人物。被认为是一件重要的文物，这张地图可以在大教堂商店购买和研究。",
+    "best_quote_en": "… it is without parallel the most important and most celebrated medieval map in any form, the most remarkable illustrated English manuscript of any kind, and certainly the greatest extant thirteenth-century pictorial manuscript.",
+    "best_quote_zh": "……它是任何形式中最重要、最著名的中世纪地图，是任何一种最引人注目的英国手稿，而且无疑是现存最伟大的十三世纪图画手稿。"
+  },
+  {
+    "id": 639,
+    "title": "MikroTik first look and getting started",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/\">https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46741790\">https://news.ycombinator.com/item?id=46741790</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/",
+    "tags": [
+      "mikrotik",
+      "routeros",
+      "networking",
+      "configuration",
+      "ssh"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "This article introduces MikroTik routers, focusing on initial setup and configuration. It covers connecting via Web UI, WinBox, SSH, and the mobile app. The author shares their network architecture and how MikroTik routers replace their previous TP-Link routers. Key aspects include RouterOS features, console usage, and initial configuration steps.",
+    "summary_zh": "本文介绍了MikroTik路由器，重点关注初始设置和配置。它涵盖了通过Web UI、WinBox、SSH和移动应用程序进行连接。作者分享了他们的网络架构，以及MikroTik路由器如何取代之前的TP-Link路由器。关键方面包括RouterOS功能，控制台使用和初始配置步骤。",
+    "best_quote_en": "When I first opened the MikroTik Web UI and looked at the possibilities… it was like switching from a Zaporozhets to a Mercedes.",
+    "best_quote_zh": "当我第一次打开MikroTik Web UI并查看各种可能性时......感觉就像从一辆Zaporozhets换成了一辆梅赛德斯。"
   }]
