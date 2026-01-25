@@ -11963,4 +11963,60 @@
     "summary_zh": "本文介绍了MikroTik路由器，重点关注初始设置和配置。它涵盖了通过Web UI、WinBox、SSH和移动应用程序进行连接。作者分享了他们的网络架构，以及MikroTik路由器如何取代之前的TP-Link路由器。关键方面包括RouterOS功能，控制台使用和初始配置步骤。",
     "best_quote_en": "When I first opened the MikroTik Web UI and looked at the possibilities… it was like switching from a Zaporozhets to a Mercedes.",
     "best_quote_zh": "当我第一次打开MikroTik Web UI并查看各种可能性时......感觉就像从一辆Zaporozhets换成了一辆梅赛德斯。"
+  },{
+    "id": 640,
+    "title": "GLM4.7-Flash the new Local LLM king at 30B A3B and OpenCode?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://grigio.org/glm4-7-flash-the-new-local-llm-king-at-30b-a3b/\">https://grigio.org/glm4-7-flash-the-new-local-llm-king-at-30b-a3b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46751749\">https://news.ycombinator.com/item?id=46751749</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://grigio.org/glm4-7-flash-the-new-local-llm-king-at-30b-a3b/",
+    "tags": [
+      "llm",
+      "agentic coding",
+      "moe",
+      "open source",
+      "reasoning"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "GLM4.7-Flash is a 30B parameter Mixture-of-Experts model excelling in agentic coding and reasoning. It achieves high performance with efficient computation, using only 3B activated parameters. The model boasts impressive benchmark results, especially on τ²-Bench. Its open-source nature and strong capabilities make it suitable for advanced applications, though quantization challenges and hardware requirements exist.",
+    "summary_zh": "GLM4.7-Flash 是一个30B参数的混合专家模型，擅长基于代理的编码和推理。它以高效的计算实现了高性能，仅使用3B激活参数。该模型在基准测试中表现出色，尤其是在τ²-Bench上。其开源特性和强大功能使其适用于高级应用，但也存在量化挑战和硬件要求。",
+    "best_quote_en": "GLM4.7-Flash represents a significant advancement in the 30B parameter class, particularly for agentic coding and reasoning tasks.",
+    "best_quote_zh": "GLM4.7-Flash代表了30B参数级别的一个重大进步，尤其是在基于代理的编码和推理任务方面。"
+  },
+  {
+    "id": 641,
+    "title": "Validation: CRM for orgs with internal competition",
+    "source": "Hackernews",
+    "desc": "<p>Hi all, I’m writing here to get validation on a CRM I’m building.<p>Field Level Security\nI’m working on a CRM where I’ve added a role management capability that allows field-level visibility on records beyond default view access. Records that are usually completely hidden in legacy CRMs can now be displayed with minimal fields, configurable per role. Regular FLS still exists, but the issue with traditional FLS is that it restricts fields even for records you own.<p>Personal and Org CRM\nUsers can have a personal CRM where their records are not visible to the organization unless they explicitly publish them. This is not a traditional sales CRM—it’s relevant for orgs where internal competition exists.<p>Collision Detection\nIf a user creates a private record and a record already exists in the org, both parties receive an anonymous or open alert. Users can provide a reason and request collaboration, and a collaboration room is created if the request is accepted.<p>Duplicate Records and Golden Records\nDuplicate records are encouraged. Once a private record is published and an org record already exists, a golden record is created where individual records are clustered and displayed contextually based on a user’s role.<p>I’m interested in perspectives from people who’ve sold into or operated within complex, political orgs (universities, partnerships, government, VC, etc.).<p>I’m building this independently, but open to collaborating with someone who enjoys talking to ICPs and pressure-testing problem statements in the field.<p>Happy to share more details or learn from anyone who has dealt with similar issues.<p>— Yaswanth</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46751741\">https://news.ycombinator.com/item?id=46751741</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46751741",
+    "tags": [
+      "crm",
+      "field level security",
+      "collaboration",
+      "internal competition",
+      "role management"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "Yaswanth is seeking validation for a CRM he is building, focusing on field-level security, personal/organizational separation, collision detection, and dealing with duplicate records by creating golden records. It is targeted at organizations with internal competition, offering role-based visibility and collaboration features.",
+    "summary_zh": "Yaswanth正在为他构建的CRM寻求验证，重点是字段级安全性、个人/组织分离、冲突检测以及通过创建黄金记录处理重复记录。它面向具有内部竞争的组织，提供基于角色的可见性和协作功能。",
+    "best_quote_en": "Records that are usually completely hidden in legacy CRMs can now be displayed with minimal fields, configurable per role.",
+    "best_quote_zh": "通常在旧版CRM中完全隐藏的记录现在可以显示最少的字段，并且可以按角色配置。"
+  },
+  {
+    "id": 642,
+    "title": "Burhan(TruthCert)fail-closed verification LLM outputs(measure false-ship rate)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/mahmood726-cyber/Burhan\">https://github.com/mahmood726-cyber/Burhan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46751738\">https://news.ycombinator.com/item?id=46751738</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/mahmood726-cyber/Burhan",
+    "tags": [
+      "llm",
+      "verification",
+      "certification",
+      "auditability",
+      "fail-closed"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "TruthCert is a fail-closed verification + disclosure standard for LLM outputs in high-stakes workflows. It ensures outputs meet a published policy and are auditable, preventing quietly wrong outputs. Certified outputs include scope-locking, provenance, multi-witness verification, validator checks, immutable recording, and disclosures. If verification is insufficient, the output is rejected.",
+    "summary_zh": "TruthCert是一种用于高风险工作流程中LLM输出的“故障关闭”验证和披露标准。它确保输出符合已发布的策略并且可审计，从而防止悄无声息的错误输出。认证的输出包括范围锁定、溯源、多方见证验证、验证器检查、不可变记录和披露。如果验证不足，则输出将被拒绝。",
+    "best_quote_en": "TruthCert’s core idea is simple: Don’t ask “does this look right?” Ask “is this certified under a published policy, with auditable evidence — or rejected?”",
+    "best_quote_zh": "TruthCert的核心思想很简单：不要问“这看起来对吗？”，而是问“这是否在已发布的策略下通过认证，具有可审计的证据——或者被拒绝了？”"
   }]
