@@ -12019,4 +12019,98 @@
     "summary_zh": "TruthCert是一种用于高风险工作流程中LLM输出的“故障关闭”验证和披露标准。它确保输出符合已发布的策略并且可审计，从而防止悄无声息的错误输出。认证的输出包括范围锁定、溯源、多方见证验证、验证器检查、不可变记录和披露。如果验证不足，则输出将被拒绝。",
     "best_quote_en": "TruthCert’s core idea is simple: Don’t ask “does this look right?” Ask “is this certified under a published policy, with auditable evidence — or rejected?”",
     "best_quote_zh": "TruthCert的核心思想很简单：不要问“这看起来对吗？”，而是问“这是否在已发布的策略下通过认证，具有可审计的证据——或者被拒绝了？”"
+  },{
+    "id": 643,
+    "title": "Writing a C Compiler in Clojure",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://shagunagrawal.me/writing-a-c-compiler-in-clojure/\">https://shagunagrawal.me/writing-a-c-compiler-in-clojure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46762950\">https://news.ycombinator.com/item?id=46762950</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://shagunagrawal.me/writing-a-c-compiler-in-clojure/",
+    "tags": [
+      "compiler",
+      "clojure",
+      "lexer",
+      "c-language",
+      "ast"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "The author recounts their experience writing a C compiler in Clojure, inspired by a book and a presentation. They describe thecompiler's features, the challenges faced, and the refactoring ideas gained from various resources. The author details their initial complex lexer implementation and their later refactoring by adopting better way by watching a coder review.",
+    "summary_zh": "作者回顾了他们用Clojure编写C编译器的经历，灵感来自一本书和一个演讲。他们描述了编译器的功能，面临的挑战，以及从各种资源中获得的重构思路。作者详细介绍了他们最初复杂的词法分析器实现方法，以及后来通过观看代码审查改进重构。",
+    "best_quote_en": "Working with an AST, which would just be map of data felt like the perfect thing to build with Clojure.",
+    "best_quote_zh": "使用抽象语法树（AST），它只是数据的映射，感觉是用 Clojure 构建的完美选择。"
+  },
+  {
+    "id": 644,
+    "title": "Show HN: Resume Optimization Based on JDs",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cvcomp.com\">https://www.cvcomp.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46762932\">https://news.ycombinator.com/item?id=46762932</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cvcomp.com",
+    "tags": [
+      "resume optimization",
+      "ats",
+      "ai",
+      "job search",
+      "career"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "cvcomp is an AI-powered resume scanner that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS). It identifies keyword gaps, fixes formatting issues, and quantifies achievements to increase interview chances by tailoring the resume to specific job descriptions (JD). It provides real-time scoring and one-click interactive refinement.",
+    "summary_zh": "cvcomp是一款AI驱动的简历扫描器，旨在帮助求职者优化其简历以通过申请人追踪系统(ATS)。它通过数据驱动的关键词分析和一键优化，识别关键词差距，修复格式问题，并量化成就，从而根据特定的职位描述(JD)定制化简历，提高面试机会, 它提供实时评分和一键交互式优化。",
+    "best_quote_en": "If your resume isn't tailored to the specific keywords and seniority of the Job Description, you are invisible.",
+    "best_quote_zh": "如果你的简历没有针对职位描述的特定关键词和资历进行定制，你就会变得隐形。"
+  },
+  {
+    "id": 645,
+    "title": "Who Uses LLMs?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://neonvagabond.xyz/articles/who-uses-llms.html\">https://neonvagabond.xyz/articles/who-uses-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46762920\">https://news.ycombinator.com/item?id=46762920</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://neonvagabond.xyz/articles/who-uses-llms.html",
+    "tags": [
+      "llm",
+      "ai",
+      "coding",
+      "developers",
+      "programming"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "The article challenges the claim that only bad coders use AI, presenting examples of renowned developers like Salvatore Sanfilippo, Guido van Rossum, and Linus Torvalds who actively use LLMs for coding. It argues that AI is a valuable tool for experienced programmers.",
+    "summary_zh": "本文反驳了只有糟糕的程序员才使用AI的观点， 通过列举Salvatore Sanfilippo, Guido van Rossum, Linus Torvalds 等知名开发者积极使用LLM进行编程的例子，论证了AI是经验丰富的程序员的宝贵工具。",
+    "best_quote_en": "\"'Coding' was never the source of value, and people shouldn't get overly attached to it.  … I suspect that I will enjoy managing AIs more, even if they wind up being better programmers than I am.\"",
+    "best_quote_zh": "“'编码'从来不是价值的来源，人们不应该过度依恋它。……我怀疑我更喜欢管理人工智能，即使它们最终比我更擅长编程。”"
+  },
+  {
+    "id": 646,
+    "title": "Open-Source AI Audit Readiness Kit for Startups",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/GK-Edge/AI-Audit\">https://github.com/GK-Edge/AI-Audit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46762918\">https://news.ycombinator.com/item?id=46762918</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/GK-Edge/AI-Audit",
+    "tags": [
+      "ai",
+      "security",
+      "compliance",
+      "open-source",
+      "automation"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "AI Auditor Agent is an open-source CLI tool designed to help startups achieve compliance with standards like CASA Tier 2. By orchestrating security scanners and mapping findings to compliance requirements, it streamlines security evidence collection, making compliance more accessible and developer-friendly. The tool supports static analysis, dependency scans, and dynamic analysis, generating compliance-ready reports.",
+    "summary_zh": "AI Auditor Agent 是一个开源 CLI 工具，旨在帮助初创公司实现 CASA Tier 2 等标准的合规性。 通过协调安全扫描程序并将发现结果映射到合规性要求，它可以简化安全证据收集，使合规性更易于访问且对开发人员友好。 该工具支持静态分析、依赖项扫描和动态分析，从而生成符合合规性要求的报告。",
+    "best_quote_en": "This project turns security evidence collection into a repeatable, developer-friendly workflow so teams can ship faster without losing audit readiness.",
+    "best_quote_zh": "这个项目将安全证据收集变成一个可重复的、对开发者友好的工作流程，以便团队可以更快地交付，而不会失去审计准备。"
+  },
+  {
+    "id": 647,
+    "title": "When the Disclosure Committee Cannot Reconstruct the Record",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.aivojournal.org/when-the-disclosure-committee-cannot-reconstruct-the-record/\">https://www.aivojournal.org/when-the-disclosure-committee-cannot-reconstruct-the-record/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46762907\">https://news.ycombinator.com/item?id=46762907</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://www.aivojournal.org/when-the-disclosure-committee-cannot-reconstruct-the-record/",
+    "tags": [
+      "ai governance",
+      "disclosure committee",
+      "audit trail",
+      "risk management",
+      "compliance"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "The article discusses the challenge of reconstructing decision-making processes when external AI-generated content influences decisions. It highlights the lack of policies and record-keeping for such influences, leading to governance gaps and potential liabilities for disclosure committees who must certify that decisions can be explained, reconstructed, and defended even when no auditable record exists.",
+    "summary_zh": "文章讨论了当外部AI生成内容影响决策时，重构决策过程的挑战。它强调了缺乏针对此类影响的政策和记录保存，导致治理差距和潜在责任，披露委员会必须证明可以解释、重构和捍卫决策，即使不存在可审计的记录。",
+    "best_quote_en": "\"We do not control that system\" is not a governance answer.",
+    "best_quote_zh": "“我们不控制该系统”不是一个治理的答案。"
   }]
