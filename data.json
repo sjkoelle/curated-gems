@@ -12113,4 +12113,79 @@
     "summary_zh": "文章讨论了当外部AI生成内容影响决策时，重构决策过程的挑战。它强调了缺乏针对此类影响的政策和记录保存，导致治理差距和潜在责任，披露委员会必须证明可以解释、重构和捍卫决策，即使不存在可审计的记录。",
     "best_quote_en": "\"We do not control that system\" is not a governance answer.",
     "best_quote_zh": "“我们不控制该系统”不是一个治理的答案。"
+  },{
+    "id": 648,
+    "title": "Ask HN: What's your favorite self-hosted application?",
+    "source": "Hackernews",
+    "desc": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46776726\">https://news.ycombinator.com/item?id=46776726</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46776726",
+    "tags": [
+      "self-hosted",
+      "application",
+      "hackernews",
+      "community",
+      "tools"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "This Hacker News post asks users about their favorite self-hosted applications. It's a simple question prompting discussion and sharing of useful tools within the self-hosting community.",
+    "summary_zh": "这篇 Hacker News 文章询问用户他们最喜欢的自托管应用程序是什么。这是一个简单的问题，旨在促进自托管社区内有用工具的讨论和分享。",
+    "best_quote_en": "What's your favorite self-hosted application?",
+    "best_quote_zh": "你最喜欢的自托管应用程序是什么？"
+  },
+  {
+    "id": 649,
+    "title": "Ask HN: What is the hair on fire problem in your company?",
+    "source": "Hackernews",
+    "desc": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46776685\">https://news.ycombinator.com/item?id=46776685</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46776685",
+    "tags": [
+      "hacker news",
+      "company problems",
+      "challenges",
+      "ask hn",
+      "urgent issues"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "The post is a question on Hacker News asking users about the most urgent or 'hair on fire' problems in their companies. It's a simple prompt intended to gather insights into common challenges faced by various organizations.",
+    "summary_zh": "该帖子是Hacker News上的一个提问，询问用户他们公司里最紧急或“火烧眉毛”的问题是什么。这是一个简单的提示，旨在收集对各种组织面临的常见挑战的见解。",
+    "best_quote_en": "What is the hair on fire problem in your company?",
+    "best_quote_zh": "你公司里最火烧眉毛的问题是什么？"
+  },
+  {
+    "id": 650,
+    "title": "Summary of CVE-2026-23864",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://vercel.com/changelog/summary-of-cve-2026-23864\">https://vercel.com/changelog/summary-of-cve-2026-23864</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46776659\">https://news.ycombinator.com/item?id=46776659</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://vercel.com/changelog/summary-of-cve-2026-23864",
+    "tags": [
+      "react",
+      "vulnerability",
+      "dos",
+      "server components",
+      "next.js"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "Multiple high-severity denial of service vulnerabilities in React Server Components (CVE-2026-23864) have been disclosed. These can lead to server crashes or excessive CPU usage. Immediate upgrades to patched versions of React and affected frameworks (like Next.js) are required, though a WAF provides some protection. The vulnerabilities are in versions 19.0.x, 19.1.x, and 19.2.x of react-server-dom-* packages.",
+    "summary_zh": "React Server Components中存在多个高危拒绝服务漏洞(CVE-2026-23864)。这些漏洞可能导致服务器崩溃或CPU过度使用。虽然WAF提供了一定的保护，但仍需立即升级到React和受影响框架（如Next.js）的已修复版本。漏洞存在于react-server-dom-*包的19.0.x、19.1.x和19.2.x版本中。",
+    "best_quote_en": "However, do not rely on the WAF for full protection. Immediate upgrades to a patched version are required.",
+    "best_quote_zh": "但是，不要依赖WAF来获得全面保护。 需要立即升级到修补版本。"
+  },
+  {
+    "id": 651,
+    "title": "Show HN: Externalized Properties, a modern Java configuration library",
+    "source": "Hackernews",
+    "desc": "<p>Externalized Properties is powerful configuration library which supports resolution of properties from external sources such as files, databases, git repositories, and any custom sources</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46776643\">https://news.ycombinator.com/item?id=46776643</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/joel-jeremy/externalized-properties",
+    "tags": [
+      "java",
+      "configuration",
+      "library",
+      "externalized properties",
+      "dynamic proxies"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "Externalized Properties is a lightweight Java library for resolving application properties from external sources, inspired by the Twelve-Factor Methodology. It offers easy APIs and flexibility in configuration storage, supporting features like dynamic proxies, caching, custom resolvers/converters, variable expansion, and profile-specific configurations.",
+    "summary_zh": "Externalized Properties 是一个轻量级的 Java 库，用于从外部源解析应用程序属性，其灵感来自 Twelve-Factor Methodology。它提供了简单的 API 和配置存储的灵活性，支持动态代理、缓存、自定义解析器/转换器、变量扩展和特定于配置文件的配置等功能。",
+    "best_quote_en": "The goal of this library is to make it easy for applications to implement configuration best practices by providing easy-to-use APIs as well as providing the flexibility to choose where to store their configurations/properties.",
+    "best_quote_zh": "该库的目标是通过提供易于使用的 API 以及选择存储其配置/属性的灵活性，使应用程序可以轻松地实施配置最佳实践。"
   }]
