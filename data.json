@@ -12188,4 +12188,79 @@
     "summary_zh": "Externalized Properties 是一个轻量级的 Java 库，用于从外部源解析应用程序属性，其灵感来自 Twelve-Factor Methodology。它提供了简单的 API 和配置存储的灵活性，支持动态代理、缓存、自定义解析器/转换器、变量扩展和特定于配置文件的配置等功能。",
     "best_quote_en": "The goal of this library is to make it easy for applications to implement configuration best practices by providing easy-to-use APIs as well as providing the flexibility to choose where to store their configurations/properties.",
     "best_quote_zh": "该库的目标是通过提供易于使用的 API 以及选择存储其配置/属性的灵活性，使应用程序可以轻松地实施配置最佳实践。"
+  },{
+    "id": 652,
+    "title": "Show HN: Modelfy – Turn a single image into a 3D model (GLB/OBJ)",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN — I built Modelfy, a web tool that generates a 3D mesh + textures from a single image, then lets you download the result (e.g., GLB/OBJ).\nIt’s aimed at quickly prototyping assets for 3D, games, and product mockups. It works best on a single object with a clean background; complex scenes can produce messy geometry.\nI’d love feedback on output quality, workflows you’d expect (retopo, PBR maps, scale/origin), and what would make this useful in a real pipeline.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792317\">https://news.ycombinator.com/item?id=46792317</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://modelfy.art",
+    "tags": [
+      "ai",
+      "3d modeling",
+      "image to 3d",
+      "machine learning",
+      "asset creation"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "Modelfy is an AI-powered platform that converts 2D images into 3D models. It offers high-precision models, enterprise-grade tools, and multi-format export options. It boasts fast conversion times, high success rates, and cost-effective pricing, making it ideal for professionals in various industries.",
+    "summary_zh": "Modelfy是一个AI驱动的平台，可以将2D图像转换为3D模型。它提供高精度模型、企业级工具和多格式导出选项。它拥有快速的转换时间、高成功率和经济高效的定价，非常适合各行各业的专业人士。",
+    "best_quote_en": "Our proprietary AI image to 3D pipeline combines advanced computer vision with intelligent processing to deliver enterprise-grade 3D models from any 2D image.",
+    "best_quote_zh": "我们自主研发的AI图像到3D流程结合了先进的计算机视觉和智能处理，可从任何2D图像提供企业级3D模型。"
+  },
+  {
+    "id": 653,
+    "title": "How much recurring income do you generate in 2026 and from what?",
+    "source": "Hackernews",
+    "desc": "<p>It’s always interesting to know the (side) hustles people are running that, in their opinion, provides recurring revenue that is either a good source or passive income or their main source of income.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792316\">https://news.ycombinator.com/item?id=46792316</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46792316",
+    "tags": [
+      "recurring income",
+      "passive income",
+      "side hustle",
+      "finance",
+      "location"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "The discussion revolves around recurring income sources that people are generating, focusing on side hustles and passive income streams. One comment highlights the varying value of income based on location.",
+    "summary_zh": "讨论围绕人们产生的经常性收入来源，重点关注副业和被动收入。一条评论强调了收入价值因地理位置而异。",
+    "best_quote_en": "Someone's $1k could be more valuable than another person's $10k",
+    "best_quote_zh": "某人的 1000 美元可能比另一个人的 10000 美元更有价值"
+  },
+  {
+    "id": 654,
+    "title": "Show HN: GrindMal – A dev \"arena\" (Alpha Invite)",
+    "source": "Hackernews",
+    "desc": "<p><p><pre><code>    We're building GrindMal, a dev ecosystem based on one rule: Artifacts > Opinions.\n\n    This is NOT for beginners. It's for developers who learn by grinding on broken, real projects. No tutorials. No hand-holding. PRs are the only help.\n\n    The Vision: To become the definitive \"arena\" where the most resilient developers prove their skills through silent collaboration and shipped code. Imagine a future \"Hall of Grind\" and autonomous challenge engines. (Link to your vision doc or a brief README section.)\n\n    We are Alpha-Ready and Need:\n\n        Go-builders to help with the core platform (Next.js/TypeScript, GitHub API integration).\n\n        Design thinkers who understand that in this system, UX is a set of constraints that prevent comfort.\n\n        Open-source veterans who want to help design the \"broken projects\" and review protocols.\n\n    If you're interested:\n\n        Read the Core Philosophy to see if it resonates.\n\n        Your first task is not to message me. It's to submit a PR to our onboarding repo fixing a deliberately broken markdown file or a simple bug in our alpha site code. This is the only way in.\n\n    Repo: https://github.com/Grind-Mal (Make sure the onboarding repo has a clear \"first-alpha-contributor\" issue!)\n\n    This is a filter. The grind starts now.</code></pre></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792285\">https://news.ycombinator.com/item?id=46792285</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46792285",
+    "tags": [
+      "developer",
+      "open-source",
+      "collaboration",
+      "github",
+      "dev-ecosystem"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "GrindMal is a dev ecosystem for experienced developers who learn by working on broken, real projects through PRs. It aims to be the definitive platform where developers prove their skills through collaboration and shipped code. Alpha testers are needed to help with the platform, design broken projects, and review protocols. Admission is via submitting a PR to fix a bug in their onboarding repo.",
+    "summary_zh": "GrindMal是一个面向经验丰富的开发者的开发生态系统，他们通过PRs在真实的缺陷项目中学习。它的目标是成为开发者通过协作和交付代码来证明自己技能的权威平台。目前需要Alpha测试人员来帮助完善平台、设计缺陷项目和审查协议。进入方式是提交PR以修复其入职库中的错误。",
+    "best_quote_en": "Artifacts > Opinions.",
+    "best_quote_zh": "成果 > 观点。"
+  },
+  {
+    "id": 655,
+    "title": "ePub and HTML – Survey results and next steps",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.w3.org/blog/2026/epub-and-html-survey-results-and-next-steps/\">https://www.w3.org/blog/2026/epub-and-html-survey-results-and-next-steps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792279\">https://news.ycombinator.com/item?id=46792279</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.w3.org/blog/2026/epub-and-html-survey-results-and-next-steps/",
+    "tags": [
+      "epub",
+      "html",
+      "digital publishing",
+      "pmwg",
+      "survey"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "The Publishing Maintenance Working Group (PMWG) decided not to add HTML to EPUB 3.4 based on a survey.  While HTML integration could address feature gaps in EPUB, simply adding HTML won't solve underlying issues. The group encourages community members to share their use cases and challenges in the Publishing Community Group to shape the future of digital publications.",
+    "summary_zh": "出版维护工作组（PMWG）根据一项调查决定不在EPUB 3.4中添加HTML。虽然HTML集成可以弥补EPUB的功能差距，但简单地添加HTML并不能解决根本问题。该小组鼓励社区成员在出版社区小组中分享他们的用例和挑战，以塑造数字出版的未来。",
+    "best_quote_en": "Before diving into the survey results, one thing we want to make clear is that the door is not closing on HTML and digital publications.",
+    "best_quote_zh": "在深入研究调查结果之前，我们要明确指出，我们并没有完全对HTML和数字出版物关闭大门。"
   }]
