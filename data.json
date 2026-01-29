@@ -12263,4 +12263,79 @@
     "summary_zh": "出版维护工作组（PMWG）根据一项调查决定不在EPUB 3.4中添加HTML。虽然HTML集成可以弥补EPUB的功能差距，但简单地添加HTML并不能解决根本问题。该小组鼓励社区成员在出版社区小组中分享他们的用例和挑战，以塑造数字出版的未来。",
     "best_quote_en": "Before diving into the survey results, one thing we want to make clear is that the door is not closing on HTML and digital publications.",
     "best_quote_zh": "在深入研究调查结果之前，我们要明确指出，我们并没有完全对HTML和数字出版物关闭大门。"
+  },{
+    "id": 656,
+    "title": "Show HN: Selling New Era Calculator",
+    "source": "Hackernews",
+    "desc": "<p>So I built this calculator which can do big number multiplications (keeping the scope/functionality small)<p>Only caveat is that there is a certain probability of it making mistakes with the calculations ( I claim the probability to be less than .0001 %,  different results for different benchmarks though)<p>- It does speeds up the calculations, saving lots of time for business<p>- You can of course verify the calculations manually if you want to check on accuracy<p>- Better yet, you buy multiple calculators and execute the same inputs to get a better confidence on the result<p>( Though in full transparency, I must warn you, since the core logic is same, its possible that for certain combination of inputs it produces the same result across all the calculators/devices which may be wrong. Buying more than 1 calculator can only help up to certain degree.<p>- Also I am emphasizing that you should not spend any more efforts to learn multiplication since calculator is there<p>As a business:<p>1. Would you want to buy this calculator<p>2. How many calculators would you want to buy, I would like to emphasize that the more you buy the better accuracy/confidence you will have with the results<p>Oh couple more things I forgot to share,<p>1. I was able to sell this calculator to some of the companies in aviation industry to calculate altitudes while flying<p>2. My business plan does depends on people loosing the skill to do multiplication, thus artificially increasing the accuracy of my calculator in the absence of manual verifications. Eventually I will raise the price 10X to make profit.<p>PS: This is one time investment opportunity to take big number calculations to next level.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46807109\">https://news.ycombinator.com/item?id=46807109</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46807109",
+    "tags": [
+      "calculator",
+      "big number multiplication",
+      "aviation industry",
+      "accuracy",
+      "business"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "The author is selling a new calculator that performs big number multiplications with a small probability of error. The suggestion is to buy multiple calculators for better accuracy. The author has sold it to aviation companies and plans to increase the price later, betting on people losing multiplication skills.",
+    "summary_zh": "作者正在销售一种新型计算器，该计算器可以进行大数乘法运算，但存在较小的出错概率。建议购买多个计算器以提高准确性。作者已将其出售给航空业公司，并计划稍后提高价格，赌的是人们会失去乘法技能。",
+    "best_quote_en": "Buying more than 1 calculator can only help up to certain degree.",
+    "best_quote_zh": "购买多个计算器只能在一定程度上提供帮助。"
+  },
+  {
+    "id": 657,
+    "title": "How to Build an Agent",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ampcode.com/how-to-build-an-agent\">https://ampcode.com/how-to-build-an-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46807090\">https://news.ycombinator.com/item?id=46807090</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ampcode.com/how-to-build-an-agent",
+    "tags": [
+      "llm",
+      "agent",
+      "go",
+      "anthropic",
+      "code-editing"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "This article demonstrates how to build a code-editing agent with an LLM, a loop, and a few lines of code. It emphasizes the simplicity of the core components, requiring less than 400 lines of Go code. The article guides readers through setting up a basic chat application with Claude, illustrating how to maintain conversation history and integrate tools for modifying external elements.",
+    "summary_zh": "本文展示了如何使用LLM（大型语言模型）、一个循环和少量代码构建一个代码编辑代理。文章强调了核心组件的简单性，只需要不到400行的Go代码。文章指导读者设置与Claude的基本聊天应用程序，演示了如何维护会话历史记录并集成工具来修改外部元素。",
+    "best_quote_en": "Here’s my definition: an LLM with access to tools, giving it the ability to modify something outside the context window.",
+    "best_quote_zh": "这是我的定义：一个LLM（大型语言模型）可以访问工具，使其能够修改上下文窗口之外的内容。"
+  },
+  {
+    "id": 658,
+    "title": "SQLite in Production? Not So Fast for Complex Queries",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://yyhh.org/blog/2026/01/sqlite-in-production-not-so-fast-for-complex-queries/\">https://yyhh.org/blog/2026/01/sqlite-in-production-not-so-fast-for-complex-queries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46807073\">https://news.ycombinator.com/item?id=46807073</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://yyhh.org/blog/2026/01/sqlite-in-production-not-so-fast-for-complex-queries/",
+    "tags": [
+      "sqlite",
+      "database",
+      "query optimization",
+      "multi-join queries",
+      "performance"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "SQLite is often recommended for its simplicity and speed, especially in web development. However, it struggles with complex, multi-join queries common in serious production systems. These queries arise from normalized data, rich relationships, and compositional business rules. Denormalization or moving logic to the application layer are common workarounds, but they often increase engineering costs without adding value. SQLite's query optimizer is the key limitation.",
+    "summary_zh": "SQLite因其简洁和速度常被推荐，尤其是在Web开发中。然而，它在处理复杂的多表连接查询时表现不佳，这类查询在重要的生产系统中很常见。这些查询源于规范化的数据、丰富的关系和组合业务规则。非规范化或将逻辑转移到应用层是很常见的替代方法，但它们通常会增加工程成本，而不会增加价值。SQLite的查询优化器是主要的限制。",
+    "best_quote_en": "Complex joins are not accidental. They emerge from normalized data, explicit relationships, compositional business rules, layered authorization, and historical records.",
+    "best_quote_zh": "复杂的连接不是偶然的。它们源于规范化的数据、显式的关系、组合的业务规则、分层的授权和历史记录。"
+  },
+  {
+    "id": 659,
+    "title": "Show HN: Collection of resources to make production-grade Systems",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/legendaryabhi/zero-to-production\">https://github.com/legendaryabhi/zero-to-production</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46807069\">https://news.ycombinator.com/item?id=46807069</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/legendaryabhi/zero-to-production",
+    "tags": [
+      "api",
+      "backend",
+      "production",
+      "microservices",
+      "reliability"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "A collection of resources for building production-grade systems, covering APIs, backends, databases, deployment, monitoring, reliability, security, and infrastructure. It emphasizes practical engineering practices, API design, asynchronous processing, idempotency, and resilience patterns. Key topics include REST & GraphQL APIs, microservices vs. monoliths, and handling failures in distributed systems.",
+    "summary_zh": "这是一个构建生产级系统的资源集合，涵盖API、后端、数据库、部署、监控、可靠性、安全性和基础设施。它强调了工程实践、API设计、异步处理、幂等性和弹性模式。关键主题包括REST和GraphQL API、微服务与单体架构，以及分布式系统中故障处理。",
+    "best_quote_en": "The Log: What every software engineer should know about real-time data's unifying abstraction (LinkedIn) - Jay Kreps (co-creator of Kafka) explains why the commit log is the heart of distributed backend systems, not just a database detail.",
+    "best_quote_zh": "The Log: 每个软件工程师都应该了解的关于实时数据统一抽象（LinkedIn） - Kafka 的共同开发者 Jay Kreps 解释了为什么提交日志是分布式后端系统的核心，而不仅仅是一个数据库细节。"
   }]
