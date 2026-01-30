@@ -12338,4 +12338,98 @@
     "summary_zh": "这是一个构建生产级系统的资源集合，涵盖API、后端、数据库、部署、监控、可靠性、安全性和基础设施。它强调了工程实践、API设计、异步处理、幂等性和弹性模式。关键主题包括REST和GraphQL API、微服务与单体架构，以及分布式系统中故障处理。",
     "best_quote_en": "The Log: What every software engineer should know about real-time data's unifying abstraction (LinkedIn) - Jay Kreps (co-creator of Kafka) explains why the commit log is the heart of distributed backend systems, not just a database detail.",
     "best_quote_zh": "The Log: 每个软件工程师都应该了解的关于实时数据统一抽象（LinkedIn） - Kafka 的共同开发者 Jay Kreps 解释了为什么提交日志是分布式后端系统的核心，而不仅仅是一个数据库细节。"
+  },{
+    "id": 660,
+    "title": "Apple can't secure enough chips as iPhone demand surges, memory prices rise",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/29/apple-iphone-soc-memory-tsmc.html\">https://www.cnbc.com/2026/01/29/apple-iphone-soc-memory-tsmc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821642\">https://news.ycombinator.com/item?id=46821642</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.cnbc.com/2026/01/29/apple-iphone-soc-memory-tsmc.html",
+    "tags": [
+      "apple",
+      "chip shortage",
+      "tsmc",
+      "iphone",
+      "memory prices"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "Apple anticipates strong growth but faces potential iPhone supply constraints due to chip shortages. The company is working to improve its chip supply, particularly advanced nodes from TSMC, and is addressing rising memory prices influenced by the AI boom. Apple's revenue is forecasted to grow by 13% to 16% year over year.",
+    "summary_zh": "苹果预计将实现强劲增长，但由于芯片短缺，iPhone 供应可能受到限制。该公司正努力改善芯片供应，特别是来自台积电的先进节点，并正在解决受人工智能繁荣影响的内存价格上涨问题。苹果公司的收入预计同比增长 13% 至 16%。",
+    "best_quote_en": "\"The constraints that we have are driven by the availability of the advanced nodes that our SoCs are produced on.\"",
+    "best_quote_zh": "“我们面临的制约因素是由用于生产SoC的先进节点的可用性驱动的。”"
+  },
+  {
+    "id": 661,
+    "title": "Apple Reports Record-Setting 1Q 2026 Results: $42.1B Profit on $143.8B Revenue",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/01/29/apple-1q-2026-earnings/\">https://www.macrumors.com/2026/01/29/apple-1q-2026-earnings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821640\">https://news.ycombinator.com/item?id=46821640</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.macrumors.com/2026/01/29/apple-1q-2026-earnings/",
+    "tags": [
+      "apple",
+      "revenue",
+      "iphone",
+      "services",
+      "financial results"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "Apple reported record-setting 1Q 2026 results with $143.8B in revenue and $42.1B in profit. Revenue was up 16% year-over-year, driven by strong iPhone sales and Services. The installed base now exceeds 2.5 billion active devices. Apple projects continued revenue growth for the current quarter.",
+    "summary_zh": "苹果公司公布了创纪录的2026年第一季度财报，收入达1438亿美元，利润为421亿美元。收入同比增长16%，主要得益于iPhone和服务的强劲销售。活跃设备安装量已超过25亿部。苹果预计本季度收入将继续增长。",
+    "best_quote_en": "\"We are bringing intelligence to more of what people already love about our products, so we can make every experience even more capable and effortless.\"",
+    "best_quote_zh": "\"我们将智能带到人们已经喜爱我们产品的更多方面，以便我们可以使每次体验都更加强大和轻松。\""
+  },
+  {
+    "id": 662,
+    "title": "How linguistic framing in pitch decks influence investors' judgment – St. Gallen",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.pitchwise.se/blog/the-science-of-cold-outreach-a-research-on-why-your-pitch-deck-slide-headers-might-matter-more-than-your-slides-content\">https://www.pitchwise.se/blog/the-science-of-cold-outreach-a-research-on-why-your-pitch-deck-slide-headers-might-matter-more-than-your-slides-content</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821614\">https://news.ycombinator.com/item?id=46821614</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.pitchwise.se/blog/the-science-of-cold-outreach-a-research-on-why-your-pitch-deck-slide-headers-might-matter-more-than-your-slides-content",
+    "tags": [
+      "pitch deck",
+      "investors",
+      "linguistic framing",
+      "fundraising",
+      "cold outreach"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "This article discusses how linguistic framing in pitch deck subtitles can influence investors' judgment. A study found that concrete and coherent slide titles and subtitles are crucial for capturing investors' attention in the initial screening phase, potentially determining whether a deck is skimmed and closed or explored further. Cold outreach pitch decks often face high rejection rates due to limited investor attention.",
+    "summary_zh": "本文讨论了路演PPT中的语言框架如何影响投资者的判断。研究发现，具体且连贯的幻灯片标题和副标题对于在初步筛选阶段吸引投资者的注意力至关重要，可能决定PPT是被略读后关闭还是被进一步探索。由于投资者注意力有限，冷启动路演PPT通常面临较高的拒绝率。",
+    "best_quote_en": "The bottleneck isn't capital. It's attention.",
+    "best_quote_zh": "瓶颈不是资金，而是注意力。"
+  },
+  {
+    "id": 663,
+    "title": "AI creates asymmetric pressure on Open Source",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://dri.es/ai-creates-asymmetric-pressure-on-open-source\">https://dri.es/ai-creates-asymmetric-pressure-on-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821612\">https://news.ycombinator.com/item?id=46821612</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://dri.es/ai-creates-asymmetric-pressure-on-open-source",
+    "tags": [
+      "artificial intelligence",
+      "open source",
+      "maintainers",
+      "drupal",
+      "ai ethics"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "AI eases Open Source contribution but burdens maintainers with low-quality submissions, causing burnout risks. The author discusses balancing innovation with maintainer well-being, drawing parallels to PHP's evolution. They advocate for expertise-driven AI use, citing successful AI-assisted bug discoveries in curl and OpenSSL, emphasizing thoughtful integration over rejection.",
+    "summary_zh": "AI降低了开源贡献的门槛，但也给维护者带来了处理低质量提交的负担，导致倦怠风险。 作者讨论了如何在创新和维护者福祉之间取得平衡，并将此与PHP的演变进行了比较。 他们提倡以专业知识驱动的AI使用，引用了在curl和OpenSSL中通过AI辅助成功发现漏洞的案例，强调周全的整合而非拒绝。",
+    "best_quote_en": "Protecting maintainers and accelerating innovation shouldn't be opposites, but right now they feel that way.",
+    "best_quote_zh": "保护维护者和加速创新本不应该对立，但现在它们却给人这种感觉。"
+  },
+  {
+    "id": 664,
+    "title": "Show HN: Configlock, App Lock for Dotfiles",
+    "source": "Hackernews",
+    "desc": "<p>after the 7th time this week being distracted by my zshrc, nvim config, and different gruvbox variants on ghostty, i made a thing that locks my config files during work hours. even sudo vim won't bypass. no more \"just one more tweak\" :)<p>## it works by<p>- setting immutable flags on files<p>- reloading config on SIGHUP signal without restarting the daemon.<p>- watching files with fsnotify and immediately re-locking if changes are detected.<p>- daemon is kept alive by systemctl/launchctl.<p>of course, you can still bypass it somehow, but the goal isn't security, it's to add enough friction that it helps with your self-control.<p>## Why I built it:<p>it's surprising (or not) how much time i spend on tuning all these configs, without me even noticing. it's too easy to just `cd dotfiles` and make some changes, whenever the tiniest inconvenience appears.<p>this started as a personal hack, but it's been surprisingly effective, so I figured others might relate<p>## Try it out:<p>- install with `brew install baggiiiie/tap/configlock`.<p>- run `configlock init`.<p>- add files with `configlock add ~/.zshrc`.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821605\">https://news.ycombinator.com/item?id=46821605</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/baggiiiie/configlock",
+    "tags": [
+      "cli",
+      "configuration",
+      "lock",
+      "automation",
+      "security"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "ConfigLock is a CLI tool that uses system-level immutable flags to lock config files during work hours, preventing impulsive tinkering. It features configurable work hours, file system watching, typing challenges for unlocking, temporary unlocks, and background daemon operation. Supports Linux and macOS.",
+    "summary_zh": "ConfigLock是一个命令行工具，它使用系统级的不可变标志在工作时间内锁定配置文件，防止冲动修改。它具有可配置的工作时间、文件系统监视、解锁时的打字挑战、临时解锁和后台守护进程操作。支持Linux和macOS。",
+    "best_quote_en": "Prevents impulsive config tinkering when you should be working.",
+    "best_quote_zh": "防止在应该工作时冲动地修改配置。"
   }]
