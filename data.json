@@ -12432,4 +12432,60 @@
     "summary_zh": "ConfigLock是一个命令行工具，它使用系统级的不可变标志在工作时间内锁定配置文件，防止冲动修改。它具有可配置的工作时间、文件系统监视、解锁时的打字挑战、临时解锁和后台守护进程操作。支持Linux和macOS。",
     "best_quote_en": "Prevents impulsive config tinkering when you should be working.",
     "best_quote_zh": "防止在应该工作时冲动地修改配置。"
+  },{
+    "id": 665,
+    "title": "Show HN: Oyster Bot – AI assistant for your phone, powered by Claude Code",
+    "source": "Hackernews",
+    "desc": "<p>I wanted Claude Code on my phone without running extra infrastructure. Existing solutions felt heavy..gateway servers, native apps, etc.<p>This is a Telegram bot that spawns the Claude CLI and pipes responses back to you. Clone, npm install, add your bot token, run it.<p>Works with Claude Pro/Max (no API key required). You can whitelist users, restrict which tools Claude can access, and add custom commands via plugins.<p>Only ~400 lines of JS.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46834415\">https://news.ycombinator.com/item?id=46834415</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/TimFinnigan/oyster-bot",
+    "tags": [
+      "ai assistant",
+      "telegram bot",
+      "claude code",
+      "automation",
+      "productivity"
+    ],
+    "date": "2026-01-31",
+    "summary_en": "Oyster Bot is a lightweight AI assistant for your phone, powered by Claude Code. It allows users to chat with Claude, search the web, read files, and run commands via Telegram. It features session continuity, streaming logs, configurable tools, user whitelists, and budget caps. Requires Node.js, Claude Code CLI, and a Telegram bot token.",
+    "summary_zh": "Oyster Bot 是一款轻量级的手机AI助手，由 Claude Code 驱动。它允许用户通过 Telegram 与 Claude 聊天、搜索网络、读取文件和运行命令。它具有会话连续性、流式日志、可配置工具、用户白名单和预算上限等功能。需要 Node.js、Claude Code CLI 和 Telegram 机器人令牌。",
+    "best_quote_en": "Chat with Claude, search the web, read files, and run commands—all from your phone.",
+    "best_quote_zh": "与 Claude 聊天，搜索网络，读取文件，运行命令——一切尽在你的手机。"
+  },
+  {
+    "id": 666,
+    "title": "Using project genie feels kinda like a game",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://project-genie.net/\">https://project-genie.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46834407\">https://news.ycombinator.com/item?id=46834407</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "link": "https://project-genie.net/",
+    "tags": [
+      "ai",
+      "3d",
+      "world generation",
+      "google genie 3",
+      "interactive environments"
+    ],
+    "date": "2026-01-31",
+    "summary_en": "Project Genie, powered by Google's Genie 3, transforms text and images into interactive 3D worlds in real-time. It allows users to create, navigate, and remix environments without requiring technical skills, offering applications in game prototyping, education, and film previsualization. It leverages advanced AI to generate photorealistic worlds and offers real-time world generation.",
+    "summary_zh": "Project Genie 由 Google 的 Genie 3 提供支持，可将文本和图像实时转换为交互式 3D 世界。它允许用户无需技术技能即可创建、导航和混合环境，并在游戏建模、教育和电影预演中提供应用。它利用先进的AI来生成逼真的世界，并提供实时的世界生成。",
+    "best_quote_en": "Project Genie delivers visual fidelity suitable for creative projects, education, and research applications.",
+    "best_quote_zh": "Project Genie 提供的视觉保真度适用于创意项目、教育和研究应用。"
+  },
+  {
+    "id": 667,
+    "title": "The End of Transformers (2025)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.05364\">https://arxiv.org/abs/2510.05364</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46834401\">https://news.ycombinator.com/item?id=46834401</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://arxiv.org/abs/2510.05364",
+    "tags": [
+      "transformers",
+      "attention mechanism",
+      "sequence processing",
+      "sub-quadratic architectures",
+      "deep learning"
+    ],
+    "date": "2026-01-31",
+    "summary_en": "This paper analyzes the future of Transformers in sequence processing, focusing on the challenges posed by the quadratic complexity of the attention mechanism. It surveys recent efforts to overcome this bottleneck, including sub-quadratic attention variants, recurrent neural networks, state space models, and hybrid architectures, to assess whether pure-attention Transformers will be challenged.",
+    "summary_zh": "本文分析了Transformer在序列处理中的未来，重点关注注意力机制的二次复杂度带来的挑战。文章调研了克服这一瓶颈的最新进展，包括次二次注意力变体、循环神经网络、状态空间模型和混合架构，以评估纯注意力Transformer是否会受到挑战。",
+    "best_quote_en": "However, the inherent quadratic complexity of their attention mechanism remains a significant bottleneck as context length increases.",
+    "best_quote_zh": "然而，随着上下文长度的增加，其注意力机制固有的二次复杂度仍然是一个显著的瓶颈。"
   }]
