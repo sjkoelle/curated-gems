@@ -12488,4 +12488,60 @@
     "summary_zh": "本文分析了Transformer在序列处理中的未来，重点关注注意力机制的二次复杂度带来的挑战。文章调研了克服这一瓶颈的最新进展，包括次二次注意力变体、循环神经网络、状态空间模型和混合架构，以评估纯注意力Transformer是否会受到挑战。",
     "best_quote_en": "However, the inherent quadratic complexity of their attention mechanism remains a significant bottleneck as context length increases.",
     "best_quote_zh": "然而，随着上下文长度的增加，其注意力机制固有的二次复杂度仍然是一个显著的瓶颈。"
+  },{
+    "id": 668,
+    "title": "The Book of PF, 4th edition",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://nostarch.com/book-of-pf-4th-edition\">https://nostarch.com/book-of-pf-4th-edition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46844350\">https://news.ycombinator.com/item?id=46844350</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://nostarch.com/book-of-pf-4th-edition",
+    "tags": [
+      "openbsd",
+      "firewall",
+      "networking",
+      "security",
+      "pf"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "The Book of PF, 4th Edition, is a guide to OpenBSD's PF firewall, covering IPv6, traffic shaping, NAT, wireless networking, spam fighting, and failover. It teaches creating rulesets, setting up secure wireless networks, maximizing service availability, building adaptive firewalls, and monitoring traffic. Covers OpenBSD 7.x, FreeBSD 14.x, and NetBSD 10.x.",
+    "summary_zh": "《PF之书》第四版是OpenBSD的PF防火墙指南，涵盖IPv6、流量整形、NAT、无线网络、垃圾邮件防御和故障转移。 它教授创建规则集、设置安全无线网络、最大化服务可用性、构建自适应防火墙和监视流量。 涵盖OpenBSD 7.x、FreeBSD 14.x和NetBSD 10.x。",
+    "best_quote_en": "With a little effort and this book, you’ll be well prepared to unlock PF’s full potential.",
+    "best_quote_zh": "只需稍加努力并阅读本书，您就能充分发挥PF的潜力。"
+  },
+  {
+    "id": 669,
+    "title": "Show HN: SearchSound.cloud: Easily find downloadable music from SoundCloud",
+    "source": "Hackernews",
+    "desc": "<p>Hey everyone!<p>As a bedroom DJ, I always struggled to find downloadable tracks on SoundCloud. There are no advanced filters, and even if you use sites like Hypeddit, you only get songs that have been uploaded there specifically.<p>So I built SearchSound.cloud, which allows to search with advanced filters (genre, bpm, duration...) but also by \"downloadable only\", which includes songs for which the artist has added a link for download.<p>I also just added a charts section, which lets you see the most played songs with a download link released in each month, so you can see what's trending amongst the songs that you can download.<p>Lmk what you think! Any feedback is super welcome :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46844337\">https://news.ycombinator.com/item?id=46844337</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://searchsound.cloud/",
+    "tags": [
+      "soundcloud",
+      "music",
+      "downloadable",
+      "audio",
+      "converter"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "SearchSound.cloud allows users to easily find downloadable music from SoundCloud. Users can search for various genres, BPM ranges, and specific artist remixes. Examples include D&B Taylor Swift remixes, Dubstep remixes, and Lo-fi hip hop. It also features monthly downloadable charts and a free online audio converter for MP3, WAV, and FLAC.",
+    "summary_zh": "SearchSound.cloud 允许用户轻松查找来自 SoundCloud 的可下载音乐。 用户可以搜索各种流派、BPM 范围和特定艺术家的混音。 示例包括 D&B Taylor Swift 混音、Dubstep 混音和 Lo-fi hip hop。 它还提供每月可下载的排行榜和一个免费的在线音频转换器，用于转换 MP3、WAV 和 FLAC。",
+    "best_quote_en": "Easily find downloadable music from SoundCloud.",
+    "best_quote_zh": "轻松查找来自 SoundCloud 的可下载音乐。"
+  },
+  {
+    "id": 670,
+    "title": "Show HN: AsyncReview – Agent that recursively explores your repo to review PRs",
+    "source": "Hackernews",
+    "desc": "<p>Add this skill instantly via:\nnpx skills add AsyncFuncAI/AsyncReview</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46844332\">https://news.ycombinator.com/item?id=46844332</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/AsyncFuncAI/AsyncReview",
+    "tags": [
+      "code-review",
+      "agent",
+      "recursive-language-models",
+      "github",
+      "async"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "AsyncReview is an agent that recursively explores a repository to review pull requests and issues. It uses Recursive Language Models (RLM) to understand dependencies, execute search queries, and run verification scripts within a secure sandbox, providing high-quality and grounded feedback. It requires a Gemini API key and optionally a GitHub token for private repositories.",
+    "summary_zh": "AsyncReview是一个递归浏览代码仓库以审查PR和Issue的智能体。它使用递归语言模型（RLM）理解依赖关系，执行搜索查询，并在安全沙箱中运行验证脚本，提供高质量且有根据的反馈。它需要Gemini API密钥，对于私有仓库，则需要GitHub令牌。",
+    "best_quote_en": "AsyncReview uses Recursive Language Models (RLM) to go beyond simple diff analysis. It autonomously explores your repository, fetches relevant context, and verifies its findings in a secure sandbox before answering.",
+    "best_quote_zh": "AsyncReview使用递归语言模型（RLM）超越简单的差异分析。它自主地探索你的代码仓库，获取相关上下文，并在安全沙箱中验证其发现，然后才给出答案。"
   }]
