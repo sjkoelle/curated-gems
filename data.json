@@ -12544,4 +12544,98 @@
     "summary_zh": "AsyncReview是一个递归浏览代码仓库以审查PR和Issue的智能体。它使用递归语言模型（RLM）理解依赖关系，执行搜索查询，并在安全沙箱中运行验证脚本，提供高质量且有根据的反馈。它需要Gemini API密钥，对于私有仓库，则需要GitHub令牌。",
     "best_quote_en": "AsyncReview uses Recursive Language Models (RLM) to go beyond simple diff analysis. It autonomously explores your repository, fetches relevant context, and verifies its findings in a secure sandbox before answering.",
     "best_quote_zh": "AsyncReview使用递归语言模型（RLM）超越简单的差异分析。它自主地探索你的代码仓库，获取相关上下文，并在安全沙箱中验证其发现，然后才给出答案。"
+  },{
+    "id": 671,
+    "title": "Kennedy Center will halt entertainment operations for two years, Trump says",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/feb/01/kennedy-center-dc-closed-trump\">https://www.theguardian.com/us-news/2026/feb/01/kennedy-center-dc-closed-trump</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46853571\">https://news.ycombinator.com/item?id=46853571</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/us-news/2026/feb/01/kennedy-center-dc-closed-trump",
+    "tags": [
+      "kennedy center",
+      "donald trump",
+      "arts venue",
+      "renovations",
+      "ticket sales"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "The Kennedy Center will halt entertainment operations for two years starting July 4 for renovations, according to Donald Trump. This comes after a wave of canceled events and low ticket sales following Trump's takeover and leadership overhaul. Trump aims to bring the \"Trump Kennedy Center\" to the \"highest level of Success, Beauty, and Grandeur.\"",
+    "summary_zh": "根据唐纳德·特朗普的说法，由于翻修，肯尼迪中心将于7月4日起停止娱乐运营两年。此前，在特朗普接管和领导层改组后，该中心出现了一波取消演出和门票销量下降的情况。特朗普的目标是将“特朗普肯尼迪中心”提升到“最高水平的成功、美丽和壮丽”。",
+    "best_quote_en": "“Based on these findings, and totally subject to Board approval, I have determined that the fastest way to bring The Trump Kennedy Center to the highest level of Success, Beauty, and Grandeur, is to cease Entertainment Operations for an approximately two year period of time, with a scheduled Grand Reopening that will rival and surpass anything that has taken place with respect to such a Facility before.”",
+    "best_quote_zh": "“基于这些发现，并完全取决于董事会的批准，我已确定，将特朗普肯尼迪中心提升到最高水平的成功、美丽和壮丽的最快方法，是停止娱乐运营大约两年时间，并计划举行盛大的重新开放，其规模将超过以往任何此类设施。”"
+  },
+  {
+    "id": 672,
+    "title": "HarfBuzz at 20",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://docs.google.com/presentation/d/1o9Exz1c-Lr-dJjA8dcBn_Vl_Y37cupmFzmclMjBE_Bc/edit\">https://docs.google.com/presentation/d/1o9Exz1c-Lr-dJjA8dcBn_Vl_Y37cupmFzmclMjBE_Bc/edit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46853570\">https://news.ycombinator.com/item?id=46853570</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://docs.google.com/presentation/d/1o9Exz1c-Lr-dJjA8dcBn_Vl_Y37cupmFzmclMjBE_Bc/edit",
+    "tags": [
+      "harfbuzz",
+      "presentation",
+      "accessibility",
+      "javascript",
+      "browser"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "This appears to be a presentation or document about HarfBuzz at 20, but JavaScript is disabled, preventing it from being opened properly. The browser version might also be outdated affecting the display. It references file, edit, view, insert, tools and help. It mentions accessibility and debug options.",
+    "summary_zh": "这似乎是一个关于 HarfBuzz 20 周年的演示文稿或文档，但由于 JavaScript 被禁用，无法正常打开。浏览器版本也可能过时，影响显示。它引用了文件、编辑、查看、插入、工具和帮助。提到了辅助功能和调试选项。",
+    "best_quote_en": "HarfBuzz at 20!",
+    "best_quote_zh": "HarfBuzz 20周年!"
+  },
+  {
+    "id": 673,
+    "title": "Going Founder Mode on Cancer",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://centuryofbio.com/p/sid\">https://centuryofbio.com/p/sid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46853564\">https://news.ycombinator.com/item?id=46853564</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://centuryofbio.com/p/sid",
+    "tags": [
+      "cancer",
+      "gitlab",
+      "founder mode",
+      "healthcare",
+      "information"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "Sid Sijbrandij, founder of GitLab, applied his information-driven approach to fight cancer. After standard treatments failed, he created a comprehensive system of information gathering, diagnostics, and personalized therapies. This \"founder mode\" approach led to his cancer's remission, showcasing the potential of customized healthcare.",
+    "summary_zh": "GitLab创始人Sid Sijbrandij运用其信息驱动的方法对抗癌症。在标准治疗失败后，他创建了一个全面的信息收集、诊断和个性化治疗系统。这种“创始人模式”的方法使他的癌症得到缓解，展示了定制医疗保健的潜力。",
+    "best_quote_en": "Cancer is a disease of information. Loss of genomic information threatens to destroy the self. It may have met its match with Sid.",
+    "best_quote_zh": "癌症是一种信息疾病。基因信息的丢失威胁着自我的摧毁。它可能遇到了sid这个对手。"
+  },
+  {
+    "id": 674,
+    "title": "Library of Juggling",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://libraryofjuggling.com/\">https://libraryofjuggling.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46853552\">https://news.ycombinator.com/item?id=46853552</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://libraryofjuggling.com/",
+    "tags": [
+      "juggling",
+      "tricks",
+      "patterns",
+      "tutorials",
+      "archive"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "The Library of Juggling is a project to create an organized archive of juggling tricks with animations and tutorials, aiming to document both popular and obscure patterns. The website provides information such as siteswap, difficulty, and prerequisites for each trick. The project is currently on an indefinite hiatus, but the existing content remains available.",
+    "summary_zh": "杂耍图书馆是一个旨在创建有组织的杂耍技巧档案的项目，包括动画和教程，旨在记录流行和不太流行的模式。该网站提供诸如站点交换、难度和每个技巧的先决条件等信息。该项目目前处于无限期暂停状态，但现有内容仍然可用。",
+    "best_quote_en": "The goal of this website is to guarantee that the tricks currently circulating around the internet and at juggling conventions are found, animated, and catalogued for the world to see.",
+    "best_quote_zh": "本网站的目标是保证目前在互联网上和杂耍大会上流传的技巧能够被发现、动画化并编目，供全世界观看。"
+  },
+  {
+    "id": 675,
+    "title": "Tree Drawing Using Reingold-Tilford Algorithm",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://tbt.qkation.com/posts/draw-tree-using-reingold-tilford-algorithm/\">https://tbt.qkation.com/posts/draw-tree-using-reingold-tilford-algorithm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46853549\">https://news.ycombinator.com/item?id=46853549</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://tbt.qkation.com/posts/draw-tree-using-reingold-tilford-algorithm/",
+    "tags": [
+      "reingold-tilford",
+      "tree-drawing",
+      "algorithm",
+      "data-visualization",
+      "graph-theory"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "This article explains the Reingold-Tilford algorithm for drawing trees to position nodes, focusing on why it works rather than just how. It discusses the motivation for visualizing family trees, choosing Obsidian for data storage, and the algorithm's two traversals for calculating node coordinates, outlining the aesthetic rules for tree rendering and addressing complexities arising from non-binary trees.",
+    "summary_zh": "本文解释了用于绘制树的Reingold-Tilford算法，重点解释了其工作原理，而不仅仅是如何工作。讨论了可视化家谱树的动机，选择Obsidian进行数据存储，以及该算法用于计算节点坐标的两次遍历，概述了树形渲染的美学规则，并解决了非二叉树带来的复杂性。",
+    "best_quote_en": "The problem with existing explanations is that they explain every step of the algorithm as it is, but do not explain WHY it works and WHAT THE PURPOSE of each step of the algorithm is.",
+    "best_quote_zh": "现有解释的问题在于，它们只是按原样解释算法的每个步骤，而没有解释它为什么有效以及算法每个步骤的目的是什么。"
   }]
