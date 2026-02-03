@@ -12638,4 +12638,79 @@
     "summary_zh": "本文解释了用于绘制树的Reingold-Tilford算法，重点解释了其工作原理，而不仅仅是如何工作。讨论了可视化家谱树的动机，选择Obsidian进行数据存储，以及该算法用于计算节点坐标的两次遍历，概述了树形渲染的美学规则，并解决了非二叉树带来的复杂性。",
     "best_quote_en": "The problem with existing explanations is that they explain every step of the algorithm as it is, but do not explain WHY it works and WHAT THE PURPOSE of each step of the algorithm is.",
     "best_quote_zh": "现有解释的问题在于，它们只是按原样解释算法的每个步骤，而没有解释它为什么有效以及算法每个步骤的目的是什么。"
+  },{
+    "id": 676,
+    "title": "Proton: We're giving over $1.27M to support a better internet",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://proton.me/blog/2025-lifetime-fundraiser-results\">https://proton.me/blog/2025-lifetime-fundraiser-results</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867913\">https://news.ycombinator.com/item?id=46867913</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://proton.me/blog/2025-lifetime-fundraiser-results",
+    "tags": [
+      "proton",
+      "charity",
+      "privacy",
+      "fundraiser",
+      "internet freedom"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "Proton's 2025 Lifetime Account Charity Fundraiser raised over $1.27 million to support organizations defending privacy and free expression. Over 50,000 participants contributed, bringing Proton's total charitable contributions to over $5 million in eight years. The funds will support various initiatives and organizations promoting digital rights and a freer internet.",
+    "summary_zh": "Proton 2025终身账户慈善筹款活动筹集超过127万美元，用于支持捍卫隐私和言论自由的组织。超过5万名参与者贡献，使Proton八年来的慈善捐款总额超过500万美元。这笔资金将支持各种促进数字权利和更自由互联网的倡议和组织。",
+    "best_quote_en": "Your Lifetime account isn’t just a trophy. It’s an invitation to help shape the future of privacy.",
+    "best_quote_zh": "您的终身帐户不仅仅是一个奖杯，它更是一份邀请，邀请您参与塑造未来的隐私。"
+  },
+  {
+    "id": 677,
+    "title": "Writing an Async Runtime in Rust",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://michaelhelvey.dev/posts/rust_async_runtime\">https://michaelhelvey.dev/posts/rust_async_runtime</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867887\">https://news.ycombinator.com/item?id=46867887</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://michaelhelvey.dev/posts/rust_async_runtime",
+    "tags": [
+      "rust",
+      "async",
+      "runtime",
+      "tokio",
+      "non-blocking i/o"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "This article explores how to write an async runtime in Rust by building a simple one from scratch. It covers the basics of async I/O, the kqueue API on macOS, and the components of a Rust async runtime, including executors, tasks, wakers, and futures. The author shares their experience and insights gained from creating their own async runtime, emphasizing its educational value.",
+    "summary_zh": "本文探讨了如何在 Rust 中编写异步运行时，通过从头开始构建一个简单的运行时。它涵盖了异步 I/O 的基础知识、macOS 上的 kqueue API，以及 Rust 异步运行时的组件，包括执行器、任务、唤醒器和 Future。作者分享了他们构建自己的异步运行时的经验和见解，强调了其教育价值。",
+    "best_quote_en": "Non-blocking I/O refers to the ability to make a syscall like read or write without it blocking the current thread, so that you can do other work while you wait.",
+    "best_quote_zh": "非阻塞 I/O 指的是在不阻塞当前线程的情况下进行 read 或 write 等系统调用的能力，这样您就可以在等待时执行其他工作。"
+  },
+  {
+    "id": 678,
+    "title": "Show HN: OAuth 2.0 server with AI security agents (EU sovereign alternative)",
+    "source": "Hackernews",
+    "desc": "<p>I spent 4 years trying to build this OAuth server but never finished it.<p>Then I discovered agentic coding and shipped it in 3 weeks.<p>What makes it different:<p>• Dual AI agents analyze every login in <300ms\n  - Security Signals Agent: risk scoring (device, IP, geo, velocity)\n  - Policy Compliance Agent: business rules (MFA policies, role enforcement)\n  - Combined decision: allow/log/step-up/lock/deny<p>• Production-ready security\n  - PKCE (RFC 7636), DPoP (RFC 9449)\n  - MFA (TOTP + WebAuthn/Passkeys)\n  - IP restrictions, rate limiting, audit trail<p>• EU digital sovereignty\n  - GDPR native (data export, legal holds, retention policies)\n  - EU hosting, no US Cloud Act exposure\n  - Full audit trail (PostgreSQL + Redis Streams)<p>• Zero AI dependency\n  - Deterministic fallback if AI timeouts\n  - Conservative MEDIUM risk returned (safe default)\n  - System keeps running without external LLM calls<p>• Modern stack\n  - Backend: NestJS + TypeScript, LangChain/LangGraph\n  - Frontend: React 19, hexagonal architecture, 91% test coverage\n  - Deterministic fallback if AI timeouts (zero dependency)<p>Built as an alternative to Firebase Auth / AWS Cognito / Auth0 for companies that want control over their authentication infrastructure.<p>Architecture diagrams and screenshots in the repo.<p>Open to feedback and questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867821\">https://news.ycombinator.com/item?id=46867821</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/devon39/server-oauth-security",
+    "tags": [
+      "oauth 2.0",
+      "ai security",
+      "eu sovereignty",
+      "gdpr",
+      "authentication"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "This is an EU sovereign OAuth 2.0 server alternative to Firebase Auth, AWS Cognito, and Auth0. It features dual AI security agents for real-time risk analysis, deterministic fallback, and production-ready security. It prioritizes EU digital sovereignty with GDPR compliance, EU hosting, and full data ownership.",
+    "summary_zh": "这是一个欧盟主权的OAuth 2.0服务器，替代Firebase Auth、AWS Cognito和Auth0。它具有双重AI安全代理，用于实时风险分析、确定性回退和生产就绪安全性。它优先考虑欧盟的数字主权，符合GDPR、欧盟托管和完全数据所有权。",
+    "best_quote_en": "AI agents live in the Domain Layer, not bolted on as an afterthought.",
+    "best_quote_zh": "AI代理存在于领域层中，而不是事后才附加的。"
+  },
+  {
+    "id": 679,
+    "title": "Show HN: Dbt-Workbench – an open-source UI for exploring dbt projects, lineage",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN,\nI’ve been working on dbt-Workbench, an open-source UI for working with dbt projects beyond the CLI.<p>The goal is simple: make dbt artifacts (models, sources, tests, lineage, runs) easier to see and reason about, especially for larger projects where dbt docs starts to feel limiting.<p>This started as a personal pain point while working with complex dbt setups, and I decided to clean it up and release it openly.<p>It’s early, opinionated, and definitely not perfect. I’d really appreciate feedback, especially from people using dbt at scale. Happy to answer questions or hear why this is a bad idea<p>Repo: <a href=\"https://github.com/rezer-bleede/dbt-Workbench\" rel=\"nofollow\">https://github.com/rezer-bleede/dbt-Workbench</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867809\">https://news.ycombinator.com/item?id=46867809</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/rezer-bleede/dbt-Workbench",
+    "tags": [
+      "dbt",
+      "open-source",
+      "ui",
+      "lineage",
+      "data-engineering"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "Dbt-Workbench is an open-source UI for exploring dbt projects, offering model browsing, lineage visualization, run orchestration, and environment management. It supports local, on-premise, and air-gapped deployments, featuring a unified control plane, interactive lineage, workspace awareness, and extensible plugin system, secured with optional JWT authentication and RBAC.",
+    "summary_zh": "Dbt-Workbench是一个开源UI，用于探索dbt项目，提供模型浏览、沿袭可视化、运行编排和环境管理。它支持本地、内部部署和气隙部署，具有统一的控制平面、交互式沿袭、工作区感知和可扩展的插件系统，并通过可选的JWT身份验证和RBAC进行保护。",
+    "best_quote_en": "The UI will load and display real metadata from your dbt project automatically.",
+    "best_quote_zh": "UI将自动加载并显示来自您的dbt项目的真实元数据。"
   }]
