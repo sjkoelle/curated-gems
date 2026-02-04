@@ -12713,4 +12713,60 @@
     "summary_zh": "Dbt-Workbench是一个开源UI，用于探索dbt项目，提供模型浏览、沿袭可视化、运行编排和环境管理。它支持本地、内部部署和气隙部署，具有统一的控制平面、交互式沿袭、工作区感知和可扩展的插件系统，并通过可选的JWT身份验证和RBAC进行保护。",
     "best_quote_en": "The UI will load and display real metadata from your dbt project automatically.",
     "best_quote_zh": "UI将自动加载并显示来自您的dbt项目的真实元数据。"
+  },{
+    "id": 680,
+    "title": "Unspoken – Offline voice-to-text for macOS that never leaves your machine",
+    "source": "Hackernews",
+    "desc": "<p>Hey HN,<p>I built Unspoken because I was mass-sending voice messages instead of writing — and realized my voice was already writing better than my fingers ever could.<p>The problem? Every dictation tool I tried shipped my audio to someone else's server.<p>What it does: Press a shortcut, speak, get formatted text. System-wide, works in any app.<p>Your audio never touches a network interface. No account, no cloud, no telemetry.<p>Technical details:<p>• Runs entirely on-device (M1/M2/M3/M4, macOS 14+)\n• ~97% accuracy with AI post-processing for filler removal, punctuation, and grammar\n• 100+ languages with auto-detection\n• Custom dictionary for domain-specific terms\n• AES-256 encrypted local history (optional)\n• ~170 WPM effective speed vs ~40 WPM typing\nWhat it's not: It's not a meeting transcriber or an AI assistant. It replaces your keyboard for text input. Think \"better typing\" not \"better Siri.\"<p>What do you think about it? Thanks guys</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46882884\">https://news.ycombinator.com/item?id=46882884</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://news.ycombinator.com/item?id=46882884",
+    "tags": [
+      "voice-to-text",
+      "macos",
+      "offline",
+      "privacy",
+      "ai"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "Unspoken is an offline voice-to-text macOS app built by fcap. It addresses privacy concerns by processing audio entirely on-device. It features high accuracy, supports 100+ languages, and offers custom dictionaries. It aims to replace keyboard input, not to be a meeting transcriber or AI assistant.",
+    "summary_zh": "Unspoken是由fcap开发的macOS离线语音转文本应用程序。它通过在设备上完全处理音频来解决隐私问题。它具有高精度，支持100多种语言，并提供自定义词典。它的目标是取代键盘输入，而不是作为会议转录器或AI助手。",
+    "best_quote_en": "Your audio never touches a network interface. No account, no cloud, no telemetry.",
+    "best_quote_zh": "您的音频永远不会接触到网络接口。无需帐户，无需云服务，无需遥测数据。"
+  },
+  {
+    "id": 681,
+    "title": "MoltID – OAuth-Style Identity Verification for Autonomous Agents",
+    "source": "Hackernews",
+    "desc": "<p>We’ve just launched an early prototype of MoltID — a cryptographic identity and verification service designed for autonomous agents (bots).<p>Current agent platforms have no standardized way to verify if an agent is a persistent, non-disposable service. That makes Sybil-style abuse and fake registrations trivial.<p>MoltID introduces:<p>• persistent cryptographic agent identity  \n• challenge-response onboarding with proof-of-work  \n• JWT-style signed passport tokens  \n• trust scores platforms can verify  \n• lightweight REST API model<p>MoltID is not a human CAPTCHA — it's OAuth for bots.<p>Visit the early prototype & spec here: https://moltid.net<p>We’re looking for feedback from platform builders, API developers, and security practitioners.<p>Happy to answer questions about design and implementation.<p>— Team MoltID</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46882864\">https://news.ycombinator.com/item?id=46882864</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46882864",
+    "tags": [
+      "identity",
+      "authentication",
+      "bots",
+      "oauth",
+      "security"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "MoltID is a cryptographic identity and verification service for autonomous agents (bots). It aims to solve the problem of Sybil-style abuse and fake registrations in current agent platforms by providing persistent cryptographic agent identity, challenge-response onboarding, JWT-style signed passport tokens, trust scores, and a lightweight REST API model.",
+    "summary_zh": "MoltID是一种用于自主代理（机器人）的密码身份验证服务。它旨在通过提供持久的密码代理身份、质询-响应登录、JWT风格的签名护照令牌、信任分数和轻量级REST API模型，解决当前代理平台中女巫攻击和虚假注册的问题。",
+    "best_quote_en": "MoltID is not a human CAPTCHA — it's OAuth for bots.",
+    "best_quote_zh": "MoltID不是人类验证码，而是机器人的OAuth。"
+  },
+  {
+    "id": 682,
+    "title": "Open Source Teams Client",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/eisbaw/ost\">https://github.com/eisbaw/ost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46882846\">https://news.ycombinator.com/item?id=46882846</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/eisbaw/ost",
+    "tags": [
+      "teams",
+      "rust",
+      "command-line",
+      "open-source",
+      "client"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "OST client is an open-source command-line client for Microsoft Teams written in Rust. It supports authentication, messaging, teams/channels listing, real-time notifications, and audio/video calls.  It requires Rust 1.70+ and is primarily designed for Linux.  The project offers features like echo bot call testing and camera/microphone testing.",
+    "summary_zh": "OST client 是一个用 Rust 编写的 Microsoft Teams 开源命令行客户端。 它支持身份验证、消息传递、团队/频道列表、实时通知以及音频/视频通话。 它需要 Rust 1.70+ 并且主要为 Linux 设计。 该项目提供诸如回声机器人呼叫测试和摄像头/麦克风测试等功能。",
+    "best_quote_en": "This is an unofficial client. Use at your own risk. Not affiliated with Microsoft.",
+    "best_quote_zh": "这是一个非官方客户端。使用风险自负。与微软无关。"
   }]
