@@ -12769,4 +12769,41 @@
     "summary_zh": "OST client 是一个用 Rust 编写的 Microsoft Teams 开源命令行客户端。 它支持身份验证、消息传递、团队/频道列表、实时通知以及音频/视频通话。 它需要 Rust 1.70+ 并且主要为 Linux 设计。 该项目提供诸如回声机器人呼叫测试和摄像头/麦克风测试等功能。",
     "best_quote_en": "This is an unofficial client. Use at your own risk. Not affiliated with Microsoft.",
     "best_quote_zh": "这是一个非官方客户端。使用风险自负。与微软无关。"
+  },{
+    "id": 683,
+    "title": ".Beat Swatch Internet Time",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://beats.wiki/\">https://beats.wiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896942\">https://news.ycombinator.com/item?id=46896942</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://beats.wiki/",
+    "tags": [
+      "swatch internet time",
+      ".beats",
+      "time zones",
+      "universal time",
+      "internet time"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "Swatch Internet Time (.Beats) divides the day into 1,000 .Beats, eliminating time zones and daylight saving shifts. Each .Beat is 1 minute and 26.4 seconds long. It aims for a universal time system, displayed as @ followed by a number from 0 to 999. Despite its simplicity, it hasn't gained widespread adoption.",
+    "summary_zh": "Swatch互联网时间(.Beats)将一天分为1000个.Beats，消除了时区和夏令时转换。每个.Beat是1分26.4秒。它旨在创建一个通用时间系统，显示为@符号后跟一个0到999之间的数字。尽管它很简单，但尚未得到广泛采用。",
+    "best_quote_en": "Unlike your local time, its 2025-07-01 @ 969.28 all over the world right now. There are no confusing time zones or daylight savings time shifts to worry about.",
+    "best_quote_zh": "与您的本地时间不同的是，现在全球各地都是2025-07-01 @ 969.28。无需担心令人困惑的时区或夏令时转换。"
+  },
+  {
+    "id": 684,
+    "title": "DAiFi Raises $20M Seed Round to Build the First Verifiable Intelligence Network",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.daifi.ai/blog/daifi-raises-20m-seed-round-to-build-the-world-s-first-verifiable-intelligence-network\">https://www.daifi.ai/blog/daifi-raises-20m-seed-round-to-build-the-world-s-first-verifiable-intelligence-network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896936\">https://news.ycombinator.com/item?id=46896936</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.daifi.ai/blog/daifi-raises-20m-seed-round-to-build-the-world-s-first-verifiable-intelligence-network",
+    "tags": [
+      "daifi",
+      "ai",
+      "web3",
+      "verifiable intelligence",
+      "decentralized compute"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "DAiFi has raised $20M in seed funding to build a verifiable intelligence network, aiming to create a new economic layer for AI. It focuses on decentralizing AI computation and making AI outputs verifiable and tradable through cryptographic proofs. The funding will be used to expand zk-proof systems, onboard GPU providers, launch a Layer-1 blockchain, and build a developer ecosystem.",
+    "summary_zh": "DAiFi 筹集了 2000 万美元的种子资金，用于构建可验证的智能网络，旨在为人工智能创建一个新的经济层。 它专注于分散人工智能计算，并通过加密证明使人工智能输出可验证和可交易。 这笔资金将用于扩展 zk-proof 系统，引入 GPU 提供商，启动 Layer-1 区块链以及建立开发人员生态系统。",
+    "best_quote_en": "“We’re building infrastructure that treats AI outputs as first-class assets — assets that are verifiable, traceable, and composable. This isn’t just about faster compute; it’s about trust in intelligence.”",
+    "best_quote_zh": "“我们正在构建将人工智能输出视为一流资产的基础设施——这些资产是可验证、可追踪和可组合的。这不仅仅是关于更快的计算；而是关于对智能的信任。”"
   }]
