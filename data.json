@@ -12806,4 +12806,79 @@
     "summary_zh": "DAiFi 筹集了 2000 万美元的种子资金，用于构建可验证的智能网络，旨在为人工智能创建一个新的经济层。 它专注于分散人工智能计算，并通过加密证明使人工智能输出可验证和可交易。 这笔资金将用于扩展 zk-proof 系统，引入 GPU 提供商，启动 Layer-1 区块链以及建立开发人员生态系统。",
     "best_quote_en": "“We’re building infrastructure that treats AI outputs as first-class assets — assets that are verifiable, traceable, and composable. This isn’t just about faster compute; it’s about trust in intelligence.”",
     "best_quote_zh": "“我们正在构建将人工智能输出视为一流资产的基础设施——这些资产是可验证、可追踪和可组合的。这不仅仅是关于更快的计算；而是关于对智能的信任。”"
+  },{
+    "id": 685,
+    "title": "From Roots to Reach: Network Resilience in Natural Disasters",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/02/06/from-roots-to-reach-network-resilience-in-natural-disasters/\">https://blog.apnic.net/2026/02/06/from-roots-to-reach-network-resilience-in-natural-disasters/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46910279\">https://news.ycombinator.com/item?id=46910279</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.apnic.net/2026/02/06/from-roots-to-reach-network-resilience-in-natural-disasters/",
+    "tags": [
+      "network resilience",
+      "natural disasters",
+      "communication networks",
+      "delay tolerant networking",
+      "aziza protocol"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "The article discusses the fragility of communication networks during natural disasters, highlighting how network failures exacerbate the impact of crises. It uses examples from Bangladesh, South Asia, Australia, and other regions to illustrate how disasters disrupt connectivity and hinder rescue efforts. The article introduces Delay Tolerant Networking (DTN) and the AZIZA protocol as potential solutions for building more resilient communication systems that can function effectively in disaster environments.",
+    "summary_zh": "文章讨论了自然灾害期间通信网络的脆弱性，强调网络故障如何加剧危机的影响。文章通过孟加拉国、南亚、澳大利亚和其他地区的例子，说明了灾害如何中断通信并阻碍救援工作。文章介绍了容迟网络（DTN）和AZIZA协议，作为构建更具弹性的通信系统的潜在解决方案，这些系统可以在灾害环境中有效运行。",
+    "best_quote_en": "When communication networks break down, people cannot report their condition, responders lose situational awareness, and entire communities risk slipping beyond the reach of coordinated assistance. Network failure does not merely accompany disaster — it reshapes the human consequences.",
+    "best_quote_zh": "当通信网络中断时，人们无法报告自身情况，救援人员失去态势感知，整个社区都有可能超出协调援助的范围。网络故障不仅仅伴随灾难而来，它还会重塑人类面临的后果。"
+  },
+  {
+    "id": 686,
+    "title": "Gokin: Go-Native CLI for AI-Assisted Coding with Gemini, DeepSeek, GLM, Ollama",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/ginkida/gokin\">https://github.com/ginkida/gokin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46910275\">https://news.ycombinator.com/item?id=46910275</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://github.com/ginkida/gokin",
+    "tags": [
+      "ai-assisted coding",
+      "cli tool",
+      "gemini",
+      "deepseek",
+      "ollama"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "Gokin is a Go-native CLI tool for AI-assisted coding, supporting models like Gemini, DeepSeek, GLM, and Ollama. It aims to provide a secure and cost-effective alternative to Claude Code. Gokin facilitates project creation, bulk operations, and repetitive tasks, integrating with Git and offering features like multi-agent systems and semantic search. It supports local LLMs via Ollama for privacy-focused development.",
+    "summary_zh": "Gokin是一个Go原生CLI工具，用于AI辅助编码，支持Gemini、DeepSeek、GLM和Ollama等模型。 它的目标是提供一个安全且经济高效的Claude Code替代方案。 Gokin可以促进项目创建、批量操作和重复性任务，与Git集成并提供多代理系统和语义搜索等功能。 它通过Ollama支持本地LLM，以实现注重隐私的开发。",
+    "best_quote_en": "I don't trust Chinese AI company CLIs with my code, so I built my own",
+    "best_quote_zh": "我不信任中国的AI公司的CLI来处理我的代码，所以我自己构建了一个。"
+  },
+  {
+    "id": 687,
+    "title": "Macau's Grand Emperor hotel rips up lobby floor to sell off gold bricks",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/feb/06/macau-grand-emperor-hotel-lobby-gold-bricks\">https://www.theguardian.com/world/2026/feb/06/macau-grand-emperor-hotel-lobby-gold-bricks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46910272\">https://news.ycombinator.com/item?id=46910272</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theguardian.com/world/2026/feb/06/macau-grand-emperor-hotel-lobby-gold-bricks",
+    "tags": [
+      "macau",
+      "gold",
+      "casino",
+      "renovation",
+      "commodities"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "Macau's Grand Emperor hotel removed and sold gold bricks from its lobby floor for $12.8 million due to favorable market conditions and renovation plans. The hotel, known for its opulent decor, closed its casino and is diversifying its entertainment offerings amidst changing regulations and geopolitical uncertainty, which has driven up the price of gold.",
+    "summary_zh": "澳门 Grand Emperor 酒店拆除并出售了其大堂地板上的金砖，获得了 1280 万美元的收益，原因是市场条件有利以及翻新计划。这家以其奢华装饰而闻名的酒店已关闭其赌场，并在不断变化的法规和地缘政治不确定性中，实现了其娱乐产品的多元化，这也推高了黄金价格。",
+    "best_quote_en": "While the gold bullion had created a “sumptuous and resplendent atmosphere” in the hotel, “in light of the prevailing market conditions” the firm recognised a “good opportunity” to remove and sell them.",
+    "best_quote_zh": "虽然金条在酒店营造了“奢华而辉煌的氛围”，但“鉴于当前的市场状况”，该公司认为这是一个移除并出售它们的好“机会”。"
+  },
+  {
+    "id": 688,
+    "title": "I used Gemini to build an all-in-one Chrome extension, and uninstalled 10 others",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/fireai-all-in-one-ai-assi/jgpmkbgjngmhibgebdbekognpdoagoag\">https://chromewebstore.google.com/detail/fireai-all-in-one-ai-assi/jgpmkbgjngmhibgebdbekognpdoagoag</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46910269\">https://news.ycombinator.com/item?id=46910269</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://chromewebstore.google.com/detail/fireai-all-in-one-ai-assi/jgpmkbgjngmhibgebdbekognpdoagoag",
+    "tags": [
+      "chrome extension",
+      "ai assistant",
+      "productivity tools",
+      "screen recording",
+      "screenshot"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "FireAI is an all-in-one Chrome extension integrating AI assistance and productivity tools. It offers features like screen recording, screenshot capture with annotation, and video speed control. The extension aims to enhance professional workflows by providing precise tools for visual communication, stable data archiving, and efficient information filtering.",
+    "summary_zh": "FireAI是一款集成了AI辅助和效率工具的Chrome扩展。它提供屏幕录制、带注释的截图捕获和视频速度控制等功能。该扩展旨在通过提供精确的视觉交流工具、稳定的数据归档和高效的信息过滤来增强专业工作流程。",
+    "best_quote_en": "By maintaining absolute control over the pace of information, you can quickly filter out redundant content and focus on core values while working from home.",
+    "best_quote_zh": "通过保持对信息节奏的绝对控制，您可以快速过滤掉冗余内容并在家工作时专注于核心价值。"
   }]
