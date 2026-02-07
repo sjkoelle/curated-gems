@@ -12881,4 +12881,79 @@
     "summary_zh": "FireAI是一款集成了AI辅助和效率工具的Chrome扩展。它提供屏幕录制、带注释的截图捕获和视频速度控制等功能。该扩展旨在通过提供精确的视觉交流工具、稳定的数据归档和高效的信息过滤来增强专业工作流程。",
     "best_quote_en": "By maintaining absolute control over the pace of information, you can quickly filter out redundant content and focus on core values while working from home.",
     "best_quote_zh": "通过保持对信息节奏的绝对控制，您可以快速过滤掉冗余内容并在家工作时专注于核心价值。"
+  },{
+    "id": 689,
+    "title": "What Is Ruliology?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/01/what-is-ruliology/\">https://writings.stephenwolfram.com/2026/01/what-is-ruliology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46922143\">https://news.ycombinator.com/item?id=46922143</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+    "tags": [
+      "ruliology",
+      "computational universe",
+      "rules",
+      "complexity",
+      "science"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "Ruliology is a new basic science that studies what happens when abstract rules are followed. It explores the behavior of simple programs in the computational universe, focusing on observing the consequences of rules rather than proving theorems. It's experimental, starting with specific cases, generalizing, and dealing with computational irreducibility. Ruliology explores the foundations of complexity and provides raw material for models.",
+    "summary_zh": "Ruliology 是一门新兴的基础科学，研究遵循抽象规则时会发生什么。它探索计算宇宙中简单程序的行为，侧重于观察规则的后果，而不是证明定理。它是实验性的，从具体案例开始，进行泛化，并处理计算的不可约性。Ruliology 探索复杂性的基础，并为模型提供原始材料。",
+    "best_quote_en": "It’s all about studying rules, and what their consequences are.",
+    "best_quote_zh": "它的一切都是关于研究规则，以及它们的后果是什么。"
+  },
+  {
+    "id": 690,
+    "title": "P2P crypto exchange development company",
+    "source": "Hackernews",
+    "desc": "<p>We are a P2P crypto exchange development company focused on building secure, user-centric trading platforms. Our expertise lies in creating decentralized environments where users can trade directly with confidence and transparency. By emphasizing robust architecture, compliance readiness, and seamless user experience, we help businesses launch reliable peer-to-peer exchanges. Our development approach prioritizes scalability, security, and performance, enabling platforms to grow with market demand while maintaining trust, efficiency, and long-term sustainability in the evolving crypto ecosystem.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46922068\">https://news.ycombinator.com/item?id=46922068</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46922068",
+    "tags": [
+      "p2p",
+      "crypto exchange",
+      "development",
+      "decentralized",
+      "security"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "A P2P crypto exchange development company focuses on building secure and user-centric decentralized trading platforms. They emphasize robust architecture, compliance, and user experience. Their development approach prioritizes scalability, security, and performance, enabling platforms to grow while maintaining trust and efficiency.",
+    "summary_zh": "一家P2P加密货币交易所开发公司专注于构建安全且以用户为中心的去中心化交易平台。他们强调强大的架构、合规性和用户体验。他们的开发方法优先考虑可扩展性、安全性和性能，使平台能够在保持信任和效率的同时增长。",
+    "best_quote_en": "Our development approach prioritizes scalability, security, and performance, enabling platforms to grow with market demand while maintaining trust, efficiency, and long-term sustainability in the evolving crypto ecosystem.",
+    "best_quote_zh": "我们的开发方法优先考虑可扩展性、安全性和性能，使平台能够随着市场需求增长，同时在不断发展的加密货币生态系统中保持信任、效率和长期可持续性。"
+  },
+  {
+    "id": 691,
+    "title": "Vocal Guide – belt sing without killing yourself",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://jesperordrup.github.io/vocal-guide/\">https://jesperordrup.github.io/vocal-guide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46922049\">https://news.ycombinator.com/item?id=46922049</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://jesperordrup.github.io/vocal-guide/",
+    "tags": [
+      "vocal technique",
+      "singing",
+      "warm-up",
+      "vocal health",
+      "voice training"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "Vocal Guide v3.7.0 is a vocal technique reference covering 21 techniques across five categories, designed for both beginners and experienced singers. It offers guidance on registers, styles, effects, embellishments, and dynamics. The guide emphasizes safety, particularly for advanced techniques, and provides warm-up routines to prevent vocal damage. Use llms.txt for summary and llms-full.txt for full content.",
+    "summary_zh": "Vocal Guide v3.7.0 是一个声乐技巧参考，涵盖五个类别的 21 种技巧，专为初学者和经验丰富的歌手设计。它提供关于音区、风格、效果、润饰和动态的指导。该指南强调安全性，尤其是对于高级技巧，并提供热身程序以防止声乐损伤。使用 llms.txt 获取摘要，llms-full.txt 获取完整内容。",
+    "best_quote_en": "The golden rule: if it hurts, stop.",
+    "best_quote_zh": "黄金法则：如果感到疼痛，立即停止。"
+  },
+  {
+    "id": 692,
+    "title": "Write for Your Readers Even If They Are Agents",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://commonsware.com/blog/2026/02/06/write-for-your-readers-even-if-they-are-agents.html\">https://commonsware.com/blog/2026/02/06/write-for-your-readers-even-if-they-are-agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46922044\">https://news.ycombinator.com/item?id=46922044</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://commonsware.com/blog/2026/02/06/write-for-your-readers-even-if-they-are-agents.html",
+    "tags": [
+      "coding agents",
+      "documentation",
+      "markdown",
+      "skills",
+      "llms"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "The article discusses adapting documentation for coding agents, suggesting plain text formats like Markdown or custom text files for better agent understanding. Skills and plugins are also mentioned as potential solutions for agents to leverage libraries and tools. The author emphasizes the need to consider how agents will learn to use our code, not just human developers.",
+    "summary_zh": "文章讨论了如何调整文档以适应编码代理，建议使用纯文本格式（如Markdown）或自定义文本文件，以便代理更好地理解。技能和插件也被认为是代理利用库和工具的潜在解决方案。作者强调需要考虑代理如何学习使用我们的代码，而不仅仅是人类开发人员。",
+    "best_quote_en": "If your project’s documentation is already in Markdown or other forms of plain text, consider ensuring that the documentation is discoverable in raw Markdown, as opposed to having been rendered by MkDocs or GitHub Pages or whatever.",
+    "best_quote_zh": "如果你的项目文档已经是Markdown或其他纯文本格式，考虑确保文档可以被发现为原始Markdown，而不是被MkDocs或GitHub Pages等渲染过的版本。"
   }]
