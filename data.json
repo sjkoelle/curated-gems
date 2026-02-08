@@ -12956,4 +12956,79 @@
     "summary_zh": "文章讨论了如何调整文档以适应编码代理，建议使用纯文本格式（如Markdown）或自定义文本文件，以便代理更好地理解。技能和插件也被认为是代理利用库和工具的潜在解决方案。作者强调需要考虑代理如何学习使用我们的代码，而不仅仅是人类开发人员。",
     "best_quote_en": "If your project’s documentation is already in Markdown or other forms of plain text, consider ensuring that the documentation is discoverable in raw Markdown, as opposed to having been rendered by MkDocs or GitHub Pages or whatever.",
     "best_quote_zh": "如果你的项目文档已经是Markdown或其他纯文本格式，考虑确保文档可以被发现为原始Markdown，而不是被MkDocs或GitHub Pages等渲染过的版本。"
+  },{
+    "id": 693,
+    "title": "The Next Big Language (2007) by Steve Yegge",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://steve-yegge.blogspot.com/2007/02/next-big-language.html?2026\">https://steve-yegge.blogspot.com/2007/02/next-big-language.html?2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46932263\">https://news.ycombinator.com/item?id=46932263</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://steve-yegge.blogspot.com/2007/02/next-big-language.html?2026",
+    "tags": [
+      "programming language",
+      "compiler",
+      "software development",
+      "technology",
+      "innovation"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "The author discusses the challenges new programming languages face, highlighting the need for corporate backing and outlining characteristics crucial for success. He emphasizes that even with great ideas, the odds are stacked against widespread adoption.",
+    "summary_zh": "作者讨论了新编程语言面临的挑战，强调了公司支持的必要性，并概述了成功的关键特征。他强调，即使有很棒的想法，被广泛采用的可能性也很小。",
+    "best_quote_en": "having a deep understanding of compilers is what separates the wheat from the chaff.",
+    "best_quote_zh": "对编译器有深刻的理解是区分精华和糟粕的关键。"
+  },
+  {
+    "id": 694,
+    "title": "Open-Weight Models Are Getting Serious: GLM 4.7 vs. MiniMax M2.1",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.kilo.ai/p/open-weight-models-are-getting-serious\">https://blog.kilo.ai/p/open-weight-models-are-getting-serious</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46932204\">https://news.ycombinator.com/item?id=46932204</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://blog.kilo.ai/p/open-weight-models-are-getting-serious",
+    "tags": [
+      "open-weight models",
+      "glm 4.7",
+      "minimax m2.1",
+      "coding",
+      "cli task runner"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "GLM 4.7 and MiniMax M2.1, two new open-weight models, were tested for their coding capabilities. Both successfully built a CLI task runner with 20 features. GLM 4.7 provided more comprehensive planning and documentation, while MiniMax M2.1 achieved the same result at half the cost, highlighting the increasing capabilities and cost-efficiency of open-weight models.",
+    "summary_zh": "GLM 4.7和MiniMax M2.1是两个新的开放权重模型，本次测试了它们的编码能力。 两者都成功构建了一个具有20个特性的CLI任务运行器。 GLM 4.7提供了更全面的计划和文档，而MiniMax M2.1以一半的成本实现了相同的结果，突出了开放权重模型日益增长的能力和成本效益。",
+    "best_quote_en": "As these models improve, the gap between “affordable” and “best” keeps shrinking.",
+    "best_quote_zh": "随着这些模型的改进，“经济实惠”和“最佳”之间的差距不断缩小。"
+  },
+  {
+    "id": 695,
+    "title": "Using AI for Code Reviews: What Works, What Doesn't, and Why",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://entelligence.ai/blogs/entelligence-ai-in-cli\">https://entelligence.ai/blogs/entelligence-ai-in-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46932203\">https://news.ycombinator.com/item?id=46932203</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "link": "https://entelligence.ai/blogs/entelligence-ai-in-cli",
+    "tags": [
+      "ai code review",
+      "code review",
+      "cli",
+      "entelligence",
+      "development workflow"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "AI code review tools often fail due to lack of context in real projects. Running reviews locally in the CLI helps catch issues earlier. The Entelligence CLI brings AI-powered code reviews into a developer's local workflow, shifting code review earlier in the development lifecycle. This leads to cleaner pull requests and more efficient reviews.",
+    "summary_zh": "AI代码审查工具常因在实际项目中缺乏上下文而失败。在CLI中本地运行审查有助于更早地发现问题。Entelligence CLI将AI驱动的代码审查引入开发者的本地工作流程，将代码审查提前到开发生命周期中，从而产生更清晰的拉取请求和更有效的审查。",
+    "best_quote_en": "Useful AI code reviews depend on understanding more than just the lines that changed.",
+    "best_quote_zh": "有用的AI代码审查不仅仅依赖于理解更改的行。"
+  },
+  {
+    "id": 696,
+    "title": "Show HN: Solnix – an early-stage experimental programming language",
+    "source": "Hackernews",
+    "desc": "<p>I’m building Solnix, an experimental programming language as a learning + research project. It’s still early, and many design decisions (syntax, types, tooling) are intentionally not fixed yet.<p>My goal right now is feedback, not promotion:<p>What design mistakes should I watch out for?<p>What usually makes new languages hard to adopt?<p>What would you avoid if you were starting today?<p>Repo & docs: <a href=\"https://solnix-lang.org/\" rel=\"nofollow\">https://solnix-lang.org/</a><p>I’d really appreciate honest criticism. Thanks for your time.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46932202\">https://news.ycombinator.com/item?id=46932202</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://www.solnix-lang.org/",
+    "tags": [
+      "solnix",
+      "ebpf",
+      "linux kernel",
+      "security",
+      "programming language"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "Solnix is a verifier-safe programming language designed for Linux kernel security, particularly for writing eBPF security policies. It prioritizes safety, auditability, and predictable behavior. It compiles directly to eBPF bytecode and offers features like compile-time guard checks and concurrency-safe operations.",
+    "summary_zh": "Solnix 是一种验证器安全的编程语言，专为 Linux 内核安全设计，尤其适用于编写 eBPF 安全策略。它优先考虑安全性、可审计性和可预测的行为。它直接编译为 eBPF 字节码，并提供编译时保护检查和并发安全操作等功能。",
+    "best_quote_en": "Solnix is a security-first programming language for Linux kernel enforcement and observability, combining verifier safety, clarity, and native performance.",
+    "best_quote_zh": "Solnix 是一种安全至上的编程语言，适用于 Linux 内核的强制执行和可观测性，它结合了验证器的安全性、清晰性和原生性能。"
   }]
