@@ -13031,4 +13031,79 @@
     "summary_zh": "Solnix 是一种验证器安全的编程语言，专为 Linux 内核安全设计，尤其适用于编写 eBPF 安全策略。它优先考虑安全性、可审计性和可预测的行为。它直接编译为 eBPF 字节码，并提供编译时保护检查和并发安全操作等功能。",
     "best_quote_en": "Solnix is a security-first programming language for Linux kernel enforcement and observability, combining verifier safety, clarity, and native performance.",
     "best_quote_zh": "Solnix 是一种安全至上的编程语言，适用于 Linux 内核的强制执行和可观测性，它结合了验证器的安全性、清晰性和原生性能。"
+  },{
+    "id": 697,
+    "title": "ntsc-rs, open-source video effect which emulates analog TV and VHS artifacts",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://ntsc.rs/\">https://ntsc.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46942811\">https://news.ycombinator.com/item?id=46942811</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://ntsc.rs/",
+    "tags": [
+      "ntsc-rs",
+      "video effect",
+      "vhs",
+      "analog tv",
+      "open-source"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "ntsc-rs is an open-source video effect that emulates analog TV and VHS artifacts using algorithms that model NTSC transmission and VHS encoding. Written in Rust, it's multithreaded, SIMD-accelerated, and available as a standalone application or a plugin for various video editing software.",
+    "summary_zh": "ntsc-rs 是一款开源视频特效，通过模拟 NTSC 传输和 VHS 编码的算法，逼真地模仿模拟电视和 VHS 的伪影。该特效使用 Rust 编写，支持多线程和 SIMD 加速，既可作为独立应用使用，也可作为插件用于各种视频编辑软件。",
+    "best_quote_en": "ntsc-rs is a free, open-source video effect which accurately emulates analog TV and VHS artifacts.",
+    "best_quote_zh": "ntsc-rs 是一款免费的开源视频特效，可以准确地模拟模拟电视和 VHS 的伪影。"
+  },
+  {
+    "id": 698,
+    "title": "European Alterantives to American Apps",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://blog.uniqkey.eu/resources/european-alternatives/\">https://blog.uniqkey.eu/resources/european-alternatives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46942805\">https://news.ycombinator.com/item?id=46942805</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://blog.uniqkey.eu/resources/european-alternatives/",
+    "tags": [
+      "password manager",
+      "security",
+      "gdpr",
+      "enterprise",
+      "sso"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "Uniqkey, a Danish enterprise password manager, prioritizes security and compliance for European businesses. It uses hardware-based security, military-grade encryption, and integrates with SSO systems. Features include automatic password rotation, compliance reporting, and streamlined onboarding/offboarding. Data is stored within the EU on GDPR-compliant infrastructure.",
+    "summary_zh": "Uniqkey是一款丹麦企业密码管理器，专注于欧洲企业的安全和合规性。它采用基于硬件的安全措施，军事级别的加密，并与SSO系统集成。功能包括自动密码轮换、合规性报告和简化的入职/离职流程。数据存储在欧盟境内符合GDPR的基础设施上。",
+    "best_quote_en": "Uniqkey takes a unique hardware-based security approach that sets it apart from traditional password managers, combining military-grade encryption with an architecture designed to eliminate the most common attack vectors.",
+    "best_quote_zh": "Uniqkey采用独特的基于硬件的安全方法，使其有别于传统的密码管理器，结合了军事级别的加密和旨在消除最常见攻击途径的架构。"
+  },
+  {
+    "id": 699,
+    "title": "1D Cellular Automata Playground",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://paraschopra.github.io/1d-ca/\">https://paraschopra.github.io/1d-ca/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46942785\">https://news.ycombinator.com/item?id=46942785</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://paraschopra.github.io/1d-ca/",
+    "tags": [
+      "cellular-automata",
+      "rule-space",
+      "phase-transition",
+      "information-propagation",
+      "visualization"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "This interactive playground explores 1D cellular automata. Key features include visualizing rules via grid views and rule maps, exploring phase transitions by sweeping initial densities, and examining information propagation through perturbation light cones. Users can analyze rule behavior and metric changes, revealing critical points and causal structures.",
+    "summary_zh": "这个交互式平台探索了一维细胞自动机。主要功能包括通过网格视图和规则图可视化规则，通过扫描初始密度探索相变，以及通过扰动光锥检查信息传播。用户可以分析规则行为和度量变化，揭示临界点和因果结构。",
+    "best_quote_en": "Flip a single cell and visualize how the perturbation propagates through spacetime.",
+    "best_quote_zh": "翻转一个单元格，可视化扰动如何在时空中传播。"
+  },
+  {
+    "id": 700,
+    "title": "Discussion: Seedance-style AI video generation workflows",
+    "source": "Hackernews",
+    "desc": "<p>I recently came across a site called Seedance 2:\nhttps://seedance2.tech/<p>It seems to be exploring a different angle of AI video generation, focusing more on rhythm, motion, and visual continuity rather than long-form cinematic storytelling.<p>I’m curious what people here think about this direction in general:\n- Does a rhythm- or motion-focused approach to AI video feel genuinely useful?\n- How does this compare to current AI video tools in terms of control and expectations?\n- If you were to use an AI video generator, what kind of control would actually matter to you?<p>Not affiliated, just interested in discussing where AI video generation workflows might be heading.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46942781\">https://news.ycombinator.com/item?id=46942781</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46942781",
+    "tags": [
+      "ai video generation",
+      "seedance",
+      "rhythm",
+      "motion",
+      "visual continuity"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "The discussion revolves around Seedance, an AI video generation platform focusing on rhythm, motion, and visual continuity. It explores the potential usefulness of this approach compared to cinematic storytelling, control offered compared to existing tools, and desired user control in AI video generation workflows.",
+    "summary_zh": "讨论围绕Seedance展开，这是一个专注于节奏、运动和视觉连续性的人工智能视频生成平台。探讨了这种方法与电影叙事相比的潜在用途、与现有工具相比提供的控制，以及用户在人工智能视频生成工作流程中期望的控制。",
+    "best_quote_en": "It seems to be exploring a different angle of AI video generation, focusing more on rhythm, motion, and visual continuity rather than long-form cinematic storytelling.",
+    "best_quote_zh": "它似乎正在探索人工智能视频生成的一个不同角度，更多地关注节奏、运动和视觉连续性，而不是长篇电影叙事。"
   }]
