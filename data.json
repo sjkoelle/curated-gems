@@ -13106,4 +13106,98 @@
     "summary_zh": "讨论围绕Seedance展开，这是一个专注于节奏、运动和视觉连续性的人工智能视频生成平台。探讨了这种方法与电影叙事相比的潜在用途、与现有工具相比提供的控制，以及用户在人工智能视频生成工作流程中期望的控制。",
     "best_quote_en": "It seems to be exploring a different angle of AI video generation, focusing more on rhythm, motion, and visual continuity rather than long-form cinematic storytelling.",
     "best_quote_zh": "它似乎正在探索人工智能视频生成的一个不同角度，更多地关注节奏、运动和视觉连续性，而不是长篇电影叙事。"
+  },{
+    "id": 701,
+    "title": "What is this and why do people do it?",
+    "source": "Hackernews",
+    "desc": "<p>I've noticed an uptick in these articles published and then linking to Amazon S3.<p>It looks like some sort of SEO thing or the reason why they're doing it, but it looks like this one is a link to like a weird article that then tries to direct people to some site that sells cheap followers.<p>https://s3.ap-south-1.amazonaws.com/digimediaarticles/how-can-you-buy-followers-on-twitter.html<p>What kind of SEO tactic is this?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46956665\">https://news.ycombinator.com/item?id=46956665</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46956665",
+    "tags": [
+      "seo",
+      "amazon s3",
+      "cheap followers",
+      "marketing",
+      "spam"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "The author noticed an increase in articles linking to Amazon S3, suspecting it's an SEO tactic. The specific link provided directs to a site selling cheap followers. The author is asking what kind of SEO tactic this is.",
+    "summary_zh": "作者注意到指向Amazon S3的文章数量增加，怀疑这是一种SEO策略。提供的链接指向一个销售廉价粉丝的网站。作者正在询问这是一种什么样的SEO策略。",
+    "best_quote_en": "It looks like some sort of SEO thing or the reason why they're doing it, but it looks like this one is a link to like a weird article that then tries to direct people to some site that sells cheap followers.",
+    "best_quote_zh": "看起来像是某种SEO手段，或者这就是他们这样做的原因，但这似乎是一个指向奇怪文章的链接，该文章试图将人们引导到销售廉价粉丝的网站。"
+  },
+  {
+    "id": 702,
+    "title": "Show HN: Running a public CORS proxy on the open internet for 4 years",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN — solo developer here.<p>I built this tool ~4 years ago purely to solve my own frustration with CORS and repeated proxy setup.\nThe idea was intentionally boring: just prefix a URL and get control over the request and response.<p>Somehow it grew to serving billions of requests per day, including usage by companies and universities.<p>I’m sharing it here mainly to:<p>- get technical feedback\n- learn what people would actually use a proxy like this for\n- understand what I should simplify or remove</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46956662\">https://news.ycombinator.com/item?id=46956662</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://corsproxy.io/",
+    "tags": [
+      "cors",
+      "proxy",
+      "api",
+      "developer",
+      "caching"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "CORS Proxy is a tool used by developers to bypass CORS, rate limits, and geo blocks. It allows accessing APIs from browsers without CORS errors, smart caching to eliminate repeated API calls, and extracting data from any website. It offers features such as header manipulation, data format conversion, and geo-routing.",
+    "summary_zh": "CORS Proxy 是一款开发者工具，用于绕过 CORS、速率限制和地理封锁。它允许从浏览器访问 API 而没有 CORS 错误，通过智能缓存消除重复的 API 调用，并从任何网站提取数据。它提供诸如头部操作、数据格式转换和地理路由等功能。",
+    "best_quote_en": "\"Client-side access of HTTP resources is in many cases broken. That is why services like corsproxy.io exist.\"",
+    "best_quote_zh": "“在许多情况下，客户端对 HTTP 资源的访问是中断的。这就是为什么存在像 corsproxy.io 这样的服务的原因。”"
+  },
+  {
+    "id": 703,
+    "title": "Tell HN: Increased 403's on the Cloudflare Dashboard",
+    "source": "Hackernews",
+    "desc": "<p>Is anyone else seeing this?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46956652\">https://news.ycombinator.com/item?id=46956652</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "link": "https://news.ycombinator.com/item?id=46956652",
+    "tags": [
+      "cloudflare",
+      "403 error",
+      "hacker news",
+      "service disruption",
+      "dashboard"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "A user on Hacker News reports an increase in 403 errors on the Cloudflare dashboard. Another user asks if this means Cloudflare is down again, suggesting a potential service disruption.",
+    "summary_zh": "一位Hacker News用户报告Cloudflare仪表板上403错误增加。另一位用户询问这是否意味着Cloudflare再次宕机，暗示可能存在服务中断。",
+    "best_quote_en": "Does it mean cloudfare is down again?",
+    "best_quote_zh": "这是否意味着Cloudflare再次宕机？"
+  },
+  {
+    "id": 704,
+    "title": "Fluorite, Toyota's Upcoming New Game Engine in Flutter [video]",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/\">https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46956636\">https://news.ycombinator.com/item?id=46956636</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/",
+    "tags": [
+      "fluorite",
+      "game engine",
+      "flutter",
+      "toyota",
+      "3d rendering"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "Toyota Connected North America introduces Fluorite, an open-source 3D game engine built in Flutter. It leverages Flutter & Dart for game logic and UI, while using a C++ ECS core for performance. Fluorite integrates Filament for PBR rendering and provides multi-platform support with features like Hot Reload and Widget Inspector.",
+    "summary_zh": "丰田互联北美公司推出了 Fluorite，这是一个用 Flutter 构建的开源 3D 游戏引擎。它利用 Flutter 和 Dart 实现游戏逻辑和 UI，同时使用 C++ ECS 核心来保证性能。Fluorite 集成了 Filament 用于 PBR 渲染，并提供多平台支持以及热重载和 Widget Inspector 等功能。",
+    "best_quote_en": "By integrating Filament, Google’s 3D rendering engine, Fluorite delivers best-in-class PBR rendering performance and quality, enabling high-fidelity creative workflows.",
+    "best_quote_zh": "通过集成 Google 的 3D 渲染引擎 Filament，Fluorite 提供了最佳的 PBR 渲染性能和质量，从而实现了高保真的创意工作流程。"
+  },
+  {
+    "id": 705,
+    "title": "Entertainment Computer System",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Entertainment_Computer_System\">https://en.wikipedia.org/wiki/Entertainment_Computer_System</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46956618\">https://news.ycombinator.com/item?id=46956618</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://en.wikipedia.org/wiki/Entertainment_Computer_System",
+    "tags": [
+      "intellivision",
+      "ecs",
+      "mattel electronics",
+      "keyboard component",
+      "add-on peripheral"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "The Entertainment Computer System (ECS) was an add-on for the Intellivision, created by Mattel Electronics in 1983 as a rushed alternative to the delayed Keyboard Component. It included a Computer Module, Music Synthesizer, and hand controllers. It was launched to appease the Federal Trade Commission after complaints about false advertising.",
+    "summary_zh": "娱乐计算机系统（ECS）是为Intellivision设计的附加组件，由Mattel Electronics于1983年推出，是延迟发布的键盘组件的替代方案。它包括计算机模块、音乐合成器和手柄控制器。该产品的发布是为了平息联邦贸易委员会在消费者投诉虚假广告后而采取的行动。",
+    "best_quote_en": "Many potential buyers were excited by the notion (especially parents, who liked the idea of a machine that could be turned into an educational tool, or at least something more useful and practical than just a game-playing system), and many bought Intellivisions on that basis alone.",
+    "best_quote_zh": "许多潜在买家对这个概念感到兴奋（尤其是家长，他们喜欢将机器变成教育工具的想法，或者至少是比单纯的电子游戏系统更有用和更实用的东西），因此许多人仅凭此就购买了Intellivision。"
   }]
