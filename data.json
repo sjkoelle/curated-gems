@@ -13200,4 +13200,60 @@
     "summary_zh": "娱乐计算机系统（ECS）是为Intellivision设计的附加组件，由Mattel Electronics于1983年推出，是延迟发布的键盘组件的替代方案。它包括计算机模块、音乐合成器和手柄控制器。该产品的发布是为了平息联邦贸易委员会在消费者投诉虚假广告后而采取的行动。",
     "best_quote_en": "Many potential buyers were excited by the notion (especially parents, who liked the idea of a machine that could be turned into an educational tool, or at least something more useful and practical than just a game-playing system), and many bought Intellivisions on that basis alone.",
     "best_quote_zh": "许多潜在买家对这个概念感到兴奋（尤其是家长，他们喜欢将机器变成教育工具的想法，或者至少是比单纯的电子游戏系统更有用和更实用的东西），因此许多人仅凭此就购买了Intellivision。"
+  },{
+    "id": 706,
+    "title": "Show HN: Reddit Scout Pro [Chrome-extension]",
+    "source": "Hackernews",
+    "desc": "<p>Monitor Reddit for high-intent customer conversations. Track keywords, score buying intent, manage leads, and export to CSV. Never miss an important conversation or a prospect again.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46972158\">https://news.ycombinator.com/item?id=46972158</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://plugmonkey.xyz/product/reddit-scout-pro/",
+    "tags": [
+      "reddit",
+      "lead generation",
+      "chrome extension",
+      "keyword monitoring",
+      "intent scoring"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "Reddit Scout Pro is a Chrome extension that helps users monitor Reddit for high-intent customer conversations, track keywords, score buying intent, and manage leads. It allows users to export data to CSV and aims to turn Reddit into a lead generation machine, saving time and improving outreach efficiency.",
+    "summary_zh": "Reddit Scout Pro 是一款 Chrome 浏览器扩展，旨在帮助用户监测 Reddit 上的高意向客户对话，跟踪关键词，评估购买意图并管理潜在客户。它允许用户将数据导出为 CSV 文件，目标是将 Reddit 变成一个潜在客户生成机器，从而节省时间并提高外联效率。",
+    "best_quote_en": "The CSV export + intent scoring combo is perfect. I export high-intent leads weekly and drop them into my outreach sequence. My reply rates went through the roof.",
+    "best_quote_zh": "CSV 导出 + 意图评分的组合非常完美。我每周都会导出高意向的潜在客户，并将它们放入我的外联序列中。我的回复率直线上升。"
+  },
+  {
+    "id": 707,
+    "title": "Create Caricature of Me and My Job – Viral AI Trend Free",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://caricaturetrend.com/\">https://caricaturetrend.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46972153\">https://news.ycombinator.com/item?id=46972153</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://caricaturetrend.com/",
+    "tags": [
+      "ai",
+      "caricature",
+      "trend",
+      "me and my job",
+      "viral"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "This article introduces an AI tool that allows users to create caricatures of themselves and their jobs instantly, without needing ChatGPT Plus. It highlights the viral \"Me & My Job\" caricature trend and explains how to use the tool in three steps: selecting the trend mode, customizing the prompt, and uploading a photo. The tool offers features like roast level adjustment and trending art styles.",
+    "summary_zh": "本文介绍了一款AI工具，用户无需ChatGPT Plus即可立即创建自己和工作的漫画形象。文章重点介绍了病毒式传播的“我和我的工作”漫画趋势，并解释了如何通过三个步骤使用该工具：选择趋势模式、自定义提示以及上传照片。该工具提供诸如“讽刺等级”调整和流行艺术风格等功能。",
+    "best_quote_en": "Unlike generic AI, our model understands workplace humor. Whether you are a coder or a nurse, it generates a hilarious, exaggerated portrait of your professional life instantly.",
+    "best_quote_zh": "与通用人工智能不同，我们的模型理解工作场所的幽默。无论您是程序员还是护士，它都能立即生成一张您职业生涯的搞笑、夸张的画像。"
+  },
+  {
+    "id": 708,
+    "title": "RooDB: Now faster than MySQL (acc. to sysbench 1M rows)",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/jgarzik/roodb/releases/tag/v0.7.0\">https://github.com/jgarzik/roodb/releases/tag/v0.7.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46972136\">https://news.ycombinator.com/item?id=46972136</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/jgarzik/roodb/releases/tag/v0.7.0",
+    "tags": [
+      "roodb",
+      "mysql",
+      "sysbench",
+      "performance",
+      "database"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "RooDB v0.7.0 boasts performance improvements over MySQL based on sysbench testing with 1M rows. The update, contributed by jgarzik, includes enhancements detailed in #10. The release commit was created on GitHub.com and signed with GitHub’s verified signature.",
+    "summary_zh": "RooDB v0.7.0版本声称，基于sysbench在100万行数据上的测试，其性能优于MySQL。 此更新由jgarzik贡献，其中包括在#10中详细介绍的增强功能。该发布提交在GitHub.com上创建，并使用GitHub的已验证签名进行了签名。",
+    "best_quote_en": "RooDB: Now faster than MySQL (acc. to sysbench 1M rows)",
+    "best_quote_zh": "RooDB：现在比MySQL更快（根据sysbench 1百万行数据测试）。"
   }]
