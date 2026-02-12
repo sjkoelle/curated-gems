@@ -13256,4 +13256,79 @@
     "summary_zh": "RooDB v0.7.0版本声称，基于sysbench在100万行数据上的测试，其性能优于MySQL。 此更新由jgarzik贡献，其中包括在#10中详细介绍的增强功能。该发布提交在GitHub.com上创建，并使用GitHub的已验证签名进行了签名。",
     "best_quote_en": "RooDB: Now faster than MySQL (acc. to sysbench 1M rows)",
     "best_quote_zh": "RooDB：现在比MySQL更快（根据sysbench 1百万行数据测试）。"
+  },{
+    "id": 709,
+    "title": "Maintaining Skills During the AI Advent",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.saadnaveed.com/writing/maintaining-skills-during-the-ai-advent\">https://www.saadnaveed.com/writing/maintaining-skills-during-the-ai-advent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986081\">https://news.ycombinator.com/item?id=46986081</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.saadnaveed.com/writing/maintaining-skills-during-the-ai-advent",
+    "tags": [
+      "ai",
+      "coding",
+      "skills",
+      "software engineering",
+      "learning"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "The author discusses the importance of maintaining coding skills despite the rise of AI tools. While AI can assist in coding, over-reliance can lead to skill atrophy. The author advocates for continued self-investment by manually coding, reviewing AI-generated code, and learning new languages to stay productive with and without AI assistance.",
+    "summary_zh": "作者探讨了在人工智能工具兴起的情况下，保持编码技能的重要性。虽然人工智能可以辅助编码，但过度依赖会导致技能退化。作者提倡通过手动编码、审查人工智能生成的代码以及学习新语言来持续自我投资，从而在有无人工智能辅助的情况下都能保持高效。",
+    "best_quote_en": "I can always be productive WITH the tools, but I also want to be productive without the tools.",
+    "best_quote_zh": "我既能使用工具提高效率，也希望在没有工具的情况下也能保持高效。"
+  },
+  {
+    "id": 710,
+    "title": "Were telcos tipped off to *that* ancient Telnet bug?",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/11/were_telcos_tipped_off_to/\">https://www.theregister.com/2026/02/11/were_telcos_tipped_off_to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986080\">https://news.ycombinator.com/item?id=46986080</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.theregister.com/2026/02/11/were_telcos_tipped_off_to/",
+    "tags": [
+      "telnet",
+      "vulnerability",
+      "greynoise",
+      "cybersecurity",
+      "port filtering"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "GreyNoise suggests telcos received early warning of January's Telnet vulnerability (CVE-2026-24061) before public disclosure. Telnet traffic significantly dropped on January 14, six days before the advisory. Tier 1 providers may have implemented port 23 filtering. While unproven, the timing and filtering suggest pre-advisory notification.",
+    "summary_zh": "GreyNoise认为，电信公司在1月份Telnet漏洞（CVE-2026-24061）公开披露前收到了早期警告。Telnet流量在1月14日显著下降，比公告提前了六天。一级供应商可能实施了端口23过滤。虽然未经证实，但时间和过滤表明存在公告前的通知。",
+    "best_quote_en": "\"That kind of step function – propagating within a single hour window – reads as a configuration change on routing infrastructure, not behavioral drift in scanning populations.\"",
+    "best_quote_zh": "“这种阶跃函数——在一个小时的时间窗口内传播——看起来像是路由基础设施上的配置更改，而不是扫描人群的行为漂移。”"
+  },
+  {
+    "id": 711,
+    "title": "Lessons from CalyxOS signing process redesign",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/\">https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986065\">https://news.ycombinator.com/item?id=46986065</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/",
+    "tags": [
+      "calyxos",
+      "hsm",
+      "code-signing",
+      "security",
+      "key-management"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "CalyxOS redesigned its signing process using HSMs for improved security. HSMs store keys in tamper-resistant hardware, mitigating risks associated with file storage. Key wrapping encrypts keys outside the HSM, while Shamir's Secret Sharing is used for secure wrap key backup. The YubiHSM 2 was selected as the intermediate solution.",
+    "summary_zh": "CalyxOS 使用 HSM 重新设计了签名流程，以提高安全性。HSM 将密钥存储在防篡改硬件中，降低了与文件存储相关的风险。密钥封装对 HSM 外部的密钥进行加密，而 Shamir 密钥共享用于安全地备份封装密钥。YubiHSM 2 被选为中间解决方案。",
+    "best_quote_en": "To improve the security, you can store keys in special hardware security modules (HSMs) instead of files on a computer.",
+    "best_quote_zh": "为了提高安全性，您可以将密钥存储在特殊的硬件安全模块（HSM）中，而不是存储在计算机上的文件中。"
+  },
+  {
+    "id": 712,
+    "title": "Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/huesnatch/huesnatch\">https://github.com/huesnatch/huesnatch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986064\">https://news.ycombinator.com/item?id=46986064</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/huesnatch/huesnatch",
+    "tags": [
+      "color tools",
+      "design",
+      "web development",
+      "free",
+      "browser-based"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "Huesnatch is a suite of 6+ free, browser-based color tools for designers, web developers, and brand managers. It requires no login or uploads, ensuring privacy. The tools include an image color picker, color image generator, palette explorer, UI visualizer, color matching game, web color extractor, and color blind simulator. It supports multiple color formats and allows for easy export.",
+    "summary_zh": "Huesnatch 是一套免费的、基于浏览器的颜色工具，包含6+专业工具，面向设计师、Web开发者和品牌经理。它无需登录或上传，保证隐私。工具包括图像颜色提取器、颜色图像生成器、调色板探索器、UI可视化工具、颜色匹配游戏、网页颜色提取器和色盲模拟器，支持多种颜色格式并允许轻松导出。",
+    "best_quote_en": "All processing happens in your browser.",
+    "best_quote_zh": "所有处理都在你的浏览器中进行。"
   }]
