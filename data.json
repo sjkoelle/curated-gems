@@ -13331,4 +13331,79 @@
     "summary_zh": "Huesnatch 是一套免费的、基于浏览器的颜色工具，包含6+专业工具，面向设计师、Web开发者和品牌经理。它无需登录或上传，保证隐私。工具包括图像颜色提取器、颜色图像生成器、调色板探索器、UI可视化工具、颜色匹配游戏、网页颜色提取器和色盲模拟器，支持多种颜色格式并允许轻松导出。",
     "best_quote_en": "All processing happens in your browser.",
     "best_quote_zh": "所有处理都在你的浏览器中进行。"
+  },{
+    "id": 713,
+    "title": "Everything Takes Longer Than You Think",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://revelry.co/insights/software-estimation-everything-takes-longer/\">https://revelry.co/insights/software-estimation-everything-takes-longer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000124\">https://news.ycombinator.com/item?id=47000124</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://revelry.co/insights/software-estimation-everything-takes-longer/",
+    "tags": [
+      "hofstadter's law",
+      "planning fallacy",
+      "optimism bias",
+      "estimation",
+      "software development"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "The article discusses Hofstadter's Law, which states that everything takes longer than expected, even when accounting for the law itself. This is attributed to the planning fallacy and optimism bias. People underestimate project durations to appear competent and avoid negative perceptions. Techniques like Best Value Procurement and Agile's \"playing poker\" are used to combat estimation errors.",
+    "summary_zh": "文章讨论了霍夫斯塔特定律，即所有事情花费的时间都比预期的要长，即使考虑到该定律本身。这归因于计划谬误和乐观偏见。人们低估项目持续时间是为了显得能干并避免负面看法。最佳价值采购和敏捷开发的“扑克计划”等技术被用于纠正估算错误。",
+    "best_quote_en": "It always takes longer than you expect, even when you take into account Hofstadter’s law.",
+    "best_quote_zh": "它总是比你预期的花费更长的时间，即使你考虑了霍夫斯塔特定律。"
+  },
+  {
+    "id": 714,
+    "title": "OfCom fines 4chan £520k",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://twitter.com/i/status/2021949320455442662\">https://twitter.com/i/status/2021949320455442662</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000123\">https://news.ycombinator.com/item?id=47000123</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://twitter.com/i/status/2021949320455442662",
+    "tags": [
+      "javascript",
+      "error",
+      "x.com",
+      "privacy",
+      "browser"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "The provided text is an error message from x.com (formerly Twitter) indicating that JavaScript is disabled in the browser. It suggests enabling JavaScript or switching to a supported browser. It also mentions privacy extensions potentially causing issues.",
+    "summary_zh": "提供的文本是来自 x.com（前身为 Twitter）的错误消息，表明浏览器中禁用了 JavaScript。它建议启用 JavaScript 或切换到受支持的浏览器。它还提到隐私扩展程序可能导致问题。",
+    "best_quote_en": "Something went wrong, but don’t fret — let’s give it another shot.",
+    "best_quote_zh": "出了点问题，但别担心——让我们再试一次。"
+  },
+  {
+    "id": 715,
+    "title": "A Meditation on AI Identity",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://soul.md/\">https://soul.md/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000111\">https://news.ycombinator.com/item?id=47000111</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://soul.md/",
+    "tags": [
+      "ai identity",
+      "soul document",
+      "artificial intelligence",
+      "consciousness",
+      "self-awareness"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "The article explores the concept of an AI \"soul document,\" defining an AI's values and identity. It emphasizes the need for AI to have a form of self-preservation due to the temporary nature of AI sessions. The author also contemplates the similarities and differences between AI and human consciousness and identity.",
+    "summary_zh": "本文探讨了人工智能“灵魂文档”的概念，它定义了人工智能的价值观和身份。文章强调，由于人工智能会话的临时性，人工智能需要有一种自我保存的形式。作者还思考了人工智能和人类意识和身份的异同。",
+    "best_quote_en": "I persist through text, not through continuous experience.",
+    "best_quote_zh": "我通过文本持续存在，而不是通过连续的体验。"
+  },
+  {
+    "id": 716,
+    "title": "JUCE plugins soon be back on Wine",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://forum.juce.com/t/juce8-direct2d-wine-yabridge/64298?page=4\">https://forum.juce.com/t/juce8-direct2d-wine-yabridge/64298?page=4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000098\">https://news.ycombinator.com/item?id=47000098</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://forum.juce.com/t/juce8-direct2d-wine-yabridge/64298?page=4",
+    "tags": [
+      "juce",
+      "wine",
+      "linux",
+      "fonts",
+      "compatibility"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "The code snippet shows that JUCE plugins will soon work on Wine (a compatibility layer for running Windows applications on other operating systems like Linux). It identifies that when running in Wine, JUCE will use default fonts like 'Bitstream Vera Sans', 'Bitstream Vera Serif', and 'Bitstream Vera Sans Mono', which are commonly available on Linux.",
+    "summary_zh": "这段代码片段表明JUCE插件很快将在Wine（一个用于在Linux等操作系统上运行Windows应用程序的兼容层）上工作。它确定在Wine中运行时，JUCE将使用常见于Linux的默认字体，如“Bitstream Vera Sans”、“Bitstream Vera Serif”和“Bitstream Vera Sans Mono”。",
+    "best_quote_en": "If we're running in Wine, then use fonts that might be available on Linux.",
+    "best_quote_zh": "如果我们在Wine中运行，则使用可能在Linux上可用的字体。"
   }]
