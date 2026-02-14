@@ -13406,4 +13406,79 @@
     "summary_zh": "这段代码片段表明JUCE插件很快将在Wine（一个用于在Linux等操作系统上运行Windows应用程序的兼容层）上工作。它确定在Wine中运行时，JUCE将使用常见于Linux的默认字体，如“Bitstream Vera Sans”、“Bitstream Vera Serif”和“Bitstream Vera Sans Mono”。",
     "best_quote_en": "If we're running in Wine, then use fonts that might be available on Linux.",
     "best_quote_zh": "如果我们在Wine中运行，则使用可能在Linux上可用的字体。"
+  },{
+    "id": 717,
+    "title": "Show HN: ChoiceBook – Stories Are Mirrors",
+    "source": "Hackernews",
+    "desc": "<p>Hi HN,<p>I built ChoiceBook , an AI-driven interactive storytelling experience designed for self-reflection.<p>Instead of answering direct questions, you step into short, high-pressure narrative scenarios—Fantasy, Apocalypse, and more. As the story unfolds, you make choices that feel instinctive rather than calculated. ChoiceBook adapts the narrative in real time, then reflects back the decision patterns behind what you did: how you handle uncertainty, tradeoffs, moral tension, risk, authority, scarcity, and social dynamics.<p>The idea is simple: questionnaires measure what you say about yourself; stories can capture how you move when the world changes around you. ChoiceBook is meant to be a mirror—an engaging way to notice the themes you repeat, the values you protect, and the strategies you default to, especially when you don’t have time to overthink.<p>What you can do:<p>* Pick a world (e.g., Fantasy or Apocalypse)\n* Play through an interactive story by making choices at key moments\n* Receive a reflection that summarizes your behavioral signals and recurring tendencies\n* Replay across different worlds to see what stays consistent and what shifts with context<p>I’d love feedback from HN on a few things:<p>* What makes a reflection feel grounded and useful, rather than vague?\n* How should the product communicate its limits (self-reflection, not diagnosis) while still feeling valuable?\n* Which scenarios would you actually want to explore, and what would keep you coming back?<p>Thanks for reading.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47012588\">https://news.ycombinator.com/item?id=47012588</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://choicebook.app",
+    "tags": [
+      "ai",
+      "psychology",
+      "self-discovery",
+      "interactive stories",
+      "personality"
+    ],
+    "date": "2026-02-14",
+    "summary_en": "ChoiceBook uses AI to analyze subconscious choices and personality through interactive stories. It combines psychology with AI, offering insights based on established models. Users make choices in scenarios, AI analyzes decision patterns, and results are for self-discovery, not medical advice. No registration is needed, and data is kept private.",
+    "summary_zh": "ChoiceBook通过互动故事和AI分析，帮助用户了解潜意识选择和性格。它结合心理学和AI技术，基于已建立的模型提供见解。用户在场景中做出选择，AI分析决策模式，结果仅用于自我发现，而非医疗建议。无需注册，数据保密。",
+    "best_quote_en": "Through interactive visual stories and AI analysis, we help you understand your subconscious choices and personality traits.",
+    "best_quote_zh": "通过互动视觉故事和人工智能分析，我们帮助您理解您的潜意识选择和性格特征。"
+  },
+  {
+    "id": 718,
+    "title": "WV Lawmakers Propose Bill to Remove CS Graduation Mandate",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://news.slashdot.org/story/26/02/13/1424257/bill-introduced-to-replace-west-virginias-new-cs-course-graduation-requirement-with-computer-literacy-proficiency\">https://news.slashdot.org/story/26/02/13/1424257/bill-introduced-to-replace-west-virginias-new-cs-course-graduation-requirement-with-computer-literacy-proficiency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47012585\">https://news.ycombinator.com/item?id=47012585</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "link": "https://news.slashdot.org/story/26/02/13/1424257/bill-introduced-to-replace-west-virginias-new-cs-course-graduation-requirement-with-computer-literacy-proficiency",
+    "tags": [
+      "computer science",
+      "computer literacy",
+      "west virginia",
+      "digital literacy",
+      "education"
+    ],
+    "date": "2026-02-14",
+    "summary_en": "West Virginia lawmakers propose a bill to replace the mandatory computer science graduation requirement with a computer literacy proficiency requirement. Code.org opposes the bill, as they lobbied for the CS graduation requirement. Concerns were raised about the desire for computing literacy proficiency over CS and associating AI literacy more with digital literacy than CS. The UK also announced a similar curriculum pivot to broader digital literacy.",
+    "summary_zh": "西弗吉尼亚州立法者提议一项法案，用计算机素养能力要求取代强制性计算机科学毕业要求。Code.org 反对该法案，因为他们曾游说支持计算机科学毕业要求。人们对计算素养能力优于计算机科学的愿望以及将人工智能素养与数字素养联系起来表示担忧。英国也宣布了类似的课程调整，转向更广泛的数字素养。",
+    "best_quote_en": "\"It would basically turn the standalone computer science course requirement into a computer literacy proficiency requirement that's more focused on digital literacy.\"",
+    "best_quote_zh": "“这将基本上把独立的计算机科学课程要求转变为一种更侧重于数字素养的计算机素养能力要求。”"
+  },
+  {
+    "id": 719,
+    "title": "Show HN: Maker – A Local-First Automation OS with AGPL Core",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/Salepark/maker\">https://github.com/Salepark/maker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47012583\">https://news.ycombinator.com/item?id=47012583</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/Salepark/maker",
+    "tags": [
+      "automation",
+      "ai",
+      "local-first",
+      "workflow",
+      "agpl"
+    ],
+    "date": "2026-02-14",
+    "summary_en": "Maker is a local-first automation OS with an AGPL core, focusing on user control over AI. It enables designing custom workflows, managing bots, and owning data. Features include multi-bot management, a template gallery, a fast report pipeline, a policy engine, and support for various LLMs. It offers both desktop and cloud deployment options.",
+    "summary_zh": "Maker是一个本地优先的自动化操作系统，核心采用AGPL协议，侧重于用户对AI的控制。它允许设计自定义工作流程、管理机器人和拥有数据。其特点包括多机器人管理、模板库、快速报告管道、策略引擎以及对各种LLM的支持。它提供桌面和云部署选项。",
+    "best_quote_en": "We don't trust AI. We trust the user's right to control it.",
+    "best_quote_zh": "我们不信任AI。我们信任用户控制AI的权利。"
+  },
+  {
+    "id": 720,
+    "title": "Sift-Kg",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://github.com/juanceresa/sift-kg\">https://github.com/juanceresa/sift-kg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47012562\">https://news.ycombinator.com/item?id=47012562</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://github.com/juanceresa/sift-kg",
+    "tags": [
+      "knowledge graph",
+      "entity extraction",
+      "llm",
+      "cli",
+      "osint"
+    ],
+    "date": "2026-02-14",
+    "summary_en": "Sift-kg is a CLI tool that turns documents into knowledge graphs with no code, database, or infrastructure. It extracts entities and relations, resolves duplicates, generates narratives, and provides interactive viewing and exporting options. It supports various LLM providers and is designed for investigative journalism, OSINT research, and legal review.",
+    "summary_zh": "Sift-kg 是一个命令行工具，可以将文档转换为知识图谱，无需代码、数据库或基础设施。它提取实体和关系，解决重复问题，生成叙述，并提供交互式查看和导出选项。它支持各种 LLM 提供商，专为调查新闻、开源情报研究和法律审查而设计。",
+    "best_quote_en": "Every entity and relation links back to the source document and passage. You control what gets merged. The graph is yours.",
+    "best_quote_zh": "每个实体和关系都链接回源文档和段落。 你可以控制合并的内容。 图是你的。"
   }]
