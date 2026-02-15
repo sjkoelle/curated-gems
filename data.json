@@ -13481,4 +13481,41 @@
     "summary_zh": "Sift-kg 是一个命令行工具，可以将文档转换为知识图谱，无需代码、数据库或基础设施。它提取实体和关系，解决重复问题，生成叙述，并提供交互式查看和导出选项。它支持各种 LLM 提供商，专为调查新闻、开源情报研究和法律审查而设计。",
     "best_quote_en": "Every entity and relation links back to the source document and passage. You control what gets merged. The graph is yours.",
     "best_quote_zh": "每个实体和关系都链接回源文档和段落。 你可以控制合并的内容。 图是你的。"
+  },{
+    "id": 721,
+    "title": "Engineers are becoming sorcerers – Future of software dev with OpenAI Sherwin Wu",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers\">https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47021857\">https://news.ycombinator.com/item?id=47021857</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers",
+    "tags": [
+      "openai",
+      "ai",
+      "software development",
+      "engineering",
+      "productivity"
+    ],
+    "date": "2026-02-15",
+    "summary_en": "Sherwin Wu from OpenAI discusses how AI is transforming software development, with engineers managing multiple AI agents. Key topics include reduced code review times, AI's impact on management, the widening productivity gap, and the rapid evolution of engineering roles in the face of increasingly capable AI models.",
+    "summary_zh": "OpenAI的Sherwin Wu讨论了AI如何改变软件开发，工程师管理多个AI代理。主要议题包括减少代码审查时间，AI对管理的影响，日益扩大的生产力差距，以及面对越来越强大的AI模型，工程角色的快速演变。",
+    "best_quote_en": "Engineers are becoming sorcerers.",
+    "best_quote_zh": "工程师正在变成巫师。"
+  },
+  {
+    "id": 722,
+    "title": "Show HN: Ktrack – A simple, offline workout tracker",
+    "source": "Hackernews",
+    "desc": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.companyname.ktrack&amp;hl=en\">https://play.google.com/store/apps/details?id=com.companyname.ktrack&amp;hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47021849\">https://news.ycombinator.com/item?id=47021849</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "link": "https://play.google.com/store/apps/details?id=com.companyname.ktrack&hl=en",
+    "tags": [
+      "workout",
+      "fitness",
+      "offline",
+      "tracker",
+      "privacy"
+    ],
+    "date": "2026-02-15",
+    "summary_en": "KTrack is a simple, offline workout tracker for serious lifters. It prioritizes privacy and ease of use, operating entirely offline without subscriptions or accounts. Users can create custom routines, log sets, reps, and weights, visualize progress, and export data to CSV. It's designed for building muscle, not digital clutter.",
+    "summary_zh": "KTrack 是一款专为严肃举重者设计的简单离线锻炼追踪器。 它优先考虑隐私和易用性，完全离线运行，无需订阅或帐户。 用户可以创建自定义程序，记录组数、重复次数和重量，可视化进度，并将数据导出为 CSV。 它的设计宗旨是锻炼肌肉，而不是增加数字混乱。",
+    "best_quote_en": "Build muscle, not digital clutter.",
+    "best_quote_zh": "锻炼肌肉，而不是增加数字混乱。"
   }]
